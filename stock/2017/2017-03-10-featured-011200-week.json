@@ -1,0 +1,16 @@
+{
+  "type" : "featured-stock-week-v1",
+  "name" : "현대상선",
+  "dailyTrading" : [
+    { "date":"2017-02-23", "volume":"2890500", "adjClosePrice":"8740", "featured":true },
+    { "date":"2017-02-24", "volume":"1481500", "adjClosePrice":"8640", "featured":false },
+    { "date":"2017-02-27", "volume":"1238400", "adjClosePrice":"8410", "featured":false },
+    { "date":"2017-02-28", "volume":"874700", "adjClosePrice":"8500", "featured":false },
+    { "date":"2017-03-02", "volume":"1324400", "adjClosePrice":"8350", "featured":false },
+    { "date":"2017-03-03", "volume":"1228800", "adjClosePrice":"8220", "featured":false },
+    { "date":"2017-03-06", "volume":"768200", "adjClosePrice":"8290", "featured":false },
+    { "date":"2017-03-07", "volume":"1360400", "adjClosePrice":"8490", "featured":false },
+    { "date":"2017-03-08", "volume":"924906", "adjClosePrice":"8520", "featured":false },
+    { "date":"2017-03-09", "volume":"784247", "adjClosePrice":"8400", "featured":false }
+  ]
+}

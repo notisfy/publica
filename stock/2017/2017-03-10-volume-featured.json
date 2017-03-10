@@ -1,0 +1,17 @@
+{
+  "type" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"현대홈쇼핑", "id":"057050", "volumeInc":"2.54", "price":"113500", "priceInc":"1.34" },
+    { "name":"LIG넥스원", "id":"079550", "volumeInc":"2.01", "price":"80000", "priceInc":"2.56" },
+    { "name":"롯데하이마트", "id":"071840", "volumeInc":"1.85", "price":"49700", "priceInc":"2.90" },
+    { "name":"대한전선", "id":"001440", "volumeInc":"1.77", "price":"1795", "priceInc":"1.41" },
+    { "name":"삼양홀딩스", "id":"000070", "volumeInc":"1.73", "price":"116000", "priceInc":"1.75" },
+    { "name":"DGB금융지주", "id":"139130", "volumeInc":"1.66", "price":"11450", "priceInc":"2.23" },
+    { "name":"한국항공우주", "id":"047810", "volumeInc":"1.64", "price":"59000", "priceInc":"2.97" },
+    { "name":"CJ", "id":"001040", "volumeInc":"1.63", "price":"163500", "priceInc":"0.62" },
+    { "name":"한국토지신탁", "id":"034830", "volumeInc":"1.60", "price":"3250", "priceInc":"0.78" },
+    { "name":"한국가스공사", "id":"036460", "volumeInc":"1.58", "price":"47200", "priceInc":"0.53" },
+    { "name":"CJ CGV", "id":"079160", "volumeInc":"1.55", "price":"75300", "priceInc":"4.01" },
+    { "name":"녹십자", "id":"006280", "volumeInc":"1.54", "price":"154500", "priceInc":"2.66" }
+  ]
+}

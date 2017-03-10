@@ -1,0 +1,16 @@
+{
+  "type" : "featured-stock-week-v1",
+  "name" : "삼성중공업",
+  "dailyTrading" : [
+    { "date":"2017-02-23", "volume":"2279700", "adjClosePrice":"10950", "featured":false },
+    { "date":"2017-02-24", "volume":"1824500", "adjClosePrice":"11000", "featured":false },
+    { "date":"2017-02-27", "volume":"1033200", "adjClosePrice":"10850", "featured":false },
+    { "date":"2017-02-28", "volume":"2879800", "adjClosePrice":"11200", "featured":false },
+    { "date":"2017-03-02", "volume":"3420300", "adjClosePrice":"11400", "featured":true },
+    { "date":"2017-03-03", "volume":"2038900", "adjClosePrice":"11350", "featured":false },
+    { "date":"2017-03-06", "volume":"3699100", "adjClosePrice":"11750", "featured":true },
+    { "date":"2017-03-07", "volume":"5272400", "adjClosePrice":"12350", "featured":true },
+    { "date":"2017-03-08", "volume":"3743421", "adjClosePrice":"12150", "featured":false },
+    { "date":"2017-03-09", "volume":"3373562", "adjClosePrice":"11750", "featured":false }
+  ]
+}
