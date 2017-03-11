@@ -1,0 +1,192 @@
+# Stock API specification with swagger 2.0
+swagger: '2.0'
+info:
+  title: Stock API
+  version: "0.0.1"
+
+# the domain
+host: raw.githubusercontent.com
+# array of all schemes that your API supports
+schemes:
+  - https
+basePath: /notisfy/publica/master/stock
+produces:
+  - application/json
+
+paths:
+  /volume-featured/{year}/{day_json}:
+    get:
+      summary: 일별 거래량 특징주
+      description: |
+        상위 200위 기업중 당 거래일에 특징적인 거래량을 기록한 주식 정보를 제공한다.
+      parameters:
+        - name: year
+          in: path
+          description: 거래 해당 연도
+          required: true
+          type: string
+        - name: day_json
+          in: path
+          description: 당일 거래량 특징주를 담은 리소스 이름
+          required: true
+          type: string
+      responses:
+        200:
+          description: 거래량 특징주 리스트
+          schema:
+            $ref: '#/definitions/VolumeFeatured'
+        default:
+          description: 기본 에러
+          schema:
+            $ref: '#/definitions/Error'
+
+  /volume-featured-profit/{year}/{day_json}:
+    get:
+      summary: 거래량 특징주 이익률
+      description: |
+        상위 200위 기업중 당 거래일 전일까지 거래량 특징을 보인 주식의 이익률 정보를 제공한다.
+      parameters:
+        - name: year
+          in: path
+          description: 거래 해당 연도
+          required: true
+          type: string
+        - name: day_json
+          in: path
+          description: 거래량 특징주와 이익률 정보가 담긴 리소스 이름
+          required: true
+          type: string
+      responses:
+        200:
+          description: 거래량 특징주의 이익률 리스트
+          schema:
+            $ref: '#/definitions/VolumeFeaturedProfit'
+        default:
+          description: 기본 에러
+          schema:
+            $ref: '#/definitions/Error'
+
+  /volume-featured-days/{year}/{day_symbol_json}:
+    get:
+      summary: 거래량 특징주 이익률
+      description: |
+        상위 200위 기업중 거래량 특징이 나타난 주식의 2주간 수정종가 리스트
+      parameters:
+        - name: year
+          in: path
+          description: 거래 해당 연도
+          required: true
+          type: string
+        - name: day_symbol_json
+          in: path
+          description: 2주간의 수정종가를 알고 싶은 특정 주식의 코드(심볼)와 특정일
+          required: true
+          type: string
+      responses:
+        200:
+          description: 거래량 특징 최대 이익률 주식의 수정종가 리스트
+          schema:
+            $ref: '#/definitions/VolumeFeaturedDays'
+        default:
+          description: 기본 에러
+          schema:
+            $ref: '#/definitions/Error'
+
+definitions:
+  VolumeFeaturedItem:
+    type: object
+    properties:
+      name:
+        type: string
+        description: 종목명
+      id:
+        type: string
+        description: 종목코드
+      volumeInc:
+        type: string
+        description: 거래 증가 비율
+      price:
+        type: string
+        description: 수정 종가
+      priceInc:
+        type: string
+        description: 전일 수정 종가 대비 가격 상승 비율
+  VolumeFeatured:
+    type: object
+    properties:
+      version:
+        type: string
+        description: Volume featured 버전
+      stocks:
+        type: array
+        description: 거래량 특징주 정보
+        items:
+          $ref: '#/definitions/VolumeFeaturedItem'
+  VolumeFeaturedProfitItem:
+    type: object
+    properties:
+      name:
+        type: string
+        description: 종목명
+      id:
+        type: string
+        description: 종목코드
+      profit:
+        type: string
+        description: 거래량 특징이 나타난후 최고/최저가 비율
+      featuredDate:
+        type: string
+        description: 최고 이익률이 가능한 거래량 특징일이 나타난 날짜 (최대 2주전)
+      featuredVolumeInc:
+        type: string
+        description: 거래량 특징이 나타난 날짜의 거래량 증가 비율
+  VolumeFeaturedProfit:
+    type: object
+    properties:
+      version:
+        type: string
+        description: Volume featured profit 버전
+      stocks:
+        type: array
+        description: 거래량 특징주 이익률 정보
+        items:
+          $ref: '#/definitions/VolumeFeaturedProfitItem'
+  VolumeFeaturedDaysItem:
+    type: object
+    properties:
+      date:
+        type: string
+        description: 날짜
+      volume:
+        type: string
+        description: 거래량
+      adjClosePrice:
+        type: string
+        description: 수정종가
+      featured:
+        type: boolean
+        description: 해당 날짜가 featured 된 날인지 여부
+  VolumeFeaturedDays:
+    type: object
+    properties:
+      version:
+        type: string
+        description: Volume featured days 버전
+      name:
+        type: string
+        description: 주식 이름
+      dailyTrading:
+        type: array
+        description: 거래량 특징일 리스트
+        items:
+          $ref: '#/definitions/VolumeFeaturedDaysItem'
+  Error:
+    type: object
+    properties:
+      code:
+        type: integer
+        format: int32
+      message:
+        type: string
+      fields:
+        type: string
