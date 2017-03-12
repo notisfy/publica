@@ -1,0 +1,7 @@
+{
+  "apiPackage" : "me.notisfy.stock.domain",
+  "modelPackage" : "me.notisfy.stock.domain.model",
+  "library" : "retrofit2",
+  "hideGenerationTimestamp" : true,
+  "dateLibrary" : "legacy"
+}
