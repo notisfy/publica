@@ -1,6 +1,5 @@
 package me.notisfy.stock.domain;
 
-import me.notisfy.stock.CollectionFormats.*;
 
 
 import retrofit2.Call;
