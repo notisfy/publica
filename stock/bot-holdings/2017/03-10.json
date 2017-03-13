@@ -1,5 +1,5 @@
 {
-  "version" : "holdings-v1",
+  "version" : "bot-holdings-v1",
   "stocks" : [
     { "name":"하이트진로2우B", "id":"000087", "holdings":"35600" },
     { "name":"두산우", "id":"000155", "holdings":"731200" },
