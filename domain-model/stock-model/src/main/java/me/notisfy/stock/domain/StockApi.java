@@ -7,6 +7,7 @@ import retrofit2.http.*;
 
 import okhttp3.RequestBody;
 
+import me.notisfy.stock.domain.model.BotHoldings;
 import me.notisfy.stock.domain.model.VolumeFeaturedDays;
 import me.notisfy.stock.domain.model.VolumeFeaturedProfit;
 import me.notisfy.stock.domain.model.VolumeFeatured;
@@ -17,6 +18,19 @@ import java.util.List;
 import java.util.Map;
 
 public interface StockApi {
+  /**
+   * 보유 주식
+   * Stocker bot이 보유한 주식의 매입 비율을 제공한다. 
+   * @param year 거래 해당 연도 (required)
+   * @param dayJson 주식 보유일 (required)
+   * @return Call&lt;BotHoldings&gt;
+   */
+  
+  @GET("bot-holdings/{year}/{day_json}")
+  Call<BotHoldings> botHoldingsYearDayJsonGet(
+    @Path("year") String year, @Path("day_json") String dayJson
+  );
+
   /**
    * 거래량 특징주 이익률
    * 상위 200위 기업중 거래량 특징이 나타난 주식의 2주간 수정종가 리스트 

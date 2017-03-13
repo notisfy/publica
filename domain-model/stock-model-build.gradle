@@ -10,7 +10,7 @@ plugins {
 
 def _group_id = 'me.notisfy'
 def _artifact_id = 'stock-model'
-def _version = '0.0.3'
+def _version = '0.0.4'
 
 group = _group_id
 version = _version

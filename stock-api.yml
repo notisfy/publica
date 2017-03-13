@@ -80,6 +80,28 @@ paths:
           schema:
             $ref: '#/definitions/VolumeFeaturedDays'
 
+  /bot-holdings/{year}/{day_json}:
+    get:
+      summary: 보유 주식
+      description: |
+        Stocker bot이 보유한 주식의 매입 비율을 제공한다.
+      parameters:
+        - name: year
+          in: path
+          description: 거래 해당 연도
+          required: true
+          type: string
+        - name: day_json
+          in: path
+          description: 주식 보유일
+          required: true
+          type: string
+      responses:
+        200:
+          description: 주식 보유 비율 (매입 총액 기준)
+          schema:
+            $ref: '#/definitions/BotHoldings'
+
 definitions:
   VolumeFeaturedItem:
     type: object
@@ -168,3 +190,26 @@ definitions:
         description: 거래량 특징일 리스트
         items:
           $ref: '#/definitions/VolumeFeaturedDaysItem'
+  BotHoldingsItem:
+    type: object
+    properties:
+      name:
+        type: string
+        description: 종목명
+      id:
+        type: string
+        description: 종목코드
+      holdings:
+        type: string
+        description: 총 매입 금액
+  BotHoldings:
+    type: object
+    properties:
+      version:
+        type: string
+        description: Bot holdings 버전
+      stocks:
+        type: array
+        description: 보유 주식 정보
+        items:
+          $ref: '#/definitions/BotHoldingsItem'
