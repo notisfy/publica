@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"대한항공", "id":"003490", "volumeInc":"2.40", "price":"28150", "priceInc":"5.04" },
+    { "name":"태광산업", "id":"003240", "volumeInc":"2.18", "price":"919000", "priceInc":"0.77" },
+    { "name":"코오롱인더", "id":"120110", "volumeInc":"1.93", "price":"75700", "priceInc":"1.34" },
+    { "name":"호텔신라", "id":"008770", "volumeInc":"1.85", "price":"45450", "priceInc":"3.77" },
+    { "name":"SK", "id":"034730", "volumeInc":"1.77", "price":"217500", "priceInc":"0.93" },
+    { "name":"KT&G", "id":"033780", "volumeInc":"1.74", "price":"102500", "priceInc":"0.49" },
+    { "name":"오리온", "id":"001800", "volumeInc":"1.70", "price":"676000", "priceInc":"2.74" },
+    { "name":"한국콜마", "id":"161890", "volumeInc":"1.67", "price":"73700", "priceInc":"2.65" },
+    { "name":"LIG넥스원", "id":"079550", "volumeInc":"1.66", "price":"78000", "priceInc":"2.36" },
+    { "name":"삼양홀딩스", "id":"000070", "volumeInc":"1.55", "price":"114000", "priceInc":"0.44" }
+  ]
+}

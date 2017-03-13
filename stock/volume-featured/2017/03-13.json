@@ -1,0 +1,19 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"S-Oil", "id":"010950", "volumeInc":"3.44", "price":"92700", "priceInc":"6.43" },
+    { "name":"금호타이어", "id":"073240", "volumeInc":"2.97", "price":"8770", "priceInc":"6.69" },
+    { "name":"BNK금융지주", "id":"138930", "volumeInc":"2.54", "price":"9180", "priceInc":"3.03" },
+    { "name":"KB금융", "id":"105560", "volumeInc":"1.97", "price":"50700", "priceInc":"3.47" },
+    { "name":"제주항공", "id":"089590", "volumeInc":"1.94", "price":"27050", "priceInc":"3.24" },
+    { "name":"대림산업", "id":"000210", "volumeInc":"1.77", "price":"87200", "priceInc":"2.47" },
+    { "name":"하나금융지주", "id":"086790", "volumeInc":"1.77", "price":"39250", "priceInc":"5.09" },
+    { "name":"미래에셋대우", "id":"006800", "volumeInc":"1.75", "price":"9270", "priceInc":"3.34" },
+    { "name":"맥쿼리인프라", "id":"088980", "volumeInc":"1.68", "price":"8280", "priceInc":"0.61" },
+    { "name":"신한지주", "id":"055550", "volumeInc":"1.63", "price":"49050", "priceInc":"3.59" },
+    { "name":"코스맥스", "id":"192820", "volumeInc":"1.59", "price":"137000", "priceInc":"3.01" },
+    { "name":"우리은행", "id":"000030", "volumeInc":"1.58", "price":"13850", "priceInc":"1.84" },
+    { "name":"삼성전기", "id":"009150", "volumeInc":"1.53", "price":"61200", "priceInc":"4.08" },
+    { "name":"한국전력", "id":"015760", "volumeInc":"1.52", "price":"42800", "priceInc":"2.88" }
+  ]
+}
