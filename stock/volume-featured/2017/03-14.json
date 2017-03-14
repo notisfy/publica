@@ -1,0 +1,21 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"삼성물산", "id":"028260", "volumeInc":"4.76", "price":"132000", "priceInc":"9.09" },
+    { "name":"삼성에스디에스", "id":"018260", "volumeInc":"3.74", "price":"134000", "priceInc":"5.10" },
+    { "name":"한온시스템", "id":"018880", "volumeInc":"3.32", "price":"9200", "priceInc":"8.11" },
+    { "name":"삼성생명", "id":"032830", "volumeInc":"3.11", "price":"114000", "priceInc":"4.59" },
+    { "name":"KCC", "id":"002380", "volumeInc":"2.63", "price":"353500", "priceInc":"2.17" },
+    { "name":"삼성화재", "id":"000810", "volumeInc":"2.33", "price":"264500", "priceInc":"2.92" },
+    { "name":"하나금융지주", "id":"086790", "volumeInc":"2.14", "price":"40100", "priceInc":"2.17" },
+    { "name":"동부화재", "id":"005830", "volumeInc":"2.10", "price":"63600", "priceInc":"1.92" },
+    { "name":"KB금융", "id":"105560", "volumeInc":"1.96", "price":"51600", "priceInc":"1.78" },
+    { "name":"만도", "id":"204320", "volumeInc":"1.80", "price":"256500", "priceInc":"3.22" },
+    { "name":"LG전자", "id":"066570", "volumeInc":"1.65", "price":"67100", "priceInc":"2.76" },
+    { "name":"한화생명", "id":"088350", "volumeInc":"1.65", "price":"6350", "priceInc":"1.11" },
+    { "name":"GS건설", "id":"006360", "volumeInc":"1.59", "price":"31200", "priceInc":"0.16" },
+    { "name":"LG생활건강", "id":"051900", "volumeInc":"1.57", "price":"844000", "priceInc":"2.80" },
+    { "name":"삼성전기", "id":"009150", "volumeInc":"1.55", "price":"62200", "priceInc":"1.63" },
+    { "name":"대한항공", "id":"003490", "volumeInc":"1.55", "price":"29150", "priceInc":"3.92" }
+  ]
+}
