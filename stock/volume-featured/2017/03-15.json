@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"쿠쿠전자", "id":"192400", "volumeInc":"4.16", "price":"127500", "priceInc":"0.39" },
+    { "name":"한온시스템", "id":"018880", "volumeInc":"3.69", "price":"9320", "priceInc":"1.30" },
+    { "name":"SK텔레콤", "id":"017670", "volumeInc":"2.77", "price":"257500", "priceInc":"4.89" },
+    { "name":"KT", "id":"030200", "volumeInc":"2.66", "price":"32700", "priceInc":"3.48" },
+    { "name":"동국제강", "id":"001230", "volumeInc":"2.53", "price":"13150", "priceInc":"4.37" },
+    { "name":"제일약품", "id":"002620", "volumeInc":"2.47", "price":"68800", "priceInc":"0.73" },
+    { "name":"LG유플러스", "id":"032640", "volumeInc":"1.70", "price":"14700", "priceInc":"4.63" },
+    { "name":"SK", "id":"034730", "volumeInc":"1.66", "price":"233000", "priceInc":"2.87" },
+    { "name":"SK이노베이션", "id":"096770", "volumeInc":"1.52", "price":"161000", "priceInc":"2.55" },
+    { "name":"삼성증권", "id":"016360", "volumeInc":"1.51", "price":"33700", "priceInc":"0.45" }
+  ]
+}

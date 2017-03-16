@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "삼성SDI",
+  "dailyTrading" : [
+    { "date":"2017-02-28", "volume":"370300", "adjClosePrice":"129000", "featured":false },
+    { "date":"2017-03-02", "volume":"269000", "adjClosePrice":"129000", "featured":false },
+    { "date":"2017-03-03", "volume":"184300", "adjClosePrice":"125000", "featured":false },
+    { "date":"2017-03-06", "volume":"147400", "adjClosePrice":"125000", "featured":false },
+    { "date":"2017-03-07", "volume":"176800", "adjClosePrice":"125000", "featured":false },
+    { "date":"2017-03-08", "volume":"653779", "adjClosePrice":"130000", "featured":true },
+    { "date":"2017-03-09", "volume":"321559", "adjClosePrice":"127500", "featured":false },
+    { "date":"2017-03-10", "volume":"323745", "adjClosePrice":"126500", "featured":false },
+    { "date":"2017-03-13", "volume":"240040", "adjClosePrice":"131000", "featured":false },
+    { "date":"2017-03-14", "volume":"393723", "adjClosePrice":"133500", "featured":false }
+  ]
+}

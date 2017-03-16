@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "KB금융",
+  "dailyTrading" : [
+    { "date":"2017-02-28", "volume":"1211500", "adjClosePrice":"46900", "featured":false },
+    { "date":"2017-03-02", "volume":"1995200", "adjClosePrice":"48050", "featured":true },
+    { "date":"2017-03-03", "volume":"1193500", "adjClosePrice":"47400", "featured":false },
+    { "date":"2017-03-06", "volume":"1215400", "adjClosePrice":"47500", "featured":false },
+    { "date":"2017-03-07", "volume":"777000", "adjClosePrice":"47950", "featured":false },
+    { "date":"2017-03-08", "volume":"1360589", "adjClosePrice":"48900", "featured":false },
+    { "date":"2017-03-09", "volume":"1246233", "adjClosePrice":"49000", "featured":false },
+    { "date":"2017-03-10", "volume":"810723", "adjClosePrice":"49000", "featured":false },
+    { "date":"2017-03-13", "volume":"1867224", "adjClosePrice":"50700", "featured":true },
+    { "date":"2017-03-14", "volume":"1882157", "adjClosePrice":"51600", "featured":true }
+  ]
+}
