@@ -1,0 +1,25 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"현대중공업", "id":"009540", "volumeInc":"3.36", "price":"177500", "priceInc":"6.61" },
+    { "name":"현대미포조선", "id":"010620", "volumeInc":"3.25", "price":"81800", "priceInc":"6.79" },
+    { "name":"다우기술", "id":"023590", "volumeInc":"3.20", "price":"19150", "priceInc":"8.50" },
+    { "name":"삼성증권", "id":"016360", "volumeInc":"3.07", "price":"34850", "priceInc":"3.41" },
+    { "name":"팬오션", "id":"028670", "volumeInc":"2.84", "price":"5550", "priceInc":"8.82" },
+    { "name":"키움증권", "id":"039490", "volumeInc":"2.36", "price":"86300", "priceInc":"7.34" },
+    { "name":"롯데정밀화학", "id":"004000", "volumeInc":"2.33", "price":"34800", "priceInc":"6.91" },
+    { "name":"포스코대우", "id":"047050", "volumeInc":"2.32", "price":"24050", "priceInc":"2.56" },
+    { "name":"두산", "id":"000150", "volumeInc":"2.26", "price":"97000", "priceInc":"3.85" },
+    { "name":"미래에셋대우", "id":"006800", "volumeInc":"2.14", "price":"9720", "priceInc":"3.96" },
+    { "name":"NH투자증권", "id":"005940", "volumeInc":"2.10", "price":"12850", "priceInc":"4.47" },
+    { "name":"메리츠금융지주", "id":"138040", "volumeInc":"1.94", "price":"11700", "priceInc":"0.86" },
+    { "name":"맥쿼리인프라", "id":"088980", "volumeInc":"1.89", "price":"8320", "priceInc":"0.48" },
+    { "name":"두산인프라코어", "id":"042670", "volumeInc":"1.88", "price":"9870", "priceInc":"4.33" },
+    { "name":"LS", "id":"006260", "volumeInc":"1.79", "price":"64900", "priceInc":"2.37" },
+    { "name":"휴켐스", "id":"069260", "volumeInc":"1.72", "price":"22850", "priceInc":"4.82" },
+    { "name":"메리츠종금증권", "id":"008560", "volumeInc":"1.66", "price":"3810", "priceInc":"2.14" },
+    { "name":"고려아연", "id":"010130", "volumeInc":"1.64", "price":"408000", "priceInc":"3.95" },
+    { "name":"대우건설", "id":"047040", "volumeInc":"1.60", "price":"6580", "priceInc":"3.13" },
+    { "name":"삼성엔지니어링", "id":"028050", "volumeInc":"1.53", "price":"13000", "priceInc":"4.84" }
+  ]
+}
