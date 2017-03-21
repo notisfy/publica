@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "LG유플러스",
+  "dailyTrading" : [
+    { "date":"2017-03-06", "volume":"1856400", "adjClosePrice":"13250", "featured":false },
+    { "date":"2017-03-07", "volume":"1267400", "adjClosePrice":"13600", "featured":false },
+    { "date":"2017-03-08", "volume":"2362297", "adjClosePrice":"13850", "featured":true },
+    { "date":"2017-03-09", "volume":"2012572", "adjClosePrice":"13650", "featured":false },
+    { "date":"2017-03-10", "volume":"1887849", "adjClosePrice":"13900", "featured":false },
+    { "date":"2017-03-13", "volume":"1314111", "adjClosePrice":"14200", "featured":false },
+    { "date":"2017-03-14", "volume":"1269595", "adjClosePrice":"14050", "featured":false },
+    { "date":"2017-03-15", "volume":"2594425", "adjClosePrice":"14700", "featured":true },
+    { "date":"2017-03-16", "volume":"2098668", "adjClosePrice":"14750", "featured":false },
+    { "date":"2017-03-17", "volume":"1804200", "adjClosePrice":"14300", "featured":false },
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"삼성에스디에스", "id":"018260", "volumeInc":"2.49", "price":"145000", "priceInc":"3.94" },
+    { "name":"현대차2우B", "id":"005387", "volumeInc":"1.87", "price":"103500", "priceInc":"1.47" },
+    { "name":"팬오션", "id":"028670", "volumeInc":"1.71", "price":"5640", "priceInc":"2.92" },
+    { "name":"현대차", "id":"005380", "volumeInc":"1.67", "price":"156500", "priceInc":"3.30" },
+    { "name":"BGF리테일", "id":"027410", "volumeInc":"1.50", "price":"103000", "priceInc":"1.48" }
+  ]
+}
