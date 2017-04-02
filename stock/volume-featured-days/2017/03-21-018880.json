@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "한온시스템",
+  "dailyTrading" : [
+    { "date":"2017-03-06", "volume":"1150900", "adjClosePrice":"8460", "featured":false },
+    { "date":"2017-03-07", "volume":"547400", "adjClosePrice":"8540", "featured":false },
+    { "date":"2017-03-08", "volume":"597322", "adjClosePrice":"8480", "featured":false },
+    { "date":"2017-03-09", "volume":"686059", "adjClosePrice":"8500", "featured":false },
+    { "date":"2017-03-10", "volume":"941882", "adjClosePrice":"8500", "featured":false },
+    { "date":"2017-03-13", "volume":"539532", "adjClosePrice":"8510", "featured":false },
+    { "date":"2017-03-14", "volume":"3806758", "adjClosePrice":"9200", "featured":true },
+    { "date":"2017-03-15", "volume":"4439321", "adjClosePrice":"9320", "featured":true },
+    { "date":"2017-03-16", "volume":"1613378", "adjClosePrice":"9320", "featured":false },
+    { "date":"2017-03-17", "volume":"2964600", "adjClosePrice":"9720", "featured":true },
+    { "date":"2017-03-20", "volume":"1023600", "adjClosePrice":"9570", "featured":false }
+  ]
+}

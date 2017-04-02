@@ -1,0 +1,14 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"LG디스플레이", "id":"034220", "volumeInc":"2.38", "price":"29500", "priceInc":"2.08" },
+    { "name":"한국전력", "id":"015760", "volumeInc":"2.37", "price":"47200", "priceInc":"2.83" },
+    { "name":"대우건설", "id":"047040", "volumeInc":"2.19", "price":"6940", "priceInc":"1.02" },
+    { "name":"강원랜드", "id":"035250", "volumeInc":"2.13", "price":"37500", "priceInc":"4.31" },
+    { "name":"동아쏘시오홀딩스", "id":"000640", "volumeInc":"2.11", "price":"125000", "priceInc":"4.60" },
+    { "name":"SK텔레콤", "id":"017670", "volumeInc":"1.64", "price":"259500", "priceInc":"2.57" },
+    { "name":"에스원", "id":"012750", "volumeInc":"1.64", "price":"87300", "priceInc":"0.69" },
+    { "name":"롯데정밀화학", "id":"004000", "volumeInc":"1.61", "price":"37400", "priceInc":"1.63" },
+    { "name":"LG유플러스", "id":"032640", "volumeInc":"1.57", "price":"15000", "priceInc":"4.17" }
+  ]
+}
