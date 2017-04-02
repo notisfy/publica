@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"동원F&B", "id":"049770", "volumeInc":"2.94", "price":"232500", "priceInc":"4.49" },
+    { "name":"대웅제약", "id":"069620", "volumeInc":"2.67", "price":"84900", "priceInc":"7.33" },
+    { "name":"CJ", "id":"001040", "volumeInc":"2.51", "price":"175000", "priceInc":"2.04" },
+    { "name":"녹십자홀딩스", "id":"005250", "volumeInc":"2.29", "price":"27900", "priceInc":"3.53" },
+    { "name":"녹십자", "id":"006280", "volumeInc":"2.05", "price":"157500", "priceInc":"3.28" },
+    { "name":"종근당", "id":"185750", "volumeInc":"2.00", "price":"110000", "priceInc":"1.85" },
+    { "name":"한세실업", "id":"105630", "volumeInc":"1.92", "price":"25350", "priceInc":"4.97" },
+    { "name":"현대미포조선", "id":"010620", "volumeInc":"1.91", "price":"88900", "priceInc":"0.11" },
+    { "name":"GS리테일", "id":"007070", "volumeInc":"1.65", "price":"52100", "priceInc":"2.36" },
+    { "name":"한미사이언스", "id":"008930", "volumeInc":"1.62", "price":"59800", "priceInc":"2.93" },
+    { "name":"아이에스동서", "id":"010780", "volumeInc":"1.57", "price":"43000", "priceInc":"0.12" },
+    { "name":"일양약품", "id":"007570", "volumeInc":"1.55", "price":"38300", "priceInc":"2.13" }
+  ]
+}

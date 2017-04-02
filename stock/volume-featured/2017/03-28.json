@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한화케미칼", "id":"009830", "volumeInc":"3.16", "price":"26000", "priceInc":"6.56" },
+    { "name":"아이에스동서", "id":"010780", "volumeInc":"2.68", "price":"44300", "priceInc":"3.02" },
+    { "name":"현대엘리베이", "id":"017800", "volumeInc":"2.13", "price":"63200", "priceInc":"2.76" },
+    { "name":"한화", "id":"000880", "volumeInc":"1.88", "price":"36000", "priceInc":"1.12" },
+    { "name":"대한항공", "id":"003490", "volumeInc":"1.74", "price":"31550", "priceInc":"0.16" },
+    { "name":"동양", "id":"001520", "volumeInc":"1.62", "price":"2630", "priceInc":"2.73" },
+    { "name":"쌍용양회", "id":"003410", "volumeInc":"1.61", "price":"15250", "priceInc":"4.45" },
+    { "name":"SK", "id":"034730", "volumeInc":"1.60", "price":"237000", "priceInc":"3.49" },
+    { "name":"코스맥스", "id":"192820", "volumeInc":"1.57", "price":"140500", "priceInc":"3.31" },
+    { "name":"지역난방공사", "id":"071320", "volumeInc":"1.56", "price":"65900", "priceInc":"0.76" },
+    { "name":"현대그린푸드", "id":"005440", "volumeInc":"1.51", "price":"15850", "priceInc":"0.32" }
+  ]
+}

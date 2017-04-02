@@ -1,0 +1,25 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"현대엘리베이", "id":"017800", "volumeInc":"3.83", "price":"61700", "priceInc":"4.05" },
+    { "name":"현대백화점", "id":"069960", "volumeInc":"3.75", "price":"102000", "priceInc":"5.48" },
+    { "name":"현대홈쇼핑", "id":"057050", "volumeInc":"3.24", "price":"117000", "priceInc":"4.46" },
+    { "name":"LS산전", "id":"010120", "volumeInc":"2.81", "price":"47650", "priceInc":"3.25" },
+    { "name":"롯데하이마트", "id":"071840", "volumeInc":"2.68", "price":"52200", "priceInc":"5.56" },
+    { "name":"아시아나항공", "id":"020560", "volumeInc":"2.65", "price":"4690", "priceInc":"1.41" },
+    { "name":"동아쏘시오홀딩스", "id":"000640", "volumeInc":"2.53", "price":"130500", "priceInc":"5.24" },
+    { "name":"대상", "id":"001680", "volumeInc":"2.52", "price":"24200", "priceInc":"4.76" },
+    { "name":"한국단자", "id":"025540", "volumeInc":"2.22", "price":"73400", "priceInc":"5.76" },
+    { "name":"동원F&B", "id":"049770", "volumeInc":"2.22", "price":"222500", "priceInc":"5.20" },
+    { "name":"CJ", "id":"001040", "volumeInc":"2.21", "price":"171500", "priceInc":"4.26" },
+    { "name":"오뚜기", "id":"007310", "volumeInc":"2.02", "price":"736000", "priceInc":"5.14" },
+    { "name":"삼양홀딩스", "id":"000070", "volumeInc":"1.96", "price":"122500", "priceInc":"5.15" },
+    { "name":"롯데푸드", "id":"002270", "volumeInc":"1.94", "price":"618000", "priceInc":"5.64" },
+    { "name":"한국콜마", "id":"161890", "volumeInc":"1.94", "price":"75300", "priceInc":"6.81" },
+    { "name":"농심", "id":"004370", "volumeInc":"1.89", "price":"302500", "priceInc":"3.24" },
+    { "name":"대한항공", "id":"003490", "volumeInc":"1.87", "price":"30950", "priceInc":"0.81" },
+    { "name":"CJ대한통운", "id":"000120", "volumeInc":"1.63", "price":"171000", "priceInc":"3.32" },
+    { "name":"코웨이", "id":"021240", "volumeInc":"1.63", "price":"94800", "priceInc":"4.29" },
+    { "name":"코스맥스", "id":"192820", "volumeInc":"1.62", "price":"136000", "priceInc":"5.02" }
+  ]
+}

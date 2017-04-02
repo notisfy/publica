@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "한진칼",
+  "dailyTrading" : [
+    { "date":"2017-03-08", "volume":"297494", "adjClosePrice":"15850", "featured":false },
+    { "date":"2017-03-09", "volume":"442302", "adjClosePrice":"16100", "featured":false },
+    { "date":"2017-03-10", "volume":"538484", "adjClosePrice":"16550", "featured":false },
+    { "date":"2017-03-13", "volume":"558932", "adjClosePrice":"16550", "featured":false },
+    { "date":"2017-03-14", "volume":"531689", "adjClosePrice":"16900", "featured":false },
+    { "date":"2017-03-15", "volume":"430305", "adjClosePrice":"17000", "featured":false },
+    { "date":"2017-03-16", "volume":"523860", "adjClosePrice":"16750", "featured":false },
+    { "date":"2017-03-17", "volume":"1342100", "adjClosePrice":"17800", "featured":true },
+    { "date":"2017-03-20", "volume":"925300", "adjClosePrice":"17800", "featured":false },
+    { "date":"2017-03-21", "volume":"1174500", "adjClosePrice":"18550", "featured":true },
+    { "date":"2017-03-22", "volume":"933800", "adjClosePrice":"18600", "featured":false }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"영풍", "id":"000670", "volumeInc":"3.95", "price":"960000", "priceInc":"6.90" },
+    { "name":"고려아연", "id":"010130", "volumeInc":"3.46", "price":"434500", "priceInc":"3.70" },
+    { "name":"한섬", "id":"020000", "volumeInc":"2.78", "price":"28150", "priceInc":"1.81" },
+    { "name":"쌍용차", "id":"003620", "volumeInc":"2.16", "price":"7990", "priceInc":"2.57" },
+    { "name":"동서", "id":"026960", "volumeInc":"2.09", "price":"28900", "priceInc":"1.23" },
+    { "name":"코리안리", "id":"003690", "volumeInc":"1.94", "price":"11400", "priceInc":"1.79" },
+    { "name":"효성", "id":"004800", "volumeInc":"1.58", "price":"135500", "priceInc":"1.50" },
+    { "name":"SK텔레콤", "id":"017670", "volumeInc":"1.54", "price":"255500", "priceInc":"1.19" }
+  ]
+}

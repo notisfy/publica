@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"JB금융지주", "id":"175330", "volumeInc":"5.64", "price":"5960", "priceInc":"1.19" },
+    { "name":"코리안리", "id":"003690", "volumeInc":"2.99", "price":"11600", "priceInc":"1.75" },
+    { "name":"동서", "id":"026960", "volumeInc":"2.82", "price":"29700", "priceInc":"2.77" },
+    { "name":"포스코대우", "id":"047050", "volumeInc":"2.73", "price":"23850", "priceInc":"5.07" },
+    { "name":"메리츠화재", "id":"000060", "volumeInc":"2.07", "price":"16000", "priceInc":"1.91" },
+    { "name":"부광약품", "id":"003000", "volumeInc":"1.82", "price":"21350", "priceInc":"1.18" },
+    { "name":"한진칼", "id":"180640", "volumeInc":"1.72", "price":"19600", "priceInc":"4.53" },
+    { "name":"POSCO", "id":"005490", "volumeInc":"1.71", "price":"291000", "priceInc":"2.46" },
+    { "name":"동부화재", "id":"005830", "volumeInc":"1.70", "price":"64000", "priceInc":"1.59" },
+    { "name":"아이에스동서", "id":"010780", "volumeInc":"1.66", "price":"45550", "priceInc":"2.47" },
+    { "name":"GS", "id":"078930", "volumeInc":"1.65", "price":"59100", "priceInc":"2.25" },
+    { "name":"코웨이", "id":"021240", "volumeInc":"1.61", "price":"96200", "priceInc":"3.55" }
+  ]
+}
