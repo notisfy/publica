@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "현대홈쇼핑",
+  "dailyTrading" : [
+    { "date":"2017-03-20", "volume":"14400", "adjClosePrice":"110000", "featured":false },
+    { "date":"2017-03-21", "volume":"23000", "adjClosePrice":"110000", "featured":false },
+    { "date":"2017-03-22", "volume":"32900", "adjClosePrice":"112000", "featured":false },
+    { "date":"2017-03-23", "volume":"22200", "adjClosePrice":"112000", "featured":false },
+    { "date":"2017-03-24", "volume":"91700", "adjClosePrice":"117000", "featured":true },
+    { "date":"2017-03-27", "volume":"68700", "adjClosePrice":"123000", "featured":false },
+    { "date":"2017-03-28", "volume":"28800", "adjClosePrice":"121500", "featured":false },
+    { "date":"2017-03-29", "volume":"39500", "adjClosePrice":"122500", "featured":false },
+    { "date":"2017-03-30", "volume":"21600", "adjClosePrice":"123500", "featured":false },
+    { "date":"2017-03-31", "volume":"35500", "adjClosePrice":"127500", "featured":false },
+  ]
+}

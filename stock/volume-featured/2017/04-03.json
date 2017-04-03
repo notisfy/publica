@@ -1,0 +1,19 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"JW홀딩스", "id":"096760", "volumeInc":"3.53", "price":"8450", "priceInc":"5.89" },
+    { "name":"대상", "id":"001680", "volumeInc":"3.18", "price":"25100", "priceInc":"4.15" },
+    { "name":"농심", "id":"004370", "volumeInc":"2.90", "price":"310000", "priceInc":"3.68" },
+    { "name":"종근당", "id":"185750", "volumeInc":"2.67", "price":"116000", "priceInc":"4.98" },
+    { "name":"CJ CGV", "id":"079160", "volumeInc":"2.36", "price":"79600", "priceInc":"5.99" },
+    { "name":"한섬", "id":"020000", "volumeInc":"2.33", "price":"29250", "priceInc":"3.17" },
+    { "name":"부광약품", "id":"003000", "volumeInc":"2.25", "price":"21950", "priceInc":"2.81" },
+    { "name":"대웅제약", "id":"069620", "volumeInc":"2.04", "price":"88500", "priceInc":"5.23" },
+    { "name":"JW중외제약", "id":"001060", "volumeInc":"2.00", "price":"46850", "priceInc":"4.93" },
+    { "name":"유한양행", "id":"000100", "volumeInc":"1.78", "price":"233000", "priceInc":"4.72" },
+    { "name":"일양약품", "id":"007570", "volumeInc":"1.68", "price":"38200", "priceInc":"2.14" },
+    { "name":"호텔신라", "id":"008770", "volumeInc":"1.58", "price":"47000", "priceInc":"4.21" },
+    { "name":"삼양사", "id":"145990", "volumeInc":"1.56", "price":"99400", "priceInc":"2.37" },
+    { "name":"동아쏘시오홀딩스", "id":"000640", "volumeInc":"1.50", "price":"139500", "priceInc":"5.68" }
+  ]
+}
