@@ -1,0 +1,10 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"영진약품", "id":"003520", "volumeInc":"2.87", "price":"8510", "priceInc":"0.47" },
+    { "name":"현대백화점", "id":"069960", "volumeInc":"2.28", "price":"105000", "priceInc":"3.45" },
+    { "name":"쌍용양회", "id":"003410", "volumeInc":"2.00", "price":"14450", "priceInc":"1.40" },
+    { "name":"한진칼", "id":"180640", "volumeInc":"1.79", "price":"19800", "priceInc":"3.12" },
+    { "name":"한국단자", "id":"025540", "volumeInc":"1.51", "price":"76400", "priceInc":"3.38" }
+  ]
+}
