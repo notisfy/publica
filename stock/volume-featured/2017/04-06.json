@@ -1,0 +1,10 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"풍산", "id":"103140", "volumeInc":"2.73", "price":"41500", "priceInc":"6.27" },
+    { "name":"맥쿼리인프라", "id":"088980", "volumeInc":"2.01", "price":"8430", "priceInc":"0.72" },
+    { "name":"농심", "id":"004370", "volumeInc":"1.70", "price":"318500", "priceInc":"2.08" },
+    { "name":"한세실업", "id":"105630", "volumeInc":"1.59", "price":"26000", "priceInc":"3.38" },
+    { "name":"AK홀딩스", "id":"006840", "volumeInc":"1.52", "price":"62300", "priceInc":"0.16" }
+  ]
+}
