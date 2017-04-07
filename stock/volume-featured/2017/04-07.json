@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"현대로템", "id":"064350", "volumeInc":"2.89", "price":"21950", "priceInc":"4.28" },
+    { "name":"우리은행", "id":"000030", "volumeInc":"2.66", "price":"13900", "priceInc":"1.83" },
+    { "name":"현대산업", "id":"012630", "volumeInc":"2.09", "price":"41750", "priceInc":"3.21" },
+    { "name":"포스코대우", "id":"047050", "volumeInc":"1.89", "price":"24000", "priceInc":"4.12" },
+    { "name":"영풍", "id":"000670", "volumeInc":"1.83", "price":"977000", "priceInc":"1.77" },
+    { "name":"한섬", "id":"020000", "volumeInc":"1.70", "price":"29650", "priceInc":"3.85" },
+    { "name":"이마트", "id":"139480", "volumeInc":"1.69", "price":"225500", "priceInc":"5.13" },
+    { "name":"LIG넥스원", "id":"079550", "volumeInc":"1.68", "price":"82800", "priceInc":"1.85" },
+    { "name":"녹십자홀딩스", "id":"005250", "volumeInc":"1.65", "price":"31250", "priceInc":"2.63" },
+    { "name":"현대그린푸드", "id":"005440", "volumeInc":"1.61", "price":"15800", "priceInc":"1.94" },
+    { "name":"SK네트웍스", "id":"001740", "volumeInc":"1.59", "price":"7960", "priceInc":"1.40" },
+    { "name":"LG전자", "id":"066570", "volumeInc":"1.59", "price":"70900", "priceInc":"0.42" }
+  ]
+}

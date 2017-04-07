@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "현대백화점",
+  "dailyTrading" : [
+    { "date":"2017-03-23", "volume":"210300", "adjClosePrice":"96700", "featured":true },
+    { "date":"2017-03-24", "volume":"475000", "adjClosePrice":"102000", "featured":true },
+    { "date":"2017-03-27", "volume":"268600", "adjClosePrice":"103000", "featured":false },
+    { "date":"2017-03-28", "volume":"129800", "adjClosePrice":"102000", "featured":false },
+    { "date":"2017-03-29", "volume":"74700", "adjClosePrice":"101500", "featured":false },
+    { "date":"2017-03-30", "volume":"82800", "adjClosePrice":"100500", "featured":false },
+    { "date":"2017-03-31", "volume":"117000", "adjClosePrice":"101000", "featured":false },
+    { "date":"2017-04-03", "volume":"80931", "adjClosePrice":"101500", "featured":false },
+    { "date":"2017-04-04", "volume":"308653", "adjClosePrice":"105000", "featured":true },
+    { "date":"2017-04-05", "volume":"139005", "adjClosePrice":"104500", "featured":false },
+    { "date":"2017-04-06", "volume":"67382", "adjClosePrice":"103000", "featured":false }
+  ]
+}
