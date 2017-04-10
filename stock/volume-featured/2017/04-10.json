@@ -1,0 +1,6 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한화테크윈", "id":"012450", "volumeInc":"1.59", "price":"48800", "priceInc":"2.63" }
+  ]
+}

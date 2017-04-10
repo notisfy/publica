@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "코웨이",
+  "dailyTrading" : [
+    { "date":"2017-03-27", "volume":"269500", "adjClosePrice":"93800", "featured":false },
+    { "date":"2017-03-28", "volume":"161200", "adjClosePrice":"92500", "featured":false },
+    { "date":"2017-03-29", "volume":"126000", "adjClosePrice":"92200", "featured":false },
+    { "date":"2017-03-30", "volume":"81200", "adjClosePrice":"92900", "featured":false },
+    { "date":"2017-03-31", "volume":"229100", "adjClosePrice":"96200", "featured":true },
+    { "date":"2017-04-03", "volume":"117772", "adjClosePrice":"96800", "featured":false },
+    { "date":"2017-04-04", "volume":"49941", "adjClosePrice":"96400", "featured":false },
+    { "date":"2017-04-05", "volume":"87089", "adjClosePrice":"96200", "featured":false },
+    { "date":"2017-04-06", "volume":"86826", "adjClosePrice":"95900", "featured":false },
+    { "date":"2017-04-07", "volume":"139539", "adjClosePrice":"98600", "featured":false },
+  ]
+}

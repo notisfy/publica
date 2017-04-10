@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "한화케미칼",
+  "dailyTrading" : [
+    { "date":"2017-03-27", "volume":"1138700", "adjClosePrice":"24400", "featured":false },
+    { "date":"2017-03-28", "volume":"3226500", "adjClosePrice":"26000", "featured":true },
+    { "date":"2017-03-29", "volume":"925200", "adjClosePrice":"26150", "featured":false },
+    { "date":"2017-03-30", "volume":"1221700", "adjClosePrice":"26250", "featured":false },
+    { "date":"2017-03-31", "volume":"962000", "adjClosePrice":"26400", "featured":false },
+    { "date":"2017-04-03", "volume":"782389", "adjClosePrice":"26100", "featured":false },
+    { "date":"2017-04-04", "volume":"575262", "adjClosePrice":"25900", "featured":false },
+    { "date":"2017-04-05", "volume":"1128317", "adjClosePrice":"26550", "featured":false },
+    { "date":"2017-04-06", "volume":"669139", "adjClosePrice":"26150", "featured":false },
+    { "date":"2017-04-07", "volume":"778854", "adjClosePrice":"26150", "featured":false },
+  ]
+}
