@@ -1,0 +1,9 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한세실업", "id":"105630", "volumeInc":"2.17", "price":"26800", "priceInc":"6.56" },
+    { "name":"메리츠화재", "id":"000060", "volumeInc":"1.67", "price":"16300", "priceInc":"1.24" },
+    { "name":"금호석유", "id":"011780", "volumeInc":"1.56", "price":"80800", "priceInc":"4.66" },
+    { "name":"제주항공", "id":"089590", "volumeInc":"1.55", "price":"31950", "priceInc":"3.06" }
+  ]
+}
