@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "한국가스공사",
+  "dailyTrading" : [
+    { "date":"2017-03-29", "volume":"146700", "adjClosePrice":"44100", "featured":false },
+    { "date":"2017-03-30", "volume":"236400", "adjClosePrice":"45250", "featured":false },
+    { "date":"2017-03-31", "volume":"219100", "adjClosePrice":"44950", "featured":false },
+    { "date":"2017-04-03", "volume":"127593", "adjClosePrice":"44800", "featured":false },
+    { "date":"2017-04-04", "volume":"75580", "adjClosePrice":"44700", "featured":false },
+    { "date":"2017-04-05", "volume":"319993", "adjClosePrice":"46150", "featured":true },
+    { "date":"2017-04-06", "volume":"112447", "adjClosePrice":"45650", "featured":false },
+    { "date":"2017-04-07", "volume":"132014", "adjClosePrice":"46100", "featured":false },
+    { "date":"2017-04-10", "volume":"84592", "adjClosePrice":"45150", "featured":false },
+    { "date":"2017-04-11", "volume":"85168", "adjClosePrice":"44950", "featured":false },
+    { "date":"2017-04-12", "volume":"173071", "adjClosePrice":"45950", "featured":false }
+  ]
+}

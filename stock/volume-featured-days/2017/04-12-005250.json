@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "녹십자홀딩스",
+  "dailyTrading" : [
+    { "date":"2017-03-29", "volume":"130400", "adjClosePrice":"28600", "featured":false },
+    { "date":"2017-03-30", "volume":"76000", "adjClosePrice":"28500", "featured":false },
+    { "date":"2017-03-31", "volume":"96600", "adjClosePrice":"28650", "featured":false },
+    { "date":"2017-04-03", "volume":"85675", "adjClosePrice":"29150", "featured":false },
+    { "date":"2017-04-04", "volume":"95166", "adjClosePrice":"29150", "featured":false },
+    { "date":"2017-04-05", "volume":"184056", "adjClosePrice":"29550", "featured":true },
+    { "date":"2017-04-06", "volume":"150111", "adjClosePrice":"30450", "featured":false },
+    { "date":"2017-04-07", "volume":"178647", "adjClosePrice":"31250", "featured":true },
+    { "date":"2017-04-10", "volume":"158234", "adjClosePrice":"30500", "featured":false },
+    { "date":"2017-04-11", "volume":"138535", "adjClosePrice":"30450", "featured":false },
+    { "date":"2017-04-12", "volume":"106051", "adjClosePrice":"30250", "featured":false }
+  ]
+}

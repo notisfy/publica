@@ -1,0 +1,10 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한국타이어월드와이드", "id":"000240", "volumeInc":"2.15", "price":"19800", "priceInc":"3.39" },
+    { "name":"롯데하이마트", "id":"071840", "volumeInc":"1.64", "price":"54800", "priceInc":"1.86" },
+    { "name":"엔씨소프트", "id":"036570", "volumeInc":"1.63", "price":"339000", "priceInc":"6.27" },
+    { "name":"LS산전", "id":"010120", "volumeInc":"1.52", "price":"48350", "priceInc":"1.90" },
+    { "name":"삼성엔지니어링", "id":"028050", "volumeInc":"1.51", "price":"12950", "priceInc":"3.60" }
+  ]
+}
