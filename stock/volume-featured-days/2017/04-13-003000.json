@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "부광약품",
+  "dailyTrading" : [
+    { "date":"2017-03-30", "volume":"51000", "adjClosePrice":"21100", "featured":false },
+    { "date":"2017-03-31", "volume":"157400", "adjClosePrice":"21350", "featured":true },
+    { "date":"2017-04-03", "volume":"196989", "adjClosePrice":"21950", "featured":true },
+    { "date":"2017-04-04", "volume":"149521", "adjClosePrice":"21650", "featured":false },
+    { "date":"2017-04-05", "volume":"96052", "adjClosePrice":"21500", "featured":false },
+    { "date":"2017-04-06", "volume":"112966", "adjClosePrice":"21400", "featured":false },
+    { "date":"2017-04-07", "volume":"76997", "adjClosePrice":"21750", "featured":false },
+    { "date":"2017-04-10", "volume":"96859", "adjClosePrice":"21250", "featured":false },
+    { "date":"2017-04-11", "volume":"112842", "adjClosePrice":"21100", "featured":false },
+    { "date":"2017-04-12", "volume":"100558", "adjClosePrice":"20850", "featured":false },
+    { "date":"2017-04-13", "volume":"60747", "adjClosePrice":"21100", "featured":false }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한세실업", "id":"105630", "volumeInc":"3.66", "price":"28050", "priceInc":"5.45" },
+    { "name":"엔씨소프트", "id":"036570", "volumeInc":"2.86", "price":"357500", "priceInc":"5.46" },
+    { "name":"동원F&B", "id":"049770", "volumeInc":"2.29", "price":"240000", "priceInc":"5.03" },
+    { "name":"한국콜마", "id":"161890", "volumeInc":"1.80", "price":"77800", "priceInc":"6.87" },
+    { "name":"하이트진로", "id":"000080", "volumeInc":"1.78", "price":"20050", "priceInc":"0.25" },
+    { "name":"아이에스동서", "id":"010780", "volumeInc":"1.73", "price":"45000", "priceInc":"1.93" },
+    { "name":"영원무역", "id":"111770", "volumeInc":"1.69", "price":"35000", "priceInc":"2.04" },
+    { "name":"코스맥스", "id":"192820", "volumeInc":"1.64", "price":"138500", "priceInc":"4.53" },
+    { "name":"동양생명", "id":"082640", "volumeInc":"1.51", "price":"10100", "priceInc":"0.50" }
+  ]
+}
