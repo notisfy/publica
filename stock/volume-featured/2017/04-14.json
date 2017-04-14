@@ -1,0 +1,10 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한미약품", "id":"128940", "volumeInc":"4.70", "price":"302000", "priceInc":"4.32" },
+    { "name":"한미사이언스", "id":"008930", "volumeInc":"3.73", "price":"59200", "priceInc":"2.42" },
+    { "name":"한국단자", "id":"025540", "volumeInc":"2.26", "price":"74300", "priceInc":"1.09" },
+    { "name":"대한전선", "id":"001440", "volumeInc":"1.78", "price":"1740", "priceInc":"1.16" },
+    { "name":"메리츠화재", "id":"000060", "volumeInc":"1.74", "price":"16750", "priceInc":"0.60" }
+  ]
+}

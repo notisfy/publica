@@ -1,0 +1,20 @@
+{
+  "version" : "bot-holdings-v1",
+  "stocks" : [
+    { "name":"하이트진로2우B", "id":"000087", "holdings":"159250" },
+    { "name":"CJ대한통운", "id":"000120", "holdings":"320000" },
+    { "name":"두산우", "id":"000155", "holdings":"994766" },
+    { "name":"대상", "id":"001680", "holdings":"46500" },
+    { "name":"한국쉘석유", "id":"002960", "holdings":"5264000" },
+    { "name":"부광약품", "id":"003000", "holdings":"211150" },
+    { "name":"코리안리", "id":"003690", "holdings":"333257" },
+    { "name":"POSCO", "id":"005490", "holdings":"264000" },
+    { "name":"S-Oil", "id":"010950", "holdings":"376500" },
+    { "name":"E1", "id":"017940", "holdings":"1211800" },
+    { "name":"삼성카드", "id":"029780", "holdings":"193100" },
+    { "name":"강원랜드", "id":"035250", "holdings":"72400" },
+    { "name":"LG화학", "id":"051910", "holdings":"557000" },
+    { "name":"지역난방공사", "id":"071320", "holdings":"129267" },
+    { "name":"맥쿼리인프라", "id":"088980", "holdings":"358444" }
+  ]
+}
