@@ -1,0 +1,14 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"KB손해보험", "id":"002550", "volumeInc":"20.16", "price":"32550", "priceInc":"16.25" },
+    { "name":"메리츠화재", "id":"000060", "volumeInc":"2.35", "price":"17100", "priceInc":"2.09" },
+    { "name":"호텔신라", "id":"008770", "volumeInc":"2.24", "price":"51100", "priceInc":"7.47" },
+    { "name":"잇츠스킨", "id":"226320", "volumeInc":"2.06", "price":"46200", "priceInc":"5.96" },
+    { "name":"KB금융", "id":"105560", "volumeInc":"1.99", "price":"50600", "priceInc":"4.87" },
+    { "name":"CJ CGV", "id":"079160", "volumeInc":"1.91", "price":"85700", "priceInc":"5.15" },
+    { "name":"한화생명", "id":"088350", "volumeInc":"1.76", "price":"6160", "priceInc":"2.84" },
+    { "name":"아모레G", "id":"002790", "volumeInc":"1.69", "price":"126000", "priceInc":"4.56" },
+    { "name":"한국콜마", "id":"161890", "volumeInc":"1.56", "price":"80800", "priceInc":"3.99" }
+  ]
+}
