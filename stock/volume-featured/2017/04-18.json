@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"CJ", "id":"001040", "volumeInc":"3.77", "price":"184000", "priceInc":"3.95" },
+    { "name":"한국항공우주", "id":"047810", "volumeInc":"2.41", "price":"60500", "priceInc":"6.14" },
+    { "name":"대웅제약", "id":"069620", "volumeInc":"2.32", "price":"91500", "priceInc":"3.62" },
+    { "name":"한화", "id":"000880", "volumeInc":"2.10", "price":"36450", "priceInc":"2.53" },
+    { "name":"한섬", "id":"020000", "volumeInc":"2.01", "price":"30300", "priceInc":"4.48" },
+    { "name":"삼성에스디에스", "id":"018260", "volumeInc":"1.82", "price":"139000", "priceInc":"2.58" },
+    { "name":"AK홀딩스", "id":"006840", "volumeInc":"1.71", "price":"63100", "priceInc":"0.16" },
+    { "name":"포스코대우", "id":"047050", "volumeInc":"1.68", "price":"24150", "priceInc":"2.11" },
+    { "name":"아이에스동서", "id":"010780", "volumeInc":"1.66", "price":"44900", "priceInc":"1.70" },
+    { "name":"LIG넥스원", "id":"079550", "volumeInc":"1.57", "price":"84600", "priceInc":"2.05" },
+    { "name":"삼성물산", "id":"028260", "volumeInc":"1.51", "price":"128000", "priceInc":"1.99" }
+  ]
+}
