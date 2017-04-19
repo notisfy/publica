@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"일양약품", "id":"007570", "volumeInc":"3.09", "price":"39850", "priceInc":"3.91" },
+    { "name":"한국항공우주", "id":"047810", "volumeInc":"3.01", "price":"61700", "priceInc":"1.98" },
+    { "name":"대웅제약", "id":"069620", "volumeInc":"2.82", "price":"93900", "priceInc":"2.62" },
+    { "name":"LIG넥스원", "id":"079550", "volumeInc":"2.49", "price":"87800", "priceInc":"3.78" },
+    { "name":"한화테크윈", "id":"012450", "volumeInc":"2.09", "price":"49200", "priceInc":"3.04" },
+    { "name":"동아에스티", "id":"170900", "volumeInc":"2.00", "price":"96800", "priceInc":"1.89" },
+    { "name":"S-Oil", "id":"010950", "volumeInc":"1.96", "price":"97100", "priceInc":"3.41" },
+    { "name":"우리은행", "id":"000030", "volumeInc":"1.88", "price":"14100", "priceInc":"0.36" },
+    { "name":"코웨이", "id":"021240", "volumeInc":"1.74", "price":"103500", "priceInc":"2.99" },
+    { "name":"하이트진로", "id":"000080", "volumeInc":"1.64", "price":"20350", "priceInc":"1.75" }
+  ]
+}

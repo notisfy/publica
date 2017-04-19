@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "농심",
+  "dailyTrading" : [
+    { "date":"2017-04-05", "volume":"21550", "adjClosePrice":"312000", "featured":false },
+    { "date":"2017-04-06", "volume":"44514", "adjClosePrice":"318500", "featured":true },
+    { "date":"2017-04-07", "volume":"16906", "adjClosePrice":"318000", "featured":false },
+    { "date":"2017-04-10", "volume":"24693", "adjClosePrice":"316000", "featured":false },
+    { "date":"2017-04-11", "volume":"11528", "adjClosePrice":"317000", "featured":false },
+    { "date":"2017-04-12", "volume":"16796", "adjClosePrice":"312500", "featured":false },
+    { "date":"2017-04-13", "volume":"23778", "adjClosePrice":"319500", "featured":false },
+    { "date":"2017-04-14", "volume":"10308", "adjClosePrice":"318000", "featured":false },
+    { "date":"2017-04-17", "volume":"11880", "adjClosePrice":"319000", "featured":false },
+    { "date":"2017-04-18", "volume":"21712", "adjClosePrice":"320500", "featured":false },
+    { "date":"2017-04-19", "volume":"30920", "adjClosePrice":"327000", "featured":false }
+  ]
+}
