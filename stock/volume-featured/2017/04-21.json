@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"롯데칠성", "id":"005300", "volumeInc":"3.84", "price":"1586000", "priceInc":"4.62" },
+    { "name":"롯데제과", "id":"004990", "volumeInc":"3.77", "price":"210500", "priceInc":"0.72" },
+    { "name":"다우기술", "id":"023590", "volumeInc":"3.60", "price":"20650", "priceInc":"4.82" },
+    { "name":"롯데푸드", "id":"002270", "volumeInc":"2.79", "price":"651000", "priceInc":"2.52" },
+    { "name":"롯데쇼핑", "id":"023530", "volumeInc":"2.42", "price":"245500", "priceInc":"4.69" },
+    { "name":"한국금융지주", "id":"071050", "volumeInc":"2.30", "price":"48300", "priceInc":"4.32" },
+    { "name":"호텔신라", "id":"008770", "volumeInc":"2.29", "price":"54800", "priceInc":"4.78" },
+    { "name":"CJ대한통운", "id":"000120", "volumeInc":"2.18", "price":"169000", "priceInc":"5.62" },
+    { "name":"아모레퍼시픽", "id":"090430", "volumeInc":"1.65", "price":"317000", "priceInc":"3.43" },
+    { "name":"지역난방공사", "id":"071320", "volumeInc":"1.56", "price":"68500", "priceInc":"0.74" },
+    { "name":"LG이노텍", "id":"011070", "volumeInc":"1.50", "price":"142500", "priceInc":"6.34" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "삼성에스디에스",
+  "dailyTrading" : [
+    { "date":"2017-04-07", "volume":"63725", "adjClosePrice":"137500", "featured":false },
+    { "date":"2017-04-10", "volume":"54575", "adjClosePrice":"136000", "featured":false },
+    { "date":"2017-04-11", "volume":"47242", "adjClosePrice":"135500", "featured":false },
+    { "date":"2017-04-12", "volume":"31634", "adjClosePrice":"135000", "featured":false },
+    { "date":"2017-04-13", "volume":"53103", "adjClosePrice":"136500", "featured":false },
+    { "date":"2017-04-14", "volume":"54547", "adjClosePrice":"135000", "featured":false },
+    { "date":"2017-04-17", "volume":"32034", "adjClosePrice":"135500", "featured":false },
+    { "date":"2017-04-18", "volume":"204297", "adjClosePrice":"139000", "featured":true },
+    { "date":"2017-04-19", "volume":"86473", "adjClosePrice":"139000", "featured":false },
+    { "date":"2017-04-20", "volume":"249437", "adjClosePrice":"143500", "featured":true },
+    { "date":"2017-04-21", "volume":"144535", "adjClosePrice":"146000", "featured":false }
+  ]
+}
