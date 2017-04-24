@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"메리츠종금증권", "id":"008560", "volumeInc":"4.06", "price":"3890", "priceInc":"3.87" },
+    { "name":"한화", "id":"000880", "volumeInc":"3.32", "price":"39200", "priceInc":"2.75" },
+    { "name":"지역난방공사", "id":"071320", "volumeInc":"2.44", "price":"69700", "priceInc":"1.75" },
+    { "name":"하나금융지주", "id":"086790", "volumeInc":"2.33", "price":"39850", "priceInc":"7.12" },
+    { "name":"에스원", "id":"012750", "volumeInc":"2.24", "price":"97700", "priceInc":"1.35" },
+    { "name":"한화테크윈", "id":"012450", "volumeInc":"2.05", "price":"50000", "priceInc":"2.15" },
+    { "name":"아모레퍼시픽우", "id":"090435", "volumeInc":"1.63", "price":"189000", "priceInc":"2.44" },
+    { "name":"현대차우", "id":"005385", "volumeInc":"1.61", "price":"90200", "priceInc":"0.45" },
+    { "name":"우리은행", "id":"000030", "volumeInc":"1.58", "price":"14750", "priceInc":"2.43" },
+    { "name":"BNK금융지주", "id":"138930", "volumeInc":"1.55", "price":"9400", "priceInc":"2.06" }
+  ]
+}
