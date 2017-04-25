@@ -1,0 +1,25 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"지역난방공사", "id":"071320", "volumeInc":"2.68", "price":"71000", "priceInc":"1.87" },
+    { "name":"NH투자증권", "id":"005940", "volumeInc":"2.34", "price":"13000", "priceInc":"3.17" },
+    { "name":"현대차우", "id":"005385", "volumeInc":"2.30", "price":"92100", "priceInc":"2.11" },
+    { "name":"삼성증권", "id":"016360", "volumeInc":"2.13", "price":"34900", "priceInc":"2.65" },
+    { "name":"키움증권", "id":"039490", "volumeInc":"2.08", "price":"80700", "priceInc":"3.59" },
+    { "name":"대우건설", "id":"047040", "volumeInc":"2.00", "price":"7280", "priceInc":"0.97" },
+    { "name":"SK이노베이션", "id":"096770", "volumeInc":"2.00", "price":"170000", "priceInc":"3.34" },
+    { "name":"동양", "id":"001520", "volumeInc":"2.00", "price":"2230", "priceInc":"3.96" },
+    { "name":"다우기술", "id":"023590", "volumeInc":"1.95", "price":"21150", "priceInc":"2.92" },
+    { "name":"한국금융지주", "id":"071050", "volumeInc":"1.84", "price":"49600", "priceInc":"2.90" },
+    { "name":"오리온", "id":"001800", "volumeInc":"1.78", "price":"729000", "priceInc":"0.69" },
+    { "name":"우리은행", "id":"000030", "volumeInc":"1.76", "price":"14900", "priceInc":"1.02" },
+    { "name":"일양약품", "id":"007570", "volumeInc":"1.74", "price":"39750", "priceInc":"1.15" },
+    { "name":"고려아연", "id":"010130", "volumeInc":"1.72", "price":"430000", "priceInc":"3.61" },
+    { "name":"한섬", "id":"020000", "volumeInc":"1.69", "price":"31100", "priceInc":"0.32" },
+    { "name":"하이트진로", "id":"000080", "volumeInc":"1.67", "price":"20700", "priceInc":"1.47" },
+    { "name":"LG디스플레이", "id":"034220", "volumeInc":"1.65", "price":"31200", "priceInc":"3.48" },
+    { "name":"메리츠화재", "id":"000060", "volumeInc":"1.63", "price":"17500", "priceInc":"1.45" },
+    { "name":"SK", "id":"034730", "volumeInc":"1.62", "price":"247000", "priceInc":"2.49" },
+    { "name":"현대모비스", "id":"012330", "volumeInc":"1.61", "price":"229000", "priceInc":"1.78" }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "version" : "bot-holdings-v1",
+  "stocks" : [
+    { "name":"하이트진로2우B", "id":"000087", "holdings":"176750" },
+    { "name":"두산우", "id":"000155", "holdings":"994766" },
+    { "name":"LG상사", "id":"001120", "holdings":"151400" },
+    { "name":"한국쉘석유", "id":"002960", "holdings":"4857302" },
+    { "name":"부광약품", "id":"003000", "holdings":"316250" },
+    { "name":"코리안리", "id":"003690", "holdings":"111086" },
+    { "name":"POSCO", "id":"005490", "holdings":"527000" },
+    { "name":"미래에셋대우", "id":"006800", "holdings":"51460" },
+    { "name":"호텔신라우", "id":"008775", "holdings":"245700" },
+    { "name":"한국전력", "id":"015760", "holdings":"88100" },
+    { "name":"E1", "id":"017940", "holdings":"1101637" },
+    { "name":"삼성카드", "id":"029780", "holdings":"193100" },
+    { "name":"강원랜드", "id":"035250", "holdings":"72400" },
+    { "name":"NAVER", "id":"035420", "holdings":"783000" },
+    { "name":"LG화학", "id":"051910", "holdings":"276000" },
+    { "name":"맥쿼리인프라", "id":"088980", "holdings":"162930" }
+  ]
+}
