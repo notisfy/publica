@@ -1,0 +1,20 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"메리츠종금증권", "id":"008560", "volumeInc":"3.85", "price":"4120", "priceInc":"3.00" },
+    { "name":"효성", "id":"004800", "volumeInc":"3.22", "price":"145000", "priceInc":"7.41" },
+    { "name":"한화", "id":"000880", "volumeInc":"3.01", "price":"39900", "priceInc":"1.66" },
+    { "name":"현대엘리베이", "id":"017800", "volumeInc":"2.77", "price":"62500", "priceInc":"3.99" },
+    { "name":"삼성증권", "id":"016360", "volumeInc":"2.65", "price":"35750", "priceInc":"2.44" },
+    { "name":"NH투자증권", "id":"005940", "volumeInc":"2.33", "price":"13600", "priceInc":"4.62" },
+    { "name":"현대차", "id":"005380", "volumeInc":"2.19", "price":"151500", "priceInc":"4.84" },
+    { "name":"삼성전기", "id":"009150", "volumeInc":"2.13", "price":"70600", "priceInc":"0.28" },
+    { "name":"현대미포조선", "id":"010620", "volumeInc":"2.03", "price":"94000", "priceInc":"6.94" },
+    { "name":"현대로템", "id":"064350", "volumeInc":"1.81", "price":"21500", "priceInc":"5.13" },
+    { "name":"LG디스플레이", "id":"034220", "volumeInc":"1.78", "price":"31400", "priceInc":"0.64" },
+    { "name":"미래에셋대우", "id":"006800", "volumeInc":"1.73", "price":"9210", "priceInc":"2.79" },
+    { "name":"KCC", "id":"002380", "volumeInc":"1.69", "price":"348000", "priceInc":"2.81" },
+    { "name":"동서", "id":"026960", "volumeInc":"1.65", "price":"30500", "priceInc":"1.16" },
+    { "name":"코오롱인더", "id":"120110", "volumeInc":"1.62", "price":"69400", "priceInc":"3.12" }
+  ]
+}

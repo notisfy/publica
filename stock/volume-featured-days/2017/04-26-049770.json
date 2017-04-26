@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "동원F&B",
+  "dailyTrading" : [
+    { "date":"2017-04-12", "volume":"5523", "adjClosePrice":"228500", "featured":false },
+    { "date":"2017-04-13", "volume":"19387", "adjClosePrice":"240000", "featured":true },
+    { "date":"2017-04-14", "volume":"14747", "adjClosePrice":"245500", "featured":false },
+    { "date":"2017-04-17", "volume":"5917", "adjClosePrice":"244500", "featured":false },
+    { "date":"2017-04-18", "volume":"3945", "adjClosePrice":"243000", "featured":false },
+    { "date":"2017-04-19", "volume":"11851", "adjClosePrice":"252000", "featured":false },
+    { "date":"2017-04-20", "volume":"14705", "adjClosePrice":"260500", "featured":true },
+    { "date":"2017-04-21", "volume":"7060", "adjClosePrice":"255500", "featured":false },
+    { "date":"2017-04-24", "volume":"6136", "adjClosePrice":"249500", "featured":false },
+    { "date":"2017-04-25", "volume":"6526", "adjClosePrice":"248000", "featured":false },
+    { "date":"2017-04-26", "volume":"9701", "adjClosePrice":"256500", "featured":false }
+  ]
+}
