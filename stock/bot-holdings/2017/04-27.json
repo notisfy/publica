@@ -1,0 +1,17 @@
+{
+  "version" : "bot-holdings-v1",
+  "stocks" : [
+    { "name":"하이트진로2우B", "id":"000087", "holdings":"176750" },
+    { "name":"두산우", "id":"000155", "holdings":"994766" },
+    { "name":"오리온", "id":"001800", "holdings":"1371000" },
+    { "name":"한국쉘석유", "id":"002960", "holdings":"4857302" },
+    { "name":"부광약품", "id":"003000", "holdings":"399650" },
+    { "name":"POSCO", "id":"005490", "holdings":"527000" },
+    { "name":"호텔신라우", "id":"008775", "holdings":"294300" },
+    { "name":"한국전력", "id":"015760", "holdings":"88100" },
+    { "name":"한국단자", "id":"025540", "holdings":"357900" },
+    { "name":"삼성카드", "id":"029780", "holdings":"193100" },
+    { "name":"NAVER", "id":"035420", "holdings":"783000" },
+    { "name":"LG화학", "id":"051910", "holdings":"276000" }
+  ]
+}

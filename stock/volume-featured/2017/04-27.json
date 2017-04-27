@@ -1,0 +1,20 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"롯데칠성", "id":"005300", "volumeInc":"6.95", "price":"1815000", "priceInc":"10.74" },
+    { "name":"롯데쇼핑", "id":"023530", "volumeInc":"3.44", "price":"268000", "priceInc":"5.30" },
+    { "name":"삼성전자우", "id":"005935", "volumeInc":"3.22", "price":"1719000", "priceInc":"4.75" },
+    { "name":"LG상사", "id":"001120", "volumeInc":"2.57", "price":"32200", "priceInc":"1.10" },
+    { "name":"한화테크윈", "id":"012450", "volumeInc":"2.36", "price":"53100", "priceInc":"3.31" },
+    { "name":"삼성전기", "id":"009150", "volumeInc":"2.15", "price":"72900", "priceInc":"3.26" },
+    { "name":"SK네트웍스", "id":"001740", "volumeInc":"2.14", "price":"8120", "priceInc":"4.24" },
+    { "name":"OCI", "id":"010060", "volumeInc":"1.98", "price":"79600", "priceInc":"0.76" },
+    { "name":"한국항공우주", "id":"047810", "volumeInc":"1.94", "price":"64900", "priceInc":"3.67" },
+    { "name":"삼성전자", "id":"005930", "volumeInc":"1.93", "price":"2192000", "priceInc":"2.48" },
+    { "name":"삼성생명", "id":"032830", "volumeInc":"1.79", "price":"110000", "priceInc":"1.38" },
+    { "name":"한섬", "id":"020000", "volumeInc":"1.77", "price":"31600", "priceInc":"1.12" },
+    { "name":"아이에스동서", "id":"010780", "volumeInc":"1.63", "price":"43100", "priceInc":"0.23" },
+    { "name":"세아베스틸", "id":"001430", "volumeInc":"1.61", "price":"28200", "priceInc":"2.73" },
+    { "name":"한국가스공사", "id":"036460", "volumeInc":"1.55", "price":"46700", "priceInc":"2.30" }
+  ]
+}
