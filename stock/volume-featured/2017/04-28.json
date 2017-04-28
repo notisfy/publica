@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"현대제철", "id":"004020", "volumeInc":"3.11", "price":"54900", "priceInc":"3.78" },
+    { "name":"한미약품", "id":"128940", "volumeInc":"2.73", "price":"308500", "priceInc":"3.01" },
+    { "name":"KT", "id":"030200", "volumeInc":"2.41", "price":"32200", "priceInc":"2.88" },
+    { "name":"제일약품", "id":"002620", "volumeInc":"2.31", "price":"68800", "priceInc":"5.52" },
+    { "name":"LG이노텍", "id":"011070", "volumeInc":"1.98", "price":"131500", "priceInc":"0.77" },
+    { "name":"삼성전자", "id":"005930", "volumeInc":"1.91", "price":"2231000", "priceInc":"1.78" },
+    { "name":"동부화재", "id":"005830", "volumeInc":"1.91", "price":"68000", "priceInc":"0.29" },
+    { "name":"한미사이언스", "id":"008930", "volumeInc":"1.71", "price":"60700", "priceInc":"0.33" },
+    { "name":"맥쿼리인프라", "id":"088980", "volumeInc":"1.66", "price":"8630", "priceInc":"0.70" },
+    { "name":"BGF리테일", "id":"027410", "volumeInc":"1.64", "price":"109500", "priceInc":"2.82" }
+  ]
+}
