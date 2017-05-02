@@ -1,0 +1,12 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"맥쿼리인프라", "id":"088980", "volumeInc":"1.91", "price":"8700", "priceInc":"0.81" },
+    { "name":"메리츠종금증권", "id":"008560", "volumeInc":"1.90", "price":"4145", "priceInc":"0.36" },
+    { "name":"쌍용양회", "id":"003410", "volumeInc":"1.72", "price":"13400", "priceInc":"0.37" },
+    { "name":"현대차우", "id":"005385", "volumeInc":"1.69", "price":"94900", "priceInc":"2.82" },
+    { "name":"롯데케미칼", "id":"011170", "volumeInc":"1.63", "price":"357500", "priceInc":"4.53" },
+    { "name":"현대차", "id":"005380", "volumeInc":"1.59", "price":"151000", "priceInc":"4.86" },
+    { "name":"하이트진로", "id":"000080", "volumeInc":"1.50", "price":"21000", "priceInc":"0.48" }
+  ]
+}
