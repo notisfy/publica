@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "오리온",
+  "dailyTrading" : [
+    { "date":"2017-04-20", "volume":"31457", "adjClosePrice":"705000", "featured":true },
+    { "date":"2017-04-21", "volume":"25196", "adjClosePrice":"714000", "featured":false },
+    { "date":"2017-04-24", "volume":"22643", "adjClosePrice":"724000", "featured":false },
+    { "date":"2017-04-25", "volume":"30698", "adjClosePrice":"729000", "featured":true },
+    { "date":"2017-04-26", "volume":"51960", "adjClosePrice":"693000", "featured":false },
+    { "date":"2017-04-27", "volume":"40172", "adjClosePrice":"686000", "featured":false },
+    { "date":"2017-04-28", "volume":"21528", "adjClosePrice":"676000", "featured":false },
+    { "date":"2017-05-02", "volume":"11238", "adjClosePrice":"673000", "featured":false },
+    { "date":"2017-05-04", "volume":"25674", "adjClosePrice":"698000", "featured":false }
+  ]
+}

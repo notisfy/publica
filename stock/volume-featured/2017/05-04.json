@@ -1,0 +1,21 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"대한항공", "id":"003490", "volumeInc":"2.83", "price":"32800", "priceInc":"6.32" },
+    { "name":"코웨이", "id":"021240", "volumeInc":"2.35", "price":"106000", "priceInc":"6.75" },
+    { "name":"아이에스동서", "id":"010780", "volumeInc":"2.20", "price":"45050", "priceInc":"3.09" },
+    { "name":"현대엘리베이", "id":"017800", "volumeInc":"2.19", "price":"65000", "priceInc":"4.50" },
+    { "name":"메리츠금융지주", "id":"138040", "volumeInc":"2.17", "price":"13450", "priceInc":"5.08" },
+    { "name":"한미약품", "id":"128940", "volumeInc":"2.04", "price":"316500", "priceInc":"2.43" },
+    { "name":"LG생활건강", "id":"051900", "volumeInc":"1.93", "price":"916000", "priceInc":"7.76" },
+    { "name":"쌍용양회", "id":"003410", "volumeInc":"1.91", "price":"13900", "priceInc":"3.73" },
+    { "name":"아시아나항공", "id":"020560", "volumeInc":"1.80", "price":"4625", "priceInc":"2.10" },
+    { "name":"LG생활건강우", "id":"051905", "volumeInc":"1.79", "price":"580000", "priceInc":"7.61" },
+    { "name":"OCI", "id":"010060", "volumeInc":"1.72", "price":"80900", "priceInc":"2.02" },
+    { "name":"현대상선", "id":"011200", "volumeInc":"1.71", "price":"9030", "priceInc":"2.73" },
+    { "name":"LG하우시스", "id":"108670", "volumeInc":"1.65", "price":"103000", "priceInc":"3.00" },
+    { "name":"동원F&B", "id":"049770", "volumeInc":"1.63", "price":"267500", "priceInc":"5.73" },
+    { "name":"영원무역홀딩스", "id":"009970", "volumeInc":"1.55", "price":"53400", "priceInc":"0.75" },
+    { "name":"팬오션", "id":"028670", "volumeInc":"1.52", "price":"5130", "priceInc":"1.99" }
+  ]
+}
