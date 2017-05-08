@@ -1,0 +1,25 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한미약품", "id":"128940", "volumeInc":"6.53", "price":"349000", "priceInc":"10.27" },
+    { "name":"한미사이언스", "id":"008930", "volumeInc":"5.31", "price":"65200", "priceInc":"7.41" },
+    { "name":"지역난방공사", "id":"071320", "volumeInc":"4.09", "price":"70800", "priceInc":"1.29" },
+    { "name":"JW중외제약", "id":"001060", "volumeInc":"3.86", "price":"46000", "priceInc":"6.48" },
+    { "name":"부광약품", "id":"003000", "volumeInc":"3.66", "price":"22000", "priceInc":"4.02" },
+    { "name":"영진약품", "id":"003520", "volumeInc":"3.51", "price":"9290", "priceInc":"7.15" },
+    { "name":"현대모비스", "id":"012330", "volumeInc":"3.42", "price":"246500", "priceInc":"7.88" },
+    { "name":"대상", "id":"001680", "volumeInc":"3.21", "price":"25200", "priceInc":"4.13" },
+    { "name":"CJ", "id":"001040", "volumeInc":"3.07", "price":"203500", "priceInc":"7.67" },
+    { "name":"삼성전자우", "id":"005935", "volumeInc":"3.01", "price":"1803000", "priceInc":"0.73" },
+    { "name":"하이트진로", "id":"000080", "volumeInc":"2.61", "price":"21550", "priceInc":"2.86" },
+    { "name":"JW홀딩스", "id":"096760", "volumeInc":"2.48", "price":"8240", "priceInc":"4.44" },
+    { "name":"LG전자", "id":"066570", "volumeInc":"2.43", "price":"77000", "priceInc":"7.39" },
+    { "name":"대웅제약", "id":"069620", "volumeInc":"2.43", "price":"96700", "priceInc":"5.45" },
+    { "name":"녹십자", "id":"006280", "volumeInc":"2.34", "price":"170000", "priceInc":"2.41" },
+    { "name":"LG하우시스", "id":"108670", "volumeInc":"2.32", "price":"105000", "priceInc":"1.94" },
+    { "name":"삼성카드", "id":"029780", "volumeInc":"2.32", "price":"42050", "priceInc":"3.32" },
+    { "name":"종근당", "id":"185750", "volumeInc":"2.29", "price":"123500", "priceInc":"4.66" },
+    { "name":"유한양행", "id":"000100", "volumeInc":"2.26", "price":"242500", "priceInc":"3.63" },
+    { "name":"BGF리테일", "id":"027410", "volumeInc":"2.15", "price":"113500", "priceInc":"5.58" }
+  ]
+}
