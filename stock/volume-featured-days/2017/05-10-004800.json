@@ -1,0 +1,13 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "효성",
+  "dailyTrading" : [
+    { "date":"2017-04-26", "volume":"486476", "adjClosePrice":"145000", "featured":true },
+    { "date":"2017-04-27", "volume":"216017", "adjClosePrice":"146000", "featured":false },
+    { "date":"2017-04-28", "volume":"115981", "adjClosePrice":"144000", "featured":false },
+    { "date":"2017-05-02", "volume":"99697", "adjClosePrice":"145000", "featured":false },
+    { "date":"2017-05-04", "volume":"90673", "adjClosePrice":"144000", "featured":false },
+    { "date":"2017-05-08", "volume":"127863", "adjClosePrice":"146500", "featured":false },
+    { "date":"2017-05-10", "volume":"141659", "adjClosePrice":"145000", "featured":false }
+  ]
+}

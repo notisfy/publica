@@ -1,0 +1,25 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"현대중공업", "id":"009540", "volumeInc":"9.18", "price":"180000", "priceInc":"9.09" },
+    { "name":"KB손해보험", "id":"002550", "volumeInc":"4.47", "price":"32750", "priceInc":"0.15" },
+    { "name":"휴켐스", "id":"069260", "volumeInc":"3.91", "price":"24800", "priceInc":"3.33" },
+    { "name":"동양", "id":"001520", "volumeInc":"3.69", "price":"2295", "priceInc":"5.76" },
+    { "name":"쿠쿠전자", "id":"192400", "volumeInc":"3.68", "price":"140000", "priceInc":"1.82" },
+    { "name":"삼성카드", "id":"029780", "volumeInc":"3.18", "price":"42500", "priceInc":"1.07" },
+    { "name":"동원시스템즈", "id":"014820", "volumeInc":"3.05", "price":"57600", "priceInc":"1.59" },
+    { "name":"만도", "id":"204320", "volumeInc":"2.92", "price":"247500", "priceInc":"6.45" },
+    { "name":"CJ대한통운", "id":"000120", "volumeInc":"2.78", "price":"178000", "priceInc":"3.49" },
+    { "name":"하이트진로", "id":"000080", "volumeInc":"2.63", "price":"21700", "priceInc":"0.70" },
+    { "name":"쌍용양회", "id":"003410", "volumeInc":"2.60", "price":"14400", "priceInc":"1.05" },
+    { "name":"삼성생명", "id":"032830", "volumeInc":"2.60", "price":"116500", "priceInc":"1.75" },
+    { "name":"아모레퍼시픽", "id":"090430", "volumeInc":"2.57", "price":"344500", "priceInc":"3.45" },
+    { "name":"GS리테일", "id":"007070", "volumeInc":"2.51", "price":"56700", "priceInc":"3.28" },
+    { "name":"BGF리테일", "id":"027410", "volumeInc":"2.50", "price":"119500", "priceInc":"5.29" },
+    { "name":"오리온", "id":"001800", "volumeInc":"2.49", "price":"717000", "priceInc":"3.31" },
+    { "name":"오뚜기", "id":"007310", "volumeInc":"2.38", "price":"795000", "priceInc":"4.06" },
+    { "name":"아이에스동서", "id":"010780", "volumeInc":"2.37", "price":"46000", "priceInc":"0.77" },
+    { "name":"메리츠화재", "id":"000060", "volumeInc":"2.20", "price":"18350", "priceInc":"0.27" },
+    { "name":"동양생명", "id":"082640", "volumeInc":"2.20", "price":"9910", "priceInc":"0.61" }
+  ]
+}
