@@ -1,0 +1,25 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"제일약품", "id":"002620", "volumeInc":"5.46", "price":"73800", "priceInc":"5.28" },
+    { "name":"한미약품", "id":"128940", "volumeInc":"4.24", "price":"379000", "priceInc":"7.52" },
+    { "name":"한미사이언스", "id":"008930", "volumeInc":"3.71", "price":"69300", "priceInc":"5.64" },
+    { "name":"엔씨소프트", "id":"036570", "volumeInc":"3.18", "price":"372500", "priceInc":"2.90" },
+    { "name":"한화케미칼", "id":"009830", "volumeInc":"3.03", "price":"27150", "priceInc":"4.42" },
+    { "name":"CJ대한통운", "id":"000120", "volumeInc":"2.86", "price":"183500", "priceInc":"3.09" },
+    { "name":"한국토지신탁", "id":"034830", "volumeInc":"2.78", "price":"3320", "priceInc":"2.95" },
+    { "name":"코오롱인더", "id":"120110", "volumeInc":"2.62", "price":"70500", "priceInc":"2.92" },
+    { "name":"삼성SDI", "id":"006400", "volumeInc":"2.62", "price":"149500", "priceInc":"5.28" },
+    { "name":"우리은행", "id":"000030", "volumeInc":"2.58", "price":"16250", "priceInc":"4.17" },
+    { "name":"오리온", "id":"001800", "volumeInc":"2.50", "price":"738000", "priceInc":"2.93" },
+    { "name":"현대홈쇼핑", "id":"057050", "volumeInc":"2.31", "price":"131000", "priceInc":"5.65" },
+    { "name":"메리츠종금증권", "id":"008560", "volumeInc":"2.28", "price":"4470", "priceInc":"4.93" },
+    { "name":"일양약품", "id":"007570", "volumeInc":"2.19", "price":"40500", "priceInc":"2.14" },
+    { "name":"삼성증권", "id":"016360", "volumeInc":"2.08", "price":"37100", "priceInc":"2.91" },
+    { "name":"녹십자", "id":"006280", "volumeInc":"1.94", "price":"175500", "priceInc":"2.93" },
+    { "name":"영진약품", "id":"003520", "volumeInc":"1.90", "price":"9640", "priceInc":"3.66" },
+    { "name":"두산", "id":"000150", "volumeInc":"1.87", "price":"101000", "priceInc":"1.92" },
+    { "name":"도레이케미칼", "id":"008000", "volumeInc":"1.87", "price":"19200", "priceInc":"0.26" },
+    { "name":"코스맥스", "id":"192820", "volumeInc":"1.80", "price":"158500", "priceInc":"3.59" }
+  ]
+}
