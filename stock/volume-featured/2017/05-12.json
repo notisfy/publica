@@ -1,0 +1,21 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한화케미칼", "id":"009830", "volumeInc":"3.09", "price":"27600", "priceInc":"1.66" },
+    { "name":"한국가스공사", "id":"036460", "volumeInc":"3.08", "price":"48600", "priceInc":"5.08" },
+    { "name":"GS", "id":"078930", "volumeInc":"2.71", "price":"62000", "priceInc":"4.91" },
+    { "name":"한화생명", "id":"088350", "volumeInc":"2.53", "price":"6570", "priceInc":"2.82" },
+    { "name":"지역난방공사", "id":"071320", "volumeInc":"2.43", "price":"72200", "priceInc":"2.27" },
+    { "name":"키움증권", "id":"039490", "volumeInc":"2.39", "price":"81500", "priceInc":"0.74" },
+    { "name":"신세계", "id":"004170", "volumeInc":"2.22", "price":"225500", "priceInc":"1.81" },
+    { "name":"삼성증권", "id":"016360", "volumeInc":"2.09", "price":"37800", "priceInc":"1.89" },
+    { "name":"SK케미칼", "id":"006120", "volumeInc":"2.04", "price":"64600", "priceInc":"2.05" },
+    { "name":"CJ제일제당", "id":"097950", "volumeInc":"2.01", "price":"358000", "priceInc":"0.28" },
+    { "name":"롯데하이마트", "id":"071840", "volumeInc":"1.88", "price":"57700", "priceInc":"3.22" },
+    { "name":"삼성생명", "id":"032830", "volumeInc":"1.70", "price":"118000", "priceInc":"1.72" },
+    { "name":"맥쿼리인프라", "id":"088980", "volumeInc":"1.65", "price":"8690", "priceInc":"0.35" },
+    { "name":"LG유플러스", "id":"032640", "volumeInc":"1.62", "price":"13750", "priceInc":"1.48" },
+    { "name":"한화", "id":"000880", "volumeInc":"1.61", "price":"42550", "priceInc":"1.31" },
+    { "name":"SK", "id":"034730", "volumeInc":"1.58", "price":"250500", "priceInc":"2.45" }
+  ]
+}

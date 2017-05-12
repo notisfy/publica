@@ -1,0 +1,13 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "지역난방공사",
+  "dailyTrading" : [
+    { "date":"2017-04-28", "volume":"12013", "adjClosePrice":"70600", "featured":false },
+    { "date":"2017-05-02", "volume":"8291", "adjClosePrice":"70600", "featured":false },
+    { "date":"2017-05-04", "volume":"27394", "adjClosePrice":"69900", "featured":false },
+    { "date":"2017-05-08", "volume":"47800", "adjClosePrice":"70800", "featured":true },
+    { "date":"2017-05-10", "volume":"14321", "adjClosePrice":"69900", "featured":false },
+    { "date":"2017-05-11", "volume":"9664", "adjClosePrice":"70600", "featured":false },
+    { "date":"2017-05-12", "volume":"29718", "adjClosePrice":"72200", "featured":true }
+  ]
+}
