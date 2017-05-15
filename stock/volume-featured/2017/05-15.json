@@ -1,0 +1,14 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"삼성생명", "id":"032830", "volumeInc":"3.07", "price":"123000", "priceInc":"4.24" },
+    { "name":"NHN엔터테인먼트", "id":"181710", "volumeInc":"2.83", "price":"66300", "priceInc":"5.24" },
+    { "name":"제일약품", "id":"002620", "volumeInc":"2.23", "price":"77600", "priceInc":"4.58" },
+    { "name":"롯데하이마트", "id":"071840", "volumeInc":"2.03", "price":"60100", "priceInc":"4.16" },
+    { "name":"현대그린푸드", "id":"005440", "volumeInc":"1.91", "price":"16350", "priceInc":"1.55" },
+    { "name":"한온시스템", "id":"018880", "volumeInc":"1.88", "price":"9500", "priceInc":"3.94" },
+    { "name":"아시아나항공", "id":"020560", "volumeInc":"1.64", "price":"4670", "priceInc":"1.63" },
+    { "name":"CJ CGV", "id":"079160", "volumeInc":"1.57", "price":"82500", "priceInc":"0.98" },
+    { "name":"스카이라이프", "id":"053210", "volumeInc":"1.51", "price":"16800", "priceInc":"0.60" }
+  ]
+}

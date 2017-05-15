@@ -1,0 +1,13 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "한화",
+  "dailyTrading" : [
+    { "date":"2017-05-02", "volume":"240469", "adjClosePrice":"40050", "featured":false },
+    { "date":"2017-05-04", "volume":"292051", "adjClosePrice":"40050", "featured":false },
+    { "date":"2017-05-08", "volume":"377798", "adjClosePrice":"41050", "featured":true },
+    { "date":"2017-05-10", "volume":"514813", "adjClosePrice":"41350", "featured":true },
+    { "date":"2017-05-11", "volume":"259162", "adjClosePrice":"42000", "featured":false },
+    { "date":"2017-05-12", "volume":"419849", "adjClosePrice":"42550", "featured":true },
+    { "date":"2017-05-15", "volume":"276765", "adjClosePrice":"42650", "featured":false }
+  ]
+}
