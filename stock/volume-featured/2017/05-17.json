@@ -1,0 +1,22 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"하이트진로", "id":"000080", "volumeInc":"3.87", "price":"22750", "priceInc":"3.88" },
+    { "name":"쿠쿠전자", "id":"192400", "volumeInc":"3.27", "price":"148000", "priceInc":"3.50" },
+    { "name":"아시아나항공", "id":"020560", "volumeInc":"2.99", "price":"4850", "priceInc":"3.85" },
+    { "name":"코스맥스", "id":"192820", "volumeInc":"2.55", "price":"133000", "priceInc":"2.31" },
+    { "name":"LS", "id":"006260", "volumeInc":"2.54", "price":"72100", "priceInc":"5.26" },
+    { "name":"GKL", "id":"114090", "volumeInc":"2.33", "price":"23000", "priceInc":"1.77" },
+    { "name":"동서", "id":"026960", "volumeInc":"2.11", "price":"31200", "priceInc":"1.13" },
+    { "name":"제일약품", "id":"002620", "volumeInc":"2.10", "price":"81300", "priceInc":"4.77" },
+    { "name":"아모레퍼시픽우", "id":"090435", "volumeInc":"2.00", "price":"217000", "priceInc":"3.09" },
+    { "name":"한국전력", "id":"015760", "volumeInc":"1.98", "price":"42750", "priceInc":"1.91" },
+    { "name":"한국토지신탁", "id":"034830", "volumeInc":"1.96", "price":"3390", "priceInc":"4.47" },
+    { "name":"잇츠스킨", "id":"226320", "volumeInc":"1.87", "price":"51700", "priceInc":"6.82" },
+    { "name":"지역난방공사", "id":"071320", "volumeInc":"1.75", "price":"74100", "priceInc":"2.35" },
+    { "name":"호텔신라", "id":"008770", "volumeInc":"1.71", "price":"61000", "priceInc":"4.63" },
+    { "name":"엔씨소프트", "id":"036570", "volumeInc":"1.61", "price":"374500", "priceInc":"4.46" },
+    { "name":"메리츠화재", "id":"000060", "volumeInc":"1.57", "price":"18900", "priceInc":"0.27" },
+    { "name":"두산", "id":"000150", "volumeInc":"1.57", "price":"104500", "priceInc":"1.95" }
+  ]
+}
