@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "BGF리테일",
+  "dailyTrading" : [
+    { "date":"2017-05-04", "volume":"71054", "adjClosePrice":"107500", "featured":false },
+    { "date":"2017-05-08", "volume":"233966", "adjClosePrice":"113500", "featured":true },
+    { "date":"2017-05-10", "volume":"280101", "adjClosePrice":"119500", "featured":true },
+    { "date":"2017-05-11", "volume":"145288", "adjClosePrice":"122500", "featured":false },
+    { "date":"2017-05-12", "volume":"226741", "adjClosePrice":"121500", "featured":false },
+    { "date":"2017-05-15", "volume":"126599", "adjClosePrice":"124500", "featured":false },
+    { "date":"2017-05-16", "volume":"90730", "adjClosePrice":"124000", "featured":false },
+    { "date":"2017-05-17", "volume":"72251", "adjClosePrice":"124000", "featured":false },
+    { "date":"2017-05-18", "volume":"134219", "adjClosePrice":"125000", "featured":false }
+  ]
+}
