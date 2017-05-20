@@ -1,0 +1,23 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"하이트진로", "id":"000080", "volumeInc":"6.70", "price":"23700", "priceInc":"4.18" },
+    { "name":"쿠쿠전자", "id":"192400", "volumeInc":"3.66", "price":"156500", "priceInc":"4.68" },
+    { "name":"롯데정밀화학", "id":"004000", "volumeInc":"3.16", "price":"40900", "priceInc":"9.07" },
+    { "name":"현대차", "id":"005380", "volumeInc":"3.14", "price":"170000", "priceInc":"3.03" },
+    { "name":"휠라코리아", "id":"081660", "volumeInc":"3.00", "price":"70900", "priceInc":"3.81" },
+    { "name":"기아차", "id":"000270", "volumeInc":"2.55", "price":"38800", "priceInc":"1.57" },
+    { "name":"현대모비스", "id":"012330", "volumeInc":"2.39", "price":"273000", "priceInc":"5.00" },
+    { "name":"영원무역홀딩스", "id":"009970", "volumeInc":"2.34", "price":"51700", "priceInc":"0.58" },
+    { "name":"대림산업", "id":"000210", "volumeInc":"2.29", "price":"82600", "priceInc":"3.38" },
+    { "name":"삼성에스디에스", "id":"018260", "volumeInc":"2.24", "price":"155500", "priceInc":"5.07" },
+    { "name":"현대차우", "id":"005385", "volumeInc":"2.17", "price":"104500", "priceInc":"0.97" },
+    { "name":"쌍용양회", "id":"003410", "volumeInc":"2.16", "price":"14950", "priceInc":"4.55" },
+    { "name":"삼성물산", "id":"028260", "volumeInc":"1.94", "price":"129500", "priceInc":"3.60" },
+    { "name":"현대차2우B", "id":"005387", "volumeInc":"1.77", "price":"110500", "priceInc":"1.38" },
+    { "name":"CJ", "id":"001040", "volumeInc":"1.74", "price":"209000", "priceInc":"3.98" },
+    { "name":"CJ제일제당", "id":"097950", "volumeInc":"1.64", "price":"362500", "priceInc":"2.11" },
+    { "name":"삼성전기", "id":"009150", "volumeInc":"1.64", "price":"78600", "priceInc":"3.97" },
+    { "name":"KCC", "id":"002380", "volumeInc":"1.56", "price":"357000", "priceInc":"3.18" }
+  ]
+}
