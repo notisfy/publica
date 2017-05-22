@@ -1,0 +1,23 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"대한유화", "id":"006650", "volumeInc":"4.68", "price":"255500", "priceInc":"9.19" },
+    { "name":"KCC", "id":"002380", "volumeInc":"4.01", "price":"373500", "priceInc":"4.62" },
+    { "name":"대림산업", "id":"000210", "volumeInc":"2.97", "price":"85200", "priceInc":"3.15" },
+    { "name":"롯데케미칼", "id":"011170", "volumeInc":"2.79", "price":"373500", "priceInc":"6.41" },
+    { "name":"GS", "id":"078930", "volumeInc":"2.56", "price":"67700", "priceInc":"4.15" },
+    { "name":"오리온", "id":"001800", "volumeInc":"2.54", "price":"728000", "priceInc":"1.11" },
+    { "name":"현대제철", "id":"004020", "volumeInc":"2.51", "price":"58600", "priceInc":"4.27" },
+    { "name":"한솔케미칼", "id":"014680", "volumeInc":"2.46", "price":"76100", "priceInc":"0.13" },
+    { "name":"효성", "id":"004800", "volumeInc":"2.44", "price":"159000", "priceInc":"4.95" },
+    { "name":"금호석유", "id":"011780", "volumeInc":"2.41", "price":"77600", "priceInc":"4.58" },
+    { "name":"동국제강", "id":"001230", "volumeInc":"2.32", "price":"12350", "priceInc":"7.39" },
+    { "name":"쌍용양회", "id":"003410", "volumeInc":"2.20", "price":"15250", "priceInc":"2.01" },
+    { "name":"현대차우", "id":"005385", "volumeInc":"2.12", "price":"105500", "priceInc":"0.96" },
+    { "name":"POSCO", "id":"005490", "volumeInc":"2.09", "price":"285000", "priceInc":"4.97" },
+    { "name":"대상", "id":"001680", "volumeInc":"1.83", "price":"27250", "priceInc":"2.06" },
+    { "name":"한화케미칼", "id":"009830", "volumeInc":"1.66", "price":"29500", "priceInc":"2.97" },
+    { "name":"삼성전자", "id":"005930", "volumeInc":"1.58", "price":"2255000", "priceInc":"0.85" },
+    { "name":"영풍", "id":"000670", "volumeInc":"1.52", "price":"984000", "priceInc":"1.65" }
+  ]
+}
