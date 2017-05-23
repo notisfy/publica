@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "현대중공업",
+  "dailyTrading" : [
+    { "date":"2017-05-10", "volume":"3798924", "adjClosePrice":"180000", "featured":true },
+    { "date":"2017-05-11", "volume":"770079", "adjClosePrice":"176500", "featured":false },
+    { "date":"2017-05-12", "volume":"505489", "adjClosePrice":"169000", "featured":false },
+    { "date":"2017-05-15", "volume":"263373", "adjClosePrice":"170000", "featured":false },
+    { "date":"2017-05-16", "volume":"219395", "adjClosePrice":"169000", "featured":false },
+    { "date":"2017-05-17", "volume":"213056", "adjClosePrice":"171000", "featured":false },
+    { "date":"2017-05-18", "volume":"371786", "adjClosePrice":"166500", "featured":false },
+    { "date":"2017-05-19", "volume":"278507", "adjClosePrice":"167000", "featured":false },
+    { "date":"2017-05-22", "volume":"194034", "adjClosePrice":"167500", "featured":false },
+    { "date":"2017-05-23", "volume":"363199", "adjClosePrice":"173000", "featured":false }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "CJ제일제당",
+  "dailyTrading" : [
+    { "date":"2017-05-10", "volume":"57767", "adjClosePrice":"355500", "featured":false },
+    { "date":"2017-05-11", "volume":"30097", "adjClosePrice":"357000", "featured":false },
+    { "date":"2017-05-12", "volume":"75598", "adjClosePrice":"358000", "featured":true },
+    { "date":"2017-05-15", "volume":"41924", "adjClosePrice":"354000", "featured":false },
+    { "date":"2017-05-16", "volume":"32799", "adjClosePrice":"354500", "featured":false },
+    { "date":"2017-05-17", "volume":"32066", "adjClosePrice":"353500", "featured":false },
+    { "date":"2017-05-18", "volume":"48275", "adjClosePrice":"355000", "featured":false },
+    { "date":"2017-05-19", "volume":"62164", "adjClosePrice":"362500", "featured":true },
+    { "date":"2017-05-22", "volume":"49122", "adjClosePrice":"366500", "featured":false },
+    { "date":"2017-05-23", "volume":"81324", "adjClosePrice":"370000", "featured":true }
+  ]
+}

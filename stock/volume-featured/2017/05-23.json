@@ -1,0 +1,24 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"SKC", "id":"011790", "volumeInc":"3.69", "price":"30650", "priceInc":"3.72" },
+    { "name":"두산", "id":"000150", "volumeInc":"2.80", "price":"112000", "priceInc":"4.67" },
+    { "name":"오리온", "id":"001800", "volumeInc":"2.78", "price":"755000", "priceInc":"3.71" },
+    { "name":"현대산업", "id":"012630", "volumeInc":"2.75", "price":"48350", "priceInc":"4.88" },
+    { "name":"현대엘리베이", "id":"017800", "volumeInc":"2.51", "price":"63100", "priceInc":"1.94" },
+    { "name":"현대그린푸드", "id":"005440", "volumeInc":"2.51", "price":"16350", "priceInc":"0.93" },
+    { "name":"한미약품", "id":"128940", "volumeInc":"2.50", "price":"370500", "priceInc":"3.93" },
+    { "name":"CJ제일제당", "id":"097950", "volumeInc":"2.15", "price":"370000", "priceInc":"0.95" },
+    { "name":"동원산업", "id":"006040", "volumeInc":"1.93", "price":"329000", "priceInc":"3.30" },
+    { "name":"한화생명", "id":"088350", "volumeInc":"1.92", "price":"6870", "priceInc":"3.00" },
+    { "name":"LG하우시스", "id":"108670", "volumeInc":"1.84", "price":"107000", "priceInc":"1.42" },
+    { "name":"한국토지신탁", "id":"034830", "volumeInc":"1.84", "price":"3520", "priceInc":"0.86" },
+    { "name":"동양생명", "id":"082640", "volumeInc":"1.78", "price":"10000", "priceInc":"0.81" },
+    { "name":"기아차", "id":"000270", "volumeInc":"1.78", "price":"39150", "priceInc":"0.26" },
+    { "name":"SK", "id":"034730", "volumeInc":"1.71", "price":"270000", "priceInc":"1.69" },
+    { "name":"한국가스공사", "id":"036460", "volumeInc":"1.66", "price":"51000", "priceInc":"0.79" },
+    { "name":"동양", "id":"001520", "volumeInc":"1.64", "price":"2340", "priceInc":"4.23" },
+    { "name":"오뚜기", "id":"007310", "volumeInc":"1.56", "price":"821000", "priceInc":"2.88" },
+    { "name":"유한양행", "id":"000100", "volumeInc":"1.50", "price":"236000", "priceInc":"1.07" }
+  ]
+}
