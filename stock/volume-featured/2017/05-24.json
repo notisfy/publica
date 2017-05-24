@@ -1,0 +1,25 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"JW홀딩스", "id":"096760", "volumeInc":"8.16", "price":"9370", "priceInc":"3.42" },
+    { "name":"SK케미칼", "id":"006120", "volumeInc":"6.21", "price":"70200", "priceInc":"7.01" },
+    { "name":"휠라코리아", "id":"081660", "volumeInc":"5.10", "price":"73800", "priceInc":"3.65" },
+    { "name":"현대그린푸드", "id":"005440", "volumeInc":"4.78", "price":"16500", "priceInc":"0.92" },
+    { "name":"JW중외제약", "id":"001060", "volumeInc":"3.80", "price":"49400", "priceInc":"5.33" },
+    { "name":"두산", "id":"000150", "volumeInc":"3.05", "price":"114000", "priceInc":"1.79" },
+    { "name":"동서", "id":"026960", "volumeInc":"2.93", "price":"33450", "priceInc":"4.53" },
+    { "name":"일양약품", "id":"007570", "volumeInc":"2.34", "price":"40750", "priceInc":"3.16" },
+    { "name":"유한양행", "id":"000100", "volumeInc":"2.16", "price":"245000", "priceInc":"3.81" },
+    { "name":"영진약품", "id":"003520", "volumeInc":"2.09", "price":"9900", "priceInc":"3.02" },
+    { "name":"스카이라이프", "id":"053210", "volumeInc":"2.08", "price":"16650", "priceInc":"2.46" },
+    { "name":"LG", "id":"003550", "volumeInc":"2.05", "price":"80000", "priceInc":"5.12" },
+    { "name":"제주항공", "id":"089590", "volumeInc":"2.05", "price":"34950", "priceInc":"4.02" },
+    { "name":"녹십자홀딩스", "id":"005250", "volumeInc":"2.02", "price":"35100", "priceInc":"3.69" },
+    { "name":"풍산", "id":"103140", "volumeInc":"1.69", "price":"41950", "priceInc":"2.82" },
+    { "name":"영풍", "id":"000670", "volumeInc":"1.68", "price":"995000", "priceInc":"1.12" },
+    { "name":"대한항공", "id":"003490", "volumeInc":"1.63", "price":"34450", "priceInc":"3.30" },
+    { "name":"LS", "id":"006260", "volumeInc":"1.57", "price":"73700", "priceInc":"1.38" },
+    { "name":"동아에스티", "id":"170900", "volumeInc":"1.52", "price":"97500", "priceInc":"3.28" },
+    { "name":"효성", "id":"004800", "volumeInc":"1.52", "price":"162500", "priceInc":"2.85" }
+  ]
+}
