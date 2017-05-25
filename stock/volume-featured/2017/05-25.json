@@ -1,0 +1,25 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"현대그린푸드", "id":"005440", "volumeInc":"8.28", "price":"17700", "priceInc":"7.27" },
+    { "name":"메리츠금융지주", "id":"138040", "volumeInc":"3.96", "price":"14600", "priceInc":"2.46" },
+    { "name":"대한유화", "id":"006650", "volumeInc":"3.89", "price":"276500", "priceInc":"10.16" },
+    { "name":"KCC", "id":"002380", "volumeInc":"3.84", "price":"409500", "priceInc":"6.78" },
+    { "name":"대림산업", "id":"000210", "volumeInc":"3.50", "price":"89700", "priceInc":"5.53" },
+    { "name":"포스코대우", "id":"047050", "volumeInc":"3.48", "price":"25000", "priceInc":"7.76" },
+    { "name":"다우기술", "id":"023590", "volumeInc":"3.45", "price":"20750", "priceInc":"6.14" },
+    { "name":"OCI", "id":"010060", "volumeInc":"3.09", "price":"89800", "priceInc":"2.86" },
+    { "name":"현대산업", "id":"012630", "volumeInc":"2.98", "price":"51200", "priceInc":"7.11" },
+    { "name":"삼성중공업", "id":"010140", "volumeInc":"2.96", "price":"12650", "priceInc":"6.30" },
+    { "name":"GS건설", "id":"006360", "volumeInc":"2.82", "price":"32450", "priceInc":"5.53" },
+    { "name":"LG하우시스", "id":"108670", "volumeInc":"2.73", "price":"112500", "priceInc":"3.69" },
+    { "name":"현대건설", "id":"000720", "volumeInc":"2.33", "price":"49300", "priceInc":"2.60" },
+    { "name":"현대위아", "id":"011210", "volumeInc":"2.31", "price":"71700", "priceInc":"4.06" },
+    { "name":"영원무역홀딩스", "id":"009970", "volumeInc":"2.27", "price":"53100", "priceInc":"1.34" },
+    { "name":"스카이라이프", "id":"053210", "volumeInc":"2.20", "price":"16800", "priceInc":"0.90" },
+    { "name":"GS", "id":"078930", "volumeInc":"2.12", "price":"71600", "priceInc":"4.07" },
+    { "name":"지역난방공사", "id":"071320", "volumeInc":"2.09", "price":"76400", "priceInc":"4.95" },
+    { "name":"태광산업", "id":"003240", "volumeInc":"2.00", "price":"1067000", "priceInc":"4.51" },
+    { "name":"CJ대한통운", "id":"000120", "volumeInc":"1.97", "price":"185500", "priceInc":"2.49" }
+  ]
+}
