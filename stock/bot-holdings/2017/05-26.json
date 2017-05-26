@@ -1,0 +1,26 @@
+{
+  "version" : "bot-holdings-v1",
+  "stocks" : [
+    { "name":"하이트진로2우B", "id":"000087", "holdings":"176750" },
+    { "name":"두산우", "id":"000155", "holdings":"530544" },
+    { "name":"LG상사", "id":"001120", "holdings":"126950" },
+    { "name":"한국쉘석유", "id":"002960", "holdings":"5251841" },
+    { "name":"코리안리", "id":"003690", "holdings":"33600" },
+    { "name":"POSCO", "id":"005490", "holdings":"265167" },
+    { "name":"NH투자증권우", "id":"005945", "holdings":"167200" },
+    { "name":"미래에셋대우우", "id":"006805", "holdings":"122350" },
+    { "name":"율촌화학", "id":"008730", "holdings":"39800" },
+    { "name":"호텔신라우", "id":"008775", "holdings":"439950" },
+    { "name":"S-Oil우", "id":"010955", "holdings":"640500" },
+    { "name":"한국전력", "id":"015760", "holdings":"813100" },
+    { "name":"SK텔레콤", "id":"017670", "holdings":"703500" },
+    { "name":"한국단자", "id":"025540", "holdings":"493844" },
+    { "name":"삼성카드", "id":"029780", "holdings":"40100" },
+    { "name":"KT", "id":"030200", "holdings":"378650" },
+    { "name":"LG화학", "id":"051910", "holdings":"275667" },
+    { "name":"지역난방공사", "id":"071320", "holdings":"74200" },
+    { "name":"TIGER 200", "id":"102110", "holdings":"150565" },
+    { "name":"TIGER 인버스", "id":"123310", "holdings":"6900" },
+    { "name":"TIGER 레버리지", "id":"123320", "holdings":"139071" }
+  ]
+}
