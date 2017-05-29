@@ -1,0 +1,20 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"두산", "id":"000150", "volumeInc":"3.78", "price":"118000", "priceInc":"1.72" },
+    { "name":"오리온", "id":"001800", "volumeInc":"3.50", "price":"798000", "priceInc":"1.92" },
+    { "name":"영풍", "id":"000670", "volumeInc":"2.34", "price":"1049000", "priceInc":"3.76" },
+    { "name":"BGF리테일", "id":"027410", "volumeInc":"2.20", "price":"137500", "priceInc":"6.59" },
+    { "name":"한화", "id":"000880", "volumeInc":"2.04", "price":"48000", "priceInc":"3.90" },
+    { "name":"한화케미칼", "id":"009830", "volumeInc":"1.97", "price":"29800", "priceInc":"1.88" },
+    { "name":"동양", "id":"001520", "volumeInc":"1.95", "price":"2460", "priceInc":"2.50" },
+    { "name":"삼성물산", "id":"028260", "volumeInc":"1.95", "price":"137500", "priceInc":"2.61" },
+    { "name":"GS리테일", "id":"007070", "volumeInc":"1.90", "price":"56600", "priceInc":"2.54" },
+    { "name":"스카이라이프", "id":"053210", "volumeInc":"1.71", "price":"16850", "priceInc":"0.30" },
+    { "name":"삼성에스디에스", "id":"018260", "volumeInc":"1.68", "price":"167000", "priceInc":"3.41" },
+    { "name":"LG", "id":"003550", "volumeInc":"1.68", "price":"82100", "priceInc":"3.01" },
+    { "name":"CJ", "id":"001040", "volumeInc":"1.62", "price":"220000", "priceInc":"0.46" },
+    { "name":"GS", "id":"078930", "volumeInc":"1.56", "price":"73100", "priceInc":"1.53" },
+    { "name":"삼성SDI", "id":"006400", "volumeInc":"1.53", "price":"165000", "priceInc":"3.45" }
+  ]
+}

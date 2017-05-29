@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "아시아나항공",
+  "dailyTrading" : [
+    { "date":"2017-05-15", "volume":"1521911", "adjClosePrice":"4670", "featured":true },
+    { "date":"2017-05-16", "volume":"918510", "adjClosePrice":"4670", "featured":false },
+    { "date":"2017-05-17", "volume":"2935066", "adjClosePrice":"4850", "featured":true },
+    { "date":"2017-05-18", "volume":"1750239", "adjClosePrice":"4865", "featured":false },
+    { "date":"2017-05-19", "volume":"1339625", "adjClosePrice":"4875", "featured":false },
+    { "date":"2017-05-22", "volume":"782854", "adjClosePrice":"4870", "featured":false },
+    { "date":"2017-05-23", "volume":"788056", "adjClosePrice":"4880", "featured":false },
+    { "date":"2017-05-24", "volume":"1394431", "adjClosePrice":"4960", "featured":false },
+    { "date":"2017-05-25", "volume":"1799199", "adjClosePrice":"5010", "featured":true },
+    { "date":"2017-05-26", "volume":"2328847", "adjClosePrice":"5100", "featured":true },
+    { "date":"2017-05-29", "volume":"1661390", "adjClosePrice":"4935", "featured":false }
+  ]
+}
