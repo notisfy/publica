@@ -1,0 +1,21 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"휠라코리아", "id":"081660", "volumeInc":"4.12", "price":"77100", "priceInc":"4.90" },
+    { "name":"영진약품", "id":"003520", "volumeInc":"3.87", "price":"11850", "priceInc":"12.32" },
+    { "name":"LG디스플레이", "id":"034220", "volumeInc":"3.73", "price":"32050", "priceInc":"6.13" },
+    { "name":"영원무역", "id":"111770", "volumeInc":"2.68", "price":"36550", "priceInc":"5.94" },
+    { "name":"동아에스티", "id":"170900", "volumeInc":"2.41", "price":"99500", "priceInc":"3.86" },
+    { "name":"현대그린푸드", "id":"005440", "volumeInc":"2.38", "price":"18150", "priceInc":"2.25" },
+    { "name":"삼립식품", "id":"005610", "volumeInc":"2.14", "price":"223500", "priceInc":"4.44" },
+    { "name":"유한양행", "id":"000100", "volumeInc":"2.12", "price":"251500", "priceInc":"1.21" },
+    { "name":"한세실업", "id":"105630", "volumeInc":"1.91", "price":"26550", "priceInc":"5.57" },
+    { "name":"아시아나항공", "id":"020560", "volumeInc":"1.90", "price":"5120", "priceInc":"3.75" },
+    { "name":"BNK금융지주", "id":"138930", "volumeInc":"1.85", "price":"10000", "priceInc":"1.11" },
+    { "name":"일양약품", "id":"007570", "volumeInc":"1.58", "price":"40900", "priceInc":"2.38" },
+    { "name":"한미약품", "id":"128940", "volumeInc":"1.58", "price":"367000", "priceInc":"2.37" },
+    { "name":"부광약품", "id":"003000", "volumeInc":"1.56", "price":"21900", "priceInc":"2.58" },
+    { "name":"SKC", "id":"011790", "volumeInc":"1.53", "price":"31850", "priceInc":"0.79" },
+    { "name":"코오롱인더", "id":"120110", "volumeInc":"1.52", "price":"70300", "priceInc":"2.63" }
+  ]
+}
