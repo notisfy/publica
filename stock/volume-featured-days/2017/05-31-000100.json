@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "유한양행",
+  "dailyTrading" : [
+    { "date":"2017-05-17", "volume":"49058", "adjClosePrice":"238500", "featured":false },
+    { "date":"2017-05-18", "volume":"34886", "adjClosePrice":"236000", "featured":false },
+    { "date":"2017-05-19", "volume":"67831", "adjClosePrice":"233500", "featured":false },
+    { "date":"2017-05-22", "volume":"39741", "adjClosePrice":"233500", "featured":false },
+    { "date":"2017-05-23", "volume":"66722", "adjClosePrice":"236000", "featured":true },
+    { "date":"2017-05-24", "volume":"96138", "adjClosePrice":"245000", "featured":true },
+    { "date":"2017-05-25", "volume":"50611", "adjClosePrice":"243500", "featured":false },
+    { "date":"2017-05-26", "volume":"46861", "adjClosePrice":"248500", "featured":false },
+    { "date":"2017-05-29", "volume":"48573", "adjClosePrice":"248500", "featured":false },
+    { "date":"2017-05-30", "volume":"92827", "adjClosePrice":"251500", "featured":true },
+    { "date":"2017-05-31", "volume":"77106", "adjClosePrice":"250000", "featured":false }
+  ]
+}

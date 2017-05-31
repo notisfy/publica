@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "CJ",
+  "dailyTrading" : [
+    { "date":"2017-05-17", "volume":"129552", "adjClosePrice":"204500", "featured":false },
+    { "date":"2017-05-18", "volume":"111238", "adjClosePrice":"201000", "featured":false },
+    { "date":"2017-05-19", "volume":"153846", "adjClosePrice":"209000", "featured":true },
+    { "date":"2017-05-22", "volume":"129865", "adjClosePrice":"211000", "featured":false },
+    { "date":"2017-05-23", "volume":"87823", "adjClosePrice":"211500", "featured":false },
+    { "date":"2017-05-24", "volume":"94601", "adjClosePrice":"216500", "featured":false },
+    { "date":"2017-05-25", "volume":"69047", "adjClosePrice":"218500", "featured":false },
+    { "date":"2017-05-26", "volume":"75143", "adjClosePrice":"219000", "featured":false },
+    { "date":"2017-05-29", "volume":"150408", "adjClosePrice":"220000", "featured":true },
+    { "date":"2017-05-30", "volume":"192219", "adjClosePrice":"212000", "featured":false },
+    { "date":"2017-05-31", "volume":"119672", "adjClosePrice":"211500", "featured":false }
+  ]
+}
