@@ -1,0 +1,13 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한전기술", "id":"052690", "volumeInc":"4.83", "price":"24650", "priceInc":"4.23" },
+    { "name":"휠라코리아", "id":"081660", "volumeInc":"2.98", "price":"78500", "priceInc":"2.35" },
+    { "name":"롯데칠성", "id":"005300", "volumeInc":"2.97", "price":"1881000", "priceInc":"4.15" },
+    { "name":"롯데하이마트", "id":"071840", "volumeInc":"2.56", "price":"68100", "priceInc":"4.77" },
+    { "name":"한국전력", "id":"015760", "volumeInc":"2.08", "price":"44050", "priceInc":"3.16" },
+    { "name":"한전KPS", "id":"051600", "volumeInc":"1.79", "price":"53800", "priceInc":"1.51" },
+    { "name":"키움증권", "id":"039490", "volumeInc":"1.67", "price":"85300", "priceInc":"1.55" },
+    { "name":"OCI", "id":"010060", "volumeInc":"1.67", "price":"90300", "priceInc":"1.46" }
+  ]
+}
