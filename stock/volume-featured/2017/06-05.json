@@ -1,0 +1,20 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"대웅제약", "id":"069620", "volumeInc":"3.48", "price":"101500", "priceInc":"6.39" },
+    { "name":"넥센타이어", "id":"002350", "volumeInc":"2.91", "price":"13700", "priceInc":"2.62" },
+    { "name":"녹십자", "id":"006280", "volumeInc":"2.66", "price":"185000", "priceInc":"2.78" },
+    { "name":"일양약품", "id":"007570", "volumeInc":"2.53", "price":"43550", "priceInc":"2.47" },
+    { "name":"종근당", "id":"185750", "volumeInc":"2.51", "price":"127500", "priceInc":"4.51" },
+    { "name":"JW중외제약", "id":"001060", "volumeInc":"2.41", "price":"52400", "priceInc":"0.19" },
+    { "name":"부광약품", "id":"003000", "volumeInc":"2.08", "price":"23500", "priceInc":"2.62" },
+    { "name":"한미사이언스", "id":"008930", "volumeInc":"2.08", "price":"77100", "priceInc":"2.94" },
+    { "name":"JW홀딩스", "id":"096760", "volumeInc":"2.07", "price":"10300", "priceInc":"2.49" },
+    { "name":"한미약품", "id":"128940", "volumeInc":"1.88", "price":"392000", "priceInc":"0.90" },
+    { "name":"현대로템", "id":"064350", "volumeInc":"1.79", "price":"22650", "priceInc":"2.49" },
+    { "name":"영진약품", "id":"003520", "volumeInc":"1.77", "price":"12400", "priceInc":"0.81" },
+    { "name":"녹십자홀딩스", "id":"005250", "volumeInc":"1.77", "price":"36500", "priceInc":"2.96" },
+    { "name":"LG디스플레이", "id":"034220", "volumeInc":"1.62", "price":"33950", "priceInc":"1.95" },
+    { "name":"KB금융", "id":"105560", "volumeInc":"1.56", "price":"55000", "priceInc":"2.04" }
+  ]
+}
