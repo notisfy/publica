@@ -1,0 +1,25 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"오뚜기", "id":"007310", "volumeInc":"3.24", "price":"885000", "priceInc":"6.76" },
+    { "name":"LG이노텍", "id":"011070", "volumeInc":"2.99", "price":"151500", "priceInc":"7.45" },
+    { "name":"SK케미칼", "id":"006120", "volumeInc":"2.81", "price":"76200", "priceInc":"3.53" },
+    { "name":"JW홀딩스", "id":"096760", "volumeInc":"2.78", "price":"10100", "priceInc":"0.50" },
+    { "name":"우리은행", "id":"000030", "volumeInc":"2.65", "price":"16150", "priceInc":"0.31" },
+    { "name":"일양약품", "id":"007570", "volumeInc":"2.47", "price":"44400", "priceInc":"2.30" },
+    { "name":"한미사이언스", "id":"008930", "volumeInc":"2.35", "price":"81700", "priceInc":"4.88" },
+    { "name":"LG디스플레이", "id":"034220", "volumeInc":"2.07", "price":"36450", "priceInc":"2.97" },
+    { "name":"태광산업", "id":"003240", "volumeInc":"2.03", "price":"1178000", "priceInc":"4.43" },
+    { "name":"제주항공", "id":"089590", "volumeInc":"1.95", "price":"38150", "priceInc":"1.60" },
+    { "name":"아시아나항공", "id":"020560", "volumeInc":"1.94", "price":"5600", "priceInc":"2.38" },
+    { "name":"한국단자", "id":"025540", "volumeInc":"1.86", "price":"72100", "priceInc":"2.12" },
+    { "name":"영진약품", "id":"003520", "volumeInc":"1.84", "price":"13150", "priceInc":"4.78" },
+    { "name":"동아에스티", "id":"170900", "volumeInc":"1.83", "price":"101000", "priceInc":"0.50" },
+    { "name":"GKL", "id":"114090", "volumeInc":"1.81", "price":"22400", "priceInc":"2.05" },
+    { "name":"동부화재", "id":"005830", "volumeInc":"1.70", "price":"72400", "priceInc":"0.28" },
+    { "name":"농심", "id":"004370", "volumeInc":"1.67", "price":"364000", "priceInc":"4.00" },
+    { "name":"삼양사", "id":"145990", "volumeInc":"1.63", "price":"97400", "priceInc":"2.10" },
+    { "name":"영원무역홀딩스", "id":"009970", "volumeInc":"1.62", "price":"57900", "priceInc":"0.87" },
+    { "name":"BNK금융지주", "id":"138930", "volumeInc":"1.56", "price":"10450", "priceInc":"2.45" }
+  ]
+}
