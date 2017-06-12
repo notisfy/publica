@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "BNK금융지주",
+  "dailyTrading" : [
+    { "date":"2017-05-29", "volume":"768587", "adjClosePrice":"9890", "featured":false },
+    { "date":"2017-05-30", "volume":"1679458", "adjClosePrice":"10000", "featured":true },
+    { "date":"2017-05-31", "volume":"1189855", "adjClosePrice":"10000", "featured":false },
+    { "date":"2017-06-01", "volume":"670708", "adjClosePrice":"9980", "featured":false },
+    { "date":"2017-06-02", "volume":"1148860", "adjClosePrice":"10050", "featured":false },
+    { "date":"2017-06-05", "volume":"937468", "adjClosePrice":"10050", "featured":false },
+    { "date":"2017-06-07", "volume":"1200459", "adjClosePrice":"10200", "featured":false },
+    { "date":"2017-06-08", "volume":"1471832", "adjClosePrice":"10450", "featured":true },
+    { "date":"2017-06-09", "volume":"1331290", "adjClosePrice":"10600", "featured":false },
+    { "date":"2017-06-12", "volume":"990689", "adjClosePrice":"10700", "featured":false }
+  ]
+}

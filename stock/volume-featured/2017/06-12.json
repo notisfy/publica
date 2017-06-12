@@ -1,0 +1,10 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"기업은행", "id":"024110", "volumeInc":"2.59", "price":"13750", "priceInc":"1.85" },
+    { "name":"OCI", "id":"010060", "volumeInc":"2.17", "price":"89800", "priceInc":"1.70" },
+    { "name":"영풍", "id":"000670", "volumeInc":"2.02", "price":"1069000", "priceInc":"0.56" },
+    { "name":"DGB금융지주", "id":"139130", "volumeInc":"1.92", "price":"11900", "priceInc":"2.59" },
+    { "name":"엔씨소프트", "id":"036570", "volumeInc":"1.60", "price":"416500", "priceInc":"2.84" }
+  ]
+}
