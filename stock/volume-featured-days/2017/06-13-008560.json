@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "메리츠종금증권",
+  "dailyTrading" : [
+    { "date":"2017-05-30", "volume":"5960719", "adjClosePrice":"4445", "featured":false },
+    { "date":"2017-05-31", "volume":"2707341", "adjClosePrice":"4435", "featured":false },
+    { "date":"2017-06-01", "volume":"2202960", "adjClosePrice":"4415", "featured":false },
+    { "date":"2017-06-02", "volume":"3806203", "adjClosePrice":"4545", "featured":true },
+    { "date":"2017-06-05", "volume":"1599498", "adjClosePrice":"4490", "featured":false },
+    { "date":"2017-06-07", "volume":"1776907", "adjClosePrice":"4520", "featured":false },
+    { "date":"2017-06-08", "volume":"3712664", "adjClosePrice":"4635", "featured":false },
+    { "date":"2017-06-09", "volume":"4461875", "adjClosePrice":"4840", "featured":true },
+    { "date":"2017-06-12", "volume":"3661436", "adjClosePrice":"4755", "featured":false },
+    { "date":"2017-06-13", "volume":"2466400", "adjClosePrice":"4845", "featured":false }
+  ]
+}

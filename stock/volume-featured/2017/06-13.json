@@ -1,0 +1,20 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"SKC", "id":"011790", "volumeInc":"5.00", "price":"33750", "priceInc":"8.70" },
+    { "name":"한미사이언스", "id":"008930", "volumeInc":"3.26", "price":"95000", "priceInc":"9.57" },
+    { "name":"삼성중공업", "id":"010140", "volumeInc":"2.99", "price":"13100", "priceInc":"6.50" },
+    { "name":"JW홀딩스", "id":"096760", "volumeInc":"2.74", "price":"10550", "priceInc":"7.65" },
+    { "name":"동아에스티", "id":"170900", "volumeInc":"2.52", "price":"103000", "priceInc":"6.19" },
+    { "name":"한미약품", "id":"128940", "volumeInc":"2.36", "price":"422000", "priceInc":"3.43" },
+    { "name":"LG디스플레이", "id":"034220", "volumeInc":"2.27", "price":"37600", "priceInc":"7.58" },
+    { "name":"맥쿼리인프라", "id":"088980", "volumeInc":"2.16", "price":"8680", "priceInc":"0.12" },
+    { "name":"SK가스", "id":"018670", "volumeInc":"2.09", "price":"125000", "priceInc":"6.38" },
+    { "name":"한진칼", "id":"180640", "volumeInc":"1.78", "price":"25800", "priceInc":"1.38" },
+    { "name":"한국토지신탁", "id":"034830", "volumeInc":"1.77", "price":"3665", "priceInc":"4.12" },
+    { "name":"대한유화", "id":"006650", "volumeInc":"1.76", "price":"262000", "priceInc":"0.96" },
+    { "name":"두산", "id":"000150", "volumeInc":"1.63", "price":"125000", "priceInc":"2.46" },
+    { "name":"현대차우", "id":"005385", "volumeInc":"1.60", "price":"111500", "priceInc":"1.83" },
+    { "name":"CJ제일제당", "id":"097950", "volumeInc":"1.54", "price":"378500", "priceInc":"1.07" }
+  ]
+}
