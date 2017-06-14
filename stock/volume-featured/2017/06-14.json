@@ -1,0 +1,21 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"도레이케미칼", "id":"008000", "volumeInc":"4.27", "price":"19250", "priceInc":"0.52" },
+    { "name":"현대위아", "id":"011210", "volumeInc":"3.83", "price":"72100", "priceInc":"5.26" },
+    { "name":"한미사이언스", "id":"008930", "volumeInc":"3.36", "price":"97800", "priceInc":"2.95" },
+    { "name":"AK홀딩스", "id":"006840", "volumeInc":"3.14", "price":"72200", "priceInc":"3.74" },
+    { "name":"JW홀딩스", "id":"096760", "volumeInc":"2.88", "price":"10800", "priceInc":"2.37" },
+    { "name":"아시아나항공", "id":"020560", "volumeInc":"2.79", "price":"5880", "priceInc":"1.73" },
+    { "name":"두산인프라코어", "id":"042670", "volumeInc":"2.46", "price":"8770", "priceInc":"3.79" },
+    { "name":"금호타이어", "id":"073240", "volumeInc":"2.46", "price":"7780", "priceInc":"5.14" },
+    { "name":"메리츠금융지주", "id":"138040", "volumeInc":"2.31", "price":"15050", "priceInc":"0.33" },
+    { "name":"현대미포조선", "id":"010620", "volumeInc":"2.25", "price":"120000", "priceInc":"6.19" },
+    { "name":"두산중공업", "id":"034020", "volumeInc":"2.16", "price":"24200", "priceInc":"2.98" },
+    { "name":"OCI", "id":"010060", "volumeInc":"2.01", "price":"92000", "priceInc":"2.34" },
+    { "name":"LG이노텍", "id":"011070", "volumeInc":"1.65", "price":"153000", "priceInc":"1.32" },
+    { "name":"한솔케미칼", "id":"014680", "volumeInc":"1.63", "price":"70600", "priceInc":"0.28" },
+    { "name":"현대상선", "id":"011200", "volumeInc":"1.62", "price":"9110", "priceInc":"2.36" },
+    { "name":"대웅제약", "id":"069620", "volumeInc":"1.53", "price":"99900", "priceInc":"2.15" }
+  ]
+}
