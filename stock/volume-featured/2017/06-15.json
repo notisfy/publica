@@ -1,0 +1,11 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"대한전선", "id":"001440", "volumeInc":"3.64", "price":"1435", "priceInc":"3.99" },
+    { "name":"휠라코리아", "id":"081660", "volumeInc":"3.47", "price":"82300", "priceInc":"1.86" },
+    { "name":"제주항공", "id":"089590", "volumeInc":"2.41", "price":"39300", "priceInc":"3.15" },
+    { "name":"LS산전", "id":"010120", "volumeInc":"2.02", "price":"56900", "priceInc":"4.02" },
+    { "name":"한국콜마", "id":"161890", "volumeInc":"1.82", "price":"78200", "priceInc":"2.22" },
+    { "name":"LG이노텍", "id":"011070", "volumeInc":"1.75", "price":"159500", "priceInc":"4.25" }
+  ]
+}
