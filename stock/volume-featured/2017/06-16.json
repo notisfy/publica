@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"대한전선", "id":"001440", "volumeInc":"3.55", "price":"1465", "priceInc":"2.09" },
+    { "name":"한솔케미칼", "id":"014680", "volumeInc":"3.41", "price":"74000", "priceInc":"4.52" },
+    { "name":"한온시스템", "id":"018880", "volumeInc":"3.14", "price":"11300", "priceInc":"4.15" },
+    { "name":"LS", "id":"006260", "volumeInc":"2.31", "price":"75700", "priceInc":"2.99" },
+    { "name":"코오롱인더", "id":"120110", "volumeInc":"2.08", "price":"69100", "priceInc":"1.62" },
+    { "name":"삼성전기", "id":"009150", "volumeInc":"2.01", "price":"89400", "priceInc":"3.95" },
+    { "name":"NHN엔터테인먼트", "id":"181710", "volumeInc":"1.95", "price":"77800", "priceInc":"2.91" },
+    { "name":"쌍용양회", "id":"003410", "volumeInc":"1.81", "price":"14900", "priceInc":"1.36" },
+    { "name":"SK이노베이션", "id":"096770", "volumeInc":"1.77", "price":"159000", "priceInc":"1.60" },
+    { "name":"맥쿼리인프라", "id":"088980", "volumeInc":"1.75", "price":"8730", "priceInc":"0.58" },
+    { "name":"영원무역홀딩스", "id":"009970", "volumeInc":"1.62", "price":"59400", "priceInc":"1.71" },
+    { "name":"메리츠화재", "id":"000060", "volumeInc":"1.60", "price":"19700", "priceInc":"0.51" }
+  ]
+}
