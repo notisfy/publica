@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"NHN엔터테인먼트", "id":"181710", "volumeInc":"4.37", "price":"82200", "priceInc":"5.66" },
+    { "name":"코오롱인더", "id":"120110", "volumeInc":"4.08", "price":"72900", "priceInc":"5.50" },
+    { "name":"SK케미칼", "id":"006120", "volumeInc":"2.94", "price":"79500", "priceInc":"4.74" },
+    { "name":"삼성전기", "id":"009150", "volumeInc":"2.09", "price":"93800", "priceInc":"4.92" },
+    { "name":"한세실업", "id":"105630", "volumeInc":"1.90", "price":"28950", "priceInc":"7.02" },
+    { "name":"OCI", "id":"010060", "volumeInc":"1.83", "price":"92500", "priceInc":"2.21" },
+    { "name":"SK하이닉스", "id":"000660", "volumeInc":"1.74", "price":"62800", "priceInc":"3.80" },
+    { "name":"삼성SDI", "id":"006400", "volumeInc":"1.71", "price":"155000", "priceInc":"5.08" },
+    { "name":"동원시스템즈", "id":"014820", "volumeInc":"1.70", "price":"55100", "priceInc":"1.29" },
+    { "name":"휴켐스", "id":"069260", "volumeInc":"1.68", "price":"26500", "priceInc":"1.53" },
+    { "name":"아시아나항공", "id":"020560", "volumeInc":"1.63", "price":"5900", "priceInc":"2.43" },
+    { "name":"대한항공", "id":"003490", "volumeInc":"1.58", "price":"38750", "priceInc":"5.16" }
+  ]
+}
