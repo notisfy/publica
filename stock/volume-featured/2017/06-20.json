@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"OCI", "id":"010060", "volumeInc":"6.08", "price":"95100", "priceInc":"2.81" },
+    { "name":"한솔케미칼", "id":"014680", "volumeInc":"4.68", "price":"76100", "priceInc":"3.68" },
+    { "name":"한화케미칼", "id":"009830", "volumeInc":"3.66", "price":"30850", "priceInc":"6.38" },
+    { "name":"SK가스", "id":"018670", "volumeInc":"3.11", "price":"130500", "priceInc":"4.82" },
+    { "name":"금호타이어", "id":"073240", "volumeInc":"2.95", "price":"7420", "priceInc":"0.68" },
+    { "name":"한국가스공사", "id":"036460", "volumeInc":"2.22", "price":"51700", "priceInc":"1.37" },
+    { "name":"현대위아", "id":"011210", "volumeInc":"2.14", "price":"73100", "priceInc":"0.83" },
+    { "name":"SK하이닉스", "id":"000660", "volumeInc":"2.10", "price":"64000", "priceInc":"1.91" },
+    { "name":"아시아나항공", "id":"020560", "volumeInc":"1.91", "price":"6030", "priceInc":"2.20" },
+    { "name":"다우기술", "id":"023590", "volumeInc":"1.80", "price":"21700", "priceInc":"4.08" }
+  ]
+}
