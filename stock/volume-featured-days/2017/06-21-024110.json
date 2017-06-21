@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "기업은행",
+  "dailyTrading" : [
+    { "date":"2017-06-07", "volume":"3114795", "adjClosePrice":"13450", "featured":true },
+    { "date":"2017-06-08", "volume":"1776748", "adjClosePrice":"13350", "featured":false },
+    { "date":"2017-06-09", "volume":"2466860", "adjClosePrice":"13500", "featured":true },
+    { "date":"2017-06-12", "volume":"3782352", "adjClosePrice":"13750", "featured":true },
+    { "date":"2017-06-13", "volume":"1802479", "adjClosePrice":"13900", "featured":false },
+    { "date":"2017-06-14", "volume":"1182550", "adjClosePrice":"13900", "featured":false },
+    { "date":"2017-06-15", "volume":"1254249", "adjClosePrice":"13700", "featured":false },
+    { "date":"2017-06-16", "volume":"1691038", "adjClosePrice":"13850", "featured":false },
+    { "date":"2017-06-19", "volume":"1446017", "adjClosePrice":"13650", "featured":false },
+    { "date":"2017-06-20", "volume":"1187489", "adjClosePrice":"13700", "featured":false },
+    { "date":"2017-06-21", "volume":"1551660", "adjClosePrice":"13600", "featured":false }
+  ]
+}

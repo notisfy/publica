@@ -1,0 +1,10 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"엔씨소프트", "id":"036570", "volumeInc":"7.88", "price":"364500", "priceInc":"0.97" },
+    { "name":"영진약품", "id":"003520", "volumeInc":"3.67", "price":"12150", "priceInc":"10.45" },
+    { "name":"SK케미칼", "id":"006120", "volumeInc":"2.29", "price":"78800", "priceInc":"0.13" },
+    { "name":"SK텔레콤", "id":"017670", "volumeInc":"2.02", "price":"255000", "priceInc":"2.20" },
+    { "name":"GKL", "id":"114090", "volumeInc":"2.02", "price":"22750", "priceInc":"2.48" }
+  ]
+}
