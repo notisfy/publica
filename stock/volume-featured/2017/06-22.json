@@ -1,0 +1,11 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"삼성전기", "id":"009150", "volumeInc":"3.03", "price":"99900", "priceInc":"5.49" },
+    { "name":"삼성SDI", "id":"006400", "volumeInc":"2.10", "price":"163000", "priceInc":"3.49" },
+    { "name":"KT", "id":"030200", "volumeInc":"1.97", "price":"32800", "priceInc":"1.55" },
+    { "name":"아시아나항공", "id":"020560", "volumeInc":"1.90", "price":"6240", "priceInc":"2.97" },
+    { "name":"메리츠금융지주", "id":"138040", "volumeInc":"1.82", "price":"14050", "priceInc":"0.36" },
+    { "name":"KCC", "id":"002380", "volumeInc":"1.58", "price":"419000", "priceInc":"1.70" }
+  ]
+}
