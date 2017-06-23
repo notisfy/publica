@@ -1,0 +1,10 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"KCC", "id":"002380", "volumeInc":"2.28", "price":"433000", "priceInc":"3.34" },
+    { "name":"NHN엔터테인먼트", "id":"181710", "volumeInc":"1.89", "price":"84100", "priceInc":"3.96" },
+    { "name":"삼성에스디에스", "id":"018260", "volumeInc":"1.86", "price":"173000", "priceInc":"2.67" },
+    { "name":"한국콜마", "id":"161890", "volumeInc":"1.77", "price":"75700", "priceInc":"2.85" },
+    { "name":"동국제강", "id":"001230", "volumeInc":"1.68", "price":"12950", "priceInc":"4.02" }
+  ]
+}
