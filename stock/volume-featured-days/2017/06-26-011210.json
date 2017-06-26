@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "현대위아",
+  "dailyTrading" : [
+    { "date":"2017-06-12", "volume":"125426", "adjClosePrice":"67000", "featured":false },
+    { "date":"2017-06-13", "volume":"154865", "adjClosePrice":"68500", "featured":false },
+    { "date":"2017-06-14", "volume":"782915", "adjClosePrice":"72100", "featured":true },
+    { "date":"2017-06-15", "volume":"344194", "adjClosePrice":"71000", "featured":false },
+    { "date":"2017-06-16", "volume":"214844", "adjClosePrice":"71100", "featured":false },
+    { "date":"2017-06-19", "volume":"250486", "adjClosePrice":"72500", "featured":false },
+    { "date":"2017-06-20", "volume":"443081", "adjClosePrice":"73100", "featured":true },
+    { "date":"2017-06-21", "volume":"252749", "adjClosePrice":"71500", "featured":false },
+    { "date":"2017-06-22", "volume":"236695", "adjClosePrice":"73400", "featured":false },
+    { "date":"2017-06-23", "volume":"199079", "adjClosePrice":"73800", "featured":false },
+    { "date":"2017-06-26", "volume":"194121", "adjClosePrice":"73500", "featured":false }
+  ]
+}

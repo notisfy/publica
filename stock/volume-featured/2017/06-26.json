@@ -1,0 +1,14 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"쌍용양회", "id":"003410", "volumeInc":"4.98", "price":"15150", "priceInc":"4.48" },
+    { "name":"삼성에스디에스", "id":"018260", "volumeInc":"3.40", "price":"184000", "priceInc":"6.36" },
+    { "name":"삼성SDI", "id":"006400", "volumeInc":"2.54", "price":"172000", "priceInc":"4.88" },
+    { "name":"삼성전기", "id":"009150", "volumeInc":"2.39", "price":"109500", "priceInc":"9.50" },
+    { "name":"삼성물산", "id":"028260", "volumeInc":"2.24", "price":"142000", "priceInc":"2.53" },
+    { "name":"맥쿼리인프라", "id":"088980", "volumeInc":"1.85", "price":"8750", "priceInc":"0.23" },
+    { "name":"LG이노텍", "id":"011070", "volumeInc":"1.81", "price":"174500", "priceInc":"8.05" },
+    { "name":"아시아나항공", "id":"020560", "volumeInc":"1.69", "price":"6190", "priceInc":"1.14" },
+    { "name":"영풍", "id":"000670", "volumeInc":"1.69", "price":"1116000", "priceInc":"5.38" }
+  ]
+}

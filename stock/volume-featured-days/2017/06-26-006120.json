@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "SK케미칼",
+  "dailyTrading" : [
+    { "date":"2017-06-12", "volume":"285101", "adjClosePrice":"76200", "featured":false },
+    { "date":"2017-06-13", "volume":"232275", "adjClosePrice":"76300", "featured":false },
+    { "date":"2017-06-14", "volume":"166892", "adjClosePrice":"75300", "featured":false },
+    { "date":"2017-06-15", "volume":"256820", "adjClosePrice":"76400", "featured":false },
+    { "date":"2017-06-16", "volume":"274201", "adjClosePrice":"75900", "featured":false },
+    { "date":"2017-06-19", "volume":"587329", "adjClosePrice":"79500", "featured":true },
+    { "date":"2017-06-20", "volume":"266198", "adjClosePrice":"78700", "featured":false },
+    { "date":"2017-06-21", "volume":"475711", "adjClosePrice":"78800", "featured":true },
+    { "date":"2017-06-22", "volume":"1641441", "adjClosePrice":"73500", "featured":false },
+    { "date":"2017-06-23", "volume":"882702", "adjClosePrice":"77200", "featured":false },
+    { "date":"2017-06-26", "volume":"273050", "adjClosePrice":"76200", "featured":false }
+  ]
+}
