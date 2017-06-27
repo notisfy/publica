@@ -1,0 +1,20 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"미래에셋대우", "id":"006800", "volumeInc":"12.10", "price":"10600", "priceInc":"0.95" },
+    { "name":"LG유플러스", "id":"032640", "volumeInc":"3.29", "price":"17000", "priceInc":"1.49" },
+    { "name":"롯데하이마트", "id":"071840", "volumeInc":"3.04", "price":"71000", "priceInc":"7.74" },
+    { "name":"삼성SDI", "id":"006400", "volumeInc":"2.50", "price":"176000", "priceInc":"2.33" },
+    { "name":"삼성물산", "id":"028260", "volumeInc":"2.43", "price":"146000", "priceInc":"2.82" },
+    { "name":"대한유화", "id":"006650", "volumeInc":"2.27", "price":"250500", "priceInc":"3.30" },
+    { "name":"SK텔레콤", "id":"017670", "volumeInc":"2.10", "price":"264000", "priceInc":"2.13" },
+    { "name":"휠라코리아", "id":"081660", "volumeInc":"2.08", "price":"85100", "priceInc":"3.53" },
+    { "name":"맥쿼리인프라", "id":"088980", "volumeInc":"1.91", "price":"8780", "priceInc":"0.34" },
+    { "name":"GS리테일", "id":"007070", "volumeInc":"1.86", "price":"52200", "priceInc":"2.35" },
+    { "name":"LG디스플레이", "id":"034220", "volumeInc":"1.72", "price":"38050", "priceInc":"3.68" },
+    { "name":"이마트", "id":"139480", "volumeInc":"1.65", "price":"229500", "priceInc":"3.85" },
+    { "name":"아모레퍼시픽우", "id":"090435", "volumeInc":"1.61", "price":"191000", "priceInc":"0.53" },
+    { "name":"삼성생명", "id":"032830", "volumeInc":"1.61", "price":"116500", "priceInc":"1.75" },
+    { "name":"SK하이닉스", "id":"000660", "volumeInc":"1.60", "price":"69200", "priceInc":"2.67" }
+  ]
+}
