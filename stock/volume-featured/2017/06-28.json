@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"동국제강", "id":"001230", "volumeInc":"6.64", "price":"14650", "priceInc":"9.74" },
+    { "name":"맥쿼리인프라", "id":"088980", "volumeInc":"2.83", "price":"8830", "priceInc":"0.57" },
+    { "name":"현대제철", "id":"004020", "volumeInc":"2.48", "price":"60900", "priceInc":"3.40" },
+    { "name":"POSCO", "id":"005490", "volumeInc":"2.41", "price":"284000", "priceInc":"3.27" },
+    { "name":"하나금융지주", "id":"086790", "volumeInc":"2.07", "price":"44450", "priceInc":"5.83" },
+    { "name":"풍산", "id":"103140", "volumeInc":"2.01", "price":"42000", "priceInc":"5.13" },
+    { "name":"도레이케미칼", "id":"008000", "volumeInc":"2.00", "price":"19250", "priceInc":"0.26" },
+    { "name":"우리은행", "id":"000030", "volumeInc":"1.92", "price":"18050", "priceInc":"3.14" },
+    { "name":"LS", "id":"006260", "volumeInc":"1.86", "price":"71300", "priceInc":"1.28" },
+    { "name":"기업은행", "id":"024110", "volumeInc":"1.58", "price":"14000", "priceInc":"2.56" }
+  ]
+}
