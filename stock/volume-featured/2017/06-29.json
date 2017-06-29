@@ -1,0 +1,20 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"메리츠종금증권", "id":"008560", "volumeInc":"4.61", "price":"5080", "priceInc":"6.61" },
+    { "name":"세아베스틸", "id":"001430", "volumeInc":"4.44", "price":"29550", "priceInc":"6.29" },
+    { "name":"미래에셋대우", "id":"006800", "volumeInc":"2.61", "price":"11250", "priceInc":"5.63" },
+    { "name":"우리은행", "id":"000030", "volumeInc":"2.30", "price":"18600", "priceInc":"3.05" },
+    { "name":"메리츠금융지주", "id":"138040", "volumeInc":"2.15", "price":"14400", "priceInc":"3.97" },
+    { "name":"SK가스", "id":"018670", "volumeInc":"2.01", "price":"130000", "priceInc":"5.26" },
+    { "name":"삼성물산", "id":"028260", "volumeInc":"2.00", "price":"148500", "priceInc":"2.77" },
+    { "name":"삼성증권", "id":"016360", "volumeInc":"1.98", "price":"41200", "priceInc":"2.23" },
+    { "name":"한국가스공사", "id":"036460", "volumeInc":"1.97", "price":"53700", "priceInc":"2.29" },
+    { "name":"NH투자증권", "id":"005940", "volumeInc":"1.90", "price":"14950", "priceInc":"3.46" },
+    { "name":"DGB금융지주", "id":"139130", "volumeInc":"1.80", "price":"11700", "priceInc":"1.74" },
+    { "name":"BNK금융지주", "id":"138930", "volumeInc":"1.70", "price":"10950", "priceInc":"2.34" },
+    { "name":"기업은행", "id":"024110", "volumeInc":"1.68", "price":"14250", "priceInc":"1.79" },
+    { "name":"키움증권", "id":"039490", "volumeInc":"1.66", "price":"92800", "priceInc":"3.69" },
+    { "name":"LG화학우", "id":"051915", "volumeInc":"1.55", "price":"195500", "priceInc":"1.56" }
+  ]
+}
