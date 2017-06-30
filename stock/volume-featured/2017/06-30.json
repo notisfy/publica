@@ -1,0 +1,8 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"대우건설", "id":"047040", "volumeInc":"2.77", "price":"7580", "priceInc":"3.98" },
+    { "name":"KCC", "id":"002380", "volumeInc":"2.07", "price":"436500", "priceInc":"1.28" },
+    { "name":"LG화학우", "id":"051915", "volumeInc":"1.75", "price":"202000", "priceInc":"3.32" }
+  ]
+}
