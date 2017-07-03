@@ -1,0 +1,18 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"동국제강", "id":"001230", "volumeInc":"4.70", "price":"15750", "priceInc":"7.51" },
+    { "name":"KT", "id":"030200", "volumeInc":"3.74", "price":"34000", "priceInc":"4.29" },
+    { "name":"JB금융지주", "id":"175330", "volumeInc":"1.93", "price":"6400", "priceInc":"0.63" },
+    { "name":"풍산", "id":"103140", "volumeInc":"1.92", "price":"44700", "priceInc":"3.95" },
+    { "name":"NHN엔터테인먼트", "id":"181710", "volumeInc":"1.86", "price":"82400", "priceInc":"2.62" },
+    { "name":"POSCO", "id":"005490", "volumeInc":"1.82", "price":"295000", "priceInc":"2.79" },
+    { "name":"맥쿼리인프라", "id":"088980", "volumeInc":"1.82", "price":"8630", "priceInc":"0.12" },
+    { "name":"현대상선", "id":"011200", "volumeInc":"1.81", "price":"8940", "priceInc":"2.17" },
+    { "name":"금호석유", "id":"011780", "volumeInc":"1.78", "price":"77300", "priceInc":"5.17" },
+    { "name":"고려아연", "id":"010130", "volumeInc":"1.61", "price":"463500", "priceInc":"1.64" },
+    { "name":"대한유화", "id":"006650", "volumeInc":"1.61", "price":"260000", "priceInc":"2.77" },
+    { "name":"롯데케미칼", "id":"011170", "volumeInc":"1.51", "price":"353500", "priceInc":"2.76" },
+    { "name":"LG화학", "id":"051910", "volumeInc":"1.51", "price":"296500", "priceInc":"1.89" }
+  ]
+}
