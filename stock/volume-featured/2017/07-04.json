@@ -1,0 +1,12 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"JB금융지주", "id":"175330", "volumeInc":"3.71", "price":"6620", "priceInc":"3.44" },
+    { "name":"부광약품", "id":"003000", "volumeInc":"2.56", "price":"21200", "priceInc":"1.44" },
+    { "name":"한국항공우주", "id":"047810", "volumeInc":"1.93", "price":"58600", "priceInc":"2.81" },
+    { "name":"현대건설", "id":"000720", "volumeInc":"1.79", "price":"46900", "priceInc":"2.07" },
+    { "name":"한화케미칼", "id":"009830", "volumeInc":"1.72", "price":"30950", "priceInc":"1.14" },
+    { "name":"LG디스플레이", "id":"034220", "volumeInc":"1.67", "price":"38500", "priceInc":"5.34" },
+    { "name":"기업은행", "id":"024110", "volumeInc":"1.51", "price":"14450", "priceInc":"1.40" }
+  ]
+}
