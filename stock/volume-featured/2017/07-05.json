@@ -1,0 +1,11 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한샘", "id":"009240", "volumeInc":"2.11", "price":"188500", "priceInc":"1.89" },
+    { "name":"삼성SDI", "id":"006400", "volumeInc":"1.94", "price":"177000", "priceInc":"5.04" },
+    { "name":"금호타이어", "id":"073240", "volumeInc":"1.82", "price":"7820", "priceInc":"3.03" },
+    { "name":"삼성전기", "id":"009150", "volumeInc":"1.70", "price":"102000", "priceInc":"3.98" },
+    { "name":"LG디스플레이", "id":"034220", "volumeInc":"1.64", "price":"38950", "priceInc":"1.17" },
+    { "name":"엔씨소프트", "id":"036570", "volumeInc":"1.52", "price":"387000", "priceInc":"3.20" }
+  ]
+}

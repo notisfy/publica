@@ -1,0 +1,20 @@
+{
+  "version" : "bot-holdings-v1",
+  "stocks" : [
+    { "name":"두산우", "id":"000155", "holdings":"198954" },
+    { "name":"한국쉘석유", "id":"002960", "holdings":"5250924" },
+    { "name":"부광약품", "id":"003000", "holdings":"190450" },
+    { "name":"농심", "id":"004370", "holdings":"335000" },
+    { "name":"율촌화학", "id":"008730", "holdings":"27450" },
+    { "name":"호텔신라우", "id":"008775", "holdings":"2171550" },
+    { "name":"S-Oil", "id":"010950", "holdings":"653700" },
+    { "name":"S-Oil우", "id":"010955", "holdings":"2578800" },
+    { "name":"한국전력", "id":"015760", "holdings":"1309386" },
+    { "name":"한국단자", "id":"025540", "holdings":"352746" },
+    { "name":"NAVER", "id":"035420", "holdings":"838000" },
+    { "name":"LG화학", "id":"051910", "holdings":"283394" },
+    { "name":"TIGER 레버리지", "id":"123320", "holdings":"183278" },
+    { "name":"코스맥스", "id":"192820", "holdings":"228750" },
+    { "name":"TIGER 200선물인버스2X", "id":"252710", "holdings":"6640" }
+  ]
+}
