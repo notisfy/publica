@@ -1,0 +1,10 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"금호타이어", "id":"073240", "volumeInc":"5.94", "price":"8280", "priceInc":"5.88" },
+    { "name":"한세실업", "id":"105630", "volumeInc":"3.53", "price":"27300", "priceInc":"2.82" },
+    { "name":"유한양행", "id":"000100", "volumeInc":"2.06", "price":"249000", "priceInc":"3.32" },
+    { "name":"메리츠금융지주", "id":"138040", "volumeInc":"1.78", "price":"14150", "priceInc":"0.35" },
+    { "name":"엔씨소프트", "id":"036570", "volumeInc":"1.76", "price":"404500", "priceInc":"4.52" }
+  ]
+}

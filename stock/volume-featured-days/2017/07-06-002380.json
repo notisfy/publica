@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "KCC",
+  "dailyTrading" : [
+    { "date":"2017-06-22", "volume":"47455", "adjClosePrice":"419000", "featured":true },
+    { "date":"2017-06-23", "volume":"70035", "adjClosePrice":"433000", "featured":true },
+    { "date":"2017-06-26", "volume":"35762", "adjClosePrice":"424000", "featured":false },
+    { "date":"2017-06-27", "volume":"21410", "adjClosePrice":"420000", "featured":false },
+    { "date":"2017-06-28", "volume":"36320", "adjClosePrice":"424000", "featured":false },
+    { "date":"2017-06-29", "volume":"18564", "adjClosePrice":"431000", "featured":false },
+    { "date":"2017-06-30", "volume":"66609", "adjClosePrice":"436500", "featured":true },
+    { "date":"2017-07-03", "volume":"33174", "adjClosePrice":"431000", "featured":false },
+    { "date":"2017-07-04", "volume":"35929", "adjClosePrice":"419000", "featured":false },
+    { "date":"2017-07-05", "volume":"16155", "adjClosePrice":"421500", "featured":false },
+    { "date":"2017-07-06", "volume":"33553", "adjClosePrice":"411500", "featured":false }
+  ]
+}
