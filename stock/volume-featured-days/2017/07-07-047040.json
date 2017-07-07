@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "대우건설",
+  "dailyTrading" : [
+    { "date":"2017-06-23", "volume":"927973", "adjClosePrice":"7080", "featured":false },
+    { "date":"2017-06-26", "volume":"883294", "adjClosePrice":"6910", "featured":false },
+    { "date":"2017-06-27", "volume":"1035156", "adjClosePrice":"6770", "featured":false },
+    { "date":"2017-06-28", "volume":"824203", "adjClosePrice":"6950", "featured":false },
+    { "date":"2017-06-29", "volume":"1863241", "adjClosePrice":"7290", "featured":false },
+    { "date":"2017-06-30", "volume":"3955236", "adjClosePrice":"7580", "featured":true },
+    { "date":"2017-07-03", "volume":"3009260", "adjClosePrice":"7790", "featured":false },
+    { "date":"2017-07-04", "volume":"1475945", "adjClosePrice":"7800", "featured":false },
+    { "date":"2017-07-05", "volume":"970090", "adjClosePrice":"7740", "featured":false },
+    { "date":"2017-07-06", "volume":"1737411", "adjClosePrice":"7800", "featured":false },
+    { "date":"2017-07-07", "volume":"1287889", "adjClosePrice":"7850", "featured":false }
+  ]
+}
