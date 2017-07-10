@@ -1,0 +1,13 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한화생명", "id":"088350", "volumeInc":"3.26", "price":"7560", "priceInc":"4.28" },
+    { "name":"S-Oil", "id":"010950", "volumeInc":"2.30", "price":"100000", "priceInc":"2.67" },
+    { "name":"삼성생명", "id":"032830", "volumeInc":"2.24", "price":"123000", "priceInc":"0.82" },
+    { "name":"BGF리테일", "id":"027410", "volumeInc":"1.99", "price":"100000", "priceInc":"0.50" },
+    { "name":"동양생명", "id":"082640", "volumeInc":"1.95", "price":"10100", "priceInc":"1.20" },
+    { "name":"코리안리", "id":"003690", "volumeInc":"1.82", "price":"12400", "priceInc":"2.90" },
+    { "name":"두산인프라코어", "id":"042670", "volumeInc":"1.78", "price":"8540", "priceInc":"2.15" },
+    { "name":"JB금융지주", "id":"175330", "volumeInc":"1.67", "price":"6710", "priceInc":"1.51" }
+  ]
+}
