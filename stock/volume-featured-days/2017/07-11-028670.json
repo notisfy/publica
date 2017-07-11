@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "팬오션",
+  "dailyTrading" : [
+    { "date":"2017-06-27", "volume":"1838804", "adjClosePrice":"5030", "featured":false },
+    { "date":"2017-06-28", "volume":"2773344", "adjClosePrice":"5140", "featured":false },
+    { "date":"2017-06-29", "volume":"5751734", "adjClosePrice":"5300", "featured":false },
+    { "date":"2017-06-30", "volume":"2361991", "adjClosePrice":"5280", "featured":false },
+    { "date":"2017-07-03", "volume":"2271369", "adjClosePrice":"5300", "featured":false },
+    { "date":"2017-07-04", "volume":"4505144", "adjClosePrice":"5310", "featured":false },
+    { "date":"2017-07-05", "volume":"2296659", "adjClosePrice":"5290", "featured":false },
+    { "date":"2017-07-06", "volume":"1943513", "adjClosePrice":"5260", "featured":false },
+    { "date":"2017-07-07", "volume":"8695609", "adjClosePrice":"5370", "featured":true },
+    { "date":"2017-07-10", "volume":"2298609", "adjClosePrice":"5370", "featured":false },
+    { "date":"2017-07-11", "volume":"7636633", "adjClosePrice":"5490", "featured":true }
+  ]
+}

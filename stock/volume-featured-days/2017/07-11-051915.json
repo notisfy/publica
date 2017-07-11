@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "LG화학우",
+  "dailyTrading" : [
+    { "date":"2017-06-27", "volume":"12559", "adjClosePrice":"194500", "featured":false },
+    { "date":"2017-06-28", "volume":"7427", "adjClosePrice":"192500", "featured":false },
+    { "date":"2017-06-29", "volume":"20671", "adjClosePrice":"195500", "featured":true },
+    { "date":"2017-06-30", "volume":"23861", "adjClosePrice":"202000", "featured":true },
+    { "date":"2017-07-03", "volume":"14135", "adjClosePrice":"202500", "featured":false },
+    { "date":"2017-07-04", "volume":"14283", "adjClosePrice":"199500", "featured":false },
+    { "date":"2017-07-05", "volume":"5402", "adjClosePrice":"200000", "featured":false },
+    { "date":"2017-07-06", "volume":"3545", "adjClosePrice":"200500", "featured":false },
+    { "date":"2017-07-07", "volume":"5914", "adjClosePrice":"199500", "featured":false },
+    { "date":"2017-07-10", "volume":"4319", "adjClosePrice":"198000", "featured":false },
+    { "date":"2017-07-11", "volume":"23983", "adjClosePrice":"202500", "featured":true }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"도레이케미칼", "id":"008000", "volumeInc":"3.48", "price":"19150", "priceInc":"0.26" },
+    { "name":"메리츠화재", "id":"000060", "volumeInc":"2.24", "price":"21750", "priceInc":"4.07" },
+    { "name":"SK이노베이션", "id":"096770", "volumeInc":"2.09", "price":"165500", "priceInc":"3.44" },
+    { "name":"동원시스템즈", "id":"014820", "volumeInc":"1.92", "price":"57600", "priceInc":"1.05" },
+    { "name":"세아베스틸", "id":"001430", "volumeInc":"1.91", "price":"31300", "priceInc":"2.29" },
+    { "name":"JB금융지주", "id":"175330", "volumeInc":"1.90", "price":"6770", "priceInc":"0.89" },
+    { "name":"이마트", "id":"139480", "volumeInc":"1.89", "price":"243000", "priceInc":"1.89" },
+    { "name":"팬오션", "id":"028670", "volumeInc":"1.87", "price":"5490", "priceInc":"2.23" },
+    { "name":"동부화재", "id":"005830", "volumeInc":"1.82", "price":"77200", "priceInc":"2.12" },
+    { "name":"LG화학우", "id":"051915", "volumeInc":"1.79", "price":"202500", "priceInc":"2.27" },
+    { "name":"풍산", "id":"103140", "volumeInc":"1.77", "price":"46600", "priceInc":"4.37" },
+    { "name":"한세실업", "id":"105630", "volumeInc":"1.77", "price":"27350", "priceInc":"3.40" },
+    { "name":"BNK금융지주", "id":"138930", "volumeInc":"1.73", "price":"11000", "priceInc":"1.85" },
+    { "name":"한국금융지주", "id":"071050", "volumeInc":"1.63", "price":"70800", "priceInc":"3.21" }
+  ]
+}

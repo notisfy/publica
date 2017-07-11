@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "DGB금융지주",
+  "dailyTrading" : [
+    { "date":"2017-06-27", "volume":"219773", "adjClosePrice":"11350", "featured":false },
+    { "date":"2017-06-28", "volume":"427356", "adjClosePrice":"11500", "featured":false },
+    { "date":"2017-06-29", "volume":"872346", "adjClosePrice":"11700", "featured":true },
+    { "date":"2017-06-30", "volume":"386356", "adjClosePrice":"11800", "featured":false },
+    { "date":"2017-07-03", "volume":"381591", "adjClosePrice":"11500", "featured":false },
+    { "date":"2017-07-04", "volume":"410183", "adjClosePrice":"11450", "featured":false },
+    { "date":"2017-07-05", "volume":"239245", "adjClosePrice":"11450", "featured":false },
+    { "date":"2017-07-06", "volume":"585314", "adjClosePrice":"11400", "featured":false },
+    { "date":"2017-07-07", "volume":"271494", "adjClosePrice":"11400", "featured":false },
+    { "date":"2017-07-10", "volume":"452467", "adjClosePrice":"11650", "featured":false },
+    { "date":"2017-07-11", "volume":"511578", "adjClosePrice":"11700", "featured":false }
+  ]
+}
