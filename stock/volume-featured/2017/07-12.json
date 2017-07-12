@@ -1,0 +1,11 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"SKC", "id":"011790", "volumeInc":"5.31", "price":"37500", "priceInc":"9.17" },
+    { "name":"한전기술", "id":"052690", "volumeInc":"3.74", "price":"20300", "priceInc":"3.05" },
+    { "name":"팬오션", "id":"028670", "volumeInc":"2.85", "price":"5710", "priceInc":"4.01" },
+    { "name":"호텔신라", "id":"008770", "volumeInc":"2.04", "price":"56600", "priceInc":"7.81" },
+    { "name":"신세계", "id":"004170", "volumeInc":"1.58", "price":"237500", "priceInc":"0.85" },
+    { "name":"한화생명", "id":"088350", "volumeInc":"1.54", "price":"7710", "priceInc":"2.39" }
+  ]
+}
