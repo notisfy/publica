@@ -1,0 +1,13 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"LG화학", "id":"051910", "volumeInc":"3.25", "price":"314000", "priceInc":"4.84" },
+    { "name":"한솔케미칼", "id":"014680", "volumeInc":"2.15", "price":"74100", "priceInc":"4.51" },
+    { "name":"다우기술", "id":"023590", "volumeInc":"2.11", "price":"22500", "priceInc":"4.65" },
+    { "name":"LG화학우", "id":"051915", "volumeInc":"1.98", "price":"216000", "priceInc":"6.14" },
+    { "name":"삼성SDI", "id":"006400", "volumeInc":"1.82", "price":"181500", "priceInc":"5.22" },
+    { "name":"삼성전기", "id":"009150", "volumeInc":"1.81", "price":"105000", "priceInc":"5.00" },
+    { "name":"태광산업", "id":"003240", "volumeInc":"1.79", "price":"1100000", "priceInc":"5.26" },
+    { "name":"JB금융지주", "id":"175330", "volumeInc":"1.59", "price":"6790", "priceInc":"0.59" }
+  ]
+}
