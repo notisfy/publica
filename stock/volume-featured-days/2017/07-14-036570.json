@@ -2,16 +2,16 @@
   "version" : "volume-featured-days-v1",
   "name" : "엔씨소프트",
   "dailyTrading" : [
-    { "date":"2017-06-30", "volume":"530243", "adjClosePrice":"379500", "featured":false },
-    { "date":"2017-07-03", "volume":"583886", "adjClosePrice":"369000", "featured":false },
-    { "date":"2017-07-04", "volume":"450911", "adjClosePrice":"375000", "featured":false },
-    { "date":"2017-07-05", "volume":"666318", "adjClosePrice":"388500", "featured":true },
-    { "date":"2017-07-06", "volume":"749146", "adjClosePrice":"405000", "featured":true },
-    { "date":"2017-07-07", "volume":"584297", "adjClosePrice":"395500", "featured":false },
-    { "date":"2017-07-10", "volume":"504924", "adjClosePrice":"378500", "featured":false },
-    { "date":"2017-07-11", "volume":"256912", "adjClosePrice":"377000", "featured":false },
-    { "date":"2017-07-12", "volume":"448017", "adjClosePrice":"363000", "featured":false },
-    { "date":"2017-07-13", "volume":"320885", "adjClosePrice":"367500", "featured":false },
-    { "date":"2017-07-14", "volume":"313184", "adjClosePrice":"364000", "featured":false }
+    { "date":"2017-06-30", "volume":"538067", "adjClosePrice":"379500", "featured":false },
+    { "date":"2017-07-03", "volume":"584213", "adjClosePrice":"369000", "featured":false },
+    { "date":"2017-07-04", "volume":"452594", "adjClosePrice":"375000", "featured":false },
+    { "date":"2017-07-05", "volume":"609706", "adjClosePrice":"387000", "featured":true },
+    { "date":"2017-07-06", "volume":"724424", "adjClosePrice":"404500", "featured":true },
+    { "date":"2017-07-07", "volume":"585186", "adjClosePrice":"395500", "featured":false },
+    { "date":"2017-07-10", "volume":"501430", "adjClosePrice":"378500", "featured":false },
+    { "date":"2017-07-11", "volume":"254275", "adjClosePrice":"377000", "featured":false },
+    { "date":"2017-07-12", "volume":"450128", "adjClosePrice":"363000", "featured":false },
+    { "date":"2017-07-13", "volume":"255940", "adjClosePrice":"369500", "featured":false },
+    { "date":"2017-07-14", "volume":"332900", "adjClosePrice":"364500", "featured":false }
   ]
 }

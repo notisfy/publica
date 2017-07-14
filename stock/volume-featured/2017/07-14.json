@@ -1,7 +1,11 @@
 {
   "version" : "volume-featured-v1",
   "stocks" : [
-    { "name":"롯데정밀화학", "id":"004000", "volumeInc":"3.83", "price":"42750", "priceInc":"6.34" },
-    { "name":"쿠쿠전자", "id":"192400", "volumeInc":"2.63", "price":"149000", "priceInc":"0.68" }
+    { "name":"롯데정밀화학", "id":"004000", "volumeInc":"4.15", "price":"43000", "priceInc":"6.83" },
+    { "name":"쿠쿠전자", "id":"192400", "volumeInc":"2.74", "price":"148000", "priceInc":"0.68" },
+    { "name":"세아베스틸", "id":"001430", "volumeInc":"1.65", "price":"32200", "priceInc":"2.88" },
+    { "name":"한화", "id":"000880", "volumeInc":"1.60", "price":"48800", "priceInc":"2.74" },
+    { "name":"대한유화", "id":"006650", "volumeInc":"1.57", "price":"247500", "priceInc":"3.12" },
+    { "name":"효성", "id":"004800", "volumeInc":"1.51", "price":"168500", "priceInc":"3.06" }
   ]
 }

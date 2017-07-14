@@ -2,16 +2,16 @@
   "version" : "volume-featured-days-v1",
   "name" : "POSCO",
   "dailyTrading" : [
-    { "date":"2017-06-30", "volume":"319066", "adjClosePrice":"287000", "featured":false },
-    { "date":"2017-07-03", "volume":"466406", "adjClosePrice":"295000", "featured":true },
-    { "date":"2017-07-04", "volume":"230669", "adjClosePrice":"291000", "featured":false },
-    { "date":"2017-07-05", "volume":"229854", "adjClosePrice":"295500", "featured":false },
-    { "date":"2017-07-06", "volume":"171420", "adjClosePrice":"294000", "featured":false },
-    { "date":"2017-07-07", "volume":"248151", "adjClosePrice":"296000", "featured":false },
-    { "date":"2017-07-10", "volume":"287353", "adjClosePrice":"300000", "featured":false },
-    { "date":"2017-07-11", "volume":"349933", "adjClosePrice":"308000", "featured":false },
-    { "date":"2017-07-12", "volume":"224866", "adjClosePrice":"306000", "featured":false },
-    { "date":"2017-07-13", "volume":"412616", "adjClosePrice":"315000", "featured":true },
-    { "date":"2017-07-14", "volume":"178612", "adjClosePrice":"314000", "featured":false }
+    { "date":"2017-06-30", "volume":"319478", "adjClosePrice":"287000", "featured":false },
+    { "date":"2017-07-03", "volume":"466413", "adjClosePrice":"295000", "featured":true },
+    { "date":"2017-07-04", "volume":"231081", "adjClosePrice":"291000", "featured":false },
+    { "date":"2017-07-05", "volume":"205516", "adjClosePrice":"295000", "featured":false },
+    { "date":"2017-07-06", "volume":"152653", "adjClosePrice":"294000", "featured":false },
+    { "date":"2017-07-07", "volume":"248250", "adjClosePrice":"296000", "featured":false },
+    { "date":"2017-07-10", "volume":"286906", "adjClosePrice":"300000", "featured":false },
+    { "date":"2017-07-11", "volume":"345729", "adjClosePrice":"308000", "featured":false },
+    { "date":"2017-07-12", "volume":"225161", "adjClosePrice":"306000", "featured":false },
+    { "date":"2017-07-13", "volume":"326711", "adjClosePrice":"313500", "featured":false },
+    { "date":"2017-07-14", "volume":"196272", "adjClosePrice":"315000", "featured":false }
   ]
 }

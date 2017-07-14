@@ -2,16 +2,16 @@
   "version" : "volume-featured-days-v1",
   "name" : "동국제강",
   "dailyTrading" : [
-    { "date":"2017-06-30", "volume":"1721566", "adjClosePrice":"14650", "featured":false },
-    { "date":"2017-07-03", "volume":"2310510", "adjClosePrice":"15750", "featured":true },
-    { "date":"2017-07-04", "volume":"1750153", "adjClosePrice":"15050", "featured":false },
-    { "date":"2017-07-05", "volume":"903884", "adjClosePrice":"15050", "featured":false },
-    { "date":"2017-07-06", "volume":"574109", "adjClosePrice":"15000", "featured":false },
-    { "date":"2017-07-07", "volume":"859289", "adjClosePrice":"15100", "featured":true },
-    { "date":"2017-07-10", "volume":"525772", "adjClosePrice":"14950", "featured":false },
-    { "date":"2017-07-11", "volume":"1182344", "adjClosePrice":"14850", "featured":false },
-    { "date":"2017-07-12", "volume":"689041", "adjClosePrice":"14750", "featured":false },
-    { "date":"2017-07-13", "volume":"649564", "adjClosePrice":"14750", "featured":false },
-    { "date":"2017-07-14", "volume":"656919", "adjClosePrice":"14450", "featured":false }
+    { "date":"2017-06-30", "volume":"1725509", "adjClosePrice":"14650", "featured":false },
+    { "date":"2017-07-03", "volume":"2315869", "adjClosePrice":"15750", "featured":true },
+    { "date":"2017-07-04", "volume":"1754037", "adjClosePrice":"15050", "featured":false },
+    { "date":"2017-07-05", "volume":"858086", "adjClosePrice":"15000", "featured":false },
+    { "date":"2017-07-06", "volume":"546705", "adjClosePrice":"15000", "featured":false },
+    { "date":"2017-07-07", "volume":"859441", "adjClosePrice":"15100", "featured":true },
+    { "date":"2017-07-10", "volume":"525258", "adjClosePrice":"14950", "featured":false },
+    { "date":"2017-07-11", "volume":"1180025", "adjClosePrice":"14850", "featured":false },
+    { "date":"2017-07-12", "volume":"691122", "adjClosePrice":"14750", "featured":false },
+    { "date":"2017-07-13", "volume":"609355", "adjClosePrice":"14800", "featured":false },
+    { "date":"2017-07-14", "volume":"695052", "adjClosePrice":"14450", "featured":false }
   ]
 }
