@@ -1,0 +1,7 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"롯데정밀화학", "id":"004000", "volumeInc":"3.83", "price":"42750", "priceInc":"6.34" },
+    { "name":"쿠쿠전자", "id":"192400", "volumeInc":"2.63", "price":"149000", "priceInc":"0.68" }
+  ]
+}
