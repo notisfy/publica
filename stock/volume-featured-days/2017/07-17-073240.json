@@ -2,16 +2,16 @@
   "version" : "volume-featured-days-v1",
   "name" : "금호타이어",
   "dailyTrading" : [
-    { "date":"2017-07-03", "volume":"1217145", "adjClosePrice":"7740", "featured":false },
-    { "date":"2017-07-04", "volume":"1079623", "adjClosePrice":"7590", "featured":false },
-    { "date":"2017-07-05", "volume":"1816310", "adjClosePrice":"7830", "featured":true },
-    { "date":"2017-07-06", "volume":"6419496", "adjClosePrice":"8300", "featured":true },
-    { "date":"2017-07-07", "volume":"2643732", "adjClosePrice":"8120", "featured":false },
-    { "date":"2017-07-10", "volume":"3530646", "adjClosePrice":"8070", "featured":false },
-    { "date":"2017-07-11", "volume":"2988566", "adjClosePrice":"7750", "featured":false },
-    { "date":"2017-07-12", "volume":"2064076", "adjClosePrice":"7460", "featured":false },
-    { "date":"2017-07-13", "volume":"3449669", "adjClosePrice":"7100", "featured":false },
+    { "date":"2017-07-03", "volume":"1218833", "adjClosePrice":"7740", "featured":false },
+    { "date":"2017-07-04", "volume":"1081214", "adjClosePrice":"7590", "featured":false },
+    { "date":"2017-07-05", "volume":"1762165", "adjClosePrice":"7820", "featured":true },
+    { "date":"2017-07-06", "volume":"6347464", "adjClosePrice":"8280", "featured":true },
+    { "date":"2017-07-07", "volume":"2652588", "adjClosePrice":"8120", "featured":false },
+    { "date":"2017-07-10", "volume":"3534892", "adjClosePrice":"8070", "featured":false },
+    { "date":"2017-07-11", "volume":"2996818", "adjClosePrice":"7750", "featured":false },
+    { "date":"2017-07-12", "volume":"2069558", "adjClosePrice":"7460", "featured":false },
+    { "date":"2017-07-13", "volume":"3307116", "adjClosePrice":"7120", "featured":false },
     { "date":"2017-07-14", "volume":"1459746", "adjClosePrice":"7120", "featured":false },
-    { "date":"2017-07-17", "volume":"998842", "adjClosePrice":"7200", "featured":false }
+    { "date":"2017-07-17", "volume":"1002426", "adjClosePrice":"7200", "featured":false }
   ]
 }

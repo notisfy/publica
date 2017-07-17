@@ -3,15 +3,15 @@
   "name" : "S-Oil",
   "dailyTrading" : [
     { "date":"2017-07-03", "volume":"354617", "adjClosePrice":"97000", "featured":false },
-    { "date":"2017-07-04", "volume":"304116", "adjClosePrice":"96500", "featured":false },
-    { "date":"2017-07-05", "volume":"225066", "adjClosePrice":"96400", "featured":false },
-    { "date":"2017-07-06", "volume":"242287", "adjClosePrice":"96400", "featured":false },
-    { "date":"2017-07-07", "volume":"290150", "adjClosePrice":"97400", "featured":false },
-    { "date":"2017-07-10", "volume":"604266", "adjClosePrice":"100000", "featured":true },
-    { "date":"2017-07-11", "volume":"483062", "adjClosePrice":"103000", "featured":false },
-    { "date":"2017-07-12", "volume":"216603", "adjClosePrice":"102000", "featured":false },
-    { "date":"2017-07-13", "volume":"386687", "adjClosePrice":"102500", "featured":false },
+    { "date":"2017-07-04", "volume":"304163", "adjClosePrice":"96500", "featured":false },
+    { "date":"2017-07-05", "volume":"215467", "adjClosePrice":"96300", "featured":false },
+    { "date":"2017-07-06", "volume":"235098", "adjClosePrice":"96300", "featured":false },
+    { "date":"2017-07-07", "volume":"290506", "adjClosePrice":"97400", "featured":false },
+    { "date":"2017-07-10", "volume":"604700", "adjClosePrice":"100000", "featured":true },
+    { "date":"2017-07-11", "volume":"483219", "adjClosePrice":"103000", "featured":false },
+    { "date":"2017-07-12", "volume":"217116", "adjClosePrice":"102000", "featured":false },
+    { "date":"2017-07-13", "volume":"324309", "adjClosePrice":"102000", "featured":false },
     { "date":"2017-07-14", "volume":"228520", "adjClosePrice":"103000", "featured":false },
-    { "date":"2017-07-17", "volume":"201795", "adjClosePrice":"104000", "featured":false }
+    { "date":"2017-07-17", "volume":"201826", "adjClosePrice":"104000", "featured":false }
   ]
 }

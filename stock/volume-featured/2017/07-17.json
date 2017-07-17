@@ -1,7 +1,7 @@
 {
   "version" : "volume-featured-v1",
   "stocks" : [
-    { "name":"SKC", "id":"011790", "volumeInc":"1.67", "price":"37850", "priceInc":"1.07" },
-    { "name":"쌍용양회", "id":"003410", "volumeInc":"1.63", "price":"14800", "priceInc":"6.86" }
+    { "name":"쌍용양회", "id":"003410", "volumeInc":"1.78", "price":"14800", "priceInc":"6.86" },
+    { "name":"SKC", "id":"011790", "volumeInc":"1.71", "price":"37850", "priceInc":"1.07" }
   ]
 }

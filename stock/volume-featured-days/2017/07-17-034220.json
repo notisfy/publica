@@ -2,16 +2,16 @@
   "version" : "volume-featured-days-v1",
   "name" : "LG디스플레이",
   "dailyTrading" : [
-    { "date":"2017-07-03", "volume":"1734637", "adjClosePrice":"36550", "featured":false },
-    { "date":"2017-07-04", "volume":"4730476", "adjClosePrice":"38500", "featured":true },
-    { "date":"2017-07-05", "volume":"4917715", "adjClosePrice":"38900", "featured":true },
-    { "date":"2017-07-06", "volume":"3794057", "adjClosePrice":"37800", "featured":false },
-    { "date":"2017-07-07", "volume":"3406885", "adjClosePrice":"36500", "featured":false },
-    { "date":"2017-07-10", "volume":"3398800", "adjClosePrice":"35700", "featured":false },
-    { "date":"2017-07-11", "volume":"3024468", "adjClosePrice":"37000", "featured":false },
-    { "date":"2017-07-12", "volume":"2031375", "adjClosePrice":"36350", "featured":false },
-    { "date":"2017-07-13", "volume":"2460680", "adjClosePrice":"36700", "featured":false },
+    { "date":"2017-07-03", "volume":"1736118", "adjClosePrice":"36550", "featured":false },
+    { "date":"2017-07-04", "volume":"4752310", "adjClosePrice":"38500", "featured":true },
+    { "date":"2017-07-05", "volume":"4767978", "adjClosePrice":"38950", "featured":true },
+    { "date":"2017-07-06", "volume":"3608484", "adjClosePrice":"37900", "featured":false },
+    { "date":"2017-07-07", "volume":"3441191", "adjClosePrice":"36500", "featured":false },
+    { "date":"2017-07-10", "volume":"3400745", "adjClosePrice":"35700", "featured":false },
+    { "date":"2017-07-11", "volume":"3029761", "adjClosePrice":"37000", "featured":false },
+    { "date":"2017-07-12", "volume":"2037804", "adjClosePrice":"36350", "featured":false },
+    { "date":"2017-07-13", "volume":"2103156", "adjClosePrice":"36950", "featured":false },
     { "date":"2017-07-14", "volume":"3147816", "adjClosePrice":"35950", "featured":false },
-    { "date":"2017-07-17", "volume":"2338794", "adjClosePrice":"36050", "featured":false }
+    { "date":"2017-07-17", "volume":"2346293", "adjClosePrice":"36050", "featured":false }
   ]
 }
