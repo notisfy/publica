@@ -1,0 +1,7 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"LG하우시스", "id":"108670", "volumeInc":"2.72", "price":"113000", "priceInc":"5.61" },
+    { "name":"LIG넥스원", "id":"079550", "volumeInc":"1.87", "price":"70900", "priceInc":"5.51" }
+  ]
+}
