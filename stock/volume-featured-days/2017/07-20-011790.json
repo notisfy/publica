@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "SKC",
+  "dailyTrading" : [
+    { "date":"2017-07-06", "volume":"316266", "adjClosePrice":"35000", "featured":false },
+    { "date":"2017-07-07", "volume":"276217", "adjClosePrice":"34950", "featured":false },
+    { "date":"2017-07-10", "volume":"186282", "adjClosePrice":"34750", "featured":false },
+    { "date":"2017-07-11", "volume":"312952", "adjClosePrice":"34350", "featured":false },
+    { "date":"2017-07-12", "volume":"1325090", "adjClosePrice":"37500", "featured":true },
+    { "date":"2017-07-13", "volume":"585919", "adjClosePrice":"37650", "featured":false },
+    { "date":"2017-07-14", "volume":"400584", "adjClosePrice":"37450", "featured":false },
+    { "date":"2017-07-17", "volume":"455337", "adjClosePrice":"37850", "featured":true },
+    { "date":"2017-07-18", "volume":"577039", "adjClosePrice":"38350", "featured":true },
+    { "date":"2017-07-19", "volume":"271386", "adjClosePrice":"38350", "featured":false },
+    { "date":"2017-07-20", "volume":"603174", "adjClosePrice":"37550", "featured":false }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "삼성전기",
+  "dailyTrading" : [
+    { "date":"2017-07-06", "volume":"1216251", "adjClosePrice":"99900", "featured":false },
+    { "date":"2017-07-07", "volume":"696523", "adjClosePrice":"99300", "featured":false },
+    { "date":"2017-07-10", "volume":"556845", "adjClosePrice":"99300", "featured":false },
+    { "date":"2017-07-11", "volume":"807448", "adjClosePrice":"102000", "featured":false },
+    { "date":"2017-07-12", "volume":"716292", "adjClosePrice":"100000", "featured":false },
+    { "date":"2017-07-13", "volume":"1373069", "adjClosePrice":"105000", "featured":true },
+    { "date":"2017-07-14", "volume":"1009714", "adjClosePrice":"104000", "featured":false },
+    { "date":"2017-07-17", "volume":"688630", "adjClosePrice":"106000", "featured":false },
+    { "date":"2017-07-18", "volume":"431684", "adjClosePrice":"105500", "featured":false },
+    { "date":"2017-07-19", "volume":"990566", "adjClosePrice":"102000", "featured":false },
+    { "date":"2017-07-20", "volume":"884963", "adjClosePrice":"102000", "featured":false }
+  ]
+}

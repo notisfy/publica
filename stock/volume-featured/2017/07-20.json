@@ -1,0 +1,13 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"S-Oil", "id":"010950", "volumeInc":"1.95", "price":"108000", "priceInc":"4.35" },
+    { "name":"대웅제약", "id":"069620", "volumeInc":"1.94", "price":"89200", "priceInc":"5.94" },
+    { "name":"한국전력", "id":"015760", "volumeInc":"1.88", "price":"44250", "priceInc":"3.27" },
+    { "name":"LG화학우", "id":"051915", "volumeInc":"1.69", "price":"230000", "priceInc":"2.45" },
+    { "name":"GS건설", "id":"006360", "volumeInc":"1.64", "price":"33900", "priceInc":"2.73" },
+    { "name":"LG화학", "id":"051910", "volumeInc":"1.61", "price":"326000", "priceInc":"2.35" },
+    { "name":"기업은행", "id":"024110", "volumeInc":"1.61", "price":"14950", "priceInc":"3.46" },
+    { "name":"SK이노베이션", "id":"096770", "volumeInc":"1.53", "price":"172000", "priceInc":"2.69" }
+  ]
+}

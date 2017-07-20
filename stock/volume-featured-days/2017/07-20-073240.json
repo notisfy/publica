@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "금호타이어",
+  "dailyTrading" : [
+    { "date":"2017-07-06", "volume":"6347464", "adjClosePrice":"8280", "featured":true },
+    { "date":"2017-07-07", "volume":"2652588", "adjClosePrice":"8120", "featured":false },
+    { "date":"2017-07-10", "volume":"3534892", "adjClosePrice":"8070", "featured":false },
+    { "date":"2017-07-11", "volume":"2996818", "adjClosePrice":"7750", "featured":false },
+    { "date":"2017-07-12", "volume":"2069558", "adjClosePrice":"7460", "featured":false },
+    { "date":"2017-07-13", "volume":"3307116", "adjClosePrice":"7120", "featured":false },
+    { "date":"2017-07-14", "volume":"1459746", "adjClosePrice":"7120", "featured":false },
+    { "date":"2017-07-17", "volume":"1002426", "adjClosePrice":"7200", "featured":false },
+    { "date":"2017-07-18", "volume":"2530135", "adjClosePrice":"7720", "featured":true },
+    { "date":"2017-07-19", "volume":"2323563", "adjClosePrice":"7320", "featured":false },
+    { "date":"2017-07-20", "volume":"789564", "adjClosePrice":"7350", "featured":false }
+  ]
+}
