@@ -1,0 +1,18 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"도레이케미칼", "id":"008000", "volumeInc":"2.58", "price":"19200", "priceInc":"0.26" },
+    { "name":"KB금융", "id":"105560", "volumeInc":"2.57", "price":"59800", "priceInc":"4.18" },
+    { "name":"신한지주", "id":"055550", "volumeInc":"2.44", "price":"52300", "priceInc":"3.36" },
+    { "name":"한국전력", "id":"015760", "volumeInc":"2.22", "price":"45500", "priceInc":"2.82" },
+    { "name":"코리안리", "id":"003690", "volumeInc":"2.11", "price":"12550", "priceInc":"2.03" },
+    { "name":"넥센타이어", "id":"002350", "volumeInc":"1.99", "price":"13750", "priceInc":"1.48" },
+    { "name":"삼성생명", "id":"032830", "volumeInc":"1.98", "price":"128500", "priceInc":"2.39" },
+    { "name":"JB금융지주", "id":"175330", "volumeInc":"1.93", "price":"6850", "priceInc":"1.93" },
+    { "name":"BNK금융지주", "id":"138930", "volumeInc":"1.87", "price":"11050", "priceInc":"1.84" },
+    { "name":"휴켐스", "id":"069260", "volumeInc":"1.63", "price":"25750", "priceInc":"0.98" },
+    { "name":"우리은행", "id":"000030", "volumeInc":"1.59", "price":"18800", "priceInc":"1.08" },
+    { "name":"KT", "id":"030200", "volumeInc":"1.53", "price":"34000", "priceInc":"2.26" },
+    { "name":"DGB금융지주", "id":"139130", "volumeInc":"1.51", "price":"12200", "priceInc":"2.52" }
+  ]
+}

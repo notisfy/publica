@@ -1,0 +1,11 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "제일약품",
+  "dailyTrading" : [
+    { "date":"2017-07-17", "volume":"450826", "adjClosePrice":"61700", "featured":false },
+    { "date":"2017-07-18", "volume":"925224", "adjClosePrice":"61800", "featured":true },
+    { "date":"2017-07-19", "volume":"292620", "adjClosePrice":"63500", "featured":false },
+    { "date":"2017-07-20", "volume":"131886", "adjClosePrice":"60400", "featured":false },
+    { "date":"2017-07-21", "volume":"85534", "adjClosePrice":"59700", "featured":false }
+  ]
+}
