@@ -1,0 +1,10 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"오뚜기", "id":"007310", "volumeInc":"8.26", "price":"799000", "priceInc":"7.25" },
+    { "name":"스카이라이프", "id":"053210", "volumeInc":"3.51", "price":"16750", "priceInc":"2.76" },
+    { "name":"LS산전", "id":"010120", "volumeInc":"2.37", "price":"56300", "priceInc":"4.84" },
+    { "name":"KT", "id":"030200", "volumeInc":"1.85", "price":"34850", "priceInc":"2.50" },
+    { "name":"LG화학우", "id":"051915", "volumeInc":"1.65", "price":"236000", "priceInc":"2.61" }
+  ]
+}

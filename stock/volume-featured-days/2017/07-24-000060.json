@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "메리츠화재",
+  "dailyTrading" : [
+    { "date":"2017-07-10", "volume":"184247", "adjClosePrice":"20900", "featured":false },
+    { "date":"2017-07-11", "volume":"409410", "adjClosePrice":"21750", "featured":true },
+    { "date":"2017-07-12", "volume":"293574", "adjClosePrice":"21500", "featured":false },
+    { "date":"2017-07-13", "volume":"203370", "adjClosePrice":"21500", "featured":false },
+    { "date":"2017-07-14", "volume":"253187", "adjClosePrice":"21650", "featured":false },
+    { "date":"2017-07-17", "volume":"159158", "adjClosePrice":"22050", "featured":false },
+    { "date":"2017-07-18", "volume":"157299", "adjClosePrice":"22050", "featured":false },
+    { "date":"2017-07-19", "volume":"274081", "adjClosePrice":"22400", "featured":false },
+    { "date":"2017-07-20", "volume":"195592", "adjClosePrice":"22500", "featured":false },
+    { "date":"2017-07-21", "volume":"180399", "adjClosePrice":"23000", "featured":false },
+    { "date":"2017-07-24", "volume":"185604", "adjClosePrice":"23200", "featured":false }
+  ]
+}

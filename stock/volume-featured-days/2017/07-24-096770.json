@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "SK이노베이션",
+  "dailyTrading" : [
+    { "date":"2017-07-10", "volume":"231483", "adjClosePrice":"160000", "featured":false },
+    { "date":"2017-07-11", "volume":"557141", "adjClosePrice":"165500", "featured":true },
+    { "date":"2017-07-12", "volume":"264502", "adjClosePrice":"163500", "featured":false },
+    { "date":"2017-07-13", "volume":"321609", "adjClosePrice":"163000", "featured":false },
+    { "date":"2017-07-14", "volume":"365532", "adjClosePrice":"168000", "featured":false },
+    { "date":"2017-07-17", "volume":"253067", "adjClosePrice":"169000", "featured":false },
+    { "date":"2017-07-18", "volume":"151448", "adjClosePrice":"168500", "featured":false },
+    { "date":"2017-07-19", "volume":"140385", "adjClosePrice":"167500", "featured":false },
+    { "date":"2017-07-20", "volume":"432577", "adjClosePrice":"172000", "featured":false },
+    { "date":"2017-07-21", "volume":"150673", "adjClosePrice":"171500", "featured":false },
+    { "date":"2017-07-24", "volume":"198162", "adjClosePrice":"172000", "featured":false }
+  ]
+}
