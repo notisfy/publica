@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"LS산전", "id":"010120", "volumeInc":"3.34", "price":"56800", "priceInc":"0.89" },
+    { "name":"LG생활건강", "id":"051900", "volumeInc":"3.17", "price":"962000", "priceInc":"2.56" },
+    { "name":"고려아연", "id":"010130", "volumeInc":"2.82", "price":"467500", "priceInc":"4.70" },
+    { "name":"한솔케미칼", "id":"014680", "volumeInc":"2.51", "price":"73100", "priceInc":"2.09" },
+    { "name":"JW중외제약", "id":"001060", "volumeInc":"1.69", "price":"48450", "priceInc":"4.08" },
+    { "name":"GKL", "id":"114090", "volumeInc":"1.68", "price":"23300", "priceInc":"3.10" },
+    { "name":"AK홀딩스", "id":"006840", "volumeInc":"1.60", "price":"71100", "priceInc":"0.85" },
+    { "name":"녹십자", "id":"006280", "volumeInc":"1.57", "price":"182500", "priceInc":"1.39" },
+    { "name":"한국단자", "id":"025540", "volumeInc":"1.56", "price":"68900", "priceInc":"0.73" },
+    { "name":"코오롱인더", "id":"120110", "volumeInc":"1.51", "price":"68200", "priceInc":"3.33" },
+    { "name":"강원랜드", "id":"035250", "volumeInc":"1.50", "price":"35500", "priceInc":"2.75" }
+  ]
+}
