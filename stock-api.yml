@@ -2,7 +2,7 @@
 swagger: '2.0'
 info:
   title: Stock API
-  version: "0.0.2"
+  version: "0.0.6"
 
 # the domain
 host: raw.githubusercontent.com
@@ -159,6 +159,30 @@ paths:
           schema:
             $ref: '#/definitions/ProfitMonth'
 
+  /today/{year}/{day_json}:
+    get:
+      summary: 오늘의 주식 요약 정보
+      description: |
+        오늘의 코스피와 거래량 특징주 그리고 주식 매매에 대한 요약 정보를 제공한다.
+      tags:
+        - 일간 자료
+      parameters:
+        - name: year
+          in: path
+          description: 거래 해당 연도
+          required: true
+          type: string
+        - name: day_json
+          in: path
+          description: 오늘의 주식 요약 정보가 담긴 리소스 이름
+          required: true
+          type: string
+      responses:
+        200:
+          description: 오늘의 주식 요약
+          schema:
+            $ref: '#/definitions/TodaySummary'
+
 definitions:
   VolumeFeaturedItem:
     type: object
@@ -293,3 +317,42 @@ definitions:
         description: 이익률 주식 정보
         items:
           $ref: '#/definitions/ProfitMonthItem'
+  BotHoldingsDiffItem:
+    type: object
+    properties:
+      name:
+        type: string
+        description: 종목명
+      id:
+        type: string
+        description: 종목코드
+      diff:
+        type: string
+        description: 전날 대비 변동 금액
+  TodaySummary:
+    type: object
+    properties:
+      version:
+        type: string
+        description: Today summary 버전
+      kospi_today:
+        type: string
+        description: 오늘의 코스피 지수
+      kospi_diff:
+        type: string
+        description: 코스피 변동량
+      featured_today:
+        type: array
+        description: 오늘의 거래량 특징주
+        items:
+          $ref: '#/definitions/VolumeFeaturedItem'
+      holdings_today:
+        type: array
+        description: 오늘의 보유 주식
+        items:
+          $ref: '#/definitions/BotHoldingsItem'
+      holdings_diff:
+        type: array
+        description: 보유 주식 변동량
+        items:
+          $ref: '#/definitions/BotHoldingsDiffItem'

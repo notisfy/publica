@@ -27,59 +27,71 @@ package me.notisfy.stock.domain.model;
 
 import java.util.Objects;
 import com.google.gson.annotations.SerializedName;
-import java.util.ArrayList;
-import java.util.List;
-import me.notisfy.stock.domain.model.VolumeFeaturedProfitItem;
 
 
 /**
- * VolumeFeaturedProfit
+ * BotHoldingsDiffItem
  */
 
-public class VolumeFeaturedProfit   {
-  @SerializedName("version")
-  private String version = null;
+public class BotHoldingsDiffItem   {
+  @SerializedName("name")
+  private String name = null;
 
-  @SerializedName("stocks")
-  private List<VolumeFeaturedProfitItem> stocks = new ArrayList<VolumeFeaturedProfitItem>();
+  @SerializedName("id")
+  private String id = null;
 
-  public VolumeFeaturedProfit version(String version) {
-    this.version = version;
+  @SerializedName("diff")
+  private String diff = null;
+
+  public BotHoldingsDiffItem name(String name) {
+    this.name = name;
     return this;
   }
 
    /**
-   * Volume featured profit 버전
-   * @return version
+   * 종목명
+   * @return name
   **/
-  public String getVersion() {
-    return version;
+  public String getName() {
+    return name;
   }
 
-  public void setVersion(String version) {
-    this.version = version;
+  public void setName(String name) {
+    this.name = name;
   }
 
-  public VolumeFeaturedProfit stocks(List<VolumeFeaturedProfitItem> stocks) {
-    this.stocks = stocks;
-    return this;
-  }
-
-  public VolumeFeaturedProfit addStocksItem(VolumeFeaturedProfitItem stocksItem) {
-    this.stocks.add(stocksItem);
+  public BotHoldingsDiffItem id(String id) {
+    this.id = id;
     return this;
   }
 
    /**
-   * 거래량 특징주 이익률 정보
-   * @return stocks
+   * 종목코드
+   * @return id
   **/
-  public List<VolumeFeaturedProfitItem> getStocks() {
-    return stocks;
+  public String getId() {
+    return id;
   }
 
-  public void setStocks(List<VolumeFeaturedProfitItem> stocks) {
-    this.stocks = stocks;
+  public void setId(String id) {
+    this.id = id;
+  }
+
+  public BotHoldingsDiffItem diff(String diff) {
+    this.diff = diff;
+    return this;
+  }
+
+   /**
+   * 전날 대비 변동 금액
+   * @return diff
+  **/
+  public String getDiff() {
+    return diff;
+  }
+
+  public void setDiff(String diff) {
+    this.diff = diff;
   }
 
 
@@ -91,23 +103,25 @@ public class VolumeFeaturedProfit   {
     if (o == null || getClass() != o.getClass()) {
       return false;
     }
-    VolumeFeaturedProfit volumeFeaturedProfit = (VolumeFeaturedProfit) o;
-    return Objects.equals(this.version, volumeFeaturedProfit.version) &&
-        Objects.equals(this.stocks, volumeFeaturedProfit.stocks);
+    BotHoldingsDiffItem botHoldingsDiffItem = (BotHoldingsDiffItem) o;
+    return Objects.equals(this.name, botHoldingsDiffItem.name) &&
+        Objects.equals(this.id, botHoldingsDiffItem.id) &&
+        Objects.equals(this.diff, botHoldingsDiffItem.diff);
   }
 
   @Override
   public int hashCode() {
-    return Objects.hash(version, stocks);
+    return Objects.hash(name, id, diff);
   }
 
   @Override
   public String toString() {
     StringBuilder sb = new StringBuilder();
-    sb.append("class VolumeFeaturedProfit {\n");
+    sb.append("class BotHoldingsDiffItem {\n");
     
-    sb.append("    version: ").append(toIndentedString(version)).append("\n");
-    sb.append("    stocks: ").append(toIndentedString(stocks)).append("\n");
+    sb.append("    name: ").append(toIndentedString(name)).append("\n");
+    sb.append("    id: ").append(toIndentedString(id)).append("\n");
+    sb.append("    diff: ").append(toIndentedString(diff)).append("\n");
     sb.append("}");
     return sb.toString();
   }
