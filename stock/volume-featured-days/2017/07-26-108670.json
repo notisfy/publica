@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "LG하우시스",
+  "dailyTrading" : [
+    { "date":"2017-07-12", "volume":"47365", "adjClosePrice":"109000", "featured":false },
+    { "date":"2017-07-13", "volume":"91393", "adjClosePrice":"106500", "featured":false },
+    { "date":"2017-07-14", "volume":"74114", "adjClosePrice":"105500", "featured":false },
+    { "date":"2017-07-17", "volume":"44301", "adjClosePrice":"108000", "featured":false },
+    { "date":"2017-07-18", "volume":"46712", "adjClosePrice":"107000", "featured":false },
+    { "date":"2017-07-19", "volume":"164828", "adjClosePrice":"113000", "featured":true },
+    { "date":"2017-07-20", "volume":"63885", "adjClosePrice":"112500", "featured":false },
+    { "date":"2017-07-21", "volume":"24937", "adjClosePrice":"111500", "featured":false },
+    { "date":"2017-07-24", "volume":"47716", "adjClosePrice":"109500", "featured":false },
+    { "date":"2017-07-25", "volume":"41287", "adjClosePrice":"112000", "featured":false },
+    { "date":"2017-07-26", "volume":"41110", "adjClosePrice":"111500", "featured":false }
+  ]
+}

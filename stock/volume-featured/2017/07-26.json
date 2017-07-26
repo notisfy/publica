@@ -1,0 +1,18 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"LIG넥스원", "id":"079550", "volumeInc":"5.90", "price":"80200", "priceInc":"9.41" },
+    { "name":"호텔신라", "id":"008770", "volumeInc":"4.75", "price":"65300", "priceInc":"7.93" },
+    { "name":"녹십자", "id":"006280", "volumeInc":"3.33", "price":"187500", "priceInc":"2.74" },
+    { "name":"고려아연", "id":"010130", "volumeInc":"2.85", "price":"483000", "priceInc":"3.32" },
+    { "name":"대웅제약", "id":"069620", "volumeInc":"2.66", "price":"93900", "priceInc":"5.51" },
+    { "name":"한국콜마", "id":"161890", "volumeInc":"2.54", "price":"74000", "priceInc":"4.67" },
+    { "name":"S-Oil", "id":"010950", "volumeInc":"2.22", "price":"114500", "priceInc":"4.09" },
+    { "name":"현대차2우B", "id":"005387", "volumeInc":"2.05", "price":"112000", "priceInc":"2.75" },
+    { "name":"한전기술", "id":"052690", "volumeInc":"2.00", "price":"20100", "priceInc":"5.79" },
+    { "name":"LG생활건강우", "id":"051905", "volumeInc":"1.94", "price":"631000", "priceInc":"2.27" },
+    { "name":"녹십자홀딩스", "id":"005250", "volumeInc":"1.86", "price":"34600", "priceInc":"5.81" },
+    { "name":"현대차", "id":"005380", "volumeInc":"1.69", "price":"148000", "priceInc":"1.37" },
+    { "name":"신세계", "id":"004170", "volumeInc":"1.54", "price":"237000", "priceInc":"5.33" }
+  ]
+}
