@@ -1,0 +1,13 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한솔케미칼", "id":"014680", "volumeInc":"2.50", "price":"74300", "priceInc":"2.34" },
+    { "name":"세아베스틸", "id":"001430", "volumeInc":"2.36", "price":"32900", "priceInc":"4.94" },
+    { "name":"OCI", "id":"010060", "volumeInc":"2.33", "price":"90800", "priceInc":"4.73" },
+    { "name":"효성", "id":"004800", "volumeInc":"2.00", "price":"165000", "priceInc":"4.10" },
+    { "name":"강원랜드", "id":"035250", "volumeInc":"1.98", "price":"36900", "priceInc":"4.38" },
+    { "name":"오뚜기", "id":"007310", "volumeInc":"1.97", "price":"804000", "priceInc":"1.26" },
+    { "name":"삼성SDI", "id":"006400", "volumeInc":"1.74", "price":"173000", "priceInc":"0.87" },
+    { "name":"롯데정밀화학", "id":"004000", "volumeInc":"1.71", "price":"43200", "priceInc":"2.01" }
+  ]
+}

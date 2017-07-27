@@ -1,0 +1,26 @@
+{
+  "version" : "bot-holdings-v1",
+  "stocks" : [
+    { "name":"CJ대한통운", "id":"000120", "holdings":"178500" },
+    { "name":"두산우", "id":"000155", "holdings":"132636" },
+    { "name":"오리온홀딩스", "id":"001800", "holdings":"84300" },
+    { "name":"한국쉘석유", "id":"002960", "holdings":"5250924" },
+    { "name":"부광약품", "id":"003000", "holdings":"333750" },
+    { "name":"농심", "id":"004370", "holdings":"1282000" },
+    { "name":"효성", "id":"004800", "holdings":"313000" },
+    { "name":"현대차우", "id":"005385", "holdings":"102000" },
+    { "name":"율촌화학", "id":"008730", "holdings":"135700" },
+    { "name":"S-Oil", "id":"010950", "holdings":"466930" },
+    { "name":"S-Oil우", "id":"010955", "holdings":"2578800" },
+    { "name":"한국전력", "id":"015760", "holdings":"549101" },
+    { "name":"한국단자", "id":"025540", "holdings":"1023746" },
+    { "name":"BGF리테일", "id":"027410", "holdings":"574600" },
+    { "name":"NAVER", "id":"035420", "holdings":"1658000" },
+    { "name":"LG전자", "id":"066570", "holdings":"66500" },
+    { "name":"LG전자우", "id":"066575", "holdings":"34300" },
+    { "name":"한국금융지주우", "id":"071055", "holdings":"76500" },
+    { "name":"TIGER 레버리지", "id":"123320", "holdings":"1039948" },
+    { "name":"코스맥스", "id":"192820", "holdings":"333750" },
+    { "name":"TIGER 200선물인버스2X", "id":"252710", "holdings":"6640" }
+  ]
+}

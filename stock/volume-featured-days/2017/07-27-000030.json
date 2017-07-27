@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "우리은행",
+  "dailyTrading" : [
+    { "date":"2017-07-13", "volume":"2907805", "adjClosePrice":"18400", "featured":false },
+    { "date":"2017-07-14", "volume":"1222144", "adjClosePrice":"18600", "featured":false },
+    { "date":"2017-07-17", "volume":"896221", "adjClosePrice":"18600", "featured":false },
+    { "date":"2017-07-18", "volume":"1264176", "adjClosePrice":"18650", "featured":false },
+    { "date":"2017-07-19", "volume":"1143711", "adjClosePrice":"18600", "featured":false },
+    { "date":"2017-07-20", "volume":"1931197", "adjClosePrice":"18600", "featured":false },
+    { "date":"2017-07-21", "volume":"3304943", "adjClosePrice":"18800", "featured":true },
+    { "date":"2017-07-24", "volume":"1360659", "adjClosePrice":"19000", "featured":false },
+    { "date":"2017-07-25", "volume":"1836009", "adjClosePrice":"19250", "featured":false },
+    { "date":"2017-07-26", "volume":"1877792", "adjClosePrice":"19550", "featured":false },
+    { "date":"2017-07-27", "volume":"1925621", "adjClosePrice":"19250", "featured":false }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "강원랜드",
+  "dailyTrading" : [
+    { "date":"2017-07-13", "volume":"403220", "adjClosePrice":"33400", "featured":false },
+    { "date":"2017-07-14", "volume":"192370", "adjClosePrice":"33700", "featured":false },
+    { "date":"2017-07-17", "volume":"306711", "adjClosePrice":"34350", "featured":false },
+    { "date":"2017-07-18", "volume":"185993", "adjClosePrice":"34500", "featured":false },
+    { "date":"2017-07-19", "volume":"389899", "adjClosePrice":"35050", "featured":false },
+    { "date":"2017-07-20", "volume":"163532", "adjClosePrice":"34950", "featured":false },
+    { "date":"2017-07-21", "volume":"210852", "adjClosePrice":"34500", "featured":false },
+    { "date":"2017-07-24", "volume":"130635", "adjClosePrice":"34550", "featured":false },
+    { "date":"2017-07-25", "volume":"456154", "adjClosePrice":"35500", "featured":true },
+    { "date":"2017-07-26", "volume":"335080", "adjClosePrice":"35350", "featured":false },
+    { "date":"2017-07-27", "volume":"617222", "adjClosePrice":"36900", "featured":true }
+  ]
+}
