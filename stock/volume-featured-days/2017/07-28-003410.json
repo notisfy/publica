@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "쌍용양회",
+  "dailyTrading" : [
+    { "date":"2017-07-14", "volume":"104676", "adjClosePrice":"13850", "featured":false },
+    { "date":"2017-07-17", "volume":"365887", "adjClosePrice":"14800", "featured":true },
+    { "date":"2017-07-18", "volume":"147527", "adjClosePrice":"14750", "featured":false },
+    { "date":"2017-07-19", "volume":"120368", "adjClosePrice":"14800", "featured":false },
+    { "date":"2017-07-20", "volume":"99071", "adjClosePrice":"14450", "featured":false },
+    { "date":"2017-07-21", "volume":"91117", "adjClosePrice":"14450", "featured":false },
+    { "date":"2017-07-24", "volume":"53668", "adjClosePrice":"14650", "featured":false },
+    { "date":"2017-07-25", "volume":"95091", "adjClosePrice":"14550", "featured":false },
+    { "date":"2017-07-26", "volume":"77256", "adjClosePrice":"14400", "featured":false },
+    { "date":"2017-07-27", "volume":"129107", "adjClosePrice":"14250", "featured":false },
+    { "date":"2017-07-28", "volume":"105666", "adjClosePrice":"14250", "featured":false }
+  ]
+}

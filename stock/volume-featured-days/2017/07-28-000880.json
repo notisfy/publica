@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "한화",
+  "dailyTrading" : [
+    { "date":"2017-07-14", "volume":"550135", "adjClosePrice":"48800", "featured":true },
+    { "date":"2017-07-17", "volume":"428341", "adjClosePrice":"48650", "featured":false },
+    { "date":"2017-07-18", "volume":"413228", "adjClosePrice":"47650", "featured":false },
+    { "date":"2017-07-19", "volume":"304246", "adjClosePrice":"48100", "featured":false },
+    { "date":"2017-07-20", "volume":"285290", "adjClosePrice":"48600", "featured":false },
+    { "date":"2017-07-21", "volume":"200758", "adjClosePrice":"48800", "featured":false },
+    { "date":"2017-07-24", "volume":"149446", "adjClosePrice":"48400", "featured":false },
+    { "date":"2017-07-25", "volume":"215994", "adjClosePrice":"48750", "featured":false },
+    { "date":"2017-07-26", "volume":"186206", "adjClosePrice":"47850", "featured":false },
+    { "date":"2017-07-27", "volume":"175093", "adjClosePrice":"48750", "featured":false },
+    { "date":"2017-07-28", "volume":"177194", "adjClosePrice":"47850", "featured":false }
+  ]
+}

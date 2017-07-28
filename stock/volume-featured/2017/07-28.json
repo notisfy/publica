@@ -1,0 +1,13 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"코리안리", "id":"003690", "volumeInc":"3.55", "price":"12750", "priceInc":"1.59" },
+    { "name":"제일기획", "id":"030000", "volumeInc":"3.47", "price":"19450", "priceInc":"3.73" },
+    { "name":"도레이케미칼", "id":"008000", "volumeInc":"3.43", "price":"19200", "priceInc":"0.26" },
+    { "name":"현대글로비스", "id":"086280", "volumeInc":"3.02", "price":"162000", "priceInc":"3.51" },
+    { "name":"녹십자", "id":"006280", "volumeInc":"2.47", "price":"184500", "priceInc":"0.54" },
+    { "name":"만도", "id":"204320", "volumeInc":"1.98", "price":"265500", "priceInc":"5.99" },
+    { "name":"현대위아", "id":"011210", "volumeInc":"1.93", "price":"70700", "priceInc":"2.76" },
+    { "name":"현대차", "id":"005380", "volumeInc":"1.51", "price":"149500", "priceInc":"2.05" }
+  ]
+}
