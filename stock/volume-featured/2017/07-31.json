@@ -1,0 +1,13 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"제일기획", "id":"030000", "volumeInc":"5.15", "price":"20350", "priceInc":"4.63" },
+    { "name":"JB금융지주", "id":"175330", "volumeInc":"3.96", "price":"6930", "priceInc":"4.52" },
+    { "name":"롯데하이마트", "id":"071840", "volumeInc":"2.95", "price":"69600", "priceInc":"4.66" },
+    { "name":"세아베스틸", "id":"001430", "volumeInc":"2.58", "price":"34850", "priceInc":"6.74" },
+    { "name":"한솔케미칼", "id":"014680", "volumeInc":"2.27", "price":"75400", "priceInc":"2.45" },
+    { "name":"강원랜드", "id":"035250", "volumeInc":"1.82", "price":"37000", "priceInc":"0.27" },
+    { "name":"키움증권", "id":"039490", "volumeInc":"1.68", "price":"84900", "priceInc":"1.31" },
+    { "name":"대한유화", "id":"006650", "volumeInc":"1.60", "price":"258500", "priceInc":"5.73" }
+  ]
+}
