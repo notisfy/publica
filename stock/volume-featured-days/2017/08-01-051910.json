@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "LG화학",
+  "dailyTrading" : [
+    { "date":"2017-07-18", "volume":"313590", "adjClosePrice":"326500", "featured":false },
+    { "date":"2017-07-19", "volume":"292874", "adjClosePrice":"318500", "featured":false },
+    { "date":"2017-07-20", "volume":"414178", "adjClosePrice":"326000", "featured":true },
+    { "date":"2017-07-21", "volume":"396713", "adjClosePrice":"329000", "featured":false },
+    { "date":"2017-07-24", "volume":"303914", "adjClosePrice":"335000", "featured":false },
+    { "date":"2017-07-25", "volume":"263079", "adjClosePrice":"329000", "featured":false },
+    { "date":"2017-07-26", "volume":"246039", "adjClosePrice":"326500", "featured":false },
+    { "date":"2017-07-27", "volume":"148666", "adjClosePrice":"331000", "featured":false },
+    { "date":"2017-07-28", "volume":"224111", "adjClosePrice":"323000", "featured":false },
+    { "date":"2017-07-31", "volume":"212253", "adjClosePrice":"328000", "featured":false },
+    { "date":"2017-08-01", "volume":"228142", "adjClosePrice":"333000", "featured":false }
+  ]
+}

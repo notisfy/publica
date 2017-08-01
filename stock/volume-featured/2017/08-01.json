@@ -1,0 +1,18 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"롯데정밀화학", "id":"004000", "volumeInc":"3.00", "price":"44950", "priceInc":"3.93" },
+    { "name":"코리안리", "id":"003690", "volumeInc":"2.59", "price":"13300", "priceInc":"3.10" },
+    { "name":"LS산전", "id":"010120", "volumeInc":"2.57", "price":"59200", "priceInc":"2.42" },
+    { "name":"두산인프라코어", "id":"042670", "volumeInc":"2.55", "price":"8520", "priceInc":"5.71" },
+    { "name":"포스코대우", "id":"047050", "volumeInc":"2.43", "price":"24800", "priceInc":"5.53" },
+    { "name":"지역난방공사", "id":"071320", "volumeInc":"2.13", "price":"80600", "priceInc":"4.13" },
+    { "name":"풍산", "id":"103140", "volumeInc":"1.94", "price":"51900", "priceInc":"4.43" },
+    { "name":"한화생명", "id":"088350", "volumeInc":"1.91", "price":"7570", "priceInc":"0.26" },
+    { "name":"두산", "id":"000150", "volumeInc":"1.76", "price":"129500", "priceInc":"9.75" },
+    { "name":"현대해상", "id":"001450", "volumeInc":"1.74", "price":"49200", "priceInc":"8.37" },
+    { "name":"삼성화재", "id":"000810", "volumeInc":"1.73", "price":"305500", "priceInc":"4.62" },
+    { "name":"한전KPS", "id":"051600", "volumeInc":"1.68", "price":"47050", "priceInc":"4.56" },
+    { "name":"이노션", "id":"214320", "volumeInc":"1.67", "price":"70500", "priceInc":"3.22" }
+  ]
+}

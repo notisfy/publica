@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "하나금융지주",
+  "dailyTrading" : [
+    { "date":"2017-07-18", "volume":"1083521", "adjClosePrice":"48050", "featured":false },
+    { "date":"2017-07-19", "volume":"867759", "adjClosePrice":"47550", "featured":false },
+    { "date":"2017-07-20", "volume":"1055562", "adjClosePrice":"48300", "featured":false },
+    { "date":"2017-07-21", "volume":"1798032", "adjClosePrice":"50200", "featured":true },
+    { "date":"2017-07-24", "volume":"1226732", "adjClosePrice":"50600", "featured":false },
+    { "date":"2017-07-25", "volume":"850326", "adjClosePrice":"51000", "featured":false },
+    { "date":"2017-07-26", "volume":"867632", "adjClosePrice":"52000", "featured":false },
+    { "date":"2017-07-27", "volume":"725505", "adjClosePrice":"51900", "featured":false },
+    { "date":"2017-07-28", "volume":"1009295", "adjClosePrice":"50600", "featured":false },
+    { "date":"2017-07-31", "volume":"881984", "adjClosePrice":"51000", "featured":false },
+    { "date":"2017-08-01", "volume":"925811", "adjClosePrice":"51700", "featured":false }
+  ]
+}

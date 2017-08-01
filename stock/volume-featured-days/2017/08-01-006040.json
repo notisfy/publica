@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "동원산업",
+  "dailyTrading" : [
+    { "date":"2017-07-18", "volume":"4949", "adjClosePrice":"303000", "featured":true },
+    { "date":"2017-07-19", "volume":"5381", "adjClosePrice":"290000", "featured":false },
+    { "date":"2017-07-20", "volume":"4615", "adjClosePrice":"288500", "featured":false },
+    { "date":"2017-07-21", "volume":"5143", "adjClosePrice":"283500", "featured":false },
+    { "date":"2017-07-24", "volume":"4384", "adjClosePrice":"282000", "featured":false },
+    { "date":"2017-07-25", "volume":"4133", "adjClosePrice":"278000", "featured":false },
+    { "date":"2017-07-26", "volume":"2811", "adjClosePrice":"279500", "featured":false },
+    { "date":"2017-07-27", "volume":"4902", "adjClosePrice":"276500", "featured":false },
+    { "date":"2017-07-28", "volume":"5973", "adjClosePrice":"275500", "featured":false },
+    { "date":"2017-07-31", "volume":"1485", "adjClosePrice":"277000", "featured":false },
+    { "date":"2017-08-01", "volume":"3632", "adjClosePrice":"286000", "featured":false }
+  ]
+}
