@@ -1,0 +1,10 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"영진약품", "id":"003520", "volumeInc":"3.72", "price":"11050", "priceInc":"11.06" },
+    { "name":"LG이노텍", "id":"011070", "volumeInc":"2.45", "price":"165000", "priceInc":"10.37" },
+    { "name":"풍산", "id":"103140", "volumeInc":"2.44", "price":"53700", "priceInc":"3.47" },
+    { "name":"JB금융지주", "id":"175330", "volumeInc":"2.07", "price":"6970", "priceInc":"1.16" },
+    { "name":"동원산업", "id":"006040", "volumeInc":"1.51", "price":"290500", "priceInc":"1.57" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "신한지주",
+  "dailyTrading" : [
+    { "date":"2017-07-19", "volume":"1182207", "adjClosePrice":"50800", "featured":false },
+    { "date":"2017-07-20", "volume":"598595", "adjClosePrice":"50600", "featured":false },
+    { "date":"2017-07-21", "volume":"2426599", "adjClosePrice":"52300", "featured":true },
+    { "date":"2017-07-24", "volume":"833893", "adjClosePrice":"52600", "featured":false },
+    { "date":"2017-07-25", "volume":"843244", "adjClosePrice":"52400", "featured":false },
+    { "date":"2017-07-26", "volume":"1039522", "adjClosePrice":"53000", "featured":false },
+    { "date":"2017-07-27", "volume":"942019", "adjClosePrice":"52800", "featured":false },
+    { "date":"2017-07-28", "volume":"937523", "adjClosePrice":"52800", "featured":false },
+    { "date":"2017-07-31", "volume":"832037", "adjClosePrice":"53200", "featured":false },
+    { "date":"2017-08-01", "volume":"1010631", "adjClosePrice":"54200", "featured":false },
+    { "date":"2017-08-02", "volume":"733515", "adjClosePrice":"53400", "featured":false }
+  ]
+}

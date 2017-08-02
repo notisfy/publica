@@ -1,0 +1,38 @@
+{
+  "version" : "today-summary-v1",
+  "kospi_today" : "2427.63",
+  "kospi_diff" : "4.67",
+  "featured_today" : [
+    { "name":"영진약품", "id":"003520", "volumeInc":"3.72", "price":"11050", "priceInc":"11.06" },
+    { "name":"LG이노텍", "id":"011070", "volumeInc":"2.45", "price":"165000", "priceInc":"10.37" },
+    { "name":"풍산", "id":"103140", "volumeInc":"2.44", "price":"53700", "priceInc":"3.47" },
+    { "name":"JB금융지주", "id":"175330", "volumeInc":"2.07", "price":"6970", "priceInc":"1.16" },
+    { "name":"동원산업", "id":"006040", "volumeInc":"1.51", "price":"290500", "priceInc":"1.57" }
+  ],
+  "holdings_today" : [
+    { "name":"두산우", "id":"000155", "holdings":"66318" },
+    { "name":"LG상사", "id":"001120", "holdings":"87350" },
+    { "name":"오리온홀딩스", "id":"001800", "holdings":"56200" },
+    { "name":"한국쉘석유", "id":"002960", "holdings":"5250924" },
+    { "name":"부광약품", "id":"003000", "holdings":"292032" },
+    { "name":"농심", "id":"004370", "holdings":"961500" },
+    { "name":"현대차우", "id":"005385", "holdings":"301100" },
+    { "name":"율촌화학", "id":"008730", "holdings":"135700" },
+    { "name":"S-Oil", "id":"010950", "holdings":"466930" },
+    { "name":"S-Oil우", "id":"010955", "holdings":"2578800" },
+    { "name":"한국전력", "id":"015760", "holdings":"464625" },
+    { "name":"한국단자", "id":"025540", "holdings":"1023746" },
+    { "name":"BGF리테일", "id":"027410", "holdings":"574600" },
+    { "name":"KT&G", "id":"033780", "holdings":"113000" },
+    { "name":"NAVER", "id":"035420", "holdings":"4059000" },
+    { "name":"LG전자우", "id":"066575", "holdings":"34300" },
+    { "name":"한국금융지주우", "id":"071055", "holdings":"112313" },
+    { "name":"아모레퍼시픽우", "id":"090435", "holdings":"175000" },
+    { "name":"TIGER 레버리지", "id":"123320", "holdings":"1632048" },
+    { "name":"코스맥스", "id":"192820", "holdings":"437250" },
+    { "name":"TIGER 200선물인버스2X", "id":"252710", "holdings":"6640" }
+  ],
+  "holdings_diff" : [
+    { "name":"LG상사", "id":"001120", "diff":"28700" }
+  ]
+}
