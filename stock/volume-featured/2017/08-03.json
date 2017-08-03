@@ -1,0 +1,8 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"OCI", "id":"010060", "volumeInc":"3.19", "price":"95200", "priceInc":"2.26" },
+    { "name":"두산", "id":"000150", "volumeInc":"2.15", "price":"129000", "priceInc":"1.57" },
+    { "name":"한온시스템", "id":"018880", "volumeInc":"2.14", "price":"11150", "priceInc":"4.69" }
+  ]
+}
