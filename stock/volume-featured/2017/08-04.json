@@ -1,0 +1,14 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"현대위아", "id":"011210", "volumeInc":"2.38", "price":"74800", "priceInc":"4.18" },
+    { "name":"제주항공", "id":"089590", "volumeInc":"2.26", "price":"37850", "priceInc":"2.99" },
+    { "name":"현대글로비스", "id":"086280", "volumeInc":"2.11", "price":"162000", "priceInc":"5.88" },
+    { "name":"LG화학우", "id":"051915", "volumeInc":"2.02", "price":"240000", "priceInc":"4.35" },
+    { "name":"LG화학", "id":"051910", "volumeInc":"1.76", "price":"342500", "priceInc":"4.10" },
+    { "name":"LG전자", "id":"066570", "volumeInc":"1.70", "price":"71800", "priceInc":"4.97" },
+    { "name":"LG생활건강우", "id":"051905", "volumeInc":"1.64", "price":"647000", "priceInc":"0.31" },
+    { "name":"두산인프라코어", "id":"042670", "volumeInc":"1.60", "price":"8590", "priceInc":"4.50" },
+    { "name":"현대홈쇼핑", "id":"057050", "volumeInc":"1.50", "price":"140000", "priceInc":"4.09" }
+  ]
+}
