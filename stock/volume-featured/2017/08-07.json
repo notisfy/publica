@@ -1,0 +1,9 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"삼성엔지니어링", "id":"028050", "volumeInc":"2.85", "price":"10650", "priceInc":"8.12" },
+    { "name":"CJ제일제당", "id":"097950", "volumeInc":"2.17", "price":"357500", "priceInc":"0.99" },
+    { "name":"동국제강", "id":"001230", "volumeInc":"1.82", "price":"15100", "priceInc":"5.96" },
+    { "name":"NAVER", "id":"035420", "volumeInc":"1.53", "price":"796000", "priceInc":"2.58" }
+  ]
+}
