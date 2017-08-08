@@ -1,0 +1,11 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"SK네트웍스", "id":"001740", "volumeInc":"3.65", "price":"6580", "priceInc":"5.28" },
+    { "name":"제주항공", "id":"089590", "volumeInc":"2.91", "price":"39500", "priceInc":"4.36" },
+    { "name":"한진칼", "id":"180640", "volumeInc":"2.24", "price":"26150", "priceInc":"6.30" },
+    { "name":"한국토지신탁", "id":"034830", "volumeInc":"2.24", "price":"3480", "priceInc":"5.14" },
+    { "name":"LG생활건강우", "id":"051905", "volumeInc":"1.76", "price":"649000", "priceInc":"1.56" },
+    { "name":"현대홈쇼핑", "id":"057050", "volumeInc":"1.57", "price":"140500", "priceInc":"2.18" }
+  ]
+}

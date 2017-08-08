@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "신세계",
+  "dailyTrading" : [
+    { "date":"2017-07-25", "volume":"34629", "adjClosePrice":"225000", "featured":false },
+    { "date":"2017-07-26", "volume":"78007", "adjClosePrice":"237000", "featured":true },
+    { "date":"2017-07-27", "volume":"38950", "adjClosePrice":"235500", "featured":false },
+    { "date":"2017-07-28", "volume":"61186", "adjClosePrice":"241500", "featured":false },
+    { "date":"2017-07-31", "volume":"45233", "adjClosePrice":"238000", "featured":false },
+    { "date":"2017-08-01", "volume":"40116", "adjClosePrice":"234500", "featured":false },
+    { "date":"2017-08-02", "volume":"28951", "adjClosePrice":"231000", "featured":false },
+    { "date":"2017-08-03", "volume":"62087", "adjClosePrice":"226000", "featured":false },
+    { "date":"2017-08-04", "volume":"34018", "adjClosePrice":"228500", "featured":false },
+    { "date":"2017-08-07", "volume":"23981", "adjClosePrice":"228000", "featured":false },
+    { "date":"2017-08-08", "volume":"29508", "adjClosePrice":"224500", "featured":false }
+  ]
+}

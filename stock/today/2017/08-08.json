@@ -1,0 +1,40 @@
+{
+  "version" : "today-summary-v1",
+  "kospi_today" : "2394.73",
+  "kospi_diff" : "-4.02",
+  "featured_today" : [
+    { "name":"SK네트웍스", "id":"001740", "volumeInc":"3.65", "price":"6580", "priceInc":"5.28" },
+    { "name":"제주항공", "id":"089590", "volumeInc":"2.91", "price":"39500", "priceInc":"4.36" },
+    { "name":"한진칼", "id":"180640", "volumeInc":"2.24", "price":"26150", "priceInc":"6.30" },
+    { "name":"한국토지신탁", "id":"034830", "volumeInc":"2.24", "price":"3480", "priceInc":"5.14" },
+    { "name":"LG생활건강우", "id":"051905", "volumeInc":"1.76", "price":"649000", "priceInc":"1.56" },
+    { "name":"현대홈쇼핑", "id":"057050", "volumeInc":"1.57", "price":"140500", "priceInc":"2.18" }
+  ],
+  "holdings_today" : [
+    { "name":"두산우", "id":"000155", "holdings":"66318" },
+    { "name":"LG상사", "id":"001120", "holdings":"87350" },
+    { "name":"오리온홀딩스", "id":"001800", "holdings":"83800" },
+    { "name":"코오롱", "id":"002020", "holdings":"62000" },
+    { "name":"한국쉘석유", "id":"002960", "holdings":"4847007" },
+    { "name":"부광약품", "id":"003000", "holdings":"292032" },
+    { "name":"농심", "id":"004370", "holdings":"961500" },
+    { "name":"현대차우", "id":"005385", "holdings":"301100" },
+    { "name":"NH투자증권우", "id":"005945", "holdings":"216310" },
+    { "name":"미래에셋대우우", "id":"006805", "holdings":"86860" },
+    { "name":"율촌화학", "id":"008730", "holdings":"135700" },
+    { "name":"S-Oil", "id":"010950", "holdings":"466930" },
+    { "name":"S-Oil우", "id":"010955", "holdings":"2578800" },
+    { "name":"한국전력", "id":"015760", "holdings":"422387" },
+    { "name":"한국단자", "id":"025540", "holdings":"955497" },
+    { "name":"BGF리테일", "id":"027410", "holdings":"747700" },
+    { "name":"NAVER", "id":"035420", "holdings":"4059000" },
+    { "name":"한국금융지주우", "id":"071055", "holdings":"147813" },
+    { "name":"맥쿼리인프라", "id":"088980", "holdings":"102150" },
+    { "name":"아모레퍼시픽우", "id":"090435", "holdings":"175000" },
+    { "name":"TIGER 레버리지", "id":"123320", "holdings":"2076908" },
+    { "name":"코스맥스", "id":"192820", "holdings":"437250" },
+    { "name":"TIGER 200선물인버스2X", "id":"252710", "holdings":"6640" }
+  ],
+  "holdings_diff" : [
+  ]
+}
