@@ -1,0 +1,11 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"대한전선", "id":"001440", "volumeInc":"9.98", "price":"1385", "priceInc":"11.69" },
+    { "name":"현대홈쇼핑", "id":"057050", "volumeInc":"2.50", "price":"144000", "priceInc":"2.49" },
+    { "name":"영원무역", "id":"111770", "volumeInc":"2.19", "price":"32250", "priceInc":"4.03" },
+    { "name":"NH투자증권", "id":"005940", "volumeInc":"1.80", "price":"13700", "priceInc":"0.74" },
+    { "name":"두산인프라코어", "id":"042670", "volumeInc":"1.69", "price":"8710", "priceInc":"2.23" },
+    { "name":"LIG넥스원", "id":"079550", "volumeInc":"1.69", "price":"83500", "priceInc":"4.90" }
+  ]
+}
