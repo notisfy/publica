@@ -1,0 +1,14 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"SK네트웍스", "id":"001740", "volumeInc":"2.98", "price":"6750", "priceInc":"2.90" },
+    { "name":"한화생명", "id":"088350", "volumeInc":"2.73", "price":"7830", "priceInc":"3.03" },
+    { "name":"한섬", "id":"020000", "volumeInc":"2.69", "price":"36050", "priceInc":"1.26" },
+    { "name":"한국가스공사", "id":"036460", "volumeInc":"2.48", "price":"51000", "priceInc":"1.19" },
+    { "name":"코스맥스", "id":"192820", "volumeInc":"2.19", "price":"115500", "priceInc":"3.59" },
+    { "name":"LG생활건강우", "id":"051905", "volumeInc":"2.06", "price":"646000", "priceInc":"1.25" },
+    { "name":"농심", "id":"004370", "volumeInc":"1.65", "price":"324000", "priceInc":"2.69" },
+    { "name":"LG전자", "id":"066570", "volumeInc":"1.62", "price":"73700", "priceInc":"3.22" },
+    { "name":"한국항공우주", "id":"047810", "volumeInc":"1.57", "price":"39700", "priceInc":"0.51" }
+  ]
+}
