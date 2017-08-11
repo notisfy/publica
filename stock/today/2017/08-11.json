@@ -1,0 +1,42 @@
+{
+  "version" : "today-summary-v1",
+  "kospi_today" : "2319.71",
+  "kospi_diff" : "-39.76",
+  "featured_today" : [
+    { "name":"SK네트웍스", "id":"001740", "volumeInc":"6.80", "price":"7040", "priceInc":"4.30" },
+    { "name":"현대홈쇼핑", "id":"057050", "volumeInc":"2.73", "price":"147500", "priceInc":"2.43" }
+  ],
+  "holdings_today" : [
+    { "name":"LG상사", "id":"001120", "holdings":"116450" },
+    { "name":"오리온홀딩스", "id":"001800", "holdings":"83800" },
+    { "name":"한국쉘석유", "id":"002960", "holdings":"4847007" },
+    { "name":"부광약품", "id":"003000", "holdings":"353682" },
+    { "name":"농심", "id":"004370", "holdings":"641000" },
+    { "name":"현대차우", "id":"005385", "holdings":"596500" },
+    { "name":"NH투자증권우", "id":"005945", "holdings":"374210" },
+    { "name":"미래에셋대우우", "id":"006805", "holdings":"195940" },
+    { "name":"율촌화학", "id":"008730", "holdings":"189200" },
+    { "name":"S-Oil", "id":"010950", "holdings":"466930" },
+    { "name":"S-Oil우", "id":"010955", "holdings":"2500655" },
+    { "name":"한국전력", "id":"015760", "holdings":"337911" },
+    { "name":"한국단자", "id":"025540", "holdings":"750750" },
+    { "name":"BGF리테일", "id":"027410", "holdings":"1007500" },
+    { "name":"KT", "id":"030200", "holdings":"199950" },
+    { "name":"NAVER", "id":"035420", "holdings":"4059000" },
+    { "name":"한국항공우주", "id":"047810", "holdings":"39900" },
+    { "name":"한국금융지주우", "id":"071055", "holdings":"284213" },
+    { "name":"맥쿼리인프라", "id":"088980", "holdings":"153060" },
+    { "name":"아모레퍼시픽우", "id":"090435", "holdings":"175000" },
+    { "name":"CJ제일제당 우", "id":"097955", "holdings":"322000" },
+    { "name":"TIGER 레버리지", "id":"123320", "holdings":"3222038" }
+  ],
+  "holdings_diff" : [
+    { "name":"부광약품", "id":"003000", "diff":"20400" },
+    { "name":"미래에셋대우우", "id":"006805", "diff":"18820" },
+    { "name":"율촌화학", "id":"008730", "diff":"13300" },
+    { "name":"KT", "id":"030200", "diff":"32600" },
+    { "name":"한국금융지주우", "id":"071055", "diff":"33400" },
+    { "name":"맥쿼리인프라", "id":"088980", "diff":"8460" },
+    { "name":"TIGER 레버리지", "id":"123320", "diff":"195850" }
+  ]
+}
