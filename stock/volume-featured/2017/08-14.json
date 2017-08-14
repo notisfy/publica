@@ -1,0 +1,9 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"대한전선", "id":"001440", "volumeInc":"2.45", "price":"1340", "priceInc":"7.20" },
+    { "name":"한화케미칼", "id":"009830", "volumeInc":"2.11", "price":"35500", "priceInc":"5.34" },
+    { "name":"대한유화", "id":"006650", "volumeInc":"1.98", "price":"268000", "priceInc":"5.10" },
+    { "name":"영원무역", "id":"111770", "volumeInc":"1.79", "price":"34000", "priceInc":"3.66" }
+  ]
+}

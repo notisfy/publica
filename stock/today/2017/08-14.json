@@ -1,0 +1,45 @@
+{
+  "version" : "today-summary-v1",
+  "kospi_today" : "2334.22",
+  "kospi_diff" : "14.51",
+  "featured_today" : [
+    { "name":"대한전선", "id":"001440", "volumeInc":"2.45", "price":"1340", "priceInc":"7.20" },
+    { "name":"한화케미칼", "id":"009830", "volumeInc":"2.11", "price":"35500", "priceInc":"5.34" },
+    { "name":"대한유화", "id":"006650", "volumeInc":"1.98", "price":"268000", "priceInc":"5.10" },
+    { "name":"영원무역", "id":"111770", "volumeInc":"1.79", "price":"34000", "priceInc":"3.66" }
+  ],
+  "holdings_today" : [
+    { "name":"LG상사", "id":"001120", "holdings":"174150" },
+    { "name":"오리온홀딩스", "id":"001800", "holdings":"83800" },
+    { "name":"한국쉘석유", "id":"002960", "holdings":"4847007" },
+    { "name":"부광약품", "id":"003000", "holdings":"374182" },
+    { "name":"농심", "id":"004370", "holdings":"641000" },
+    { "name":"현대차우", "id":"005385", "holdings":"596500" },
+    { "name":"NH투자증권우", "id":"005945", "holdings":"356391" },
+    { "name":"미래에셋대우우", "id":"006805", "holdings":"202360" },
+    { "name":"율촌화학", "id":"008730", "holdings":"202400" },
+    { "name":"S-Oil", "id":"010950", "holdings":"466930" },
+    { "name":"S-Oil우", "id":"010955", "holdings":"2500655" },
+    { "name":"한국전력", "id":"015760", "holdings":"337911" },
+    { "name":"한국단자", "id":"025540", "holdings":"682500" },
+    { "name":"BGF리테일", "id":"027410", "holdings":"1007500" },
+    { "name":"KT", "id":"030200", "holdings":"199950" },
+    { "name":"NAVER", "id":"035420", "holdings":"4059000" },
+    { "name":"한국항공우주", "id":"047810", "holdings":"113750" },
+    { "name":"한국금융지주우", "id":"071055", "holdings":"284213" },
+    { "name":"맥쿼리인프라", "id":"088980", "holdings":"178450" },
+    { "name":"아모레퍼시픽우", "id":"090435", "holdings":"175000" },
+    { "name":"CJ제일제당 우", "id":"097955", "holdings":"322000" },
+    { "name":"TIGER 레버리지", "id":"123320", "holdings":"3222038" }
+  ],
+  "holdings_diff" : [
+    { "name":"LG상사", "id":"001120", "diff":"57700" },
+    { "name":"부광약품", "id":"003000", "diff":"20500" },
+    { "name":"NH투자증권우", "id":"005945", "diff":"-17819" },
+    { "name":"미래에셋대우우", "id":"006805", "diff":"6420" },
+    { "name":"율촌화학", "id":"008730", "diff":"13200" },
+    { "name":"한국단자", "id":"025540", "diff":"-68250" },
+    { "name":"한국항공우주", "id":"047810", "diff":"73850" },
+    { "name":"맥쿼리인프라", "id":"088980", "diff":"25390" }
+  ]
+}

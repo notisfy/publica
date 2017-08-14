@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "NAVER",
+  "dailyTrading" : [
+    { "date":"2017-07-31", "volume":"86202", "adjClosePrice":"803000", "featured":false },
+    { "date":"2017-08-01", "volume":"80731", "adjClosePrice":"796000", "featured":false },
+    { "date":"2017-08-02", "volume":"82604", "adjClosePrice":"795000", "featured":false },
+    { "date":"2017-08-03", "volume":"134631", "adjClosePrice":"778000", "featured":false },
+    { "date":"2017-08-04", "volume":"67163", "adjClosePrice":"776000", "featured":false },
+    { "date":"2017-08-07", "volume":"129486", "adjClosePrice":"796000", "featured":true },
+    { "date":"2017-08-08", "volume":"101890", "adjClosePrice":"810000", "featured":false },
+    { "date":"2017-08-09", "volume":"51873", "adjClosePrice":"798000", "featured":false },
+    { "date":"2017-08-10", "volume":"73462", "adjClosePrice":"794000", "featured":false },
+    { "date":"2017-08-11", "volume":"53926", "adjClosePrice":"795000", "featured":false },
+    { "date":"2017-08-14", "volume":"79325", "adjClosePrice":"779000", "featured":false }
+  ]
+}
