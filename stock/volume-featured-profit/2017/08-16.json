@@ -37,6 +37,6 @@
     { "name":"만도", "id":"204320", "profit":"2.34", "featuredDate":"2017-08-10", "featuredVolumeInc":"1.52" },
     { "name":"LG생활건강우", "id":"051905", "profit":"2.20", "featuredDate":"2017-08-04", "featuredVolumeInc":"1.71" },
     { "name":"강원랜드", "id":"035250", "profit":"1.84", "featuredDate":"2017-08-09", "featuredVolumeInc":"1.57" },
-    { "name":"한국가스공사", "id":"036460", "profit":"1.03", "featuredDate":"2017-08-10", "featuredVolumeInc":"2.54" },
+    { "name":"한국가스공사", "id":"036460", "profit":"1.03", "featuredDate":"2017-08-10", "featuredVolumeInc":"2.54" }
   ]
 }
