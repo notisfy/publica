@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한국항공우주", "id":"047810", "volumeInc":"7.47", "price":"42850", "priceInc":"16.12" },
+    { "name":"하이트진로", "id":"000080", "volumeInc":"4.29", "price":"25950", "priceInc":"7.45" },
+    { "name":"대한전선", "id":"001440", "volumeInc":"2.42", "price":"1385", "priceInc":"3.36" },
+    { "name":"농심", "id":"004370", "volumeInc":"2.01", "price":"333500", "priceInc":"4.38" },
+    { "name":"현대차우", "id":"005385", "volumeInc":"1.99", "price":"99300", "priceInc":"0.40" },
+    { "name":"삼성전자", "id":"005930", "volumeInc":"1.96", "price":"2310000", "priceInc":"2.67" },
+    { "name":"LG", "id":"003550", "volumeInc":"1.76", "price":"79300", "priceInc":"3.26" },
+    { "name":"삼성전자우", "id":"005935", "volumeInc":"1.63", "price":"1901000", "priceInc":"3.94" },
+    { "name":"한화테크윈", "id":"012450", "volumeInc":"1.61", "price":"39500", "priceInc":"3.95" },
+    { "name":"롯데하이마트", "id":"071840", "volumeInc":"1.59", "price":"64700", "priceInc":"4.69" }
+  ]
+}
