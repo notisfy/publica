@@ -1,0 +1,10 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"롯데쇼핑", "id":"023530", "volumeInc":"2.14", "price":"267000", "priceInc":"9.20" },
+    { "name":"풍산", "id":"103140", "volumeInc":"1.86", "price":"54300", "priceInc":"5.23" },
+    { "name":"한솔케미칼", "id":"014680", "volumeInc":"1.72", "price":"78600", "priceInc":"3.42" },
+    { "name":"고려아연", "id":"010130", "volumeInc":"1.54", "price":"500000", "priceInc":"4.71" },
+    { "name":"코오롱인더", "id":"120110", "volumeInc":"1.53", "price":"68700", "priceInc":"1.63" }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "version" : "today-summary-v1",
+  "kospi_today" : "2361.67",
+  "kospi_diff" : "13.41",
+  "featured_today" : [
+    { "name":"롯데쇼핑", "id":"023530", "volumeInc":"2.14", "price":"267000", "priceInc":"9.20" },
+    { "name":"풍산", "id":"103140", "volumeInc":"1.86", "price":"54300", "priceInc":"5.23" },
+    { "name":"한솔케미칼", "id":"014680", "volumeInc":"1.72", "price":"78600", "priceInc":"3.42" },
+    { "name":"고려아연", "id":"010130", "volumeInc":"1.54", "price":"500000", "priceInc":"4.71" },
+    { "name":"코오롱인더", "id":"120110", "volumeInc":"1.53", "price":"68700", "priceInc":"1.63" }
+  ],
+  "holdings_today" : [
+    { "name":"LG상사", "id":"001120", "holdings":"260000" },
+    { "name":"오리온홀딩스", "id":"001800", "holdings":"83800" },
+    { "name":"한국쉘석유", "id":"002960", "holdings":"4847007" },
+    { "name":"부광약품", "id":"003000", "holdings":"394582" },
+    { "name":"현대차우", "id":"005385", "holdings":"596500" },
+    { "name":"NH투자증권우", "id":"005945", "holdings":"356391" },
+    { "name":"미래에셋대우우", "id":"006805", "holdings":"202360" },
+    { "name":"율촌화학", "id":"008730", "holdings":"202400" },
+    { "name":"S-Oil", "id":"010950", "holdings":"466930" },
+    { "name":"S-Oil우", "id":"010955", "holdings":"2500655" },
+    { "name":"한국전력", "id":"015760", "holdings":"253434" },
+    { "name":"한국단자", "id":"025540", "holdings":"682500" },
+    { "name":"BGF리테일", "id":"027410", "holdings":"1093000" },
+    { "name":"KT", "id":"030200", "holdings":"265050" },
+    { "name":"NAVER", "id":"035420", "holdings":"4059000" },
+    { "name":"한국금융지주우", "id":"071055", "holdings":"317913" },
+    { "name":"맥쿼리인프라", "id":"088980", "holdings":"186910" },
+    { "name":"아모레퍼시픽우", "id":"090435", "holdings":"175000" },
+    { "name":"CJ제일제당 우", "id":"097955", "holdings":"637000" },
+    { "name":"TIGER 레버리지", "id":"123320", "holdings":"3222038" }
+  ],
+  "holdings_diff" : [
+    { "name":"LG상사", "id":"001120", "diff":"28550" },
+    { "name":"한국전력", "id":"015760", "diff":"-84477" },
+    { "name":"KT", "id":"030200", "diff":"65100" }
+  ]
+}
