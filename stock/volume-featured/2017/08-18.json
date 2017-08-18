@@ -1,0 +1,9 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한온시스템", "id":"018880", "volumeInc":"4.50", "price":"11900", "priceInc":"9.17" },
+    { "name":"한화테크윈", "id":"012450", "volumeInc":"2.56", "price":"40850", "priceInc":"4.61" },
+    { "name":"금호석유", "id":"011780", "volumeInc":"2.05", "price":"77400", "priceInc":"3.06" },
+    { "name":"농심", "id":"004370", "volumeInc":"1.62", "price":"339000", "priceInc":"1.04" }
+  ]
+}
