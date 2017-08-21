@@ -1,0 +1,7 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"대한전선", "id":"001440", "volumeInc":"1.90", "price":"1430", "priceInc":"1.42" },
+    { "name":"롯데하이마트", "id":"071840", "volumeInc":"1.51", "price":"66300", "priceInc":"1.84" }
+  ]
+}
