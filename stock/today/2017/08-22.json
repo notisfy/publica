@@ -1,7 +1,7 @@
 {
   "version" : "today-summary-v1",
   "kospi_today" : "2365.33",
-  "kospi_diff" : "0.00",
+  "kospi_diff" : "10.33",
   "featured_today" : [
     { "name":"현대상선", "id":"011200", "volumeInc":"3.86", "price":"8660", "priceInc":"3.46" },
     { "name":"현대중공업", "id":"009540", "volumeInc":"2.62", "price":"150000", "priceInc":"1.01" },
@@ -30,5 +30,9 @@
     { "name":"TIGER 레버리지", "id":"123320", "holdings":"3222038" }
   ],
   "holdings_diff" : [
+    { "name":"오리온홀딩스", "id":"001800", "diff":"27200" },
+    { "name":"NH투자증권우", "id":"005945", "diff":"-89097" },
+    { "name":"NAVER", "id":"035420", "diff":"765000" },
+    { "name":"한국금융지주우", "id":"071055", "diff":"-317913" }
   ]
 }
