@@ -1,8 +1,9 @@
 {
   "version" : "volume-featured-v1",
   "stocks" : [
-    { "name":"현대상선", "id":"011200", "volumeInc":"3.84", "price":"8660", "priceInc":"3.46" },
-    { "name":"현대중공업", "id":"009540", "volumeInc":"2.74", "price":"150000", "priceInc":"1.01" },
-    { "name":"이마트", "id":"139480", "volumeInc":"1.69", "price":"225000", "priceInc":"1.35" }
+    { "name":"현대상선", "id":"011200", "volumeInc":"3.86", "price":"8660", "priceInc":"3.46" },
+    { "name":"현대중공업", "id":"009540", "volumeInc":"2.62", "price":"150000", "priceInc":"1.01" },
+    { "name":"메리츠화재", "id":"000060", "volumeInc":"1.96", "price":"24500", "priceInc":"0.20" },
+    { "name":"이마트", "id":"139480", "volumeInc":"1.65", "price":"225000", "priceInc":"1.35" }
   ]
 }
