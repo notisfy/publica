@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "한섬",
+  "dailyTrading" : [
+    { "date":"2017-08-09", "volume":"54361", "adjClosePrice":"35600", "featured":false },
+    { "date":"2017-08-10", "volume":"188437", "adjClosePrice":"36050", "featured":true },
+    { "date":"2017-08-11", "volume":"128049", "adjClosePrice":"37200", "featured":false },
+    { "date":"2017-08-14", "volume":"80738", "adjClosePrice":"36900", "featured":false },
+    { "date":"2017-08-16", "volume":"88174", "adjClosePrice":"36250", "featured":false },
+    { "date":"2017-08-17", "volume":"76564", "adjClosePrice":"36000", "featured":false },
+    { "date":"2017-08-18", "volume":"59375", "adjClosePrice":"35100", "featured":false },
+    { "date":"2017-08-21", "volume":"48559", "adjClosePrice":"34700", "featured":false },
+    { "date":"2017-08-22", "volume":"39884", "adjClosePrice":"34800", "featured":false },
+    { "date":"2017-08-23", "volume":"46483", "adjClosePrice":"34750", "featured":false }
+  ]
+}

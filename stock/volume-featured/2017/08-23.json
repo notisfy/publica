@@ -1,0 +1,6 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"삼양사", "id":"145990", "volumeInc":"2.14", "price":"98700", "priceInc":"5.56" }
+  ]
+}
