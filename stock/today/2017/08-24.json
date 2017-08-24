@@ -1,0 +1,40 @@
+{
+  "version" : "today-summary-v1",
+  "kospi_today" : "2375.84",
+  "kospi_diff" : "9.44",
+  "featured_today" : [
+    { "name":"한온시스템", "id":"018880", "volumeInc":"3.73", "price":"12150", "priceInc":"5.19" },
+    { "name":"아모레퍼시픽", "id":"090430", "volumeInc":"2.25", "price":"295000", "priceInc":"5.17" },
+    { "name":"효성", "id":"004800", "volumeInc":"2.02", "price":"157000", "priceInc":"0.32" },
+    { "name":"코스맥스", "id":"192820", "volumeInc":"1.91", "price":"123500", "priceInc":"6.01" },
+    { "name":"아모레G", "id":"002790", "volumeInc":"1.81", "price":"134000", "priceInc":"4.69" },
+    { "name":"LG화학우", "id":"051915", "volumeInc":"1.75", "price":"257500", "priceInc":"0.59" },
+    { "name":"롯데제과", "id":"004990", "volumeInc":"1.70", "price":"197000", "priceInc":"2.34" }
+  ],
+  "holdings_today" : [
+    { "name":"LG상사", "id":"001120", "holdings":"345150" },
+    { "name":"오리온홀딩스", "id":"001800", "holdings":"137800" },
+    { "name":"한국쉘석유", "id":"002960", "holdings":"5247007" },
+    { "name":"부광약품", "id":"003000", "holdings":"415082" },
+    { "name":"현대차우", "id":"005385", "holdings":"596500" },
+    { "name":"NH투자증권우", "id":"005945", "holdings":"267294" },
+    { "name":"미래에셋대우우", "id":"006805", "holdings":"215390" },
+    { "name":"율촌화학", "id":"008730", "holdings":"202400" },
+    { "name":"S-Oil", "id":"010950", "holdings":"466930" },
+    { "name":"S-Oil우", "id":"010955", "holdings":"2500655" },
+    { "name":"한국단자", "id":"025540", "holdings":"682500" },
+    { "name":"BGF리테일", "id":"027410", "holdings":"1093000" },
+    { "name":"KT", "id":"030200", "holdings":"458150" },
+    { "name":"KT&G", "id":"033780", "holdings":"112000" },
+    { "name":"NAVER", "id":"035420", "holdings":"4824000" },
+    { "name":"맥쿼리인프라", "id":"088980", "holdings":"186910" },
+    { "name":"CJ제일제당 우", "id":"097955", "holdings":"637000" },
+    { "name":"TIGER 레버리지", "id":"123320", "holdings":"3222038" }
+  ],
+  "holdings_diff" : [
+    { "name":"부광약품", "id":"003000", "diff":"20500" },
+    { "name":"미래에셋대우우", "id":"006805", "diff":"13030" },
+    { "name":"KT", "id":"030200", "diff":"63800" },
+    { "name":"아모레퍼시픽우", "id":"090435", "diff":"-175000" }
+  ]
+}

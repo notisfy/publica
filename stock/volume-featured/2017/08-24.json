@@ -1,0 +1,12 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한온시스템", "id":"018880", "volumeInc":"3.73", "price":"12150", "priceInc":"5.19" },
+    { "name":"아모레퍼시픽", "id":"090430", "volumeInc":"2.25", "price":"295000", "priceInc":"5.17" },
+    { "name":"효성", "id":"004800", "volumeInc":"2.02", "price":"157000", "priceInc":"0.32" },
+    { "name":"코스맥스", "id":"192820", "volumeInc":"1.91", "price":"123500", "priceInc":"6.01" },
+    { "name":"아모레G", "id":"002790", "volumeInc":"1.81", "price":"134000", "priceInc":"4.69" },
+    { "name":"LG화학우", "id":"051915", "volumeInc":"1.75", "price":"257500", "priceInc":"0.59" },
+    { "name":"롯데제과", "id":"004990", "volumeInc":"1.70", "price":"197000", "priceInc":"2.34" }
+  ]
+}
