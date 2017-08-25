@@ -1,0 +1,9 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"삼성엔지니어링", "id":"028050", "volumeInc":"3.54", "price":"10650", "priceInc":"4.93" },
+    { "name":"호텔신라", "id":"008770", "volumeInc":"2.39", "price":"64700", "priceInc":"0.78" },
+    { "name":"한국항공우주", "id":"047810", "volumeInc":"1.59", "price":"43350", "priceInc":"4.46" },
+    { "name":"삼성중공업", "id":"010140", "volumeInc":"1.56", "price":"11050", "priceInc":"2.79" }
+  ]
+}
