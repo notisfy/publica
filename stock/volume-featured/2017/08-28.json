@@ -1,12 +1,12 @@
 {
   "version" : "volume-featured-v1",
   "stocks" : [
-    { "name":"JW홀딩스", "id":"096760", "volumeInc":"3.48", "price":"9580", "priceInc":"8.13" },
+    { "name":"JW홀딩스", "id":"096760", "volumeInc":"3.49", "price":"9580", "priceInc":"8.13" },
     { "name":"한미약품", "id":"128940", "volumeInc":"2.57", "price":"397500", "priceInc":"7.29" },
     { "name":"한국항공우주", "id":"047810", "volumeInc":"2.03", "price":"45900", "priceInc":"5.88" },
-    { "name":"한미사이언스", "id":"008930", "volumeInc":"1.84", "price":"91900", "priceInc":"4.31" },
+    { "name":"한미사이언스", "id":"008930", "volumeInc":"1.85", "price":"91900", "priceInc":"4.31" },
     { "name":"금호석유", "id":"011780", "volumeInc":"1.81", "price":"79300", "priceInc":"2.99" },
-    { "name":"JW중외제약", "id":"001060", "volumeInc":"1.71", "price":"46450", "priceInc":"4.38" },
+    { "name":"JW중외제약", "id":"001060", "volumeInc":"1.72", "price":"46450", "priceInc":"4.38" },
     { "name":"풍산", "id":"103140", "volumeInc":"1.69", "price":"54600", "priceInc":"0.92" },
     { "name":"넥센타이어", "id":"002350", "volumeInc":"1.68", "price":"13350", "priceInc":"1.14" },
     { "name":"동원산업", "id":"006040", "volumeInc":"1.57", "price":"267000", "priceInc":"0.75" },
