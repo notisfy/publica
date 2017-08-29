@@ -3,7 +3,8 @@
   "kospi_today" : "2364.74",
   "kospi_diff" : "-5.56",
   "featured_today" : [
-    { "name":"LG생활건강우", "id":"051905", "volumeInc":"1.76", "price":"605000", "priceInc":"0.83" }
+    { "name":"LG생활건강우", "id":"051905", "volumeInc":"1.98", "price":"605000", "priceInc":"0.83" },
+    { "name":"녹십자홀딩스", "id":"005250", "volumeInc":"1.56", "price":"33550", "priceInc":"4.52" }
   ],
   "holdings_today" : [
     { "name":"LG상사", "id":"001120", "holdings":"373550" },
