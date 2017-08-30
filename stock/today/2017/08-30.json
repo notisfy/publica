@@ -1,0 +1,42 @@
+{
+  "version" : "today-summary-v1",
+  "kospi_today" : "2372.29",
+  "kospi_diff" : "7.55",
+  "featured_today" : [
+    { "name":"LG전자", "id":"066570", "volumeInc":"3.31", "price":"82300", "priceInc":"10.62" },
+    { "name":"동원산업", "id":"006040", "volumeInc":"2.43", "price":"289000", "priceInc":"5.67" },
+    { "name":"LG화학우", "id":"051915", "volumeInc":"2.36", "price":"265500", "priceInc":"5.57" },
+    { "name":"LG", "id":"003550", "volumeInc":"2.11", "price":"85700", "priceInc":"6.20" },
+    { "name":"기아차", "id":"000270", "volumeInc":"1.81", "price":"36750", "priceInc":"2.80" },
+    { "name":"LIG넥스원", "id":"079550", "volumeInc":"1.52", "price":"83300", "priceInc":"4.52" }
+  ],
+  "holdings_today" : [
+    { "name":"LG상사", "id":"001120", "holdings":"373550" },
+    { "name":"오리온홀딩스", "id":"001800", "holdings":"164300" },
+    { "name":"한국쉘석유", "id":"002960", "holdings":"5247007" },
+    { "name":"부광약품", "id":"003000", "holdings":"415082" },
+    { "name":"효성", "id":"004800", "holdings":"158000" },
+    { "name":"현대차우", "id":"005385", "holdings":"596500" },
+    { "name":"NH투자증권우", "id":"005945", "holdings":"267294" },
+    { "name":"미래에셋대우우", "id":"006805", "holdings":"279810" },
+    { "name":"율촌화학", "id":"008730", "holdings":"202400" },
+    { "name":"S-Oil우", "id":"010955", "holdings":"2500655" },
+    { "name":"SK텔레콤", "id":"017670", "holdings":"257000" },
+    { "name":"한국단자", "id":"025540", "holdings":"136500" },
+    { "name":"BGF리테일", "id":"027410", "holdings":"1093000" },
+    { "name":"KT", "id":"030200", "holdings":"521850" },
+    { "name":"KT&G", "id":"033780", "holdings":"112000" },
+    { "name":"NAVER", "id":"035420", "holdings":"4824000" },
+    { "name":"키움증권", "id":"039490", "holdings":"80400" },
+    { "name":"맥쿼리인프라", "id":"088980", "holdings":"186910" },
+    { "name":"CJ제일제당 우", "id":"097955", "holdings":"789000" },
+    { "name":"TIGER 레버리지", "id":"123320", "holdings":"3350618" }
+  ],
+  "holdings_diff" : [
+    { "name":"미래에셋대우우", "id":"006805", "diff":"6420" },
+    { "name":"S-Oil", "id":"010950", "diff":"-280158" },
+    { "name":"한국단자", "id":"025540", "diff":"-136500" },
+    { "name":"KT", "id":"030200", "diff":"63700" },
+    { "name":"SK텔레콤", "id":"017670", "diff":"257000" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "LG",
+  "dailyTrading" : [
+    { "date":"2017-08-16", "volume":"554373", "adjClosePrice":"79300", "featured":true },
+    { "date":"2017-08-17", "volume":"261504", "adjClosePrice":"80400", "featured":false },
+    { "date":"2017-08-18", "volume":"212733", "adjClosePrice":"80100", "featured":false },
+    { "date":"2017-08-21", "volume":"177556", "adjClosePrice":"80500", "featured":false },
+    { "date":"2017-08-22", "volume":"214334", "adjClosePrice":"81500", "featured":false },
+    { "date":"2017-08-23", "volume":"208229", "adjClosePrice":"80800", "featured":false },
+    { "date":"2017-08-24", "volume":"189328", "adjClosePrice":"81800", "featured":false },
+    { "date":"2017-08-25", "volume":"174267", "adjClosePrice":"80900", "featured":false },
+    { "date":"2017-08-28", "volume":"164374", "adjClosePrice":"80600", "featured":false },
+    { "date":"2017-08-29", "volume":"179009", "adjClosePrice":"80700", "featured":false },
+    { "date":"2017-08-30", "volume":"621744", "adjClosePrice":"85700", "featured":true }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"LG전자", "id":"066570", "volumeInc":"3.31", "price":"82300", "priceInc":"10.62" },
+    { "name":"동원산업", "id":"006040", "volumeInc":"2.43", "price":"289000", "priceInc":"5.67" },
+    { "name":"LG화학우", "id":"051915", "volumeInc":"2.36", "price":"265500", "priceInc":"5.57" },
+    { "name":"LG", "id":"003550", "volumeInc":"2.11", "price":"85700", "priceInc":"6.20" },
+    { "name":"기아차", "id":"000270", "volumeInc":"1.81", "price":"36750", "priceInc":"2.80" },
+    { "name":"LIG넥스원", "id":"079550", "volumeInc":"1.52", "price":"83300", "priceInc":"4.52" }
+  ]
+}
