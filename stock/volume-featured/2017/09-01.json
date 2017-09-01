@@ -1,0 +1,10 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"대우건설", "id":"047040", "volumeInc":"4.35", "price":"7430", "priceInc":"5.69" },
+    { "name":"녹십자", "id":"006280", "volumeInc":"2.45", "price":"188500", "priceInc":"3.86" },
+    { "name":"대한유화", "id":"006650", "volumeInc":"2.26", "price":"274500", "priceInc":"2.62" },
+    { "name":"한미약품", "id":"128940", "volumeInc":"2.08", "price":"412500", "priceInc":"2.36" },
+    { "name":"LG전자", "id":"066570", "volumeInc":"1.62", "price":"83600", "priceInc":"2.58" }
+  ]
+}
