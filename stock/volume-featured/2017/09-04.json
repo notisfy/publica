@@ -1,0 +1,7 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"락앤락", "id":"115390", "volumeInc":"5.54", "price":"16750", "priceInc":"3.40" },
+    { "name":"부광약품", "id":"003000", "volumeInc":"1.57", "price":"21400", "priceInc":"0.71" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "LG전자",
+  "dailyTrading" : [
+    { "date":"2017-08-21", "volume":"1150758", "adjClosePrice":"75800", "featured":false },
+    { "date":"2017-08-22", "volume":"697166", "adjClosePrice":"75700", "featured":false },
+    { "date":"2017-08-23", "volume":"1305373", "adjClosePrice":"77500", "featured":false },
+    { "date":"2017-08-24", "volume":"789863", "adjClosePrice":"77400", "featured":false },
+    { "date":"2017-08-25", "volume":"436711", "adjClosePrice":"77700", "featured":false },
+    { "date":"2017-08-28", "volume":"553675", "adjClosePrice":"76300", "featured":false },
+    { "date":"2017-08-29", "volume":"1540731", "adjClosePrice":"74400", "featured":false },
+    { "date":"2017-08-30", "volume":"3890727", "adjClosePrice":"82300", "featured":true },
+    { "date":"2017-08-31", "volume":"1881984", "adjClosePrice":"81500", "featured":false },
+    { "date":"2017-09-01", "volume":"1937745", "adjClosePrice":"83600", "featured":true },
+    { "date":"2017-09-04", "volume":"1501451", "adjClosePrice":"82700", "featured":false }
+  ]
+}
