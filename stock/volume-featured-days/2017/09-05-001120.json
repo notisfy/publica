@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "LG상사",
+  "dailyTrading" : [
+    { "date":"2017-08-22", "volume":"137521", "adjClosePrice":"28600", "featured":false },
+    { "date":"2017-08-23", "volume":"134829", "adjClosePrice":"28350", "featured":false },
+    { "date":"2017-08-24", "volume":"150600", "adjClosePrice":"28700", "featured":false },
+    { "date":"2017-08-25", "volume":"147241", "adjClosePrice":"28750", "featured":false },
+    { "date":"2017-08-28", "volume":"140470", "adjClosePrice":"28500", "featured":false },
+    { "date":"2017-08-29", "volume":"138921", "adjClosePrice":"28450", "featured":false },
+    { "date":"2017-08-30", "volume":"100202", "adjClosePrice":"28650", "featured":false },
+    { "date":"2017-08-31", "volume":"231844", "adjClosePrice":"28850", "featured":true },
+    { "date":"2017-09-01", "volume":"143542", "adjClosePrice":"28700", "featured":false },
+    { "date":"2017-09-04", "volume":"170826", "adjClosePrice":"28500", "featured":false },
+    { "date":"2017-09-05", "volume":"155034", "adjClosePrice":"28450", "featured":false }
+  ]
+}

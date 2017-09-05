@@ -1,0 +1,9 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"LG전자", "id":"066570", "volumeInc":"2.13", "price":"86500", "priceInc":"4.59" },
+    { "name":"LG디스플레이", "id":"034220", "volumeInc":"1.76", "price":"32200", "priceInc":"6.45" },
+    { "name":"LG생활건강우", "id":"051905", "volumeInc":"1.62", "price":"588000", "priceInc":"0.34" },
+    { "name":"효성", "id":"004800", "volumeInc":"1.62", "price":"161000", "priceInc":"4.55" }
+  ]
+}
