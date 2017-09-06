@@ -1,0 +1,11 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"현대상선", "id":"011200", "volumeInc":"3.75", "price":"9190", "priceInc":"2.11" },
+    { "name":"OCI", "id":"010060", "volumeInc":"2.34", "price":"104000", "priceInc":"4.84" },
+    { "name":"메리츠화재", "id":"000060", "volumeInc":"2.04", "price":"23750", "priceInc":"0.42" },
+    { "name":"금호석유", "id":"011780", "volumeInc":"1.79", "price":"79600", "priceInc":"1.02" },
+    { "name":"NHN엔터테인먼트", "id":"181710", "volumeInc":"1.54", "price":"65800", "priceInc":"2.49" },
+    { "name":"대한전선", "id":"001440", "volumeInc":"1.54", "price":"1370", "priceInc":"4.98" }
+  ]
+}
