@@ -4,13 +4,14 @@
   "dailyTrading" : [
     { "date":"2017-08-24", "volume":"13858", "adjClosePrice":"180500", "featured":false },
     { "date":"2017-08-25", "volume":"7471", "adjClosePrice":"179500", "featured":false },
-    { "date":"2017-08-28", "volume":"28540", "adjClosePrice":"182500", "featured":false },
-    { "date":"2017-08-29", "volume":"18297", "adjClosePrice":"183000", "featured":false },
+    { "date":"2017-08-28", "volume":"28529", "adjClosePrice":"182500", "featured":false },
+    { "date":"2017-08-29", "volume":"18295", "adjClosePrice":"183000", "featured":false },
     { "date":"2017-08-30", "volume":"13348", "adjClosePrice":"184500", "featured":false },
-    { "date":"2017-08-31", "volume":"14892", "adjClosePrice":"181500", "featured":false },
+    { "date":"2017-08-31", "volume":"14890", "adjClosePrice":"181500", "featured":false },
     { "date":"2017-09-01", "volume":"66903", "adjClosePrice":"188500", "featured":true },
     { "date":"2017-09-04", "volume":"25156", "adjClosePrice":"184500", "featured":false },
-    { "date":"2017-09-05", "volume":"12063", "adjClosePrice":"183000", "featured":false },
-    { "date":"2017-09-07", "volume":"32238", "adjClosePrice":"186000", "featured":false }
+    { "date":"2017-09-05", "volume":"12047", "adjClosePrice":"183000", "featured":false },
+    { "date":"2017-09-06", "volume":"19110", "adjClosePrice":"183500", "featured":false },
+    { "date":"2017-09-07", "volume":"32298", "adjClosePrice":"186000", "featured":false }
   ]
 }
