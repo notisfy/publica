@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"현대상선", "id":"011200", "volumeInc":"2.95", "price":"9050", "priceInc":"0.56" },
+    { "name":"두산인프라코어", "id":"042670", "volumeInc":"2.29", "price":"8640", "priceInc":"2.73" },
+    { "name":"종근당", "id":"185750", "volumeInc":"2.15", "price":"105500", "priceInc":"1.93" },
+    { "name":"LG생활건강우", "id":"051905", "volumeInc":"1.88", "price":"590000", "priceInc":"0.34" },
+    { "name":"한국단자", "id":"025540", "volumeInc":"1.84", "price":"73800", "priceInc":"3.22" },
+    { "name":"농심", "id":"004370", "volumeInc":"1.83", "price":"345000", "priceInc":"5.50" },
+    { "name":"키움증권", "id":"039490", "volumeInc":"1.75", "price":"79600", "priceInc":"0.76" },
+    { "name":"한솔케미칼", "id":"014680", "volumeInc":"1.73", "price":"77700", "priceInc":"5.28" },
+    { "name":"동원산업", "id":"006040", "volumeInc":"1.73", "price":"293000", "priceInc":"2.63" },
+    { "name":"한국금융지주", "id":"071050", "volumeInc":"1.63", "price":"62000", "priceInc":"0.81" },
+    { "name":"하이트진로", "id":"000080", "volumeInc":"1.60", "price":"25800", "priceInc":"5.09" },
+    { "name":"삼성생명", "id":"032830", "volumeInc":"1.51", "price":"117000", "priceInc":"4.93" }
+  ]
+}

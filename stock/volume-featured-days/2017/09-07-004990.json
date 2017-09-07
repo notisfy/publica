@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "롯데제과",
+  "dailyTrading" : [
+    { "date":"2017-08-24", "volume":"21659", "adjClosePrice":"197000", "featured":true },
+    { "date":"2017-08-25", "volume":"8819", "adjClosePrice":"196500", "featured":false },
+    { "date":"2017-08-28", "volume":"14978", "adjClosePrice":"201000", "featured":false },
+    { "date":"2017-08-29", "volume":"14777", "adjClosePrice":"200500", "featured":false },
+    { "date":"2017-08-30", "volume":"10569", "adjClosePrice":"200500", "featured":false },
+    { "date":"2017-08-31", "volume":"9826", "adjClosePrice":"197500", "featured":false },
+    { "date":"2017-09-01", "volume":"6363", "adjClosePrice":"194500", "featured":false },
+    { "date":"2017-09-04", "volume":"7163", "adjClosePrice":"193500", "featured":false },
+    { "date":"2017-09-05", "volume":"9604", "adjClosePrice":"198500", "featured":false },
+    { "date":"2017-09-07", "volume":"8376", "adjClosePrice":"195500", "featured":false }
+  ]
+}

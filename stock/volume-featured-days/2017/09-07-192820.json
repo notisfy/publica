@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "코스맥스",
+  "dailyTrading" : [
+    { "date":"2017-08-24", "volume":"202263", "adjClosePrice":"123500", "featured":true },
+    { "date":"2017-08-25", "volume":"64939", "adjClosePrice":"120500", "featured":false },
+    { "date":"2017-08-28", "volume":"50763", "adjClosePrice":"121500", "featured":false },
+    { "date":"2017-08-29", "volume":"54021", "adjClosePrice":"120000", "featured":false },
+    { "date":"2017-08-30", "volume":"57314", "adjClosePrice":"118000", "featured":false },
+    { "date":"2017-08-31", "volume":"41168", "adjClosePrice":"118000", "featured":false },
+    { "date":"2017-09-01", "volume":"52897", "adjClosePrice":"118000", "featured":false },
+    { "date":"2017-09-04", "volume":"82692", "adjClosePrice":"115000", "featured":false },
+    { "date":"2017-09-05", "volume":"33253", "adjClosePrice":"115000", "featured":false },
+    { "date":"2017-09-07", "volume":"69122", "adjClosePrice":"117500", "featured":false }
+  ]
+}
