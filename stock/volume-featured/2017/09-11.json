@@ -1,13 +1,13 @@
 {
   "version" : "volume-featured-v1",
   "stocks" : [
-    { "name":"LG화학우", "id":"051915", "volumeInc":"2.80", "price":"265000", "priceInc":"4.54" },
+    { "name":"LG화학우", "id":"051915", "volumeInc":"2.83", "price":"265000", "priceInc":"4.54" },
     { "name":"락앤락", "id":"115390", "volumeInc":"2.64", "price":"17500", "priceInc":"6.38" },
-    { "name":"녹십자홀딩스", "id":"005250", "volumeInc":"2.59", "price":"36450", "priceInc":"4.59" },
-    { "name":"한국단자", "id":"025540", "volumeInc":"2.21", "price":"76400", "priceInc":"3.95" },
-    { "name":"삼성SDI", "id":"006400", "volumeInc":"1.82", "price":"202500", "priceInc":"5.19" },
-    { "name":"동부하이텍", "id":"000990", "volumeInc":"1.62", "price":"15000", "priceInc":"5.26" },
-    { "name":"종근당", "id":"185750", "volumeInc":"1.56", "price":"109000", "priceInc":"1.87" },
-    { "name":"삼성전자우", "id":"005935", "volumeInc":"1.54", "price":"2036000", "priceInc":"2.83" }
+    { "name":"녹십자홀딩스", "id":"005250", "volumeInc":"2.60", "price":"36450", "priceInc":"4.59" },
+    { "name":"한국단자", "id":"025540", "volumeInc":"2.24", "price":"76400", "priceInc":"3.95" },
+    { "name":"삼성SDI", "id":"006400", "volumeInc":"1.85", "price":"202500", "priceInc":"5.19" },
+    { "name":"동부하이텍", "id":"000990", "volumeInc":"1.63", "price":"15000", "priceInc":"5.26" },
+    { "name":"종근당", "id":"185750", "volumeInc":"1.59", "price":"109000", "priceInc":"1.87" },
+    { "name":"삼성전자우", "id":"005935", "volumeInc":"1.56", "price":"2036000", "priceInc":"2.83" }
   ]
 }

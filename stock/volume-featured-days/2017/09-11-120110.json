@@ -2,15 +2,15 @@
   "version" : "volume-featured-days-v1",
   "name" : "코오롱인더",
   "dailyTrading" : [
-    { "date":"2017-08-28", "volume":"63710", "adjClosePrice":"69200", "featured":false },
-    { "date":"2017-08-29", "volume":"78466", "adjClosePrice":"69800", "featured":false },
+    { "date":"2017-08-28", "volume":"63708", "adjClosePrice":"69200", "featured":false },
+    { "date":"2017-08-29", "volume":"78259", "adjClosePrice":"69800", "featured":false },
     { "date":"2017-08-30", "volume":"104814", "adjClosePrice":"68800", "featured":false },
     { "date":"2017-08-31", "volume":"261700", "adjClosePrice":"71500", "featured":true },
     { "date":"2017-09-01", "volume":"126688", "adjClosePrice":"70300", "featured":false },
     { "date":"2017-09-04", "volume":"108112", "adjClosePrice":"69200", "featured":false },
     { "date":"2017-09-05", "volume":"112993", "adjClosePrice":"68400", "featured":false },
     { "date":"2017-09-06", "volume":"136001", "adjClosePrice":"67600", "featured":false },
-    { "date":"2017-09-07", "volume":"85364", "adjClosePrice":"68000", "featured":false },
+    { "date":"2017-09-07", "volume":"85026", "adjClosePrice":"68000", "featured":false },
     { "date":"2017-09-08", "volume":"56173", "adjClosePrice":"67200", "featured":false },
     { "date":"2017-09-11", "volume":"81244", "adjClosePrice":"68100", "featured":false }
   ]
