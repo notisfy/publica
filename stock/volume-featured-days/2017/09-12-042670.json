@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "두산인프라코어",
+  "dailyTrading" : [
+    { "date":"2017-08-29", "volume":"2899797", "adjClosePrice":"8140", "featured":false },
+    { "date":"2017-08-30", "volume":"1865844", "adjClosePrice":"8140", "featured":false },
+    { "date":"2017-08-31", "volume":"4447204", "adjClosePrice":"8370", "featured":true },
+    { "date":"2017-09-01", "volume":"2559928", "adjClosePrice":"8350", "featured":false },
+    { "date":"2017-09-04", "volume":"2303181", "adjClosePrice":"8310", "featured":false },
+    { "date":"2017-09-05", "volume":"1649528", "adjClosePrice":"8410", "featured":false },
+    { "date":"2017-09-06", "volume":"1496208", "adjClosePrice":"8220", "featured":false },
+    { "date":"2017-09-07", "volume":"5664487", "adjClosePrice":"8640", "featured":true },
+    { "date":"2017-09-08", "volume":"2784899", "adjClosePrice":"8330", "featured":false },
+    { "date":"2017-09-11", "volume":"1672273", "adjClosePrice":"8240", "featured":false },
+    { "date":"2017-09-12", "volume":"1145876", "adjClosePrice":"8300", "featured":false }
+  ]
+}
