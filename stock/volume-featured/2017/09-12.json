@@ -1,8 +1,8 @@
 {
   "version" : "volume-featured-v1",
   "stocks" : [
-    { "name":"코오롱인더", "id":"120110", "volumeInc":"2.97", "price":"72100", "priceInc":"5.87" },
-    { "name":"락앤락", "id":"115390", "volumeInc":"2.89", "price":"18050", "priceInc":"3.14" },
-    { "name":"하나투어", "id":"039130", "volumeInc":"2.08", "price":"88300", "priceInc":"6.51" }
+    { "name":"코오롱인더", "id":"120110", "volumeInc":"2.99", "price":"72100", "priceInc":"5.87" },
+    { "name":"락앤락", "id":"115390", "volumeInc":"2.88", "price":"18050", "priceInc":"3.14" },
+    { "name":"하나투어", "id":"039130", "volumeInc":"2.09", "price":"88300", "priceInc":"6.51" }
   ]
 }

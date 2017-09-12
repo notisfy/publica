@@ -2,16 +2,16 @@
   "version" : "volume-featured-days-v1",
   "name" : "하이트진로",
   "dailyTrading" : [
-    { "date":"2017-08-29", "volume":"127253", "adjClosePrice":"25850", "featured":false },
+    { "date":"2017-08-29", "volume":"127214", "adjClosePrice":"25850", "featured":false },
     { "date":"2017-08-30", "volume":"185400", "adjClosePrice":"25950", "featured":false },
-    { "date":"2017-08-31", "volume":"135504", "adjClosePrice":"26100", "featured":false },
-    { "date":"2017-09-01", "volume":"388231", "adjClosePrice":"24850", "featured":false },
+    { "date":"2017-08-31", "volume":"135248", "adjClosePrice":"26100", "featured":false },
+    { "date":"2017-09-01", "volume":"387836", "adjClosePrice":"24850", "featured":false },
     { "date":"2017-09-04", "volume":"182136", "adjClosePrice":"24900", "featured":false },
     { "date":"2017-09-05", "volume":"170811", "adjClosePrice":"24550", "featured":false },
     { "date":"2017-09-06", "volume":"111211", "adjClosePrice":"24550", "featured":false },
     { "date":"2017-09-07", "volume":"399519", "adjClosePrice":"25800", "featured":true },
     { "date":"2017-09-08", "volume":"126929", "adjClosePrice":"25200", "featured":false },
-    { "date":"2017-09-11", "volume":"129803", "adjClosePrice":"25000", "featured":false },
-    { "date":"2017-09-12", "volume":"209446", "adjClosePrice":"24650", "featured":false }
+    { "date":"2017-09-11", "volume":"129871", "adjClosePrice":"25000", "featured":false },
+    { "date":"2017-09-12", "volume":"209579", "adjClosePrice":"24650", "featured":false }
   ]
 }
