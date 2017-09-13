@@ -1,0 +1,13 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"코오롱인더", "id":"120110", "volumeInc":"9.59", "price":"80200", "priceInc":"11.23" },
+    { "name":"두산", "id":"000150", "volumeInc":"2.33", "price":"137000", "priceInc":"4.98" },
+    { "name":"LG전자", "id":"066570", "volumeInc":"2.10", "price":"87600", "priceInc":"5.54" },
+    { "name":"한온시스템", "id":"018880", "volumeInc":"2.06", "price":"12200", "priceInc":"1.24" },
+    { "name":"LG화학우", "id":"051915", "volumeInc":"1.90", "price":"276000", "priceInc":"4.15" },
+    { "name":"LG화학", "id":"051910", "volumeInc":"1.63", "price":"408500", "priceInc":"4.74" },
+    { "name":"OCI", "id":"010060", "volumeInc":"1.60", "price":"102000", "priceInc":"0.49" },
+    { "name":"한국타이어", "id":"161390", "volumeInc":"1.52", "price":"58900", "priceInc":"0.68" }
+  ]
+}

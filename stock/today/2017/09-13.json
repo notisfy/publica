@@ -1,0 +1,42 @@
+{
+  "version" : "today-summary-v1",
+  "kospi_today" : "2368.01",
+  "kospi_diff" : "2.54",
+  "featured_today" : [
+    { "name":"코오롱인더", "id":"120110", "volumeInc":"9.59", "price":"80200", "priceInc":"11.23" },
+    { "name":"두산", "id":"000150", "volumeInc":"2.33", "price":"137000", "priceInc":"4.98" },
+    { "name":"LG전자", "id":"066570", "volumeInc":"2.10", "price":"87600", "priceInc":"5.54" },
+    { "name":"한온시스템", "id":"018880", "volumeInc":"2.06", "price":"12200", "priceInc":"1.24" },
+    { "name":"LG화학우", "id":"051915", "volumeInc":"1.90", "price":"276000", "priceInc":"4.15" },
+    { "name":"LG화학", "id":"051910", "volumeInc":"1.63", "price":"408500", "priceInc":"4.74" },
+    { "name":"OCI", "id":"010060", "volumeInc":"1.60", "price":"102000", "priceInc":"0.49" },
+    { "name":"한국타이어", "id":"161390", "volumeInc":"1.52", "price":"58900", "priceInc":"0.68" }
+  ],
+  "holdings_today" : [
+    { "name":"LG상사", "id":"001120", "holdings":"373550" },
+    { "name":"오리온홀딩스", "id":"001800", "holdings":"215600" },
+    { "name":"한국쉘석유", "id":"002960", "holdings":"5247007" },
+    { "name":"부광약품", "id":"003000", "holdings":"394328" },
+    { "name":"신세계", "id":"004170", "holdings":"182000" },
+    { "name":"효성", "id":"004800", "holdings":"459667" },
+    { "name":"현대차우", "id":"005385", "holdings":"869400" },
+    { "name":"NH투자증권우", "id":"005945", "holdings":"276204" },
+    { "name":"미래에셋대우우", "id":"006805", "holdings":"381480" },
+    { "name":"율촌화학", "id":"008730", "holdings":"202400" },
+    { "name":"S-Oil우", "id":"010955", "holdings":"2500655" },
+    { "name":"SK텔레콤", "id":"017670", "holdings":"1009000" },
+    { "name":"BGF리테일", "id":"027410", "holdings":"1086317" },
+    { "name":"KT", "id":"030200", "holdings":"796500" },
+    { "name":"KT&G", "id":"033780", "holdings":"868500" },
+    { "name":"NAVER", "id":"035420", "holdings":"4824000" },
+    { "name":"키움증권", "id":"039490", "holdings":"158100" },
+    { "name":"맥쿼리인프라", "id":"088980", "holdings":"296300" },
+    { "name":"CJ제일제당 우", "id":"097955", "holdings":"789000" },
+    { "name":"TIGER 레버리지", "id":"123320", "holdings":"3420958" }
+  ],
+  "holdings_diff" : [
+    { "name":"현대차우", "id":"005385", "diff":"89500" },
+    { "name":"미래에셋대우우", "id":"006805", "diff":"6400" },
+    { "name":"KT&G", "id":"033780", "diff":"105000" }
+  ]
+}
