@@ -1,0 +1,24 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"아모레퍼시픽우", "id":"090435", "volumeInc":"2.60", "price":"159500", "priceInc":"0.63" },
+    { "name":"OCI", "id":"010060", "volumeInc":"2.39", "price":"107000", "priceInc":"4.90" },
+    { "name":"금호타이어", "id":"073240", "volumeInc":"2.35", "price":"5080", "priceInc":"1.91" },
+    { "name":"롯데제과", "id":"004990", "volumeInc":"2.31", "price":"201000", "priceInc":"1.01" },
+    { "name":"한국단자", "id":"025540", "volumeInc":"2.26", "price":"76500", "priceInc":"2.00" },
+    { "name":"쌍용양회", "id":"003410", "volumeInc":"2.23", "price":"13100", "priceInc":"1.16" },
+    { "name":"NAVER", "id":"035420", "volumeInc":"1.99", "price":"765000", "priceInc":"4.94" },
+    { "name":"삼양사", "id":"145990", "volumeInc":"1.92", "price":"97400", "priceInc":"3.73" },
+    { "name":"삼성중공업", "id":"010140", "volumeInc":"1.86", "price":"9950", "priceInc":"0.40" },
+    { "name":"에스원", "id":"012750", "volumeInc":"1.78", "price":"90500", "priceInc":"0.33" },
+    { "name":"LG생활건강우", "id":"051905", "volumeInc":"1.77", "price":"596000", "priceInc":"1.02" },
+    { "name":"한국타이어", "id":"161390", "volumeInc":"1.76", "price":"60200", "priceInc":"2.21" },
+    { "name":"아모레퍼시픽", "id":"090430", "volumeInc":"1.70", "price":"260000", "priceInc":"0.39" },
+    { "name":"한국타이어월드와이드", "id":"000240", "volumeInc":"1.63", "price":"21600", "priceInc":"1.65" },
+    { "name":"동원시스템즈", "id":"014820", "volumeInc":"1.62", "price":"54300", "priceInc":"2.07" },
+    { "name":"현대그린푸드", "id":"005440", "volumeInc":"1.60", "price":"16150", "priceInc":"0.94" },
+    { "name":"현대차", "id":"005380", "volumeInc":"1.60", "price":"137000", "priceInc":"1.86" },
+    { "name":"이노션", "id":"214320", "volumeInc":"1.56", "price":"69500", "priceInc":"1.91" },
+    { "name":"태광산업", "id":"003240", "volumeInc":"1.52", "price":"1262000", "priceInc":"1.77" }
+  ]
+}
