@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"CJ CGV", "id":"079160", "volumeInc":"3.48", "price":"68200", "priceInc":"8.08" },
+    { "name":"삼성물산", "id":"028260", "volumeInc":"3.10", "price":"136500", "priceInc":"7.06" },
+    { "name":"NH투자증권", "id":"005940", "volumeInc":"2.23", "price":"14300", "priceInc":"4.38" },
+    { "name":"SKC", "id":"011790", "volumeInc":"2.11", "price":"43400", "priceInc":"5.21" },
+    { "name":"포스코대우", "id":"047050", "volumeInc":"1.82", "price":"21600", "priceInc":"2.86" },
+    { "name":"메리츠종금증권", "id":"008560", "volumeInc":"1.73", "price":"4770", "priceInc":"6.00" },
+    { "name":"미래에셋대우", "id":"006800", "volumeInc":"1.67", "price":"10650", "priceInc":"4.41" },
+    { "name":"키움증권", "id":"039490", "volumeInc":"1.56", "price":"81400", "priceInc":"3.69" },
+    { "name":"한샘", "id":"009240", "volumeInc":"1.54", "price":"159000", "priceInc":"6.71" },
+    { "name":"맥쿼리인프라", "id":"088980", "volumeInc":"1.53", "price":"8470", "priceInc":"0.59" }
+  ]
+}
