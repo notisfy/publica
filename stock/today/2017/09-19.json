@@ -1,0 +1,50 @@
+{
+  "version" : "today-summary-v1",
+  "kospi_today" : "2416.05",
+  "kospi_diff" : "-2.16",
+  "featured_today" : [
+    { "name":"대웅제약", "id":"069620", "volumeInc":"3.48", "price":"110000", "priceInc":"7.32" },
+    { "name":"한미약품", "id":"128940", "volumeInc":"2.87", "price":"431000", "priceInc":"6.29" },
+    { "name":"삼성엔지니어링", "id":"028050", "volumeInc":"2.82", "price":"11100", "priceInc":"6.22" },
+    { "name":"삼성중공업", "id":"010140", "volumeInc":"2.42", "price":"11000", "priceInc":"3.29" },
+    { "name":"한미사이언스", "id":"008930", "volumeInc":"2.15", "price":"92600", "priceInc":"5.35" },
+    { "name":"잇츠스킨", "id":"226320", "volumeInc":"2.11", "price":"27600", "priceInc":"0.18" },
+    { "name":"현대중공업", "id":"009540", "volumeInc":"2.07", "price":"148500", "priceInc":"7.61" },
+    { "name":"현대건설", "id":"000720", "volumeInc":"1.87", "price":"39750", "priceInc":"3.65" },
+    { "name":"현대미포조선", "id":"010620", "volumeInc":"1.81", "price":"102000", "priceInc":"7.37" },
+    { "name":"부광약품", "id":"003000", "volumeInc":"1.67", "price":"22300", "priceInc":"1.59" },
+    { "name":"NHN엔터테인먼트", "id":"181710", "volumeInc":"1.63", "price":"74000", "priceInc":"0.82" }
+  ],
+  "holdings_today" : [
+    { "name":"LG상사", "id":"001120", "holdings":"143675" },
+    { "name":"오리온홀딩스", "id":"001800", "holdings":"239800" },
+    { "name":"한국쉘석유", "id":"002960", "holdings":"5247007" },
+    { "name":"신세계", "id":"004170", "holdings":"182000" },
+    { "name":"효성", "id":"004800", "holdings":"759667" },
+    { "name":"현대차우", "id":"005385", "holdings":"957600" },
+    { "name":"NH투자증권우", "id":"005945", "holdings":"258386" },
+    { "name":"미래에셋대우우", "id":"006805", "holdings":"394240" },
+    { "name":"율촌화학", "id":"008730", "holdings":"202400" },
+    { "name":"S-Oil우", "id":"010955", "holdings":"2422510" },
+    { "name":"SK텔레콤", "id":"017670", "holdings":"1499500" },
+    { "name":"BGF리테일", "id":"027410", "holdings":"1168517" },
+    { "name":"KT", "id":"030200", "holdings":"971850" },
+    { "name":"KT&G", "id":"033780", "holdings":"1280000" },
+    { "name":"NAVER", "id":"035420", "holdings":"4824000" },
+    { "name":"키움증권", "id":"039490", "holdings":"156734" },
+    { "name":"맥쿼리인프라", "id":"088980", "holdings":"304710" },
+    { "name":"CJ제일제당 우", "id":"097955", "holdings":"940000" },
+    { "name":"TIGER 레버리지", "id":"123320", "holdings":"3406149" }
+  ],
+  "holdings_diff" : [
+    { "name":"LG상사", "id":"001120", "diff":"-28735" },
+    { "name":"부광약품", "id":"003000", "diff":"-207542" },
+    { "name":"효성", "id":"004800", "diff":"150500" },
+    { "name":"NH투자증권우", "id":"005945", "diff":"-17818" },
+    { "name":"SK텔레콤", "id":"017670", "diff":"246000" },
+    { "name":"KT", "id":"030200", "diff":"58100" },
+    { "name":"KT&G", "id":"033780", "diff":"101500" },
+    { "name":"CJ제일제당 우", "id":"097955", "diff":"151000" },
+    { "name":"TIGER 레버리지", "id":"123320", "diff":"-14809" }
+  ]
+}
