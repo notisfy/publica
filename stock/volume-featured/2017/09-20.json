@@ -1,0 +1,23 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"녹십자", "id":"006280", "volumeInc":"7.08", "price":"202500", "priceInc":"8.00" },
+    { "name":"녹십자홀딩스", "id":"005250", "volumeInc":"5.03", "price":"38250", "priceInc":"8.05" },
+    { "name":"영진약품", "id":"003520", "volumeInc":"3.54", "price":"10600", "priceInc":"4.43" },
+    { "name":"종근당", "id":"185750", "volumeInc":"3.28", "price":"112500", "priceInc":"3.69" },
+    { "name":"한미약품", "id":"128940", "volumeInc":"2.91", "price":"447000", "priceInc":"3.71" },
+    { "name":"한미사이언스", "id":"008930", "volumeInc":"2.75", "price":"94700", "priceInc":"2.27" },
+    { "name":"한전기술", "id":"052690", "volumeInc":"2.70", "price":"18950", "priceInc":"5.87" },
+    { "name":"JW중외제약", "id":"001060", "volumeInc":"2.29", "price":"44650", "priceInc":"2.53" },
+    { "name":"부광약품", "id":"003000", "volumeInc":"2.28", "price":"22450", "priceInc":"0.67" },
+    { "name":"현대차2우B", "id":"005387", "volumeInc":"2.16", "price":"100500", "priceInc":"1.41" },
+    { "name":"일양약품", "id":"007570", "volumeInc":"2.11", "price":"35500", "priceInc":"0.85" },
+    { "name":"도레이케미칼", "id":"008000", "volumeInc":"1.98", "price":"19000", "priceInc":"0.53" },
+    { "name":"동아쏘시오홀딩스", "id":"000640", "volumeInc":"1.77", "price":"122500", "priceInc":"3.38" },
+    { "name":"JW홀딩스", "id":"096760", "volumeInc":"1.77", "price":"8650", "priceInc":"0.93" },
+    { "name":"아모레G", "id":"002790", "volumeInc":"1.76", "price":"125000", "priceInc":"2.46" },
+    { "name":"현대모비스", "id":"012330", "volumeInc":"1.73", "price":"219000", "priceInc":"0.69" },
+    { "name":"삼성카드", "id":"029780", "volumeInc":"1.63", "price":"36250", "priceInc":"1.83" },
+    { "name":"메리츠화재", "id":"000060", "volumeInc":"1.53", "price":"24400", "priceInc":"1.46" }
+  ]
+}
