@@ -1,0 +1,10 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한국콜마", "id":"161890", "volumeInc":"4.53", "price":"71600", "priceInc":"9.98" },
+    { "name":"금호타이어", "id":"073240", "volumeInc":"3.67", "price":"5530", "priceInc":"9.07" },
+    { "name":"대웅제약", "id":"069620", "volumeInc":"2.40", "price":"115500", "priceInc":"5.00" },
+    { "name":"코스맥스", "id":"192820", "volumeInc":"1.81", "price":"116000", "priceInc":"4.50" },
+    { "name":"SK하이닉스", "id":"000660", "volumeInc":"1.70", "price":"83100", "priceInc":"2.97" }
+  ]
+}
