@@ -183,6 +183,25 @@ paths:
           schema:
             $ref: '#/definitions/TodaySummary'
 
+  /articles/{article_index_json}:
+    get:
+      summary: Article Index 정보
+      description: |
+        전략글과 컬럼등의 Article 파일들에 대한 인덱스 정보를 제공한다.
+      tags:
+        - 정보 자료
+      parameters:
+        - name: article_index_json
+          in: path
+          description: 인덱스 파일 이름
+          required: true
+          type: string
+      responses:
+        200:
+          description: Article Index
+          schema:
+            $ref: '#/definitions/ArticleIndex'
+
 definitions:
   VolumeFeaturedItem:
     type: object
@@ -202,6 +221,7 @@ definitions:
       priceInc:
         type: string
         description: 전일 수정 종가 대비 가격 상승 비율
+
   VolumeFeatured:
     type: object
     properties:
@@ -213,6 +233,7 @@ definitions:
         description: 거래량 특징주 정보
         items:
           $ref: '#/definitions/VolumeFeaturedItem'
+
   VolumeFeaturedProfitItem:
     type: object
     properties:
@@ -231,6 +252,7 @@ definitions:
       featuredVolumeInc:
         type: string
         description: 거래량 특징이 나타난 날짜의 거래량 증가 비율
+
   VolumeFeaturedProfit:
     type: object
     properties:
@@ -242,6 +264,7 @@ definitions:
         description: 거래량 특징주 이익률 정보
         items:
           $ref: '#/definitions/VolumeFeaturedProfitItem'
+
   VolumeFeaturedDaysItem:
     type: object
     properties:
@@ -257,6 +280,7 @@ definitions:
       featured:
         type: boolean
         description: 해당 날짜가 featured 된 날인지 여부
+
   VolumeFeaturedDays:
     type: object
     properties:
@@ -271,6 +295,7 @@ definitions:
         description: 거래량 특징일 리스트
         items:
           $ref: '#/definitions/VolumeFeaturedDaysItem'
+
   BotHoldingsItem:
     type: object
     properties:
@@ -283,6 +308,7 @@ definitions:
       holdings:
         type: string
         description: 총 매입 금액
+
   BotHoldings:
     type: object
     properties:
@@ -294,6 +320,7 @@ definitions:
         description: 보유 주식 정보
         items:
           $ref: '#/definitions/BotHoldingsItem'
+
   ProfitMonthItem:
     type: object
     properties:
@@ -306,6 +333,7 @@ definitions:
       profit:
         type: string
         description: 이익률
+
   ProfitMonth:
     type: object
     properties:
@@ -317,6 +345,7 @@ definitions:
         description: 이익률 주식 정보
         items:
           $ref: '#/definitions/ProfitMonthItem'
+
   BotHoldingsDiffItem:
     type: object
     properties:
@@ -329,6 +358,7 @@ definitions:
       diff:
         type: string
         description: 전날 대비 변동 금액
+
   TodaySummary:
     type: object
     properties:
@@ -356,3 +386,31 @@ definitions:
         description: 보유 주식 변동량
         items:
           $ref: '#/definitions/BotHoldingsDiffItem'
+
+  ArticleFileItem:
+    type: object
+    properties:
+      name:
+        type: string
+        description: Article 파일 이름
+      title:
+        type: string
+        description: Article Title
+
+  ArticleIndex:
+    type: object
+    properties:
+      version:
+        type: string
+        description: Article index 버전
+      recent:
+        type: string
+        description: 마지막 전략 글
+      last:
+        type: integer
+        description: 마지막 인덱스 번호
+      files:
+        type: array
+        description: Article 파일 정보
+        items:
+          $ref: '#/definitions/ArticleFileItem'
