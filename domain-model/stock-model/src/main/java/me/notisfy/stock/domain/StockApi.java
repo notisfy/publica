@@ -7,6 +7,7 @@ import retrofit2.http.*;
 
 import okhttp3.RequestBody;
 
+import me.notisfy.stock.domain.model.ArticleIndex;
 import me.notisfy.stock.domain.model.BotHoldings;
 import me.notisfy.stock.domain.model.ProfitMonth;
 import me.notisfy.stock.domain.model.TodaySummary;
@@ -20,6 +21,18 @@ import java.util.List;
 import java.util.Map;
 
 public interface StockApi {
+  /**
+   * Article Index 정보
+   * 전략글과 컬럼등의 Article 파일들에 대한 인덱스 정보를 제공한다. 
+   * @param articleIndexJson 인덱스 파일 이름 (required)
+   * @return Call&lt;ArticleIndex&gt;
+   */
+  
+  @GET("articles/{article_index_json}")
+  Call<ArticleIndex> articlesArticleIndexJsonGet(
+    @Path("article_index_json") String articleIndexJson
+  );
+
   /**
    * 보유 주식
    * Stocker bot이 보유한 주식의 매입 비율을 제공한다. 

@@ -8,6 +8,7 @@ java -Dmodels -Dapis -DapiTests=false -DapiDocs=false -DmodelTests=false -Dmodel
     -o domain-model/stock-model
 cp domain-model/stock-model-build.gradle domain-model/stock-model/build.gradle
 cp domain-model/stock-model-gitignore domain-model/stock-model/.gitignore
+cp -R domain-model/gradle* domain-model/stock-model/
 touch domain-model/stock-model/settings.gradle
 mv domain-model/stock-model/src/main/java/me/notisfy/stock/domain/DefaultApi.java domain-model/stock-model/src/main/java/me/notisfy/stock/domain/StockApi.java
 sed -i.bak 's/DefaultApi/StockApi/' domain-model/stock-model/src/main/java/me/notisfy/stock/domain/StockApi.java
