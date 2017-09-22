@@ -1,0 +1,10 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"아모레퍼시픽우", "id":"090435", "volumeInc":"1.82", "price":"154500", "priceInc":"0.65" },
+    { "name":"현대차2우B", "id":"005387", "volumeInc":"1.74", "price":"99100", "priceInc":"0.41" },
+    { "name":"CJ제일제당", "id":"097950", "volumeInc":"1.67", "price":"355000", "priceInc":"1.43" },
+    { "name":"동부화재", "id":"005830", "volumeInc":"1.66", "price":"73800", "priceInc":"4.53" },
+    { "name":"하나금융지주", "id":"086790", "volumeInc":"1.60", "price":"50100", "priceInc":"2.45" }
+  ]
+}
