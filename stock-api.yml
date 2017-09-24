@@ -2,7 +2,7 @@
 swagger: '2.0'
 info:
   title: Stock API
-  version: "0.0.6"
+  version: "0.0.9"
 
 # the domain
 host: raw.githubusercontent.com
@@ -396,6 +396,9 @@ definitions:
       title:
         type: string
         description: Article Title
+      marked:
+        type: integer
+        description: 읽음 여부
 
   ArticleIndex:
     type: object
