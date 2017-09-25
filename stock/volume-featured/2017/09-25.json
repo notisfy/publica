@@ -1,0 +1,7 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"LG화학우", "id":"051915", "volumeInc":"2.17", "price":"249000", "priceInc":"0.61" },
+    { "name":"한온시스템", "id":"018880", "volumeInc":"1.75", "price":"12850", "priceInc":"5.76" }
+  ]
+}
