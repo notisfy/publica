@@ -1,0 +1,22 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"롯데쇼핑", "id":"023530", "volumeInc":"3.12", "price":"240000", "priceInc":"8.35" },
+    { "name":"삼성중공업", "id":"010140", "volumeInc":"2.58", "price":"11200", "priceInc":"9.80" },
+    { "name":"현대모비스", "id":"012330", "volumeInc":"2.42", "price":"231500", "priceInc":"5.23" },
+    { "name":"현대차우", "id":"005385", "volumeInc":"2.32", "price":"93400", "priceInc":"2.30" },
+    { "name":"LG생활건강우", "id":"051905", "volumeInc":"2.25", "price":"578000", "priceInc":"0.70" },
+    { "name":"만도", "id":"204320", "volumeInc":"1.96", "price":"255500", "priceInc":"6.46" },
+    { "name":"쿠쿠전자", "id":"192400", "volumeInc":"1.81", "price":"122500", "priceInc":"0.41" },
+    { "name":"녹십자홀딩스", "id":"005250", "volumeInc":"1.79", "price":"37500", "priceInc":"5.63" },
+    { "name":"금호타이어", "id":"073240", "volumeInc":"1.78", "price":"5280", "priceInc":"6.24" },
+    { "name":"한국타이어", "id":"161390", "volumeInc":"1.76", "price":"58400", "priceInc":"0.69" },
+    { "name":"포스코대우", "id":"047050", "volumeInc":"1.67", "price":"19550", "priceInc":"2.09" },
+    { "name":"아모레G", "id":"002790", "volumeInc":"1.66", "price":"116500", "priceInc":"1.75" },
+    { "name":"현대위아", "id":"011210", "volumeInc":"1.65", "price":"65200", "priceInc":"7.59" },
+    { "name":"녹십자", "id":"006280", "volumeInc":"1.65", "price":"198500", "priceInc":"2.06" },
+    { "name":"현대차", "id":"005380", "volumeInc":"1.63", "price":"147500", "priceInc":"4.61" },
+    { "name":"기아차", "id":"000270", "volumeInc":"1.59", "price":"30950", "priceInc":"2.48" },
+    { "name":"대상", "id":"001680", "volumeInc":"1.54", "price":"22000", "priceInc":"1.38" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "NHN엔터테인먼트",
+  "dailyTrading" : [
+    { "date":"2017-09-12", "volume":"144724", "adjClosePrice":"68700", "featured":false },
+    { "date":"2017-09-13", "volume":"90291", "adjClosePrice":"69300", "featured":false },
+    { "date":"2017-09-14", "volume":"126635", "adjClosePrice":"70200", "featured":false },
+    { "date":"2017-09-15", "volume":"126364", "adjClosePrice":"71800", "featured":false },
+    { "date":"2017-09-18", "volume":"121468", "adjClosePrice":"73400", "featured":false },
+    { "date":"2017-09-19", "volume":"166218", "adjClosePrice":"74000", "featured":true },
+    { "date":"2017-09-20", "volume":"189125", "adjClosePrice":"70100", "featured":false },
+    { "date":"2017-09-21", "volume":"175174", "adjClosePrice":"68600", "featured":false },
+    { "date":"2017-09-22", "volume":"97312", "adjClosePrice":"67500", "featured":false },
+    { "date":"2017-09-25", "volume":"67251", "adjClosePrice":"67400", "featured":false },
+    { "date":"2017-09-26", "volume":"132084", "adjClosePrice":"70200", "featured":false }
+  ]
+}
