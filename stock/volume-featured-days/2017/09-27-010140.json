@@ -2,16 +2,16 @@
   "version" : "volume-featured-days-v1",
   "name" : "삼성중공업",
   "dailyTrading" : [
-    { "date":"2017-09-13", "volume":"1906000", "adjClosePrice":"9910", "featured":false },
+    { "date":"2017-09-13", "volume":"2095470", "adjClosePrice":"9910", "featured":false },
     { "date":"2017-09-14", "volume":"3742413", "adjClosePrice":"9950", "featured":true },
-    { "date":"2017-09-15", "volume":"5412577", "adjClosePrice":"10600", "featured":true },
-    { "date":"2017-09-18", "volume":"2103929", "adjClosePrice":"10650", "featured":false },
-    { "date":"2017-09-19", "volume":"5088290", "adjClosePrice":"11000", "featured":true },
-    { "date":"2017-09-20", "volume":"2163191", "adjClosePrice":"10900", "featured":false },
-    { "date":"2017-09-21", "volume":"1695856", "adjClosePrice":"10950", "featured":false },
-    { "date":"2017-09-22", "volume":"2454970", "adjClosePrice":"10500", "featured":false },
-    { "date":"2017-09-25", "volume":"1589925", "adjClosePrice":"10200", "featured":false },
-    { "date":"2017-09-26", "volume":"5322666", "adjClosePrice":"11200", "featured":true },
-    { "date":"2017-09-27", "volume":"2464387", "adjClosePrice":"11150", "featured":false }
+    { "date":"2017-09-15", "volume":"5406175", "adjClosePrice":"10600", "featured":true },
+    { "date":"2017-09-18", "volume":"2103412", "adjClosePrice":"10650", "featured":false },
+    { "date":"2017-09-19", "volume":"5079903", "adjClosePrice":"11000", "featured":true },
+    { "date":"2017-09-20", "volume":"2162991", "adjClosePrice":"10900", "featured":false },
+    { "date":"2017-09-21", "volume":"1695056", "adjClosePrice":"10950", "featured":false },
+    { "date":"2017-09-22", "volume":"2432106", "adjClosePrice":"10500", "featured":false },
+    { "date":"2017-09-25", "volume":"1587536", "adjClosePrice":"10200", "featured":false },
+    { "date":"2017-09-26", "volume":"5319674", "adjClosePrice":"11200", "featured":true },
+    { "date":"2017-09-27", "volume":"2471607", "adjClosePrice":"11150", "featured":false }
   ]
 }

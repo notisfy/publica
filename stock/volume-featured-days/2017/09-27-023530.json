@@ -2,16 +2,16 @@
   "version" : "volume-featured-days-v1",
   "name" : "롯데쇼핑",
   "dailyTrading" : [
-    { "date":"2017-09-13", "volume":"81219", "adjClosePrice":"224500", "featured":false },
-    { "date":"2017-09-14", "volume":"206375", "adjClosePrice":"220000", "featured":false },
-    { "date":"2017-09-15", "volume":"540709", "adjClosePrice":"238500", "featured":true },
-    { "date":"2017-09-18", "volume":"160556", "adjClosePrice":"232000", "featured":false },
-    { "date":"2017-09-19", "volume":"85892", "adjClosePrice":"231000", "featured":false },
-    { "date":"2017-09-20", "volume":"227437", "adjClosePrice":"220500", "featured":false },
-    { "date":"2017-09-21", "volume":"107934", "adjClosePrice":"217500", "featured":false },
-    { "date":"2017-09-22", "volume":"129224", "adjClosePrice":"222500", "featured":false },
-    { "date":"2017-09-25", "volume":"114910", "adjClosePrice":"221500", "featured":false },
-    { "date":"2017-09-26", "volume":"320623", "adjClosePrice":"240000", "featured":true },
-    { "date":"2017-09-27", "volume":"518324", "adjClosePrice":"246500", "featured":true }
+    { "date":"2017-09-13", "volume":"88771", "adjClosePrice":"224500", "featured":false },
+    { "date":"2017-09-14", "volume":"206358", "adjClosePrice":"220000", "featured":false },
+    { "date":"2017-09-15", "volume":"540704", "adjClosePrice":"238500", "featured":true },
+    { "date":"2017-09-18", "volume":"159920", "adjClosePrice":"232000", "featured":false },
+    { "date":"2017-09-19", "volume":"85715", "adjClosePrice":"231000", "featured":false },
+    { "date":"2017-09-20", "volume":"227386", "adjClosePrice":"220500", "featured":false },
+    { "date":"2017-09-21", "volume":"107834", "adjClosePrice":"217500", "featured":false },
+    { "date":"2017-09-22", "volume":"129184", "adjClosePrice":"222500", "featured":false },
+    { "date":"2017-09-25", "volume":"114908", "adjClosePrice":"221500", "featured":false },
+    { "date":"2017-09-26", "volume":"320612", "adjClosePrice":"240000", "featured":true },
+    { "date":"2017-09-27", "volume":"520089", "adjClosePrice":"246500", "featured":true }
   ]
 }

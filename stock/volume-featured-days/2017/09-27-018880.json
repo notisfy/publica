@@ -2,16 +2,16 @@
   "version" : "volume-featured-days-v1",
   "name" : "한온시스템",
   "dailyTrading" : [
-    { "date":"2017-09-13", "volume":"2978362", "adjClosePrice":"12200", "featured":true },
-    { "date":"2017-09-14", "volume":"1537110", "adjClosePrice":"12250", "featured":false },
-    { "date":"2017-09-15", "volume":"2483115", "adjClosePrice":"12800", "featured":true },
-    { "date":"2017-09-18", "volume":"1647325", "adjClosePrice":"12800", "featured":false },
-    { "date":"2017-09-19", "volume":"1176308", "adjClosePrice":"12600", "featured":false },
-    { "date":"2017-09-20", "volume":"1419840", "adjClosePrice":"12650", "featured":false },
-    { "date":"2017-09-21", "volume":"1061684", "adjClosePrice":"12250", "featured":false },
-    { "date":"2017-09-22", "volume":"1189739", "adjClosePrice":"12150", "featured":false },
-    { "date":"2017-09-25", "volume":"2580424", "adjClosePrice":"12850", "featured":true },
-    { "date":"2017-09-26", "volume":"1567804", "adjClosePrice":"12750", "featured":false },
-    { "date":"2017-09-27", "volume":"1064251", "adjClosePrice":"12800", "featured":false }
+    { "date":"2017-09-13", "volume":"3075347", "adjClosePrice":"12250", "featured":true },
+    { "date":"2017-09-14", "volume":"1537064", "adjClosePrice":"12250", "featured":false },
+    { "date":"2017-09-15", "volume":"2481759", "adjClosePrice":"12800", "featured":true },
+    { "date":"2017-09-18", "volume":"1647317", "adjClosePrice":"12800", "featured":false },
+    { "date":"2017-09-19", "volume":"1171995", "adjClosePrice":"12600", "featured":false },
+    { "date":"2017-09-20", "volume":"1419061", "adjClosePrice":"12650", "featured":false },
+    { "date":"2017-09-21", "volume":"1061683", "adjClosePrice":"12250", "featured":false },
+    { "date":"2017-09-22", "volume":"1187661", "adjClosePrice":"12150", "featured":false },
+    { "date":"2017-09-25", "volume":"2580271", "adjClosePrice":"12850", "featured":true },
+    { "date":"2017-09-26", "volume":"1563309", "adjClosePrice":"12750", "featured":false },
+    { "date":"2017-09-27", "volume":"1066989", "adjClosePrice":"12800", "featured":false }
   ]
 }

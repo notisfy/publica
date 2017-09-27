@@ -2,16 +2,16 @@
   "version" : "volume-featured-days-v1",
   "name" : "삼성엔지니어링",
   "dailyTrading" : [
-    { "date":"2017-09-13", "volume":"888974", "adjClosePrice":"10250", "featured":false },
+    { "date":"2017-09-13", "volume":"1000109", "adjClosePrice":"10200", "featured":false },
     { "date":"2017-09-14", "volume":"1113658", "adjClosePrice":"10250", "featured":false },
-    { "date":"2017-09-15", "volume":"1309164", "adjClosePrice":"10450", "featured":false },
-    { "date":"2017-09-18", "volume":"1038285", "adjClosePrice":"10450", "featured":false },
-    { "date":"2017-09-19", "volume":"4846630", "adjClosePrice":"11100", "featured":true },
-    { "date":"2017-09-20", "volume":"2495302", "adjClosePrice":"11150", "featured":false },
-    { "date":"2017-09-21", "volume":"1743203", "adjClosePrice":"10900", "featured":false },
-    { "date":"2017-09-22", "volume":"1684993", "adjClosePrice":"10500", "featured":false },
-    { "date":"2017-09-25", "volume":"1147576", "adjClosePrice":"10300", "featured":false },
-    { "date":"2017-09-26", "volume":"1700632", "adjClosePrice":"10850", "featured":false },
-    { "date":"2017-09-27", "volume":"631231", "adjClosePrice":"10750", "featured":false }
+    { "date":"2017-09-15", "volume":"1307005", "adjClosePrice":"10450", "featured":false },
+    { "date":"2017-09-18", "volume":"1038245", "adjClosePrice":"10450", "featured":false },
+    { "date":"2017-09-19", "volume":"4829582", "adjClosePrice":"11100", "featured":true },
+    { "date":"2017-09-20", "volume":"2489411", "adjClosePrice":"11150", "featured":false },
+    { "date":"2017-09-21", "volume":"1741957", "adjClosePrice":"10900", "featured":false },
+    { "date":"2017-09-22", "volume":"1676378", "adjClosePrice":"10500", "featured":false },
+    { "date":"2017-09-25", "volume":"1146350", "adjClosePrice":"10300", "featured":false },
+    { "date":"2017-09-26", "volume":"1698782", "adjClosePrice":"10850", "featured":false },
+    { "date":"2017-09-27", "volume":"636097", "adjClosePrice":"10750", "featured":false }
   ]
 }

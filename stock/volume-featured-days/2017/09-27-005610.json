@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "삼립식품",
+  "dailyTrading" : [
+    { "date":"2017-09-13", "volume":"12603", "adjClosePrice":"149000", "featured":false },
+    { "date":"2017-09-14", "volume":"23772", "adjClosePrice":"149500", "featured":true },
+    { "date":"2017-09-15", "volume":"19202", "adjClosePrice":"147500", "featured":false },
+    { "date":"2017-09-18", "volume":"35122", "adjClosePrice":"142000", "featured":false },
+    { "date":"2017-09-19", "volume":"23726", "adjClosePrice":"139000", "featured":false },
+    { "date":"2017-09-20", "volume":"18864", "adjClosePrice":"135500", "featured":false },
+    { "date":"2017-09-21", "volume":"17006", "adjClosePrice":"135500", "featured":false },
+    { "date":"2017-09-22", "volume":"62052", "adjClosePrice":"121000", "featured":false },
+    { "date":"2017-09-25", "volume":"49183", "adjClosePrice":"119500", "featured":false },
+    { "date":"2017-09-26", "volume":"48393", "adjClosePrice":"124500", "featured":false },
+    { "date":"2017-09-27", "volume":"45031", "adjClosePrice":"129000", "featured":false }
+  ]
+}
