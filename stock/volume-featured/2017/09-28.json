@@ -1,0 +1,14 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"금호타이어", "id":"073240", "volumeInc":"3.13", "price":"5940", "priceInc":"5.69" },
+    { "name":"한국콜마", "id":"161890", "volumeInc":"2.77", "price":"73300", "priceInc":"3.53" },
+    { "name":"LG생활건강", "id":"051900", "volumeInc":"2.71", "price":"892000", "priceInc":"2.65" },
+    { "name":"GKL", "id":"114090", "volumeInc":"2.13", "price":"23700", "priceInc":"4.64" },
+    { "name":"신세계", "id":"004170", "volumeInc":"2.03", "price":"191000", "priceInc":"4.09" },
+    { "name":"아모레퍼시픽", "id":"090430", "volumeInc":"1.84", "price":"252000", "priceInc":"3.70" },
+    { "name":"아모레G", "id":"002790", "volumeInc":"1.79", "price":"118000", "priceInc":"2.61" },
+    { "name":"코스맥스", "id":"192820", "volumeInc":"1.66", "price":"119500", "priceInc":"3.02" },
+    { "name":"호텔신라", "id":"008770", "volumeInc":"1.50", "price":"56800", "priceInc":"4.41" }
+  ]
+}
