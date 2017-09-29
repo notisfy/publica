@@ -1,0 +1,22 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"아모레퍼시픽우", "id":"090435", "volumeInc":"4.46", "price":"156000", "priceInc":"3.31" },
+    { "name":"코스맥스", "id":"192820", "volumeInc":"3.75", "price":"127000", "priceInc":"6.28" },
+    { "name":"한국콜마", "id":"161890", "volumeInc":"3.69", "price":"75800", "priceInc":"3.41" },
+    { "name":"잇츠스킨", "id":"226320", "volumeInc":"3.10", "price":"28750", "priceInc":"6.28" },
+    { "name":"LG생활건강우", "id":"051905", "volumeInc":"2.64", "price":"598000", "priceInc":"3.10" },
+    { "name":"한미약품", "id":"128940", "volumeInc":"2.37", "price":"454500", "priceInc":"5.45" },
+    { "name":"현대차우", "id":"005385", "volumeInc":"2.27", "price":"93600", "priceInc":"1.30" },
+    { "name":"쿠쿠전자", "id":"192400", "volumeInc":"2.07", "price":"128000", "priceInc":"3.64" },
+    { "name":"아모레퍼시픽", "id":"090430", "volumeInc":"1.94", "price":"259500", "priceInc":"2.98" },
+    { "name":"동양생명", "id":"082640", "volumeInc":"1.80", "price":"7650", "priceInc":"0.92" },
+    { "name":"현대모비스", "id":"012330", "volumeInc":"1.60", "price":"240000", "priceInc":"3.23" },
+    { "name":"삼성카드", "id":"029780", "volumeInc":"1.60", "price":"36850", "priceInc":"2.79" },
+    { "name":"삼양홀딩스", "id":"000070", "volumeInc":"1.59", "price":"88500", "priceInc":"0.11" },
+    { "name":"삼성중공업", "id":"010140", "volumeInc":"1.56", "price":"11200", "priceInc":"3.23" },
+    { "name":"현대차", "id":"005380", "volumeInc":"1.52", "price":"150500", "priceInc":"2.38" },
+    { "name":"현대차2우B", "id":"005387", "volumeInc":"1.51", "price":"102500", "priceInc":"1.49" },
+    { "name":"종근당", "id":"185750", "volumeInc":"1.50", "price":"108500", "priceInc":"2.84" }
+  ]
+}

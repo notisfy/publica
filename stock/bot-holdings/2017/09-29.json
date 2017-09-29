@@ -1,0 +1,27 @@
+{
+  "version" : "bot-holdings-v1",
+  "stocks" : [
+    { "name":"LG상사", "id":"001120", "holdings":"336270" },
+    { "name":"오리온홀딩스", "id":"001800", "holdings":"239800" },
+    { "name":"한국쉘석유", "id":"002960", "holdings":"5247007" },
+    { "name":"코리안리", "id":"003690", "holdings":"101050" },
+    { "name":"효성", "id":"004800", "holdings":"1043667" },
+    { "name":"현대차우", "id":"005385", "holdings":"957600" },
+    { "name":"NH투자증권우", "id":"005945", "holdings":"258386" },
+    { "name":"미래에셋대우우", "id":"006805", "holdings":"462560" },
+    { "name":"율촌화학", "id":"008730", "holdings":"215624" },
+    { "name":"S-Oil우", "id":"010955", "holdings":"1953640" },
+    { "name":"한국전력", "id":"015760", "holdings":"38200" },
+    { "name":"SK텔레콤", "id":"017670", "holdings":"1249584" },
+    { "name":"BGF리테일", "id":"027410", "holdings":"1409917" },
+    { "name":"KT", "id":"030200", "holdings":"1144850" },
+    { "name":"KT&G", "id":"033780", "holdings":"1382000" },
+    { "name":"NAVER", "id":"035420", "holdings":"4824000" },
+    { "name":"키움증권", "id":"039490", "holdings":"139500" },
+    { "name":"지역난방공사", "id":"071320", "holdings":"145400" },
+    { "name":"맥쿼리인프라", "id":"088980", "holdings":"355220" },
+    { "name":"CJ제일제당 우", "id":"097955", "holdings":"1089000" },
+    { "name":"TIGER 레버리지", "id":"123320", "holdings":"3406149" },
+    { "name":"TIGER 200선물인버스2X", "id":"252710", "holdings":"6305" }
+  ]
+}
