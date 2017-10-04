@@ -1,4 +1,0 @@
-[title]저점 하회 종목들
-content_pre
-[img]_
-content_post
