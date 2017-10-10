@@ -6,6 +6,6 @@
     { "date":"2017-09-27", "volume":"9079", "adjClosePrice":"248000", "featured":false },
     { "date":"2017-09-28", "volume":"26771", "adjClosePrice":"249000", "featured":true },
     { "date":"2017-09-29", "volume":"24070", "adjClosePrice":"253500", "featured":false },
-    { "date":"2017-10-10", "volume":"20558", "adjClosePrice":"258000", "featured":false }
+    { "date":"2017-10-10", "volume":"22489", "adjClosePrice":"258500", "featured":false }
   ]
 }
