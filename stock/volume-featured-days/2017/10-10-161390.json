@@ -1,0 +1,11 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "한국타이어",
+  "dailyTrading" : [
+    { "date":"2017-09-26", "volume":"348756", "adjClosePrice":"58400", "featured":true },
+    { "date":"2017-09-27", "volume":"242350", "adjClosePrice":"58400", "featured":false },
+    { "date":"2017-09-28", "volume":"233385", "adjClosePrice":"58700", "featured":false },
+    { "date":"2017-09-29", "volume":"260784", "adjClosePrice":"60200", "featured":false },
+    { "date":"2017-10-10", "volume":"336104", "adjClosePrice":"59000", "featured":false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "LG이노텍",
+  "dailyTrading" : [
+    { "date":"2017-09-26", "volume":"263361", "adjClosePrice":"152000", "featured":false },
+    { "date":"2017-09-27", "volume":"395305", "adjClosePrice":"155500", "featured":true },
+    { "date":"2017-09-28", "volume":"437228", "adjClosePrice":"148500", "featured":false },
+    { "date":"2017-09-29", "volume":"215632", "adjClosePrice":"154000", "featured":false },
+    { "date":"2017-10-10", "volume":"427632", "adjClosePrice":"155000", "featured":true }
+  ]
+}

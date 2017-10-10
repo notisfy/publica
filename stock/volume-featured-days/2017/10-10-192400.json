@@ -1,0 +1,11 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "쿠쿠전자",
+  "dailyTrading" : [
+    { "date":"2017-09-26", "volume":"28204", "adjClosePrice":"122500", "featured":true },
+    { "date":"2017-09-27", "volume":"13024", "adjClosePrice":"123000", "featured":false },
+    { "date":"2017-09-28", "volume":"8371", "adjClosePrice":"123500", "featured":false },
+    { "date":"2017-09-29", "volume":"32476", "adjClosePrice":"128000", "featured":true },
+    { "date":"2017-10-10", "volume":"19841", "adjClosePrice":"129000", "featured":false }
+  ]
+}

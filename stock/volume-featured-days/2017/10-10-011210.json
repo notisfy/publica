@@ -1,0 +1,11 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "현대위아",
+  "dailyTrading" : [
+    { "date":"2017-09-26", "volume":"325844", "adjClosePrice":"65200", "featured":true },
+    { "date":"2017-09-27", "volume":"234361", "adjClosePrice":"66600", "featured":false },
+    { "date":"2017-09-28", "volume":"328818", "adjClosePrice":"63900", "featured":false },
+    { "date":"2017-09-29", "volume":"300094", "adjClosePrice":"65300", "featured":false },
+    { "date":"2017-10-10", "volume":"263944", "adjClosePrice":"63300", "featured":false }
+  ]
+}
