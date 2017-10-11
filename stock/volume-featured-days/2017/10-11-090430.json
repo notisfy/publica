@@ -1,0 +1,11 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "아모레퍼시픽",
+  "dailyTrading" : [
+    { "date":"2017-09-27", "volume":"125920", "adjClosePrice":"243000", "featured":false },
+    { "date":"2017-09-28", "volume":"282508", "adjClosePrice":"252000", "featured":true },
+    { "date":"2017-09-29", "volume":"302069", "adjClosePrice":"259500", "featured":true },
+    { "date":"2017-10-10", "volume":"258941", "adjClosePrice":"261500", "featured":false },
+    { "date":"2017-10-11", "volume":"192873", "adjClosePrice":"259000", "featured":false }
+  ]
+}

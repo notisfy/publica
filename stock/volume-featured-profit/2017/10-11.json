@@ -1,0 +1,33 @@
+{
+  "version" : "volume-featured-profit-v1",
+  "stocks" : [
+    { "name":"LG이노텍", "id":"011070", "profit":"12.88", "featuredDate":"2017-09-27", "featuredVolumeInc":"1.79" },
+    { "name":"금호타이어", "id":"073240", "profit":"12.09", "featuredDate":"2017-09-27", "featuredVolumeInc":"2.49" },
+    { "name":"한국콜마", "id":"161890", "profit":"11.13", "featuredDate":"2017-09-27", "featuredVolumeInc":"1.96" },
+    { "name":"LG생활건강", "id":"051900", "profit":"8.54", "featuredDate":"2017-09-28", "featuredVolumeInc":"2.73" },
+    { "name":"종근당", "id":"185750", "profit":"7.25", "featuredDate":"2017-09-27", "featuredVolumeInc":"1.64" },
+    { "name":"코스맥스", "id":"192820", "profit":"7.08", "featuredDate":"2017-09-28", "featuredVolumeInc":"1.66" },
+    { "name":"CJ대한통운", "id":"000120", "profit":"7.01", "featuredDate":"2017-09-27", "featuredVolumeInc":"1.95" },
+    { "name":"아모레G", "id":"002790", "profit":"6.69", "featuredDate":"2017-09-28", "featuredVolumeInc":"1.81" },
+    { "name":"동양생명", "id":"082640", "profit":"6.49", "featuredDate":"2017-09-29", "featuredVolumeInc":"1.79" },
+    { "name":"삼성중공업", "id":"010140", "profit":"6.45", "featuredDate":"2017-09-29", "featuredVolumeInc":"1.56" },
+    { "name":"현대차", "id":"005380", "profit":"6.10", "featuredDate":"2017-09-29", "featuredVolumeInc":"1.52" },
+    { "name":"LG생활건강우", "id":"051905", "profit":"5.97", "featuredDate":"2017-09-29", "featuredVolumeInc":"2.64" },
+    { "name":"LG화학우", "id":"051915", "profit":"5.85", "featuredDate":"2017-09-28", "featuredVolumeInc":"1.50" },
+    { "name":"SK", "id":"034730", "profit":"5.81", "featuredDate":"2017-09-27", "featuredVolumeInc":"2.22" },
+    { "name":"아모레퍼시픽", "id":"090430", "profit":"5.16", "featuredDate":"2017-09-28", "featuredVolumeInc":"1.88" },
+    { "name":"한미약품", "id":"128940", "profit":"5.13", "featuredDate":"2017-09-29", "featuredVolumeInc":"2.37" },
+    { "name":"현대모비스", "id":"012330", "profit":"4.73", "featuredDate":"2017-09-29", "featuredVolumeInc":"1.60" },
+    { "name":"신세계", "id":"004170", "profit":"4.26", "featuredDate":"2017-09-28", "featuredVolumeInc":"2.03" },
+    { "name":"제일약품", "id":"002620", "profit":"3.99", "featuredDate":"2017-09-27", "featuredVolumeInc":"2.12" },
+    { "name":"삼양홀딩스", "id":"000070", "profit":"3.89", "featuredDate":"2017-09-29", "featuredVolumeInc":"1.59" },
+    { "name":"현대차2우B", "id":"005387", "profit":"3.48", "featuredDate":"2017-09-29", "featuredVolumeInc":"1.52" },
+    { "name":"호텔신라", "id":"008770", "profit":"2.80", "featuredDate":"2017-09-28", "featuredVolumeInc":"1.50" },
+    { "name":"삼성카드", "id":"029780", "profit":"2.46", "featuredDate":"2017-09-29", "featuredVolumeInc":"1.61" },
+    { "name":"GKL", "id":"114090", "profit":"2.38", "featuredDate":"2017-09-28", "featuredVolumeInc":"2.13" },
+    { "name":"쿠쿠전자", "id":"192400", "profit":"1.98", "featuredDate":"2017-09-29", "featuredVolumeInc":"2.09" },
+    { "name":"아모레퍼시픽우", "id":"090435", "profit":"1.97", "featuredDate":"2017-09-29", "featuredVolumeInc":"4.58" },
+    { "name":"잇츠스킨", "id":"226320", "profit":"1.28", "featuredDate":"2017-09-29", "featuredVolumeInc":"3.10" },
+    { "name":"현대차우", "id":"005385", "profit":"1.20", "featuredDate":"2017-09-29", "featuredVolumeInc":"2.26" }
+  ]
+}

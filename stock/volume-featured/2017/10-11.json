@@ -1,0 +1,22 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"현대차우", "id":"005385", "volumeInc":"4.41", "price":"92800", "priceInc":"0.11" },
+    { "name":"한전기술", "id":"052690", "volumeInc":"3.30", "price":"19800", "priceInc":"7.61" },
+    { "name":"대웅제약", "id":"069620", "volumeInc":"2.97", "price":"112500", "priceInc":"8.17" },
+    { "name":"현대차2우B", "id":"005387", "volumeInc":"2.84", "price":"104000", "priceInc":"1.46" },
+    { "name":"쌍용차", "id":"003620", "volumeInc":"2.51", "price":"5220", "priceInc":"2.15" },
+    { "name":"롯데하이마트", "id":"071840", "volumeInc":"2.41", "price":"70400", "priceInc":"3.38" },
+    { "name":"두산중공업", "id":"034020", "volumeInc":"2.39", "price":"18200", "priceInc":"3.41" },
+    { "name":"LG전자", "id":"066570", "volumeInc":"2.24", "price":"87400", "priceInc":"8.17" },
+    { "name":"삼성물산", "id":"028260", "volumeInc":"2.17", "price":"142000", "priceInc":"2.90" },
+    { "name":"영풍", "id":"000670", "volumeInc":"2.12", "price":"1166000", "priceInc":"3.28" },
+    { "name":"삼성에스디에스", "id":"018260", "volumeInc":"1.99", "price":"177500", "priceInc":"4.11" },
+    { "name":"LG이노텍", "id":"011070", "volumeInc":"1.96", "price":"166000", "priceInc":"7.10" },
+    { "name":"현대차", "id":"005380", "volumeInc":"1.84", "price":"155000", "priceInc":"2.65" },
+    { "name":"유한양행", "id":"000100", "volumeInc":"1.81", "price":"205000", "priceInc":"0.49" },
+    { "name":"영원무역", "id":"111770", "volumeInc":"1.75", "price":"34000", "priceInc":"4.94" },
+    { "name":"종근당", "id":"185750", "volumeInc":"1.75", "price":"110000", "priceInc":"2.80" },
+    { "name":"삼성중공업", "id":"010140", "volumeInc":"1.58", "price":"11550", "priceInc":"5.48" }
+  ]
+}
