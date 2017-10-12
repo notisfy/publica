@@ -1,0 +1,11 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "영풍",
+  "dailyTrading" : [
+    { "date":"2017-09-28", "volume":"1073", "adjClosePrice":"1109000", "featured":false },
+    { "date":"2017-09-29", "volume":"1439", "adjClosePrice":"1097000", "featured":false },
+    { "date":"2017-10-10", "volume":"2091", "adjClosePrice":"1129000", "featured":true },
+    { "date":"2017-10-11", "volume":"3028", "adjClosePrice":"1166000", "featured":true },
+    { "date":"2017-10-12", "volume":"3252", "adjClosePrice":"1185000", "featured":true }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "고려아연",
+  "dailyTrading" : [
+    { "date":"2017-09-28", "volume":"41668", "adjClosePrice":"490500", "featured":false },
+    { "date":"2017-09-29", "volume":"37473", "adjClosePrice":"495500", "featured":false },
+    { "date":"2017-10-10", "volume":"77151", "adjClosePrice":"520000", "featured":true },
+    { "date":"2017-10-11", "volume":"71776", "adjClosePrice":"530000", "featured":false },
+    { "date":"2017-10-12", "volume":"37113", "adjClosePrice":"534000", "featured":false }
+  ]
+}

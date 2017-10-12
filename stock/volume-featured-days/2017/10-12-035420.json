@@ -1,0 +1,11 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "NAVER",
+  "dailyTrading" : [
+    { "date":"2017-09-28", "volume":"108277", "adjClosePrice":"733000", "featured":false },
+    { "date":"2017-09-29", "volume":"52738", "adjClosePrice":"745000", "featured":false },
+    { "date":"2017-10-10", "volume":"157060", "adjClosePrice":"756000", "featured":true },
+    { "date":"2017-10-11", "volume":"59186", "adjClosePrice":"751000", "featured":false },
+    { "date":"2017-10-12", "volume":"114302", "adjClosePrice":"768000", "featured":false }
+  ]
+}
