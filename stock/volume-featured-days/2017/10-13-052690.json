@@ -1,0 +1,11 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "한전기술",
+  "dailyTrading" : [
+    { "date":"2017-09-29", "volume":"39158", "adjClosePrice":"18100", "featured":false },
+    { "date":"2017-10-10", "volume":"104834", "adjClosePrice":"18400", "featured":false },
+    { "date":"2017-10-11", "volume":"351014", "adjClosePrice":"19800", "featured":true },
+    { "date":"2017-10-12", "volume":"152323", "adjClosePrice":"19350", "featured":false },
+    { "date":"2017-10-13", "volume":"442945", "adjClosePrice":"20700", "featured":true }
+  ]
+}

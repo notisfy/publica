@@ -1,0 +1,25 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"대웅제약", "id":"069620", "volumeInc":"5.72", "price":"126500", "priceInc":"10.00" },
+    { "name":"아모레퍼시픽우", "id":"090435", "volumeInc":"4.75", "price":"153000", "priceInc":"2.00" },
+    { "name":"코스맥스", "id":"192820", "volumeInc":"4.27", "price":"132000", "priceInc":"7.32" },
+    { "name":"한전기술", "id":"052690", "volumeInc":"4.11", "price":"20700", "priceInc":"6.98" },
+    { "name":"아모레퍼시픽", "id":"090430", "volumeInc":"4.03", "price":"271000", "priceInc":"6.48" },
+    { "name":"두산인프라코어", "id":"042670", "volumeInc":"4.00", "price":"9200", "priceInc":"6.73" },
+    { "name":"쌍용양회", "id":"003410", "volumeInc":"3.70", "price":"13800", "priceInc":"5.75" },
+    { "name":"삼성물산", "id":"028260", "volumeInc":"3.30", "price":"147000", "priceInc":"2.80" },
+    { "name":"LG생활건강우", "id":"051905", "volumeInc":"2.95", "price":"635000", "priceInc":"2.25" },
+    { "name":"신세계", "id":"004170", "volumeInc":"2.45", "price":"198500", "priceInc":"5.59" },
+    { "name":"LG생활건강", "id":"051900", "volumeInc":"2.34", "price":"1019000", "priceInc":"4.51" },
+    { "name":"한국콜마", "id":"161890", "volumeInc":"2.27", "price":"79000", "priceInc":"4.64" },
+    { "name":"호텔신라", "id":"008770", "volumeInc":"2.20", "price":"61700", "priceInc":"6.38" },
+    { "name":"아모레G", "id":"002790", "volumeInc":"2.18", "price":"132000", "priceInc":"6.45" },
+    { "name":"영진약품", "id":"003520", "volumeInc":"1.98", "price":"10200", "priceInc":"5.05" },
+    { "name":"한국전력", "id":"015760", "volumeInc":"1.86", "price":"39100", "priceInc":"3.44" },
+    { "name":"CJ", "id":"001040", "volumeInc":"1.79", "price":"173000", "priceInc":"2.37" },
+    { "name":"롯데케미칼", "id":"011170", "volumeInc":"1.67", "price":"395000", "priceInc":"4.64" },
+    { "name":"LS산전", "id":"010120", "volumeInc":"1.65", "price":"57300", "priceInc":"3.24" },
+    { "name":"녹십자홀딩스", "id":"005250", "volumeInc":"1.58", "price":"39350", "priceInc":"0.90" }
+  ]
+}

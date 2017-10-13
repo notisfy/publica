@@ -1,0 +1,11 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "현대해상",
+  "dailyTrading" : [
+    { "date":"2017-09-29", "volume":"173803", "adjClosePrice":"45300", "featured":false },
+    { "date":"2017-10-10", "volume":"361552", "adjClosePrice":"47200", "featured":true },
+    { "date":"2017-10-11", "volume":"278459", "adjClosePrice":"46800", "featured":false },
+    { "date":"2017-10-12", "volume":"178328", "adjClosePrice":"46850", "featured":false },
+    { "date":"2017-10-13", "volume":"239959", "adjClosePrice":"47700", "featured":false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "코웨이",
+  "dailyTrading" : [
+    { "date":"2017-09-29", "volume":"105418", "adjClosePrice":"94000", "featured":false },
+    { "date":"2017-10-10", "volume":"266507", "adjClosePrice":"94800", "featured":true },
+    { "date":"2017-10-11", "volume":"187021", "adjClosePrice":"94200", "featured":false },
+    { "date":"2017-10-12", "volume":"138605", "adjClosePrice":"96600", "featured":false },
+    { "date":"2017-10-13", "volume":"110548", "adjClosePrice":"97000", "featured":false }
+  ]
+}

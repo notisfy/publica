@@ -1,0 +1,11 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "메리츠화재",
+  "dailyTrading" : [
+    { "date":"2017-09-29", "volume":"178144", "adjClosePrice":"24650", "featured":false },
+    { "date":"2017-10-10", "volume":"358760", "adjClosePrice":"24950", "featured":true },
+    { "date":"2017-10-11", "volume":"433387", "adjClosePrice":"24950", "featured":false },
+    { "date":"2017-10-12", "volume":"214314", "adjClosePrice":"25250", "featured":false },
+    { "date":"2017-10-13", "volume":"284051", "adjClosePrice":"25700", "featured":false }
+  ]
+}
