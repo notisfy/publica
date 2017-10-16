@@ -1,0 +1,11 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "삼성증권",
+  "dailyTrading" : [
+    { "date":"2017-10-10", "volume":"393132", "adjClosePrice":"34800", "featured":true },
+    { "date":"2017-10-11", "volume":"248837", "adjClosePrice":"34950", "featured":false },
+    { "date":"2017-10-12", "volume":"838686", "adjClosePrice":"36950", "featured":true },
+    { "date":"2017-10-13", "volume":"364832", "adjClosePrice":"36850", "featured":false },
+    { "date":"2017-10-16", "volume":"314368", "adjClosePrice":"36300", "featured":false }
+  ]
+}

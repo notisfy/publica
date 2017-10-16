@@ -1,0 +1,11 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "영원무역",
+  "dailyTrading" : [
+    { "date":"2017-10-10", "volume":"63349", "adjClosePrice":"32400", "featured":false },
+    { "date":"2017-10-11", "volume":"151821", "adjClosePrice":"34000", "featured":true },
+    { "date":"2017-10-12", "volume":"103965", "adjClosePrice":"33700", "featured":false },
+    { "date":"2017-10-13", "volume":"74473", "adjClosePrice":"33500", "featured":false },
+    { "date":"2017-10-16", "volume":"85775", "adjClosePrice":"33450", "featured":false }
+  ]
+}

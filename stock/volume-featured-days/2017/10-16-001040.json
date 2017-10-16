@@ -1,0 +1,11 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "CJ",
+  "dailyTrading" : [
+    { "date":"2017-10-10", "volume":"77145", "adjClosePrice":"167000", "featured":false },
+    { "date":"2017-10-11", "volume":"63930", "adjClosePrice":"166500", "featured":false },
+    { "date":"2017-10-12", "volume":"104882", "adjClosePrice":"169000", "featured":true },
+    { "date":"2017-10-13", "volume":"113177", "adjClosePrice":"173000", "featured":true },
+    { "date":"2017-10-16", "volume":"180122", "adjClosePrice":"176000", "featured":true }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"잇츠스킨", "id":"226320", "volumeInc":"5.83", "price":"33150", "priceInc":"14.51" },
+    { "name":"하나투어", "id":"039130", "volumeInc":"5.01", "price":"91200", "priceInc":"7.04" },
+    { "name":"CJ CGV", "id":"079160", "volumeInc":"3.66", "price":"68400", "priceInc":"7.72" },
+    { "name":"신세계", "id":"004170", "volumeInc":"3.50", "price":"212000", "priceInc":"6.80" },
+    { "name":"CJ", "id":"001040", "volumeInc":"2.75", "price":"176000", "priceInc":"1.73" },
+    { "name":"한샘", "id":"009240", "volumeInc":"2.58", "price":"175500", "priceInc":"11.43" },
+    { "name":"한국콜마", "id":"161890", "volumeInc":"2.50", "price":"81600", "priceInc":"3.29" },
+    { "name":"LG하우시스", "id":"108670", "volumeInc":"2.47", "price":"94400", "priceInc":"6.19" },
+    { "name":"GKL", "id":"114090", "volumeInc":"2.44", "price":"25000", "priceInc":"5.26" },
+    { "name":"호텔신라", "id":"008770", "volumeInc":"2.34", "price":"63600", "priceInc":"3.08" },
+    { "name":"POSCO", "id":"005490", "volumeInc":"2.21", "price":"344000", "priceInc":"5.85" },
+    { "name":"대상", "id":"001680", "volumeInc":"2.11", "price":"22350", "priceInc":"1.59" },
+    { "name":"코오롱인더", "id":"120110", "volumeInc":"2.02", "price":"73000", "priceInc":"3.69" },
+    { "name":"동국제강", "id":"001230", "volumeInc":"2.00", "price":"11400", "priceInc":"5.07" },
+    { "name":"KT", "id":"030200", "volumeInc":"1.88", "price":"30600", "priceInc":"2.17" },
+    { "name":"세아베스틸", "id":"001430", "volumeInc":"1.81", "price":"32900", "priceInc":"7.69" },
+    { "name":"제일기획", "id":"030000", "volumeInc":"1.75", "price":"18350", "priceInc":"1.94" },
+    { "name":"LG상사", "id":"001120", "volumeInc":"1.75", "price":"28300", "priceInc":"2.91" },
+    { "name":"KCC", "id":"002380", "volumeInc":"1.70", "price":"394000", "priceInc":"3.41" },
+    { "name":"쌍용차", "id":"003620", "volumeInc":"1.65", "price":"5640", "priceInc":"3.11" }
+  ]
+}

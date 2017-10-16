@@ -1,0 +1,11 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "동아에스티",
+  "dailyTrading" : [
+    { "date":"2017-10-10", "volume":"27406", "adjClosePrice":"79800", "featured":false },
+    { "date":"2017-10-11", "volume":"22154", "adjClosePrice":"81300", "featured":false },
+    { "date":"2017-10-12", "volume":"142203", "adjClosePrice":"89400", "featured":true },
+    { "date":"2017-10-13", "volume":"65752", "adjClosePrice":"88800", "featured":false },
+    { "date":"2017-10-16", "volume":"38876", "adjClosePrice":"89600", "featured":false }
+  ]
+}
