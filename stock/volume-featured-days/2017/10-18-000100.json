@@ -5,9 +5,9 @@
     { "date":"2017-10-10", "volume":"50078", "adjClosePrice":"204000", "featured":false },
     { "date":"2017-10-11", "volume":"73364", "adjClosePrice":"205000", "featured":true },
     { "date":"2017-10-12", "volume":"48077", "adjClosePrice":"208500", "featured":false },
-    { "date":"2017-10-13", "volume":"120416", "adjClosePrice":"201000", "featured":false },
+    { "date":"2017-10-13", "volume":"120298", "adjClosePrice":"201000", "featured":false },
     { "date":"2017-10-16", "volume":"55119", "adjClosePrice":"202500", "featured":false },
     { "date":"2017-10-17", "volume":"33427", "adjClosePrice":"203500", "featured":false },
-    { "date":"2017-10-18", "volume":"59939", "adjClosePrice":"207000", "featured":false }
+    { "date":"2017-10-18", "volume":"60000", "adjClosePrice":"207000", "featured":false }
   ]
 }

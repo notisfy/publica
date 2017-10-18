@@ -3,11 +3,11 @@
   "name" : "이마트",
   "dailyTrading" : [
     { "date":"2017-10-10", "volume":"176216", "adjClosePrice":"217500", "featured":true },
-    { "date":"2017-10-11", "volume":"108171", "adjClosePrice":"216500", "featured":false },
+    { "date":"2017-10-11", "volume":"108165", "adjClosePrice":"216500", "featured":false },
     { "date":"2017-10-12", "volume":"77302", "adjClosePrice":"219000", "featured":false },
-    { "date":"2017-10-13", "volume":"94317", "adjClosePrice":"221000", "featured":false },
+    { "date":"2017-10-13", "volume":"94315", "adjClosePrice":"221000", "featured":false },
     { "date":"2017-10-16", "volume":"135006", "adjClosePrice":"226000", "featured":true },
     { "date":"2017-10-17", "volume":"63077", "adjClosePrice":"222000", "featured":false },
-    { "date":"2017-10-18", "volume":"63164", "adjClosePrice":"221500", "featured":false }
+    { "date":"2017-10-18", "volume":"63182", "adjClosePrice":"221500", "featured":false }
   ]
 }
