@@ -1,0 +1,24 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한미사이언스", "id":"008930", "volumeInc":"3.75", "price":"101000", "priceInc":"5.87" },
+    { "name":"두산중공업", "id":"034020", "volumeInc":"3.71", "price":"19650", "priceInc":"5.93" },
+    { "name":"한국항공우주", "id":"047810", "volumeInc":"3.42", "price":"56200", "priceInc":"17.82" },
+    { "name":"한화테크윈", "id":"012450", "volumeInc":"3.41", "price":"38050", "priceInc":"11.75" },
+    { "name":"한미약품", "id":"128940", "volumeInc":"3.37", "price":"515000", "priceInc":"7.29" },
+    { "name":"한전기술", "id":"052690", "volumeInc":"3.18", "price":"21700", "priceInc":"2.12" },
+    { "name":"LG전자", "id":"066570", "volumeInc":"2.95", "price":"96500", "priceInc":"6.75" },
+    { "name":"대상", "id":"001680", "volumeInc":"2.43", "price":"23700", "priceInc":"2.38" },
+    { "name":"이노션", "id":"214320", "volumeInc":"2.35", "price":"73400", "priceInc":"2.37" },
+    { "name":"삼양사", "id":"145990", "volumeInc":"2.24", "price":"97300", "priceInc":"2.75" },
+    { "name":"종근당", "id":"185750", "volumeInc":"2.08", "price":"118500", "priceInc":"1.28" },
+    { "name":"한국전력", "id":"015760", "volumeInc":"2.06", "price":"40850", "priceInc":"3.16" },
+    { "name":"한전KPS", "id":"051600", "volumeInc":"2.04", "price":"44900", "priceInc":"2.05" },
+    { "name":"경동나비엔", "id":"009450", "volumeInc":"1.82", "price":"35000", "priceInc":"2.64" },
+    { "name":"현대모비스", "id":"012330", "volumeInc":"1.73", "price":"249000", "priceInc":"3.75" },
+    { "name":"녹십자", "id":"006280", "volumeInc":"1.66", "price":"209000", "priceInc":"0.72" },
+    { "name":"대한항공", "id":"003490", "volumeInc":"1.64", "price":"31050", "priceInc":"5.61" },
+    { "name":"LG", "id":"003550", "volumeInc":"1.63", "price":"85600", "priceInc":"2.88" },
+    { "name":"현대엘리베이", "id":"017800", "volumeInc":"1.54", "price":"54000", "priceInc":"1.50" }
+  ]
+}
