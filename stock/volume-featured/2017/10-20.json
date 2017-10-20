@@ -1,0 +1,25 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"도레이케미칼", "id":"008000", "volumeInc":"50.24", "price":"19350", "priceInc":"2.11" },
+    { "name":"한전KPS", "id":"051600", "volumeInc":"8.12", "price":"45650", "priceInc":"1.67" },
+    { "name":"한국전력", "id":"015760", "volumeInc":"5.32", "price":"41100", "priceInc":"0.61" },
+    { "name":"부광약품", "id":"003000", "volumeInc":"3.49", "price":"22300", "priceInc":"2.76" },
+    { "name":"한세실업", "id":"105630", "volumeInc":"3.33", "price":"25100", "priceInc":"7.04" },
+    { "name":"삼성에스디에스", "id":"018260", "volumeInc":"2.86", "price":"195500", "priceInc":"4.55" },
+    { "name":"메리츠화재", "id":"000060", "volumeInc":"2.41", "price":"25900", "priceInc":"4.65" },
+    { "name":"한화생명", "id":"088350", "volumeInc":"2.39", "price":"7760", "priceInc":"6.89" },
+    { "name":"삼양사", "id":"145990", "volumeInc":"2.26", "price":"97600", "priceInc":"0.31" },
+    { "name":"금호타이어", "id":"073240", "volumeInc":"2.17", "price":"6290", "priceInc":"8.08" },
+    { "name":"삼성생명", "id":"032830", "volumeInc":"2.13", "price":"128000", "priceInc":"3.23" },
+    { "name":"경동나비엔", "id":"009450", "volumeInc":"2.09", "price":"35950", "priceInc":"2.71" },
+    { "name":"OCI", "id":"010060", "volumeInc":"2.01", "price":"106500", "priceInc":"3.90" },
+    { "name":"대림산업", "id":"000210", "volumeInc":"2.00", "price":"85500", "priceInc":"3.89" },
+    { "name":"하이트진로", "id":"000080", "volumeInc":"1.98", "price":"25750", "priceInc":"1.78" },
+    { "name":"넥센타이어", "id":"002350", "volumeInc":"1.93", "price":"13350", "priceInc":"1.14" },
+    { "name":"잇츠스킨", "id":"226320", "volumeInc":"1.93", "price":"29150", "priceInc":"0.52" },
+    { "name":"KT&G", "id":"033780", "volumeInc":"1.83", "price":"109500", "priceInc":"0.92" },
+    { "name":"효성", "id":"004800", "volumeInc":"1.63", "price":"144500", "priceInc":"2.48" },
+    { "name":"쿠쿠전자", "id":"192400", "volumeInc":"1.62", "price":"134000", "priceInc":"2.68" }
+  ]
+}
