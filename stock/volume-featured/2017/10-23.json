@@ -1,0 +1,10 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"경동나비엔", "id":"009450", "volumeInc":"3.60", "price":"37300", "priceInc":"3.76" },
+    { "name":"LG하우시스", "id":"108670", "volumeInc":"2.14", "price":"94300", "priceInc":"2.39" },
+    { "name":"만도", "id":"204320", "volumeInc":"2.07", "price":"312500", "priceInc":"5.04" },
+    { "name":"한온시스템", "id":"018880", "volumeInc":"1.89", "price":"14550", "priceInc":"6.99" },
+    { "name":"한화", "id":"000880", "volumeInc":"1.61", "price":"46600", "priceInc":"2.42" }
+  ]
+}
