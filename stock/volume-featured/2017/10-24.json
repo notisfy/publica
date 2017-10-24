@@ -1,0 +1,19 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"경동나비엔", "id":"009450", "volumeInc":"5.35", "price":"40000", "priceInc":"7.24" },
+    { "name":"한샘", "id":"009240", "volumeInc":"4.21", "price":"171500", "priceInc":"2.08" },
+    { "name":"영원무역", "id":"111770", "volumeInc":"3.78", "price":"35450", "priceInc":"9.75" },
+    { "name":"영원무역홀딩스", "id":"009970", "volumeInc":"3.74", "price":"54500", "priceInc":"0.93" },
+    { "name":"한세실업", "id":"105630", "volumeInc":"3.18", "price":"26900", "priceInc":"0.94" },
+    { "name":"LG생활건강우", "id":"051905", "volumeInc":"2.86", "price":"633000", "priceInc":"3.77" },
+    { "name":"코오롱인더", "id":"120110", "volumeInc":"2.22", "price":"72300", "priceInc":"2.41" },
+    { "name":"아모레퍼시픽우", "id":"090435", "volumeInc":"2.20", "price":"159000", "priceInc":"1.60" },
+    { "name":"LG생활건강", "id":"051900", "volumeInc":"2.08", "price":"1131000", "priceInc":"6.50" },
+    { "name":"현대산업", "id":"012630", "volumeInc":"1.84", "price":"38500", "priceInc":"4.19" },
+    { "name":"유한양행", "id":"000100", "volumeInc":"1.70", "price":"216500", "priceInc":"2.85" },
+    { "name":"OCI", "id":"010060", "volumeInc":"1.66", "price":"112500", "priceInc":"2.74" },
+    { "name":"GS건설", "id":"006360", "volumeInc":"1.60", "price":"27600", "priceInc":"1.85" },
+    { "name":"대림산업", "id":"000210", "volumeInc":"1.54", "price":"86300", "priceInc":"3.35" }
+  ]
+}
