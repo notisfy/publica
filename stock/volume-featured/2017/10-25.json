@@ -1,0 +1,22 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"아모레퍼시픽우", "id":"090435", "volumeInc":"3.71", "price":"161000", "priceInc":"1.26" },
+    { "name":"SK케미칼", "id":"006120", "volumeInc":"3.50", "price":"73900", "priceInc":"3.65" },
+    { "name":"한화생명", "id":"088350", "volumeInc":"3.48", "price":"8090", "priceInc":"7.29" },
+    { "name":"동양생명", "id":"082640", "volumeInc":"3.38", "price":"8000", "priceInc":"1.78" },
+    { "name":"삼성생명", "id":"032830", "volumeInc":"3.21", "price":"133500", "priceInc":"4.71" },
+    { "name":"대한전선", "id":"001440", "volumeInc":"2.74", "price":"1310", "priceInc":"2.34" },
+    { "name":"대우건설", "id":"047040", "volumeInc":"2.72", "price":"7580", "priceInc":"3.69" },
+    { "name":"잇츠스킨", "id":"226320", "volumeInc":"2.18", "price":"31600", "priceInc":"3.61" },
+    { "name":"제일약품", "id":"002620", "volumeInc":"2.15", "price":"39350", "priceInc":"1.68" },
+    { "name":"현대산업", "id":"012630", "volumeInc":"1.90", "price":"39650", "priceInc":"2.99" },
+    { "name":"AK홀딩스", "id":"006840", "volumeInc":"1.84", "price":"67300", "priceInc":"1.82" },
+    { "name":"두산인프라코어", "id":"042670", "volumeInc":"1.72", "price":"9580", "priceInc":"3.23" },
+    { "name":"삼성엔지니어링", "id":"028050", "volumeInc":"1.68", "price":"12100", "priceInc":"2.11" },
+    { "name":"현대홈쇼핑", "id":"057050", "volumeInc":"1.66", "price":"124500", "priceInc":"2.89" },
+    { "name":"한국가스공사", "id":"036460", "volumeInc":"1.62", "price":"43400", "priceInc":"3.21" },
+    { "name":"휴켐스", "id":"069260", "volumeInc":"1.61", "price":"24100", "priceInc":"4.10" },
+    { "name":"동부화재", "id":"005830", "volumeInc":"1.55", "price":"75400", "priceInc":"1.89" }
+  ]
+}
