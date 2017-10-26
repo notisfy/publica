@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "한국전력",
+  "dailyTrading" : [
+    { "date":"2017-10-12", "volume":"2045303", "adjClosePrice":"37800", "featured":false },
+    { "date":"2017-10-13", "volume":"2122004", "adjClosePrice":"39100", "featured":true },
+    { "date":"2017-10-16", "volume":"1467074", "adjClosePrice":"39700", "featured":false },
+    { "date":"2017-10-17", "volume":"1570567", "adjClosePrice":"39800", "featured":false },
+    { "date":"2017-10-18", "volume":"934223", "adjClosePrice":"39600", "featured":false },
+    { "date":"2017-10-19", "volume":"2400753", "adjClosePrice":"40850", "featured":true },
+    { "date":"2017-10-20", "volume":"6466790", "adjClosePrice":"41100", "featured":true },
+    { "date":"2017-10-23", "volume":"2022671", "adjClosePrice":"40400", "featured":false },
+    { "date":"2017-10-24", "volume":"1057337", "adjClosePrice":"40250", "featured":false },
+    { "date":"2017-10-25", "volume":"1996894", "adjClosePrice":"40000", "featured":false },
+    { "date":"2017-10-26", "volume":"1353763", "adjClosePrice":"39150", "featured":false }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"잇츠스킨", "id":"226320", "volumeInc":"11.80", "price":"36800", "priceInc":"16.46" },
+    { "name":"동양생명", "id":"082640", "volumeInc":"5.70", "price":"8520", "priceInc":"6.50" },
+    { "name":"아모레퍼시픽우", "id":"090435", "volumeInc":"5.34", "price":"166500", "priceInc":"3.42" },
+    { "name":"아시아나항공", "id":"020560", "volumeInc":"5.22", "price":"4530", "priceInc":"9.95" },
+    { "name":"호텔신라", "id":"008770", "volumeInc":"4.92", "price":"69400", "priceInc":"8.61" },
+    { "name":"쌍용양회", "id":"003410", "volumeInc":"4.11", "price":"15550", "priceInc":"6.51" },
+    { "name":"오리온", "id":"001800", "volumeInc":"3.98", "price":"24000", "priceInc":"5.03" },
+    { "name":"LG이노텍", "id":"011070", "volumeInc":"3.90", "price":"175000", "priceInc":"3.86" },
+    { "name":"경동나비엔", "id":"009450", "volumeInc":"3.86", "price":"41000", "priceInc":"3.54" },
+    { "name":"LG상사", "id":"001120", "volumeInc":"3.84", "price":"28600", "priceInc":"2.14" },
+    { "name":"아모레퍼시픽", "id":"090430", "volumeInc":"3.82", "price":"318500", "priceInc":"7.24" },
+    { "name":"CJ", "id":"001040", "volumeInc":"3.72", "price":"189000", "priceInc":"5.88" },
+    { "name":"하나투어", "id":"039130", "volumeInc":"3.66", "price":"97100", "priceInc":"3.74" },
+    { "name":"NAVER", "id":"035420", "volumeInc":"3.60", "price":"840000", "priceInc":"4.48" },
+    { "name":"LG생활건강우", "id":"051905", "volumeInc":"3.33", "price":"657000", "priceInc":"3.96" },
+    { "name":"아모레G", "id":"002790", "volumeInc":"3.21", "price":"152000", "priceInc":"10.55" },
+    { "name":"코스맥스", "id":"192820", "volumeInc":"2.84", "price":"139500", "priceInc":"3.33" },
+    { "name":"현대차", "id":"005380", "volumeInc":"2.81", "price":"159500", "priceInc":"7.41" },
+    { "name":"대한항공", "id":"003490", "volumeInc":"2.72", "price":"32300", "priceInc":"5.90" },
+    { "name":"GKL", "id":"114090", "volumeInc":"2.46", "price":"26950", "priceInc":"3.06" }
+  ]
+}
