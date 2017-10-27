@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "삼성생명",
+  "dailyTrading" : [
+    { "date":"2017-10-13", "volume":"252410", "adjClosePrice":"122000", "featured":false },
+    { "date":"2017-10-16", "volume":"130330", "adjClosePrice":"122500", "featured":false },
+    { "date":"2017-10-17", "volume":"222491", "adjClosePrice":"120000", "featured":false },
+    { "date":"2017-10-18", "volume":"204547", "adjClosePrice":"121500", "featured":false },
+    { "date":"2017-10-19", "volume":"331168", "adjClosePrice":"124000", "featured":false },
+    { "date":"2017-10-20", "volume":"543141", "adjClosePrice":"128000", "featured":true },
+    { "date":"2017-10-23", "volume":"323586", "adjClosePrice":"125000", "featured":false },
+    { "date":"2017-10-24", "volume":"231615", "adjClosePrice":"127500", "featured":false },
+    { "date":"2017-10-25", "volume":"850150", "adjClosePrice":"133500", "featured":true },
+    { "date":"2017-10-26", "volume":"399011", "adjClosePrice":"132500", "featured":false },
+    { "date":"2017-10-27", "volume":"279099", "adjClosePrice":"132000", "featured":false }
+  ]
+}

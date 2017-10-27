@@ -1,0 +1,21 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"쿠쿠전자", "id":"192400", "volumeInc":"8.29", "price":"150000", "priceInc":"8.70" },
+    { "name":"아시아나항공", "id":"020560", "volumeInc":"4.92", "price":"4540", "priceInc":"0.22" },
+    { "name":"하나투어", "id":"039130", "volumeInc":"4.38", "price":"97300", "priceInc":"0.21" },
+    { "name":"삼성엔지니어링", "id":"028050", "volumeInc":"3.07", "price":"12500", "priceInc":"4.60" },
+    { "name":"삼립식품", "id":"005610", "volumeInc":"2.97", "price":"140000", "priceInc":"6.46" },
+    { "name":"GKL", "id":"114090", "volumeInc":"2.97", "price":"27600", "priceInc":"2.41" },
+    { "name":"한화테크윈", "id":"012450", "volumeInc":"2.51", "price":"39250", "priceInc":"5.51" },
+    { "name":"기업은행", "id":"024110", "volumeInc":"1.99", "price":"15400", "priceInc":"1.99" },
+    { "name":"LG화학", "id":"051910", "volumeInc":"1.99", "price":"405500", "priceInc":"2.79" },
+    { "name":"현대제철", "id":"004020", "volumeInc":"1.85", "price":"57400", "priceInc":"4.94" },
+    { "name":"포스코대우", "id":"047050", "volumeInc":"1.75", "price":"19800", "priceInc":"1.54" },
+    { "name":"삼성중공업", "id":"010140", "volumeInc":"1.71", "price":"11700", "priceInc":"5.41" },
+    { "name":"동원시스템즈", "id":"014820", "volumeInc":"1.69", "price":"48000", "priceInc":"2.45" },
+    { "name":"현대산업", "id":"012630", "volumeInc":"1.68", "price":"40100", "priceInc":"2.30" },
+    { "name":"현대엘리베이", "id":"017800", "volumeInc":"1.63", "price":"56000", "priceInc":"2.94" },
+    { "name":"현대그린푸드", "id":"005440", "volumeInc":"1.52", "price":"16000", "priceInc":"4.23" }
+  ]
+}
