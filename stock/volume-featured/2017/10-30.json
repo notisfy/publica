@@ -1,0 +1,22 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"잇츠스킨", "id":"226320", "volumeInc":"7.81", "price":"42500", "priceInc":"12.29" },
+    { "name":"롯데푸드", "id":"002270", "volumeInc":"6.32", "price":"625000", "priceInc":"2.80" },
+    { "name":"호텔신라", "id":"008770", "volumeInc":"5.01", "price":"76600", "priceInc":"9.27" },
+    { "name":"현대로템", "id":"064350", "volumeInc":"4.38", "price":"19000", "priceInc":"7.04" },
+    { "name":"쌍용양회", "id":"003410", "volumeInc":"3.76", "price":"16400", "priceInc":"4.13" },
+    { "name":"삼성에스디에스", "id":"018260", "volumeInc":"3.10", "price":"207000", "priceInc":"6.43" },
+    { "name":"제일기획", "id":"030000", "volumeInc":"2.97", "price":"19000", "priceInc":"4.97" },
+    { "name":"아모레퍼시픽", "id":"090430", "volumeInc":"2.76", "price":"326500", "priceInc":"3.65" },
+    { "name":"아모레G", "id":"002790", "volumeInc":"2.65", "price":"153500", "priceInc":"4.78" },
+    { "name":"만도", "id":"204320", "volumeInc":"2.58", "price":"320000", "priceInc":"2.89" },
+    { "name":"동원산업", "id":"006040", "volumeInc":"2.26", "price":"284500", "priceInc":"3.64" },
+    { "name":"영원무역", "id":"111770", "volumeInc":"2.23", "price":"37250", "priceInc":"4.78" },
+    { "name":"삼성전기", "id":"009150", "volumeInc":"1.93", "price":"103000", "priceInc":"5.97" },
+    { "name":"JW중외제약", "id":"001060", "volumeInc":"1.90", "price":"42000", "priceInc":"0.72" },
+    { "name":"JW홀딩스", "id":"096760", "volumeInc":"1.67", "price":"8230", "priceInc":"2.36" },
+    { "name":"신세계", "id":"004170", "volumeInc":"1.60", "price":"233000", "priceInc":"3.56" },
+    { "name":"S-Oil", "id":"010950", "volumeInc":"1.51", "price":"130000", "priceInc":"0.39" }
+  ]
+}
