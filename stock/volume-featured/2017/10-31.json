@@ -1,0 +1,25 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"제일기획", "id":"030000", "volumeInc":"8.87", "price":"20800", "priceInc":"9.47" },
+    { "name":"현대로템", "id":"064350", "volumeInc":"4.80", "price":"19600", "priceInc":"3.16" },
+    { "name":"LS산전", "id":"010120", "volumeInc":"4.12", "price":"59900", "priceInc":"4.90" },
+    { "name":"동양생명", "id":"082640", "volumeInc":"4.00", "price":"8860", "priceInc":"2.43" },
+    { "name":"현대미포조선", "id":"010620", "volumeInc":"3.55", "price":"108500", "priceInc":"7.43" },
+    { "name":"이노션", "id":"214320", "volumeInc":"3.36", "price":"76800", "priceInc":"3.50" },
+    { "name":"CJ", "id":"001040", "volumeInc":"2.77", "price":"186500", "priceInc":"2.47" },
+    { "name":"아시아나항공", "id":"020560", "volumeInc":"2.45", "price":"4625", "priceInc":"3.58" },
+    { "name":"오리온", "id":"001800", "volumeInc":"2.43", "price":"25750", "priceInc":"0.59" },
+    { "name":"현대모비스", "id":"012330", "volumeInc":"2.34", "price":"266500", "priceInc":"4.92" },
+    { "name":"LG상사", "id":"001120", "volumeInc":"2.19", "price":"29050", "priceInc":"1.04" },
+    { "name":"삼성전자우", "id":"005935", "volumeInc":"2.19", "price":"2240000", "priceInc":"4.92" },
+    { "name":"녹십자", "id":"006280", "volumeInc":"2.01", "price":"211000", "priceInc":"1.44" },
+    { "name":"현대백화점", "id":"069960", "volumeInc":"1.94", "price":"91500", "priceInc":"0.66" },
+    { "name":"삼성생명", "id":"032830", "volumeInc":"1.87", "price":"135000", "priceInc":"4.25" },
+    { "name":"다우기술", "id":"023590", "volumeInc":"1.80", "price":"18350", "priceInc":"2.80" },
+    { "name":"LG생활건강우", "id":"051905", "volumeInc":"1.76", "price":"655000", "priceInc":"0.77" },
+    { "name":"현대차2우B", "id":"005387", "volumeInc":"1.70", "price":"113000", "priceInc":"2.26" },
+    { "name":"현대글로비스", "id":"086280", "volumeInc":"1.62", "price":"151000", "priceInc":"3.78" },
+    { "name":"현대차", "id":"005380", "volumeInc":"1.61", "price":"161000", "priceInc":"3.21" }
+  ]
+}
