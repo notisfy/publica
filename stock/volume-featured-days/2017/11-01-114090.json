@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "GKL",
+  "dailyTrading" : [
+    { "date":"2017-10-18", "volume":"592613", "adjClosePrice":"26100", "featured":true },
+    { "date":"2017-10-19", "volume":"256028", "adjClosePrice":"25800", "featured":false },
+    { "date":"2017-10-20", "volume":"261193", "adjClosePrice":"25950", "featured":false },
+    { "date":"2017-10-23", "volume":"177952", "adjClosePrice":"25450", "featured":false },
+    { "date":"2017-10-24", "volume":"196967", "adjClosePrice":"26050", "featured":false },
+    { "date":"2017-10-25", "volume":"132400", "adjClosePrice":"26150", "featured":false },
+    { "date":"2017-10-26", "volume":"463268", "adjClosePrice":"26950", "featured":true },
+    { "date":"2017-10-27", "volume":"578673", "adjClosePrice":"27600", "featured":true },
+    { "date":"2017-10-30", "volume":"356506", "adjClosePrice":"27900", "featured":false },
+    { "date":"2017-10-31", "volume":"214688", "adjClosePrice":"28000", "featured":false },
+    { "date":"2017-11-01", "volume":"194183", "adjClosePrice":"27450", "featured":false }
+  ]
+}

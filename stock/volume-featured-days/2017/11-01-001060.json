@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "JW중외제약",
+  "dailyTrading" : [
+    { "date":"2017-10-18", "volume":"141090", "adjClosePrice":"42200", "featured":true },
+    { "date":"2017-10-19", "volume":"81362", "adjClosePrice":"41950", "featured":false },
+    { "date":"2017-10-20", "volume":"35593", "adjClosePrice":"42000", "featured":false },
+    { "date":"2017-10-23", "volume":"66986", "adjClosePrice":"41200", "featured":false },
+    { "date":"2017-10-24", "volume":"59525", "adjClosePrice":"41550", "featured":false },
+    { "date":"2017-10-25", "volume":"44941", "adjClosePrice":"41850", "featured":false },
+    { "date":"2017-10-26", "volume":"47742", "adjClosePrice":"41200", "featured":false },
+    { "date":"2017-10-27", "volume":"80674", "adjClosePrice":"41700", "featured":false },
+    { "date":"2017-10-30", "volume":"156983", "adjClosePrice":"42000", "featured":true },
+    { "date":"2017-10-31", "volume":"80458", "adjClosePrice":"41650", "featured":false },
+    { "date":"2017-11-01", "volume":"487124", "adjClosePrice":"44950", "featured":true }
+  ]
+}
