@@ -1,0 +1,4 @@
+[title]_
+content_pre
+[img]_
+content_post
