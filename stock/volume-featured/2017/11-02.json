@@ -1,0 +1,12 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"쌍용양회", "id":"003410", "volumeInc":"6.58", "price":"18100", "priceInc":"8.71" },
+    { "name":"동아에스티", "id":"170900", "volumeInc":"5.90", "price":"94000", "priceInc":"5.38" },
+    { "name":"하나투어", "id":"039130", "volumeInc":"3.53", "price":"100500", "priceInc":"4.47" },
+    { "name":"대한유화", "id":"006650", "volumeInc":"3.43", "price":"268000", "priceInc":"6.99" },
+    { "name":"대림산업", "id":"000210", "volumeInc":"3.08", "price":"87000", "priceInc":"4.19" },
+    { "name":"한화케미칼", "id":"009830", "volumeInc":"1.85", "price":"32850", "priceInc":"3.96" },
+    { "name":"LG상사", "id":"001120", "volumeInc":"1.68", "price":"29250", "priceInc":"2.09" }
+  ]
+}
