@@ -1,0 +1,25 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"동원산업", "id":"006040", "volumeInc":"11.72", "price":"309500", "priceInc":"6.91" },
+    { "name":"JW홀딩스", "id":"096760", "volumeInc":"5.02", "price":"8780", "priceInc":"8.00" },
+    { "name":"대림산업", "id":"000210", "volumeInc":"4.61", "price":"89500", "priceInc":"2.87" },
+    { "name":"JW중외제약", "id":"001060", "volumeInc":"4.25", "price":"46850", "priceInc":"6.96" },
+    { "name":"아이에스동서", "id":"010780", "volumeInc":"3.63", "price":"36850", "priceInc":"4.69" },
+    { "name":"에스원", "id":"012750", "volumeInc":"2.63", "price":"95800", "priceInc":"5.04" },
+    { "name":"부광약품", "id":"003000", "volumeInc":"2.49", "price":"23050", "priceInc":"2.44" },
+    { "name":"지역난방공사", "id":"071320", "volumeInc":"2.46", "price":"74200", "priceInc":"3.06" },
+    { "name":"오리온", "id":"001800", "volumeInc":"2.33", "price":"27150", "priceInc":"3.63" },
+    { "name":"JB금융지주", "id":"175330", "volumeInc":"2.14", "price":"5950", "priceInc":"2.41" },
+    { "name":"삼양홀딩스", "id":"000070", "volumeInc":"2.12", "price":"92000", "priceInc":"0.44" },
+    { "name":"CJ제일제당", "id":"097950", "volumeInc":"1.99", "price":"373500", "priceInc":"4.77" },
+    { "name":"경동나비엔", "id":"009450", "volumeInc":"1.95", "price":"41950", "priceInc":"1.70" },
+    { "name":"CJ", "id":"001040", "volumeInc":"1.93", "price":"195000", "priceInc":"4.00" },
+    { "name":"현대제철", "id":"004020", "volumeInc":"1.92", "price":"59500", "priceInc":"4.20" },
+    { "name":"LG하우시스", "id":"108670", "volumeInc":"1.88", "price":"94400", "priceInc":"3.28" },
+    { "name":"녹십자", "id":"006280", "volumeInc":"1.87", "price":"209000", "priceInc":"3.47" },
+    { "name":"삼성중공업", "id":"010140", "volumeInc":"1.76", "price":"12000", "priceInc":"4.35" },
+    { "name":"종근당", "id":"185750", "volumeInc":"1.73", "price":"118000", "priceInc":"4.89" },
+    { "name":"태광산업", "id":"003240", "volumeInc":"1.70", "price":"1225000", "priceInc":"5.06" }
+  ]
+}
