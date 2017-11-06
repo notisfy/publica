@@ -1,0 +1,19 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"경동나비엔", "id":"009450", "volumeInc":"8.94", "price":"46800", "priceInc":"11.56" },
+    { "name":"오리온", "id":"001800", "volumeInc":"3.20", "price":"28050", "priceInc":"3.31" },
+    { "name":"KCC", "id":"002380", "volumeInc":"2.91", "price":"405000", "priceInc":"3.45" },
+    { "name":"잇츠스킨", "id":"226320", "volumeInc":"2.55", "price":"47400", "priceInc":"8.59" },
+    { "name":"삼성카드", "id":"029780", "volumeInc":"2.43", "price":"38550", "priceInc":"1.98" },
+    { "name":"녹십자", "id":"006280", "volumeInc":"2.21", "price":"219000", "priceInc":"4.78" },
+    { "name":"한화테크윈", "id":"012450", "volumeInc":"2.15", "price":"40150", "priceInc":"2.69" },
+    { "name":"KT&G", "id":"033780", "volumeInc":"2.11", "price":"111000", "priceInc":"3.74" },
+    { "name":"종근당", "id":"185750", "volumeInc":"2.08", "price":"121000", "priceInc":"2.54" },
+    { "name":"호텔신라", "id":"008770", "volumeInc":"1.86", "price":"79900", "priceInc":"1.91" },
+    { "name":"삼성엔지니어링", "id":"028050", "volumeInc":"1.69", "price":"12750", "priceInc":"4.08" },
+    { "name":"포스코대우", "id":"047050", "volumeInc":"1.63", "price":"19800", "priceInc":"2.59" },
+    { "name":"영진약품", "id":"003520", "volumeInc":"1.60", "price":"9140", "priceInc":"3.28" },
+    { "name":"롯데쇼핑", "id":"023530", "volumeInc":"1.56", "price":"234000", "priceInc":"2.63" }
+  ]
+}
