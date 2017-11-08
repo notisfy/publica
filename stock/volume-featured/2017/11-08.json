@@ -1,0 +1,22 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"영진약품", "id":"003520", "volumeInc":"6.49", "price":"9680", "priceInc":"6.96" },
+    { "name":"경동나비엔", "id":"009450", "volumeInc":"3.84", "price":"49150", "priceInc":"6.73" },
+    { "name":"GKL", "id":"114090", "volumeInc":"3.70", "price":"30350", "priceInc":"5.20" },
+    { "name":"한섬", "id":"020000", "volumeInc":"3.16", "price":"32750", "priceInc":"7.20" },
+    { "name":"한국토지신탁", "id":"034830", "volumeInc":"2.99", "price":"3530", "priceInc":"5.06" },
+    { "name":"휴켐스", "id":"069260", "volumeInc":"2.78", "price":"24500", "priceInc":"4.03" },
+    { "name":"JW중외제약", "id":"001060", "volumeInc":"2.36", "price":"48400", "priceInc":"4.99" },
+    { "name":"지역난방공사", "id":"071320", "volumeInc":"2.23", "price":"75500", "priceInc":"1.89" },
+    { "name":"LS산전", "id":"010120", "volumeInc":"2.03", "price":"61300", "priceInc":"2.34" },
+    { "name":"롯데칠성", "id":"005300", "volumeInc":"1.95", "price":"1325000", "priceInc":"4.33" },
+    { "name":"CJ제일제당", "id":"097950", "volumeInc":"1.90", "price":"372500", "priceInc":"0.54" },
+    { "name":"종근당", "id":"185750", "volumeInc":"1.89", "price":"126000", "priceInc":"3.28" },
+    { "name":"부광약품", "id":"003000", "volumeInc":"1.84", "price":"23700", "priceInc":"2.38" },
+    { "name":"한화테크윈", "id":"012450", "volumeInc":"1.70", "price":"40500", "priceInc":"0.87" },
+    { "name":"코웨이", "id":"021240", "volumeInc":"1.60", "price":"102000", "priceInc":"3.87" },
+    { "name":"호텔신라", "id":"008770", "volumeInc":"1.58", "price":"82000", "priceInc":"2.50" },
+    { "name":"에스원", "id":"012750", "volumeInc":"1.56", "price":"97400", "priceInc":"2.42" }
+  ]
+}
