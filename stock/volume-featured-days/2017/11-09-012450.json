@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "한화테크윈",
+  "dailyTrading" : [
+    { "date":"2017-10-26", "volume":"408450", "adjClosePrice":"37200", "featured":false },
+    { "date":"2017-10-27", "volume":"1138980", "adjClosePrice":"39250", "featured":true },
+    { "date":"2017-10-30", "volume":"456075", "adjClosePrice":"38650", "featured":false },
+    { "date":"2017-10-31", "volume":"550348", "adjClosePrice":"38400", "featured":false },
+    { "date":"2017-11-01", "volume":"581952", "adjClosePrice":"39200", "featured":false },
+    { "date":"2017-11-02", "volume":"262099", "adjClosePrice":"38950", "featured":false },
+    { "date":"2017-11-03", "volume":"344125", "adjClosePrice":"39100", "featured":false },
+    { "date":"2017-11-06", "volume":"948351", "adjClosePrice":"40150", "featured":true },
+    { "date":"2017-11-07", "volume":"516847", "adjClosePrice":"40150", "featured":false },
+    { "date":"2017-11-08", "volume":"764046", "adjClosePrice":"40500", "featured":true },
+    { "date":"2017-11-09", "volume":"445941", "adjClosePrice":"40100", "featured":false }
+  ]
+}

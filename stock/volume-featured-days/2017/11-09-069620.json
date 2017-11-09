@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "대웅제약",
+  "dailyTrading" : [
+    { "date":"2017-10-26", "volume":"126556", "adjClosePrice":"114000", "featured":false },
+    { "date":"2017-10-27", "volume":"58557", "adjClosePrice":"114000", "featured":false },
+    { "date":"2017-10-30", "volume":"46718", "adjClosePrice":"113500", "featured":false },
+    { "date":"2017-10-31", "volume":"69633", "adjClosePrice":"113500", "featured":false },
+    { "date":"2017-11-01", "volume":"107056", "adjClosePrice":"116000", "featured":false },
+    { "date":"2017-11-02", "volume":"93240", "adjClosePrice":"117000", "featured":false },
+    { "date":"2017-11-03", "volume":"151465", "adjClosePrice":"124500", "featured":true },
+    { "date":"2017-11-06", "volume":"151332", "adjClosePrice":"127500", "featured":false },
+    { "date":"2017-11-07", "volume":"71068", "adjClosePrice":"123500", "featured":false },
+    { "date":"2017-11-08", "volume":"115652", "adjClosePrice":"132000", "featured":false },
+    { "date":"2017-11-09", "volume":"120726", "adjClosePrice":"130000", "featured":false }
+  ]
+}
