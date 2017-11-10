@@ -1,0 +1,12 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"CJ CGV", "id":"079160", "volumeInc":"6.61", "price":"73600", "priceInc":"9.20" },
+    { "name":"제일약품", "id":"002620", "volumeInc":"5.72", "price":"46000", "priceInc":"3.72" },
+    { "name":"쌍용양회", "id":"003410", "volumeInc":"3.39", "price":"19800", "priceInc":"5.60" },
+    { "name":"삼립식품", "id":"005610", "volumeInc":"2.83", "price":"150500", "priceInc":"4.51" },
+    { "name":"SKC", "id":"011790", "volumeInc":"1.82", "price":"42000", "priceInc":"4.61" },
+    { "name":"NHN엔터테인먼트", "id":"181710", "volumeInc":"1.58", "price":"68600", "priceInc":"1.63" },
+    { "name":"고려아연", "id":"010130", "volumeInc":"1.57", "price":"521000", "priceInc":"0.19" }
+  ]
+}
