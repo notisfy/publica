@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "잇츠스킨",
+  "dailyTrading" : [
+    { "date":"2017-10-30", "volume":"497766", "adjClosePrice":"42500", "featured":true },
+    { "date":"2017-10-31", "volume":"422892", "adjClosePrice":"44550", "featured":false },
+    { "date":"2017-11-01", "volume":"240668", "adjClosePrice":"44600", "featured":false },
+    { "date":"2017-11-02", "volume":"222335", "adjClosePrice":"42300", "featured":false },
+    { "date":"2017-11-03", "volume":"89813", "adjClosePrice":"43650", "featured":false },
+    { "date":"2017-11-06", "volume":"211593", "adjClosePrice":"47400", "featured":true },
+    { "date":"2017-11-07", "volume":"139246", "adjClosePrice":"47600", "featured":false },
+    { "date":"2017-11-08", "volume":"82252", "adjClosePrice":"46800", "featured":false },
+    { "date":"2017-11-09", "volume":"72594", "adjClosePrice":"47150", "featured":false },
+    { "date":"2017-11-10", "volume":"79238", "adjClosePrice":"45650", "featured":false },
+    { "date":"2017-11-13", "volume":"174689", "adjClosePrice":"47000", "featured":true }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "영진약품",
+  "dailyTrading" : [
+    { "date":"2017-10-30", "volume":"2237218", "adjClosePrice":"9050", "featured":false },
+    { "date":"2017-10-31", "volume":"2779159", "adjClosePrice":"8890", "featured":false },
+    { "date":"2017-11-01", "volume":"2065054", "adjClosePrice":"8970", "featured":false },
+    { "date":"2017-11-02", "volume":"1500021", "adjClosePrice":"8800", "featured":false },
+    { "date":"2017-11-03", "volume":"1437810", "adjClosePrice":"8850", "featured":false },
+    { "date":"2017-11-06", "volume":"3760783", "adjClosePrice":"9140", "featured":true },
+    { "date":"2017-11-07", "volume":"1446605", "adjClosePrice":"9050", "featured":false },
+    { "date":"2017-11-08", "volume":"16631942", "adjClosePrice":"9680", "featured":true },
+    { "date":"2017-11-09", "volume":"3812321", "adjClosePrice":"9630", "featured":false },
+    { "date":"2017-11-10", "volume":"3275897", "adjClosePrice":"9310", "featured":false },
+    { "date":"2017-11-13", "volume":"2361227", "adjClosePrice":"9450", "featured":false }
+  ]
+}
