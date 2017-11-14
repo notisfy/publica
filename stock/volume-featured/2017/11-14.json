@@ -1,0 +1,23 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한국가스공사", "id":"036460", "volumeInc":"4.33", "price":"45050", "priceInc":"7.78" },
+    { "name":"부광약품", "id":"003000", "volumeInc":"3.34", "price":"25000", "priceInc":"5.04" },
+    { "name":"NHN엔터테인먼트", "id":"181710", "volumeInc":"3.32", "price":"73000", "priceInc":"7.35" },
+    { "name":"강원랜드", "id":"035250", "volumeInc":"3.29", "price":"37600", "priceInc":"5.32" },
+    { "name":"한세실업", "id":"105630", "volumeInc":"2.69", "price":"27650", "priceInc":"6.35" },
+    { "name":"일양약품", "id":"007570", "volumeInc":"2.36", "price":"38750", "priceInc":"2.38" },
+    { "name":"한진칼", "id":"180640", "volumeInc":"2.16", "price":"19250", "priceInc":"0.79" },
+    { "name":"유한양행", "id":"000100", "volumeInc":"2.10", "price":"219000", "priceInc":"3.06" },
+    { "name":"JW중외제약", "id":"001060", "volumeInc":"2.05", "price":"48750", "priceInc":"3.07" },
+    { "name":"JW홀딩스", "id":"096760", "volumeInc":"1.80", "price":"9100", "priceInc":"2.59" },
+    { "name":"영진약품", "id":"003520", "volumeInc":"1.78", "price":"9710", "priceInc":"2.75" },
+    { "name":"팬오션", "id":"028670", "volumeInc":"1.77", "price":"5190", "priceInc":"6.46" },
+    { "name":"녹십자홀딩스", "id":"005250", "volumeInc":"1.73", "price":"39550", "priceInc":"3.53" },
+    { "name":"롯데정밀화학", "id":"004000", "volumeInc":"1.71", "price":"46650", "priceInc":"2.98" },
+    { "name":"한국금융지주", "id":"071050", "volumeInc":"1.67", "price":"67800", "priceInc":"4.15" },
+    { "name":"종근당", "id":"185750", "volumeInc":"1.60", "price":"131500", "priceInc":"3.54" },
+    { "name":"영원무역", "id":"111770", "volumeInc":"1.59", "price":"33850", "priceInc":"0.45" },
+    { "name":"오리온", "id":"001800", "volumeInc":"1.56", "price":"29800", "priceInc":"1.19" }
+  ]
+}
