@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "KT&G",
+  "dailyTrading" : [
+    { "date":"2017-11-01", "volume":"420588", "adjClosePrice":"105500", "featured":false },
+    { "date":"2017-11-02", "volume":"302720", "adjClosePrice":"106000", "featured":false },
+    { "date":"2017-11-03", "volume":"195392", "adjClosePrice":"107000", "featured":false },
+    { "date":"2017-11-06", "volume":"664714", "adjClosePrice":"111000", "featured":true },
+    { "date":"2017-11-07", "volume":"604696", "adjClosePrice":"113000", "featured":false },
+    { "date":"2017-11-08", "volume":"580219", "adjClosePrice":"116000", "featured":false },
+    { "date":"2017-11-09", "volume":"589696", "adjClosePrice":"117000", "featured":true },
+    { "date":"2017-11-10", "volume":"362617", "adjClosePrice":"112500", "featured":false },
+    { "date":"2017-11-13", "volume":"267103", "adjClosePrice":"114000", "featured":false },
+    { "date":"2017-11-14", "volume":"428659", "adjClosePrice":"117000", "featured":false },
+    { "date":"2017-11-15", "volume":"300530", "adjClosePrice":"117500", "featured":false }
+  ]
+}

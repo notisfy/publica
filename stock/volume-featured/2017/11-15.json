@@ -1,0 +1,25 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한미사이언스", "id":"008930", "volumeInc":"9.44", "price":"118500", "priceInc":"21.41" },
+    { "name":"쿠쿠전자", "id":"192400", "volumeInc":"5.08", "price":"169000", "priceInc":"7.30" },
+    { "name":"JW홀딩스", "id":"096760", "volumeInc":"4.86", "price":"9380", "priceInc":"3.08" },
+    { "name":"JW중외제약", "id":"001060", "volumeInc":"4.61", "price":"49350", "priceInc":"1.23" },
+    { "name":"영진약품", "id":"003520", "volumeInc":"4.06", "price":"10000", "priceInc":"2.99" },
+    { "name":"부광약품", "id":"003000", "volumeInc":"3.55", "price":"25750", "priceInc":"3.00" },
+    { "name":"영풍", "id":"000670", "volumeInc":"3.54", "price":"1093000", "priceInc":"5.71" },
+    { "name":"녹십자홀딩스", "id":"005250", "volumeInc":"3.37", "price":"41200", "priceInc":"4.17" },
+    { "name":"유한양행", "id":"000100", "volumeInc":"3.28", "price":"226000", "priceInc":"3.20" },
+    { "name":"한미약품", "id":"128940", "volumeInc":"3.16", "price":"588000", "priceInc":"9.50" },
+    { "name":"키움증권", "id":"039490", "volumeInc":"3.06", "price":"87000", "priceInc":"7.94" },
+    { "name":"동아에스티", "id":"170900", "volumeInc":"3.02", "price":"106000", "priceInc":"3.92" },
+    { "name":"휠라코리아", "id":"081660", "volumeInc":"3.02", "price":"72800", "priceInc":"1.96" },
+    { "name":"농심", "id":"004370", "volumeInc":"2.51", "price":"347500", "priceInc":"2.51" },
+    { "name":"미래에셋대우", "id":"006800", "volumeInc":"2.46", "price":"10500", "priceInc":"4.48" },
+    { "name":"종근당", "id":"185750", "volumeInc":"2.39", "price":"135500", "priceInc":"3.04" },
+    { "name":"삼성증권", "id":"016360", "volumeInc":"2.36", "price":"37750", "priceInc":"3.14" },
+    { "name":"경동나비엔", "id":"009450", "volumeInc":"2.27", "price":"51300", "priceInc":"5.12" },
+    { "name":"대상", "id":"001680", "volumeInc":"2.04", "price":"24500", "priceInc":"1.24" },
+    { "name":"녹십자", "id":"006280", "volumeInc":"2.03", "price":"230500", "priceInc":"2.90" }
+  ]
+}

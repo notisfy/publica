@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "하나투어",
+  "dailyTrading" : [
+    { "date":"2017-11-01", "volume":"173035", "adjClosePrice":"96200", "featured":false },
+    { "date":"2017-11-02", "volume":"334724", "adjClosePrice":"100500", "featured":true },
+    { "date":"2017-11-03", "volume":"105600", "adjClosePrice":"99700", "featured":false },
+    { "date":"2017-11-06", "volume":"138682", "adjClosePrice":"101500", "featured":false },
+    { "date":"2017-11-07", "volume":"141745", "adjClosePrice":"102500", "featured":false },
+    { "date":"2017-11-08", "volume":"75582", "adjClosePrice":"102500", "featured":false },
+    { "date":"2017-11-09", "volume":"149442", "adjClosePrice":"102500", "featured":false },
+    { "date":"2017-11-10", "volume":"130348", "adjClosePrice":"105000", "featured":false },
+    { "date":"2017-11-13", "volume":"258387", "adjClosePrice":"108500", "featured":true },
+    { "date":"2017-11-14", "volume":"94748", "adjClosePrice":"107000", "featured":false },
+    { "date":"2017-11-15", "volume":"129388", "adjClosePrice":"104000", "featured":false }
+  ]
+}
