@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "삼양홀딩스",
+  "dailyTrading" : [
+    { "date":"2017-11-03", "volume":"34219", "adjClosePrice":"92000", "featured":true },
+    { "date":"2017-11-06", "volume":"14802", "adjClosePrice":"92900", "featured":false },
+    { "date":"2017-11-07", "volume":"18671", "adjClosePrice":"93800", "featured":false },
+    { "date":"2017-11-08", "volume":"24140", "adjClosePrice":"92000", "featured":false },
+    { "date":"2017-11-09", "volume":"20359", "adjClosePrice":"93500", "featured":false },
+    { "date":"2017-11-10", "volume":"10961", "adjClosePrice":"92700", "featured":false },
+    { "date":"2017-11-13", "volume":"12005", "adjClosePrice":"93500", "featured":false },
+    { "date":"2017-11-14", "volume":"14514", "adjClosePrice":"94100", "featured":false },
+    { "date":"2017-11-15", "volume":"24212", "adjClosePrice":"95800", "featured":false },
+    { "date":"2017-11-16", "volume":"21820", "adjClosePrice":"95900", "featured":false },
+    { "date":"2017-11-17", "volume":"43633", "adjClosePrice":"100500", "featured":true }
+  ]
+}
