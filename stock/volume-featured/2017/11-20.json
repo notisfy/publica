@@ -1,0 +1,25 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"대상", "id":"001680", "volumeInc":"6.37", "price":"27550", "priceInc":"5.35" },
+    { "name":"한세실업", "id":"105630", "volumeInc":"5.32", "price":"29600", "priceInc":"5.90" },
+    { "name":"오뚜기", "id":"007310", "volumeInc":"5.16", "price":"826000", "priceInc":"4.69" },
+    { "name":"농심", "id":"004370", "volumeInc":"4.70", "price":"362000", "priceInc":"5.69" },
+    { "name":"LIG넥스원", "id":"079550", "volumeInc":"3.67", "price":"60400", "priceInc":"4.50" },
+    { "name":"CJ제일제당", "id":"097950", "volumeInc":"3.01", "price":"415000", "priceInc":"4.14" },
+    { "name":"동서", "id":"026960", "volumeInc":"2.91", "price":"30050", "priceInc":"4.16" },
+    { "name":"에스원", "id":"012750", "volumeInc":"2.60", "price":"101500", "priceInc":"4.86" },
+    { "name":"잇츠스킨", "id":"226320", "volumeInc":"2.39", "price":"48300", "priceInc":"9.77" },
+    { "name":"영원무역", "id":"111770", "volumeInc":"2.39", "price":"33700", "priceInc":"3.53" },
+    { "name":"동원F&B", "id":"049770", "volumeInc":"2.30", "price":"228000", "priceInc":"3.64" },
+    { "name":"영풍", "id":"000670", "volumeInc":"2.20", "price":"1131000", "priceInc":"1.07" },
+    { "name":"한미사이언스", "id":"008930", "volumeInc":"2.16", "price":"116500", "priceInc":"1.30" },
+    { "name":"CJ", "id":"001040", "volumeInc":"2.07", "price":"206000", "priceInc":"4.57" },
+    { "name":"하나투어", "id":"039130", "volumeInc":"2.06", "price":"110500", "priceInc":"3.76" },
+    { "name":"롯데정밀화학", "id":"004000", "volumeInc":"1.97", "price":"49000", "priceInc":"2.51" },
+    { "name":"한섬", "id":"020000", "volumeInc":"1.96", "price":"31700", "priceInc":"6.73" },
+    { "name":"휠라코리아", "id":"081660", "volumeInc":"1.96", "price":"78100", "priceInc":"2.49" },
+    { "name":"호텔신라", "id":"008770", "volumeInc":"1.90", "price":"86500", "priceInc":"6.40" },
+    { "name":"삼립식품", "id":"005610", "volumeInc":"1.80", "price":"156000", "priceInc":"5.41" }
+  ]
+}
