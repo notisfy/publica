@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "대상",
+  "dailyTrading" : [
+    { "date":"2017-11-08", "volume":"98901", "adjClosePrice":"23300", "featured":false },
+    { "date":"2017-11-09", "volume":"435811", "adjClosePrice":"24350", "featured":true },
+    { "date":"2017-11-10", "volume":"204365", "adjClosePrice":"24300", "featured":false },
+    { "date":"2017-11-13", "volume":"162449", "adjClosePrice":"23950", "featured":false },
+    { "date":"2017-11-14", "volume":"177199", "adjClosePrice":"24200", "featured":false },
+    { "date":"2017-11-15", "volume":"298292", "adjClosePrice":"24500", "featured":true },
+    { "date":"2017-11-16", "volume":"153765", "adjClosePrice":"24500", "featured":false },
+    { "date":"2017-11-17", "volume":"750983", "adjClosePrice":"26150", "featured":true },
+    { "date":"2017-11-20", "volume":"1110518", "adjClosePrice":"27550", "featured":true },
+    { "date":"2017-11-21", "volume":"429482", "adjClosePrice":"27350", "featured":false },
+    { "date":"2017-11-22", "volume":"379515", "adjClosePrice":"27050", "featured":false }
+  ]
+}

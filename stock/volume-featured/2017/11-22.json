@@ -1,0 +1,18 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"미래에셋대우", "id":"006800", "volumeInc":"4.29", "price":"11100", "priceInc":"6.22" },
+    { "name":"롯데제과", "id":"004990", "volumeInc":"3.98", "price":"64400", "priceInc":"5.40" },
+    { "name":"키움증권", "id":"039490", "volumeInc":"3.55", "price":"88500", "priceInc":"5.99" },
+    { "name":"메리츠종금증권", "id":"008560", "volumeInc":"3.14", "price":"4840", "priceInc":"2.22" },
+    { "name":"삼성증권", "id":"016360", "volumeInc":"3.04", "price":"38300", "priceInc":"2.13" },
+    { "name":"NH투자증권", "id":"005940", "volumeInc":"2.05", "price":"14550", "priceInc":"3.93" },
+    { "name":"한국금융지주", "id":"071050", "volumeInc":"1.69", "price":"69200", "priceInc":"3.13" },
+    { "name":"SK텔레콤", "id":"017670", "volumeInc":"1.66", "price":"260500", "priceInc":"3.99" },
+    { "name":"쿠쿠전자", "id":"192400", "volumeInc":"1.63", "price":"167500", "priceInc":"1.21" },
+    { "name":"제일기획", "id":"030000", "volumeInc":"1.63", "price":"20750", "priceInc":"1.47" },
+    { "name":"OCI", "id":"010060", "volumeInc":"1.60", "price":"131500", "priceInc":"2.73" },
+    { "name":"LG유플러스", "id":"032640", "volumeInc":"1.55", "price":"13050", "priceInc":"4.40" },
+    { "name":"다우기술", "id":"023590", "volumeInc":"1.53", "price":"20550", "priceInc":"1.73" }
+  ]
+}
