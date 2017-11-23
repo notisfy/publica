@@ -1,0 +1,12 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"지역난방공사", "id":"071320", "volumeInc":"2.42", "price":"75500", "priceInc":"1.48" },
+    { "name":"잇츠스킨", "id":"226320", "volumeInc":"2.35", "price":"49300", "priceInc":"5.01" },
+    { "name":"금호석유", "id":"011780", "volumeInc":"2.05", "price":"78900", "priceInc":"4.92" },
+    { "name":"풍산", "id":"103140", "volumeInc":"1.77", "price":"46300", "priceInc":"5.71" },
+    { "name":"현대건설", "id":"000720", "volumeInc":"1.67", "price":"35100", "priceInc":"2.48" },
+    { "name":"SK케미칼", "id":"006120", "volumeInc":"1.64", "price":"81200", "priceInc":"2.65" },
+    { "name":"코스맥스", "id":"192820", "volumeInc":"1.53", "price":"124500", "priceInc":"3.32" }
+  ]
+}
