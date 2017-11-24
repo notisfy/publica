@@ -1,0 +1,12 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"롯데정밀화학", "id":"004000", "volumeInc":"3.50", "price":"61000", "priceInc":"1.84" },
+    { "name":"한솔케미칼", "id":"014680", "volumeInc":"2.92", "price":"80100", "priceInc":"4.43" },
+    { "name":"동원시스템즈", "id":"014820", "volumeInc":"2.66", "price":"47000", "priceInc":"5.74" },
+    { "name":"SK케미칼", "id":"006120", "volumeInc":"2.33", "price":"83800", "priceInc":"3.20" },
+    { "name":"동부하이텍", "id":"000990", "volumeInc":"2.12", "price":"14200", "priceInc":"6.37" },
+    { "name":"한미사이언스", "id":"008930", "volumeInc":"1.93", "price":"118000", "priceInc":"3.06" },
+    { "name":"팬오션", "id":"028670", "volumeInc":"1.91", "price":"5680", "priceInc":"5.97" }
+  ]
+}

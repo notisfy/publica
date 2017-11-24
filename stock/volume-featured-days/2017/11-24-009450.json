@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "경동나비엔",
+  "dailyTrading" : [
+    { "date":"2017-11-10", "volume":"114080", "adjClosePrice":"49700", "featured":false },
+    { "date":"2017-11-13", "volume":"165347", "adjClosePrice":"51200", "featured":true },
+    { "date":"2017-11-14", "volume":"130999", "adjClosePrice":"48800", "featured":false },
+    { "date":"2017-11-15", "volume":"170207", "adjClosePrice":"51300", "featured":true },
+    { "date":"2017-11-16", "volume":"123025", "adjClosePrice":"51200", "featured":false },
+    { "date":"2017-11-17", "volume":"150699", "adjClosePrice":"49000", "featured":false },
+    { "date":"2017-11-20", "volume":"105524", "adjClosePrice":"50300", "featured":false },
+    { "date":"2017-11-21", "volume":"70736", "adjClosePrice":"49400", "featured":false },
+    { "date":"2017-11-22", "volume":"79116", "adjClosePrice":"49400", "featured":false },
+    { "date":"2017-11-23", "volume":"48498", "adjClosePrice":"48350", "featured":false },
+    { "date":"2017-11-24", "volume":"57501", "adjClosePrice":"48950", "featured":false }
+  ]
+}
