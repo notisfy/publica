@@ -1,0 +1,22 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"동원시스템즈", "id":"014820", "volumeInc":"6.71", "price":"50900", "priceInc":"8.30" },
+    { "name":"금호석유", "id":"011780", "volumeInc":"4.34", "price":"82100", "priceInc":"4.45" },
+    { "name":"현대백화점", "id":"069960", "volumeInc":"3.50", "price":"97200", "priceInc":"3.74" },
+    { "name":"한샘", "id":"009240", "volumeInc":"2.89", "price":"183000", "priceInc":"9.25" },
+    { "name":"한섬", "id":"020000", "volumeInc":"2.63", "price":"33750", "priceInc":"6.80" },
+    { "name":"농심", "id":"004370", "volumeInc":"2.58", "price":"376000", "priceInc":"2.45" },
+    { "name":"제일기획", "id":"030000", "volumeInc":"2.57", "price":"21300", "priceInc":"3.90" },
+    { "name":"SK케미칼", "id":"006120", "volumeInc":"2.50", "price":"84300", "priceInc":"0.60" },
+    { "name":"금호타이어", "id":"073240", "volumeInc":"1.89", "price":"6880", "priceInc":"2.99" },
+    { "name":"넥센타이어", "id":"002350", "volumeInc":"1.83", "price":"12100", "priceInc":"0.41" },
+    { "name":"쌍용차", "id":"003620", "volumeInc":"1.81", "price":"5260", "priceInc":"0.57" },
+    { "name":"풍산", "id":"103140", "volumeInc":"1.75", "price":"46300", "priceInc":"1.76" },
+    { "name":"현대산업", "id":"012630", "volumeInc":"1.72", "price":"38950", "priceInc":"4.70" },
+    { "name":"영원무역홀딩스", "id":"009970", "volumeInc":"1.60", "price":"57500", "priceInc":"1.41" },
+    { "name":"휠라코리아", "id":"081660", "volumeInc":"1.60", "price":"81300", "priceInc":"2.26" },
+    { "name":"경동나비엔", "id":"009450", "volumeInc":"1.59", "price":"50000", "priceInc":"2.15" },
+    { "name":"이마트", "id":"139480", "volumeInc":"1.52", "price":"269500", "priceInc":"2.86" }
+  ]
+}

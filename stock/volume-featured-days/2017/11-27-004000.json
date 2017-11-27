@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "롯데정밀화학",
+  "dailyTrading" : [
+    { "date":"2017-11-13", "volume":"50163", "adjClosePrice":"45300", "featured":false },
+    { "date":"2017-11-14", "volume":"117125", "adjClosePrice":"46650", "featured":true },
+    { "date":"2017-11-15", "volume":"83059", "adjClosePrice":"46450", "featured":false },
+    { "date":"2017-11-16", "volume":"136211", "adjClosePrice":"48250", "featured":true },
+    { "date":"2017-11-17", "volume":"102712", "adjClosePrice":"47800", "featured":false },
+    { "date":"2017-11-20", "volume":"142729", "adjClosePrice":"49000", "featured":true },
+    { "date":"2017-11-21", "volume":"1117128", "adjClosePrice":"59000", "featured":true },
+    { "date":"2017-11-22", "volume":"321229", "adjClosePrice":"59400", "featured":false },
+    { "date":"2017-11-23", "volume":"198406", "adjClosePrice":"59900", "featured":false },
+    { "date":"2017-11-24", "volume":"359750", "adjClosePrice":"61000", "featured":true },
+    { "date":"2017-11-27", "volume":"177475", "adjClosePrice":"61800", "featured":false }
+  ]
+}
