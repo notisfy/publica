@@ -1,0 +1,18 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"금호석유", "id":"011780", "volumeInc":"5.17", "price":"86500", "priceInc":"5.36" },
+    { "name":"잇츠스킨", "id":"226320", "volumeInc":"3.15", "price":"51500", "priceInc":"4.57" },
+    { "name":"영원무역", "id":"111770", "volumeInc":"3.11", "price":"33700", "priceInc":"3.06" },
+    { "name":"제주항공", "id":"089590", "volumeInc":"3.00", "price":"37500", "priceInc":"5.49" },
+    { "name":"에스원", "id":"012750", "volumeInc":"2.79", "price":"101000", "priceInc":"4.66" },
+    { "name":"LG하우시스", "id":"108670", "volumeInc":"2.02", "price":"92500", "priceInc":"2.55" },
+    { "name":"한국토지신탁", "id":"034830", "volumeInc":"1.95", "price":"3410", "priceInc":"3.81" },
+    { "name":"아시아나항공", "id":"020560", "volumeInc":"1.90", "price":"4620", "priceInc":"3.12" },
+    { "name":"삼양사", "id":"145990", "volumeInc":"1.72", "price":"96300", "priceInc":"1.80" },
+    { "name":"동국제강", "id":"001230", "volumeInc":"1.66", "price":"11150", "priceInc":"1.36" },
+    { "name":"호텔신라", "id":"008770", "volumeInc":"1.61", "price":"87600", "priceInc":"2.82" },
+    { "name":"AK홀딩스", "id":"006840", "volumeInc":"1.58", "price":"69400", "priceInc":"2.06" },
+    { "name":"현대상선", "id":"011200", "volumeInc":"1.54", "price":"5430", "priceInc":"2.07" }
+  ]
+}
