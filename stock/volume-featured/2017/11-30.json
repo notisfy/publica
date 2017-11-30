@@ -1,0 +1,25 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"LG생활건강우", "id":"051905", "volumeInc":"5.47", "price":"702000", "priceInc":"1.15" },
+    { "name":"현대상선", "id":"011200", "volumeInc":"4.25", "price":"5850", "priceInc":"8.94" },
+    { "name":"현대글로비스", "id":"086280", "volumeInc":"3.73", "price":"146500", "priceInc":"3.17" },
+    { "name":"현대홈쇼핑", "id":"057050", "volumeInc":"3.68", "price":"130500", "priceInc":"4.82" },
+    { "name":"현대제철", "id":"004020", "volumeInc":"3.57", "price":"60000", "priceInc":"3.81" },
+    { "name":"동부화재", "id":"005830", "volumeInc":"3.40", "price":"68500", "priceInc":"1.48" },
+    { "name":"현대백화점", "id":"069960", "volumeInc":"3.10", "price":"97800", "priceInc":"0.82" },
+    { "name":"팬오션", "id":"028670", "volumeInc":"3.08", "price":"5500", "priceInc":"1.48" },
+    { "name":"현대차2우B", "id":"005387", "volumeInc":"2.75", "price":"108500", "priceInc":"0.46" },
+    { "name":"현대모비스", "id":"012330", "volumeInc":"2.62", "price":"273500", "priceInc":"3.80" },
+    { "name":"태광산업", "id":"003240", "volumeInc":"2.59", "price":"1269000", "priceInc":"2.75" },
+    { "name":"LG유플러스", "id":"032640", "volumeInc":"2.56", "price":"13850", "priceInc":"4.53" },
+    { "name":"동국제강", "id":"001230", "volumeInc":"2.56", "price":"11200", "priceInc":"1.82" },
+    { "name":"LG하우시스", "id":"108670", "volumeInc":"2.44", "price":"94600", "priceInc":"2.27" },
+    { "name":"LIG넥스원", "id":"079550", "volumeInc":"2.40", "price":"59500", "priceInc":"1.54" },
+    { "name":"롯데하이마트", "id":"071840", "volumeInc":"2.33", "price":"75600", "priceInc":"5.73" },
+    { "name":"신한지주", "id":"055550", "volumeInc":"2.30", "price":"48400", "priceInc":"0.21" },
+    { "name":"SK텔레콤", "id":"017670", "volumeInc":"2.28", "price":"264000", "priceInc":"3.12" },
+    { "name":"현대해상", "id":"001450", "volumeInc":"2.27", "price":"43400", "priceInc":"1.88" },
+    { "name":"동서", "id":"026960", "volumeInc":"2.17", "price":"29850", "priceInc":"0.34" }
+  ]
+}
