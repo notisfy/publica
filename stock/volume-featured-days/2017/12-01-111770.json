@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "영원무역",
+  "dailyTrading" : [
+    { "date":"2017-11-17", "volume":"147711", "adjClosePrice":"32550", "featured":false },
+    { "date":"2017-11-20", "volume":"241028", "adjClosePrice":"33700", "featured":true },
+    { "date":"2017-11-21", "volume":"158141", "adjClosePrice":"33800", "featured":false },
+    { "date":"2017-11-22", "volume":"103533", "adjClosePrice":"32850", "featured":false },
+    { "date":"2017-11-23", "volume":"84863", "adjClosePrice":"32900", "featured":false },
+    { "date":"2017-11-24", "volume":"77704", "adjClosePrice":"32400", "featured":false },
+    { "date":"2017-11-27", "volume":"101835", "adjClosePrice":"32700", "featured":false },
+    { "date":"2017-11-28", "volume":"342117", "adjClosePrice":"33700", "featured":true },
+    { "date":"2017-11-29", "volume":"104483", "adjClosePrice":"33650", "featured":false },
+    { "date":"2017-11-30", "volume":"195942", "adjClosePrice":"34100", "featured":true },
+    { "date":"2017-12-01", "volume":"137205", "adjClosePrice":"34550", "featured":false }
+  ]
+}

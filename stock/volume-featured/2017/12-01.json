@@ -1,0 +1,8 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"GS리테일", "id":"007070", "volumeInc":"2.05", "price":"40700", "priceInc":"3.04" },
+    { "name":"락앤락", "id":"115390", "volumeInc":"1.64", "price":"28700", "priceInc":"2.14" },
+    { "name":"휠라코리아", "id":"081660", "volumeInc":"1.55", "price":"82000", "priceInc":"2.89" }
+  ]
+}
