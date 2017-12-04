@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"삼성엔지니어링", "id":"028050", "volumeInc":"3.85", "price":"14000", "priceInc":"6.87" },
+    { "name":"팬오션", "id":"028670", "volumeInc":"2.55", "price":"6090", "priceInc":"6.84" },
+    { "name":"현대로템", "id":"064350", "volumeInc":"2.53", "price":"18950", "priceInc":"1.61" },
+    { "name":"아모레퍼시픽", "id":"090430", "volumeInc":"2.44", "price":"337000", "priceInc":"7.84" },
+    { "name":"LG유플러스", "id":"032640", "volumeInc":"2.20", "price":"14200", "priceInc":"2.53" },
+    { "name":"대한유화", "id":"006650", "volumeInc":"2.05", "price":"254000", "priceInc":"3.04" },
+    { "name":"한전기술", "id":"052690", "volumeInc":"1.99", "price":"19700", "priceInc":"8.24" },
+    { "name":"아모레퍼시픽우", "id":"090435", "volumeInc":"1.86", "price":"178500", "priceInc":"5.93" },
+    { "name":"아모레G", "id":"002790", "volumeInc":"1.61", "price":"158500", "priceInc":"6.38" },
+    { "name":"삼성화재", "id":"000810", "volumeInc":"1.60", "price":"265500", "priceInc":"2.71" }
+  ]
+}
