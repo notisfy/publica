@@ -1,0 +1,25 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한전기술", "id":"052690", "volumeInc":"4.94", "price":"22650", "priceInc":"14.97" },
+    { "name":"두산중공업", "id":"034020", "volumeInc":"3.57", "price":"17550", "priceInc":"9.01" },
+    { "name":"동국제강", "id":"001230", "volumeInc":"3.21", "price":"12150", "priceInc":"5.65" },
+    { "name":"GS건설", "id":"006360", "volumeInc":"2.71", "price":"28700", "priceInc":"5.13" },
+    { "name":"GS리테일", "id":"007070", "volumeInc":"2.65", "price":"43500", "priceInc":"5.84" },
+    { "name":"LS", "id":"006260", "volumeInc":"2.44", "price":"70900", "priceInc":"6.46" },
+    { "name":"현대미포조선", "id":"010620", "volumeInc":"2.21", "price":"98800", "priceInc":"7.16" },
+    { "name":"두산인프라코어", "id":"042670", "volumeInc":"2.05", "price":"9520", "priceInc":"2.70" },
+    { "name":"한전KPS", "id":"051600", "volumeInc":"2.05", "price":"40150", "priceInc":"3.21" },
+    { "name":"롯데정밀화학", "id":"004000", "volumeInc":"2.01", "price":"59400", "priceInc":"0.51" },
+    { "name":"삼립식품", "id":"005610", "volumeInc":"1.94", "price":"154500", "priceInc":"5.10" },
+    { "name":"현대건설", "id":"000720", "volumeInc":"1.91", "price":"36750", "priceInc":"3.96" },
+    { "name":"오리온", "id":"001800", "volumeInc":"1.89", "price":"29000", "priceInc":"3.76" },
+    { "name":"현대제철", "id":"004020", "volumeInc":"1.81", "price":"62600", "priceInc":"2.62" },
+    { "name":"KT", "id":"030200", "volumeInc":"1.74", "price":"31150", "priceInc":"1.63" },
+    { "name":"락앤락", "id":"115390", "volumeInc":"1.69", "price":"31000", "priceInc":"5.08" },
+    { "name":"금호타이어", "id":"073240", "volumeInc":"1.66", "price":"7000", "priceInc":"5.26" },
+    { "name":"쌍용차", "id":"003620", "volumeInc":"1.65", "price":"5380", "priceInc":"2.09" },
+    { "name":"오뚜기", "id":"007310", "volumeInc":"1.57", "price":"820000", "priceInc":"3.54" },
+    { "name":"현대그린푸드", "id":"005440", "volumeInc":"1.56", "price":"15450", "priceInc":"3.00" }
+  ]
+}
