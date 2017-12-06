@@ -1,0 +1,11 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "SK케미칼",
+  "dailyTrading" : [
+    { "date":"2017-11-22", "volume":"185622", "adjClosePrice":"79100", "featured":false },
+    { "date":"2017-11-23", "volume":"320757", "adjClosePrice":"81200", "featured":true },
+    { "date":"2017-11-24", "volume":"465737", "adjClosePrice":"83800", "featured":true },
+    { "date":"2017-11-27", "volume":"513565", "adjClosePrice":"84300", "featured":true },
+    { "date":"2017-11-28", "volume":"591279", "adjClosePrice":"84200", "featured":false }
+  ]
+}

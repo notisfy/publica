@@ -1,0 +1,8 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"현대해상", "id":"001450", "volumeInc":"2.30", "price":"45450", "priceInc":"3.65" },
+    { "name":"쌍용차", "id":"003620", "volumeInc":"1.83", "price":"5450", "priceInc":"1.30" },
+    { "name":"KCC", "id":"002380", "volumeInc":"1.66", "price":"396000", "priceInc":"0.51" }
+  ]
+}
