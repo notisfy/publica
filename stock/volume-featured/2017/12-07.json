@@ -1,0 +1,7 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한전기술", "id":"052690", "volumeInc":"8.71", "price":"24000", "priceInc":"1.91" },
+    { "name":"넥센타이어", "id":"002350", "volumeInc":"1.71", "price":"12150", "priceInc":"1.25" }
+  ]
+}
