@@ -1,0 +1,6 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"롯데정밀화학", "id":"004000", "volumeInc":"1.76", "price":"60700", "priceInc":"0.66" }
+  ]
+}
