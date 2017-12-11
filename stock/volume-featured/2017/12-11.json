@@ -1,0 +1,8 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"일양약품", "id":"007570", "volumeInc":"4.06", "price":"35600", "priceInc":"4.86" },
+    { "name":"롯데정밀화학", "id":"004000", "volumeInc":"2.64", "price":"64700", "priceInc":"6.59" },
+    { "name":"대한유화", "id":"006650", "volumeInc":"2.06", "price":"258000", "priceInc":"3.61" }
+  ]
+}

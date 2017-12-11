@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "현대상선",
+  "dailyTrading" : [
+    { "date":"2017-11-27", "volume":"1605053", "adjClosePrice":"5320", "featured":false },
+    { "date":"2017-11-28", "volume":"1969103", "adjClosePrice":"5430", "featured":true },
+    { "date":"2017-11-29", "volume":"847987", "adjClosePrice":"5370", "featured":false },
+    { "date":"2017-11-30", "volume":"5732915", "adjClosePrice":"5850", "featured":true },
+    { "date":"2017-12-01", "volume":"2362314", "adjClosePrice":"5530", "featured":false },
+    { "date":"2017-12-04", "volume":"2262944", "adjClosePrice":"5370", "featured":false },
+    { "date":"2017-12-05", "volume":"3244954", "adjClosePrice":"5260", "featured":false },
+    { "date":"2017-12-06", "volume":"1591041", "adjClosePrice":"5310", "featured":false },
+    { "date":"2017-12-07", "volume":"1707454", "adjClosePrice":"5220", "featured":false },
+    { "date":"2017-12-08", "volume":"1029569", "adjClosePrice":"5170", "featured":false },
+    { "date":"2017-12-11", "volume":"655843", "adjClosePrice":"5250", "featured":false }
+  ]
+}
