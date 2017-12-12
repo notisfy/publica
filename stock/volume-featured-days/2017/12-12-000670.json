@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "영풍",
+  "dailyTrading" : [
+    { "date":"2017-11-28", "volume":"1762", "adjClosePrice":"1162000", "featured":false },
+    { "date":"2017-11-29", "volume":"3755", "adjClosePrice":"1189000", "featured":true },
+    { "date":"2017-11-30", "volume":"3103", "adjClosePrice":"1184000", "featured":false },
+    { "date":"2017-12-01", "volume":"2605", "adjClosePrice":"1200000", "featured":false },
+    { "date":"2017-12-04", "volume":"18224", "adjClosePrice":"1025000", "featured":false },
+    { "date":"2017-12-05", "volume":"15451", "adjClosePrice":"1089000", "featured":false },
+    { "date":"2017-12-06", "volume":"5883", "adjClosePrice":"1048000", "featured":false },
+    { "date":"2017-12-07", "volume":"5830", "adjClosePrice":"1025000", "featured":false },
+    { "date":"2017-12-08", "volume":"2832", "adjClosePrice":"1028000", "featured":false },
+    { "date":"2017-12-11", "volume":"2122", "adjClosePrice":"1047000", "featured":false },
+    { "date":"2017-12-12", "volume":"3218", "adjClosePrice":"1021000", "featured":false }
+  ]
+}

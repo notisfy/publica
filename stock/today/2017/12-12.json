@@ -1,0 +1,42 @@
+{
+  "version" : "today-summary-v1",
+  "kospi_today" : "2461.00",
+  "kospi_diff" : "-10.49",
+  "featured_today" : [
+    { "name":"한화테크윈", "id":"012450", "volumeInc":"1.72", "price":"35600", "priceInc":"3.94" },
+    { "name":"제일기획", "id":"030000", "volumeInc":"1.57", "price":"21400", "priceInc":"3.38" }
+  ],
+  "holdings_today" : [
+    { "name":"LG상사", "id":"001120", "holdings":"219350" },
+    { "name":"한국쉘석유", "id":"002960", "holdings":"5247007" },
+    { "name":"성보화학", "id":"003080", "holdings":"127610" },
+    { "name":"코리안리", "id":"003690", "holdings":"885650" },
+    { "name":"효성", "id":"004800", "holdings":"2831167" },
+    { "name":"현대차우", "id":"005385", "holdings":"286584" },
+    { "name":"SPC삼립", "id":"005610", "holdings":"286500" },
+    { "name":"NH투자증권우", "id":"005945", "holdings":"26730" },
+    { "name":"대한유화", "id":"006650", "holdings":"729300" },
+    { "name":"미래에셋대우우", "id":"006805", "holdings":"256952" },
+    { "name":"대덕전자", "id":"008060", "holdings":"766957" },
+    { "name":"메리츠종금증권", "id":"008560", "holdings":"312056" },
+    { "name":"삼성중공업", "id":"010140", "holdings":"83880" },
+    { "name":"아이에스동서", "id":"010780", "holdings":"475576" },
+    { "name":"S-Oil우", "id":"010955", "holdings":"2401550" },
+    { "name":"한국전력", "id":"015760", "holdings":"348250" },
+    { "name":"SK텔레콤", "id":"017670", "holdings":"249917" },
+    { "name":"대교", "id":"019680", "holdings":"1090570" },
+    { "name":"대교우B", "id":"019685", "holdings":"25380" },
+    { "name":"KT", "id":"030200", "holdings":"1730900" },
+    { "name":"LG디스플레이", "id":"034220", "holdings":"59500" },
+    { "name":"포스코대우", "id":"047050", "holdings":"805600" },
+    { "name":"지역난방공사", "id":"071320", "holdings":"432515" },
+    { "name":"맥쿼리인프라", "id":"088980", "holdings":"681870" },
+    { "name":"TIGER 레버리지", "id":"123320", "holdings":"3589386" },
+    { "name":"한국타이어", "id":"161390", "holdings":"105700" },
+    { "name":"TIGER 200선물인버스2X", "id":"252710", "holdings":"12405" }
+  ],
+  "holdings_diff" : [
+    { "name":"맥쿼리인프라", "id":"088980", "diff":"25000" },
+    { "name":"SPC삼립", "id":"005610", "diff":"286500" }
+  ]
+}
