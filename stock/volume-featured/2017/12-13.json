@@ -1,0 +1,13 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"대한항공", "id":"003490", "volumeInc":"2.63", "price":"33100", "priceInc":"6.77" },
+    { "name":"LS", "id":"006260", "volumeInc":"2.21", "price":"68800", "priceInc":"3.77" },
+    { "name":"한화", "id":"000880", "volumeInc":"1.95", "price":"41500", "priceInc":"5.06" },
+    { "name":"삼성중공업", "id":"010140", "volumeInc":"1.68", "price":"7570", "priceInc":"0.40" },
+    { "name":"지역난방공사", "id":"071320", "volumeInc":"1.65", "price":"73800", "priceInc":"0.27" },
+    { "name":"현대건설", "id":"000720", "volumeInc":"1.61", "price":"36550", "priceInc":"5.03" },
+    { "name":"엔씨소프트", "id":"036570", "volumeInc":"1.60", "price":"488000", "priceInc":"4.72" },
+    { "name":"이노션", "id":"214320", "volumeInc":"1.52", "price":"77400", "priceInc":"0.91" }
+  ]
+}
