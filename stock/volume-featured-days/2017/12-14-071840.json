@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "롯데하이마트",
+  "dailyTrading" : [
+    { "date":"2017-11-30", "volume":"163573", "adjClosePrice":"75600", "featured":true },
+    { "date":"2017-12-01", "volume":"54290", "adjClosePrice":"73700", "featured":false },
+    { "date":"2017-12-04", "volume":"30762", "adjClosePrice":"73300", "featured":false },
+    { "date":"2017-12-05", "volume":"25923", "adjClosePrice":"74200", "featured":false },
+    { "date":"2017-12-06", "volume":"43296", "adjClosePrice":"72700", "featured":false },
+    { "date":"2017-12-07", "volume":"44800", "adjClosePrice":"72200", "featured":false },
+    { "date":"2017-12-08", "volume":"43529", "adjClosePrice":"72100", "featured":false },
+    { "date":"2017-12-11", "volume":"64255", "adjClosePrice":"74200", "featured":false },
+    { "date":"2017-12-12", "volume":"33639", "adjClosePrice":"73700", "featured":false },
+    { "date":"2017-12-13", "volume":"35216", "adjClosePrice":"74000", "featured":false },
+    { "date":"2017-12-14", "volume":"121515", "adjClosePrice":"75400", "featured":true }
+  ]
+}
