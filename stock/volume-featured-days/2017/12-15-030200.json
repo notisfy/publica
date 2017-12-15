@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "KT",
+  "dailyTrading" : [
+    { "date":"2017-12-01", "volume":"502031", "adjClosePrice":"30350", "featured":false },
+    { "date":"2017-12-04", "volume":"612749", "adjClosePrice":"30650", "featured":false },
+    { "date":"2017-12-05", "volume":"1095798", "adjClosePrice":"31150", "featured":true },
+    { "date":"2017-12-06", "volume":"689304", "adjClosePrice":"30900", "featured":false },
+    { "date":"2017-12-07", "volume":"807206", "adjClosePrice":"31050", "featured":false },
+    { "date":"2017-12-08", "volume":"829429", "adjClosePrice":"30250", "featured":false },
+    { "date":"2017-12-11", "volume":"396176", "adjClosePrice":"30750", "featured":false },
+    { "date":"2017-12-12", "volume":"450173", "adjClosePrice":"30600", "featured":false },
+    { "date":"2017-12-13", "volume":"558348", "adjClosePrice":"30900", "featured":false },
+    { "date":"2017-12-14", "volume":"1185202", "adjClosePrice":"30600", "featured":false },
+    { "date":"2017-12-15", "volume":"872263", "adjClosePrice":"31300", "featured":false }
+  ]
+}

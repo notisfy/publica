@@ -1,0 +1,25 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"금호타이어", "id":"073240", "volumeInc":"10.04", "price":"4455", "priceInc":"10.82" },
+    { "name":"현대홈쇼핑", "id":"057050", "volumeInc":"2.70", "price":"124000", "priceInc":"5.08" },
+    { "name":"휴켐스", "id":"069260", "volumeInc":"2.51", "price":"25400", "priceInc":"5.61" },
+    { "name":"오뚜기", "id":"007310", "volumeInc":"2.45", "price":"821000", "priceInc":"3.40" },
+    { "name":"동서", "id":"026960", "volumeInc":"2.38", "price":"28950", "priceInc":"4.51" },
+    { "name":"LS산전", "id":"010120", "volumeInc":"2.34", "price":"64100", "priceInc":"7.73" },
+    { "name":"LG하우시스", "id":"108670", "volumeInc":"2.32", "price":"96800", "priceInc":"4.54" },
+    { "name":"KCC", "id":"002380", "volumeInc":"2.28", "price":"382000", "priceInc":"19.38" },
+    { "name":"한화", "id":"000880", "volumeInc":"2.24", "price":"41550", "priceInc":"2.09" },
+    { "name":"한섬", "id":"020000", "volumeInc":"2.06", "price":"33050", "priceInc":"7.13" },
+    { "name":"대상", "id":"001680", "volumeInc":"2.00", "price":"28350", "priceInc":"4.61" },
+    { "name":"쌍용차", "id":"003620", "volumeInc":"1.90", "price":"5160", "priceInc":"3.72" },
+    { "name":"현대그린푸드", "id":"005440", "volumeInc":"1.85", "price":"14950", "priceInc":"2.75" },
+    { "name":"일양약품", "id":"007570", "volumeInc":"1.84", "price":"37100", "priceInc":"3.63" },
+    { "name":"한국타이어월드와이드", "id":"000240", "volumeInc":"1.81", "price":"18100", "priceInc":"0.56" },
+    { "name":"대웅제약", "id":"069620", "volumeInc":"1.67", "price":"151500", "priceInc":"6.69" },
+    { "name":"NHN엔터테인먼트", "id":"181710", "volumeInc":"1.64", "price":"67900", "priceInc":"0.74" },
+    { "name":"SK네트웍스", "id":"001740", "volumeInc":"1.62", "price":"6730", "priceInc":"2.75" },
+    { "name":"코오롱인더", "id":"120110", "volumeInc":"1.62", "price":"85500", "priceInc":"3.89" },
+    { "name":"농심", "id":"004370", "volumeInc":"1.54", "price":"364000", "priceInc":"1.39" }
+  ]
+}
