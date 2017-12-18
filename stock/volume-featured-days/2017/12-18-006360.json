@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "GS건설",
+  "dailyTrading" : [
+    { "date":"2017-12-04", "volume":"330836", "adjClosePrice":"27300", "featured":false },
+    { "date":"2017-12-05", "volume":"1353960", "adjClosePrice":"28700", "featured":true },
+    { "date":"2017-12-06", "volume":"831444", "adjClosePrice":"27750", "featured":false },
+    { "date":"2017-12-07", "volume":"506215", "adjClosePrice":"27300", "featured":false },
+    { "date":"2017-12-08", "volume":"288869", "adjClosePrice":"26900", "featured":false },
+    { "date":"2017-12-11", "volume":"277002", "adjClosePrice":"26750", "featured":false },
+    { "date":"2017-12-12", "volume":"229416", "adjClosePrice":"26650", "featured":false },
+    { "date":"2017-12-13", "volume":"552186", "adjClosePrice":"27850", "featured":false },
+    { "date":"2017-12-14", "volume":"483812", "adjClosePrice":"27300", "featured":false },
+    { "date":"2017-12-15", "volume":"378382", "adjClosePrice":"28100", "featured":false },
+    { "date":"2017-12-18", "volume":"192460", "adjClosePrice":"28100", "featured":false }
+  ]
+}

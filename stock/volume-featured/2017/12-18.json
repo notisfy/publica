@@ -1,0 +1,10 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"삼립식품", "id":"005610", "volumeInc":"2.05", "price":"161500", "priceInc":"4.19" },
+    { "name":"CJ CGV", "id":"079160", "volumeInc":"1.97", "price":"75600", "priceInc":"3.28" },
+    { "name":"경동나비엔", "id":"009450", "volumeInc":"1.90", "price":"52600", "priceInc":"6.48" },
+    { "name":"삼성카드", "id":"029780", "volumeInc":"1.64", "price":"41200", "priceInc":"0.73" },
+    { "name":"메리츠화재", "id":"000060", "volumeInc":"1.60", "price":"24350", "priceInc":"4.28" }
+  ]
+}

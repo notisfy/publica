@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "GS리테일",
+  "dailyTrading" : [
+    { "date":"2017-12-04", "volume":"470275", "adjClosePrice":"41100", "featured":false },
+    { "date":"2017-12-05", "volume":"771996", "adjClosePrice":"43500", "featured":true },
+    { "date":"2017-12-06", "volume":"426359", "adjClosePrice":"42250", "featured":false },
+    { "date":"2017-12-07", "volume":"298097", "adjClosePrice":"41250", "featured":false },
+    { "date":"2017-12-08", "volume":"288458", "adjClosePrice":"42300", "featured":false },
+    { "date":"2017-12-11", "volume":"396744", "adjClosePrice":"40200", "featured":false },
+    { "date":"2017-12-12", "volume":"267256", "adjClosePrice":"40450", "featured":false },
+    { "date":"2017-12-13", "volume":"170431", "adjClosePrice":"41550", "featured":false },
+    { "date":"2017-12-14", "volume":"297004", "adjClosePrice":"40300", "featured":false },
+    { "date":"2017-12-15", "volume":"177959", "adjClosePrice":"40700", "featured":false },
+    { "date":"2017-12-18", "volume":"198660", "adjClosePrice":"40550", "featured":false }
+  ]
+}
