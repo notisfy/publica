@@ -3,15 +3,15 @@
   "name" : "코오롱인더",
   "dailyTrading" : [
     { "date":"2017-12-04", "volume":"255184", "adjClosePrice":"82100", "featured":false },
-    { "date":"2017-12-05", "volume":"208005", "adjClosePrice":"83300", "featured":false },
-    { "date":"2017-12-06", "volume":"114162", "adjClosePrice":"82800", "featured":false },
-    { "date":"2017-12-07", "volume":"204834", "adjClosePrice":"81000", "featured":false },
+    { "date":"2017-12-05", "volume":"208042", "adjClosePrice":"83300", "featured":false },
+    { "date":"2017-12-06", "volume":"114226", "adjClosePrice":"82800", "featured":false },
+    { "date":"2017-12-07", "volume":"204916", "adjClosePrice":"81000", "featured":false },
     { "date":"2017-12-08", "volume":"93285", "adjClosePrice":"80100", "featured":false },
-    { "date":"2017-12-11", "volume":"117193", "adjClosePrice":"82000", "featured":false },
-    { "date":"2017-12-12", "volume":"101665", "adjClosePrice":"80800", "featured":false },
-    { "date":"2017-12-13", "volume":"165403", "adjClosePrice":"80200", "featured":false },
-    { "date":"2017-12-14", "volume":"347123", "adjClosePrice":"82300", "featured":true },
-    { "date":"2017-12-15", "volume":"347335", "adjClosePrice":"85500", "featured":true },
-    { "date":"2017-12-18", "volume":"195434", "adjClosePrice":"83800", "featured":false }
+    { "date":"2017-12-11", "volume":"117425", "adjClosePrice":"82000", "featured":false },
+    { "date":"2017-12-12", "volume":"101674", "adjClosePrice":"80800", "featured":false },
+    { "date":"2017-12-13", "volume":"165405", "adjClosePrice":"80200", "featured":false },
+    { "date":"2017-12-14", "volume":"347137", "adjClosePrice":"82300", "featured":true },
+    { "date":"2017-12-15", "volume":"348309", "adjClosePrice":"85500", "featured":true },
+    { "date":"2017-12-18", "volume":"195487", "adjClosePrice":"83800", "featured":false }
   ]
 }
