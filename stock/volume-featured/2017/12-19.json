@@ -1,0 +1,8 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"메리츠화재", "id":"000060", "volumeInc":"2.75", "price":"25450", "priceInc":"4.52" },
+    { "name":"금호석유", "id":"011780", "volumeInc":"1.66", "price":"96100", "priceInc":"2.78" },
+    { "name":"DGB금융지주", "id":"139130", "volumeInc":"1.58", "price":"10700", "priceInc":"1.90" }
+  ]
+}
