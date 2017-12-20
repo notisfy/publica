@@ -1,0 +1,12 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"대웅제약", "id":"069620", "volumeInc":"4.44", "price":"156000", "priceInc":"3.31" },
+    { "name":"제일기획", "id":"030000", "volumeInc":"3.72", "price":"21800", "priceInc":"3.81" },
+    { "name":"풍산", "id":"103140", "volumeInc":"2.55", "price":"46000", "priceInc":"3.84" },
+    { "name":"두산", "id":"000150", "volumeInc":"1.86", "price":"123500", "priceInc":"5.11" },
+    { "name":"코리안리", "id":"003690", "volumeInc":"1.73", "price":"11150", "priceInc":"3.24" },
+    { "name":"LS", "id":"006260", "volumeInc":"1.71", "price":"71100", "priceInc":"3.19" },
+    { "name":"삼양홀딩스", "id":"000070", "volumeInc":"1.67", "price":"115000", "priceInc":"3.14" }
+  ]
+}

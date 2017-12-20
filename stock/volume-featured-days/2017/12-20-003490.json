@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "대한항공",
+  "dailyTrading" : [
+    { "date":"2017-12-06", "volume":"1027166", "adjClosePrice":"31750", "featured":false },
+    { "date":"2017-12-07", "volume":"908711", "adjClosePrice":"31800", "featured":false },
+    { "date":"2017-12-08", "volume":"758950", "adjClosePrice":"31550", "featured":false },
+    { "date":"2017-12-11", "volume":"526797", "adjClosePrice":"31500", "featured":false },
+    { "date":"2017-12-12", "volume":"591737", "adjClosePrice":"31000", "featured":false },
+    { "date":"2017-12-13", "volume":"1662994", "adjClosePrice":"33100", "featured":true },
+    { "date":"2017-12-14", "volume":"2021627", "adjClosePrice":"33550", "featured":true },
+    { "date":"2017-12-15", "volume":"635337", "adjClosePrice":"33900", "featured":false },
+    { "date":"2017-12-18", "volume":"462594", "adjClosePrice":"33700", "featured":false },
+    { "date":"2017-12-19", "volume":"698219", "adjClosePrice":"34350", "featured":false },
+    { "date":"2017-12-20", "volume":"364060", "adjClosePrice":"33850", "featured":false }
+  ]
+}
