@@ -1,0 +1,7 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"삼양홀딩스", "id":"000070", "volumeInc":"1.87", "price":"118500", "priceInc":"3.04" },
+    { "name":"기업은행", "id":"024110", "volumeInc":"1.79", "price":"16800", "priceInc":"2.44" }
+  ]
+}
