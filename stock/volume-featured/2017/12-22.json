@@ -1,0 +1,10 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"LG생활건강우", "id":"051905", "volumeInc":"2.79", "price":"683000", "priceInc":"0.29" },
+    { "name":"JB금융지주", "id":"175330", "volumeInc":"2.56", "price":"6150", "priceInc":"2.67" },
+    { "name":"BNK금융지주", "id":"138930", "volumeInc":"2.07", "price":"9690", "priceInc":"2.11" },
+    { "name":"기업은행", "id":"024110", "volumeInc":"1.81", "price":"17200", "priceInc":"2.38" },
+    { "name":"맥쿼리인프라", "id":"088980", "volumeInc":"1.77", "price":"8440", "priceInc":"0.24" }
+  ]
+}

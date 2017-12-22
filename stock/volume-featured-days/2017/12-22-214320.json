@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "이노션",
+  "dailyTrading" : [
+    { "date":"2017-12-08", "volume":"28798", "adjClosePrice":"76600", "featured":false },
+    { "date":"2017-12-11", "volume":"24089", "adjClosePrice":"76400", "featured":false },
+    { "date":"2017-12-12", "volume":"26540", "adjClosePrice":"76700", "featured":false },
+    { "date":"2017-12-13", "volume":"55119", "adjClosePrice":"77400", "featured":true },
+    { "date":"2017-12-14", "volume":"89154", "adjClosePrice":"75100", "featured":false },
+    { "date":"2017-12-15", "volume":"62726", "adjClosePrice":"75200", "featured":false },
+    { "date":"2017-12-18", "volume":"58622", "adjClosePrice":"76000", "featured":false },
+    { "date":"2017-12-19", "volume":"20276", "adjClosePrice":"76000", "featured":false },
+    { "date":"2017-12-20", "volume":"19998", "adjClosePrice":"76300", "featured":false },
+    { "date":"2017-12-21", "volume":"21838", "adjClosePrice":"75100", "featured":false },
+    { "date":"2017-12-22", "volume":"17414", "adjClosePrice":"76000", "featured":false }
+  ]
+}

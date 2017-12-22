@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "현대엘리베이",
+  "dailyTrading" : [
+    { "date":"2017-12-08", "volume":"79091", "adjClosePrice":"50900", "featured":false },
+    { "date":"2017-12-11", "volume":"34823", "adjClosePrice":"51000", "featured":false },
+    { "date":"2017-12-12", "volume":"61705", "adjClosePrice":"50700", "featured":false },
+    { "date":"2017-12-13", "volume":"70663", "adjClosePrice":"52200", "featured":false },
+    { "date":"2017-12-14", "volume":"278290", "adjClosePrice":"52400", "featured":true },
+    { "date":"2017-12-15", "volume":"74975", "adjClosePrice":"53600", "featured":false },
+    { "date":"2017-12-18", "volume":"32477", "adjClosePrice":"53300", "featured":false },
+    { "date":"2017-12-19", "volume":"48143", "adjClosePrice":"53000", "featured":false },
+    { "date":"2017-12-20", "volume":"61461", "adjClosePrice":"54000", "featured":false },
+    { "date":"2017-12-21", "volume":"52193", "adjClosePrice":"54000", "featured":false },
+    { "date":"2017-12-22", "volume":"78311", "adjClosePrice":"54200", "featured":false }
+  ]
+}
