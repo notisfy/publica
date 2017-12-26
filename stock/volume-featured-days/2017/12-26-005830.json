@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "동부화재",
+  "dailyTrading" : [
+    { "date":"2017-12-12", "volume":"134669", "adjClosePrice":"68200", "featured":false },
+    { "date":"2017-12-13", "volume":"145292", "adjClosePrice":"70300", "featured":false },
+    { "date":"2017-12-14", "volume":"288181", "adjClosePrice":"70500", "featured":true },
+    { "date":"2017-12-15", "volume":"190679", "adjClosePrice":"71100", "featured":false },
+    { "date":"2017-12-18", "volume":"137560", "adjClosePrice":"69900", "featured":false },
+    { "date":"2017-12-19", "volume":"140956", "adjClosePrice":"69800", "featured":false },
+    { "date":"2017-12-20", "volume":"119281", "adjClosePrice":"70700", "featured":false },
+    { "date":"2017-12-21", "volume":"105983", "adjClosePrice":"70800", "featured":false },
+    { "date":"2017-12-22", "volume":"123466", "adjClosePrice":"71500", "featured":false },
+    { "date":"2017-12-26", "volume":"129417", "adjClosePrice":"73000", "featured":false }
+  ]
+}

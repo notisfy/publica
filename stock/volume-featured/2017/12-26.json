@@ -1,0 +1,14 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"맥쿼리인프라", "id":"088980", "volumeInc":"3.99", "price":"8490", "priceInc":"0.59" },
+    { "name":"지역난방공사", "id":"071320", "volumeInc":"3.25", "price":"74700", "priceInc":"0.40" },
+    { "name":"LS산전", "id":"010120", "volumeInc":"2.18", "price":"65700", "priceInc":"2.50" },
+    { "name":"NH투자증권", "id":"005940", "volumeInc":"1.96", "price":"14250", "priceInc":"1.79" },
+    { "name":"메리츠종금증권", "id":"008560", "volumeInc":"1.80", "price":"4720", "priceInc":"1.40" },
+    { "name":"두산", "id":"000150", "volumeInc":"1.67", "price":"124500", "priceInc":"1.63" },
+    { "name":"효성", "id":"004800", "volumeInc":"1.67", "price":"140000", "priceInc":"2.56" },
+    { "name":"KT", "id":"030200", "volumeInc":"1.59", "price":"31200", "priceInc":"0.48" },
+    { "name":"경동나비엔", "id":"009450", "volumeInc":"1.52", "price":"53200", "priceInc":"2.50" }
+  ]
+}
