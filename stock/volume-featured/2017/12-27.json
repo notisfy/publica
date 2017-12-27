@@ -1,0 +1,10 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"코오롱인더", "id":"120110", "volumeInc":"2.08", "price":"87000", "priceInc":"4.95" },
+    { "name":"LS", "id":"006260", "volumeInc":"1.85", "price":"73500", "priceInc":"4.11" },
+    { "name":"NHN엔터테인먼트", "id":"181710", "volumeInc":"1.73", "price":"70300", "priceInc":"8.82" },
+    { "name":"현대상선", "id":"011200", "volumeInc":"1.61", "price":"4970", "priceInc":"4.41" },
+    { "name":"대웅제약", "id":"069620", "volumeInc":"1.57", "price":"166000", "priceInc":"9.21" }
+  ]
+}
