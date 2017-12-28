@@ -1,0 +1,12 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"SKC", "id":"011790", "volumeInc":"4.91", "price":"47000", "priceInc":"7.18" },
+    { "name":"코오롱인더", "id":"120110", "volumeInc":"2.31", "price":"89000", "priceInc":"2.30" },
+    { "name":"JW홀딩스", "id":"096760", "volumeInc":"2.11", "price":"8370", "priceInc":"3.21" },
+    { "name":"LIG넥스원", "id":"079550", "volumeInc":"1.91", "price":"59800", "priceInc":"4.18" },
+    { "name":"에스원", "id":"012750", "volumeInc":"1.76", "price":"107000", "priceInc":"5.94" },
+    { "name":"대한전선", "id":"001440", "volumeInc":"1.69", "price":"1125", "priceInc":"3.69" },
+    { "name":"일양약품", "id":"007570", "volumeInc":"1.59", "price":"38550", "priceInc":"1.18" }
+  ]
+}

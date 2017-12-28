@@ -1,6 +1,17 @@
 {
-  "version" : "bot-holdings-v1",
-  "stocks" : [
+  "version" : "today-summary-v1",
+  "kospi_today" : "2467.49",
+  "kospi_diff" : "30.82",
+  "featured_today" : [
+    { "name":"SKC", "id":"011790", "volumeInc":"4.91", "price":"47000", "priceInc":"7.18" },
+    { "name":"코오롱인더", "id":"120110", "volumeInc":"2.31", "price":"89000", "priceInc":"2.30" },
+    { "name":"JW홀딩스", "id":"096760", "volumeInc":"2.11", "price":"8370", "priceInc":"3.21" },
+    { "name":"LIG넥스원", "id":"079550", "volumeInc":"1.91", "price":"59800", "priceInc":"4.18" },
+    { "name":"에스원", "id":"012750", "volumeInc":"1.76", "price":"107000", "priceInc":"5.94" },
+    { "name":"대한전선", "id":"001440", "volumeInc":"1.69", "price":"1125", "priceInc":"3.69" },
+    { "name":"일양약품", "id":"007570", "volumeInc":"1.59", "price":"38550", "priceInc":"1.18" }
+  ],
+  "holdings_today" : [
     { "name":"LG상사", "id":"001120", "holdings":"300000" },
     { "name":"한국쉘석유", "id":"002960", "holdings":"5247007" },
     { "name":"성보화학", "id":"003080", "holdings":"268220" },
@@ -31,5 +42,13 @@
     { "name":"한국타이어", "id":"161390", "holdings":"105700" },
     { "name":"TIGER 코스닥150선물인버스", "id":"250780", "holdings":"13225" },
     { "name":"TIGER 200선물인버스2X", "id":"252710", "holdings":"12405" }
+  ],
+  "holdings_diff" : [
+    { "name":"성보화학", "id":"003080", "diff":"54320" },
+    { "name":"NH투자증권우", "id":"005945", "diff":"17730" },
+    { "name":"대덕전자", "id":"008060", "diff":"19770" },
+    { "name":"S-Oil우", "id":"010955", "diff":"692800" },
+    { "name":"대교우B", "id":"019685", "diff":"9980" },
+    { "name":"TIGER 코스닥150선물인버스", "id":"250780", "diff":"13225" }
   ]
 }
