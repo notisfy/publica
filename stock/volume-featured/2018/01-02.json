@@ -1,0 +1,11 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"AK홀딩스", "id":"006840", "volumeInc":"3.73", "price":"73600", "priceInc":"7.45" },
+    { "name":"현대엘리베이", "id":"017800", "volumeInc":"2.59", "price":"55500", "priceInc":"2.02" },
+    { "name":"대한항공", "id":"003490", "volumeInc":"1.96", "price":"35900", "priceInc":"6.06" },
+    { "name":"풍산", "id":"103140", "volumeInc":"1.83", "price":"49600", "priceInc":"4.42" },
+    { "name":"일양약품", "id":"007570", "volumeInc":"1.72", "price":"38850", "priceInc":"0.78" },
+    { "name":"한화케미칼", "id":"009830", "volumeInc":"1.65", "price":"32550", "priceInc":"3.01" }
+  ]
+}
