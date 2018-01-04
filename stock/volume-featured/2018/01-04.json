@@ -1,0 +1,20 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"도레이케미칼", "id":"008000", "volumeInc":"5.22", "price":"19750", "priceInc":"0.25" },
+    { "name":"삼성에스디에스", "id":"018260", "volumeInc":"4.58", "price":"223500", "priceInc":"9.83" },
+    { "name":"GS건설", "id":"006360", "volumeInc":"2.84", "price":"29950", "priceInc":"5.83" },
+    { "name":"포스코대우", "id":"047050", "volumeInc":"2.77", "price":"20000", "priceInc":"2.56" },
+    { "name":"LG상사", "id":"001120", "volumeInc":"2.74", "price":"29200", "priceInc":"2.28" },
+    { "name":"OCI", "id":"010060", "volumeInc":"2.57", "price":"155500", "priceInc":"7.61" },
+    { "name":"현대건설", "id":"000720", "volumeInc":"2.47", "price":"37950", "priceInc":"4.55" },
+    { "name":"대한전선", "id":"001440", "volumeInc":"2.37", "price":"1175", "priceInc":"3.98" },
+    { "name":"삼성중공업", "id":"010140", "volumeInc":"2.12", "price":"8170", "priceInc":"5.15" },
+    { "name":"롯데쇼핑", "id":"023530", "volumeInc":"2.03", "price":"217000", "priceInc":"6.11" },
+    { "name":"삼성엔지니어링", "id":"028050", "volumeInc":"1.96", "price":"13800", "priceInc":"6.56" },
+    { "name":"한국타이어월드와이드", "id":"000240", "volumeInc":"1.86", "price":"18550", "priceInc":"1.09" },
+    { "name":"대림산업", "id":"000210", "volumeInc":"1.60", "price":"84700", "priceInc":"3.80" },
+    { "name":"JB금융지주", "id":"175330", "volumeInc":"1.59", "price":"6220", "priceInc":"0.97" },
+    { "name":"두산인프라코어", "id":"042670", "volumeInc":"1.54", "price":"9440", "priceInc":"3.40" }
+  ]
+}

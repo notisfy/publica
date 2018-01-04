@@ -1,0 +1,33 @@
+{
+  "version" : "volume-featured-profit-v1",
+  "stocks" : [
+    { "name":"효성", "id":"004800", "profit":"10.04", "featuredDate":"2017-12-26", "featuredVolumeInc":"1.67" },
+    { "name":"SKC", "id":"011790", "profit":"9.09", "featuredDate":"2017-12-28", "featuredVolumeInc":"4.90" },
+    { "name":"삼양홀딩스", "id":"000070", "profit":"8.12", "featuredDate":"2017-12-21", "featuredVolumeInc":"1.87" },
+    { "name":"LG생활건강우", "id":"051905", "profit":"7.44", "featuredDate":"2017-12-22", "featuredVolumeInc":"2.71" },
+    { "name":"일양약품", "id":"007570", "profit":"6.89", "featuredDate":"2017-12-28", "featuredVolumeInc":"1.58" },
+    { "name":"두산", "id":"000150", "profit":"6.67", "featuredDate":"2017-12-26", "featuredVolumeInc":"1.67" },
+    { "name":"대웅제약", "id":"069620", "profit":"6.42", "featuredDate":"2017-12-27", "featuredVolumeInc":"1.57" },
+    { "name":"대한전선", "id":"001440", "profit":"6.33", "featuredDate":"2017-12-28", "featuredVolumeInc":"1.70" },
+    { "name":"경동나비엔", "id":"009450", "profit":"4.74", "featuredDate":"2017-12-26", "featuredVolumeInc":"1.52" },
+    { "name":"현대상선", "id":"011200", "profit":"4.74", "featuredDate":"2017-12-27", "featuredVolumeInc":"1.61" },
+    { "name":"JB금융지주", "id":"175330", "profit":"4.67", "featuredDate":"2017-12-22", "featuredVolumeInc":"2.56" },
+    { "name":"LS산전", "id":"010120", "profit":"4.36", "featuredDate":"2017-12-26", "featuredVolumeInc":"2.18" },
+    { "name":"한화케미칼", "id":"009830", "profit":"4.20", "featuredDate":"2018-01-02", "featuredVolumeInc":"1.65" },
+    { "name":"LS", "id":"006260", "profit":"4.16", "featuredDate":"2017-12-27", "featuredVolumeInc":"1.85" },
+    { "name":"코오롱인더", "id":"120110", "profit":"3.94", "featuredDate":"2017-12-27", "featuredVolumeInc":"2.08" },
+    { "name":"현대엘리베이", "id":"017800", "profit":"3.62", "featuredDate":"2018-01-02", "featuredVolumeInc":"2.58" },
+    { "name":"기업은행", "id":"024110", "profit":"3.27", "featuredDate":"2017-12-21", "featuredVolumeInc":"1.79" },
+    { "name":"NHN엔터테인먼트", "id":"181710", "profit":"3.22", "featuredDate":"2017-12-27", "featuredVolumeInc":"1.73" },
+    { "name":"메리츠종금증권", "id":"008560", "profit":"3.02", "featuredDate":"2017-12-26", "featuredVolumeInc":"1.80" },
+    { "name":"JW홀딩스", "id":"096760", "profit":"2.55", "featuredDate":"2017-12-28", "featuredVolumeInc":"2.08" },
+    { "name":"지역난방공사", "id":"071320", "profit":"2.49", "featuredDate":"2017-12-26", "featuredVolumeInc":"3.24" },
+    { "name":"에스원", "id":"012750", "profit":"2.48", "featuredDate":"2017-12-28", "featuredVolumeInc":"1.75" },
+    { "name":"풍산", "id":"103140", "profit":"2.47", "featuredDate":"2018-01-02", "featuredVolumeInc":"1.83" },
+    { "name":"AK홀딩스", "id":"006840", "profit":"2.24", "featuredDate":"2018-01-02", "featuredVolumeInc":"3.66" },
+    { "name":"NH투자증권", "id":"005940", "profit":"2.18", "featuredDate":"2017-12-26", "featuredVolumeInc":"1.96" },
+    { "name":"BNK금융지주", "id":"138930", "profit":"2.05", "featuredDate":"2017-12-22", "featuredVolumeInc":"2.06" },
+    { "name":"LIG넥스원", "id":"079550", "profit":"1.34", "featuredDate":"2017-12-28", "featuredVolumeInc":"1.91" },
+    { "name":"대한항공", "id":"003490", "profit":"1.13", "featuredDate":"2018-01-02", "featuredVolumeInc":"1.96" }
+  ]
+}
