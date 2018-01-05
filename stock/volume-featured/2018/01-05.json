@@ -1,0 +1,18 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"다우기술", "id":"023590", "volumeInc":"12.29", "price":"22150", "priceInc":"16.27" },
+    { "name":"한화", "id":"000880", "volumeInc":"3.91", "price":"46400", "priceInc":"6.42" },
+    { "name":"삼성전기", "id":"009150", "volumeInc":"2.86", "price":"107000", "priceInc":"8.30" },
+    { "name":"메리츠종금증권", "id":"008560", "volumeInc":"2.03", "price":"4740", "priceInc":"5.33" },
+    { "name":"롯데정밀화학", "id":"004000", "volumeInc":"1.84", "price":"69000", "priceInc":"7.31" },
+    { "name":"LS", "id":"006260", "volumeInc":"1.77", "price":"75800", "priceInc":"2.16" },
+    { "name":"한화케미칼", "id":"009830", "volumeInc":"1.73", "price":"33700", "priceInc":"3.69" },
+    { "name":"두산인프라코어", "id":"042670", "volumeInc":"1.67", "price":"9720", "priceInc":"2.97" },
+    { "name":"풍산", "id":"103140", "volumeInc":"1.64", "price":"50300", "priceInc":"5.23" },
+    { "name":"삼양홀딩스", "id":"000070", "volumeInc":"1.57", "price":"129500", "priceInc":"6.15" },
+    { "name":"삼성SDI", "id":"006400", "volumeInc":"1.56", "price":"220500", "priceInc":"5.76" },
+    { "name":"NH투자증권", "id":"005940", "volumeInc":"1.55", "price":"14400", "priceInc":"3.23" },
+    { "name":"KCC", "id":"002380", "volumeInc":"1.54", "price":"393000", "priceInc":"3.42" }
+  ]
+}
