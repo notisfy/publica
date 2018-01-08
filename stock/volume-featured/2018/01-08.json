@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"대한전선", "id":"001440", "volumeInc":"4.90", "price":"1250", "priceInc":"7.76" },
+    { "name":"대한유화", "id":"006650", "volumeInc":"4.46", "price":"286000", "priceInc":"10.21" },
+    { "name":"롯데케미칼", "id":"011170", "volumeInc":"4.39", "price":"383500", "priceInc":"9.10" },
+    { "name":"삼성에스디에스", "id":"018260", "volumeInc":"4.32", "price":"248000", "priceInc":"9.25" },
+    { "name":"NH투자증권", "id":"005940", "volumeInc":"3.14", "price":"15250", "priceInc":"5.90" },
+    { "name":"삼성증권", "id":"016360", "volumeInc":"2.07", "price":"38300", "priceInc":"2.54" },
+    { "name":"NAVER", "id":"035420", "volumeInc":"1.80", "price":"950000", "priceInc":"4.63" },
+    { "name":"동아쏘시오홀딩스", "id":"000640", "volumeInc":"1.77", "price":"134000", "priceInc":"2.29" },
+    { "name":"JB금융지주", "id":"175330", "volumeInc":"1.69", "price":"6410", "priceInc":"1.10" },
+    { "name":"한국금융지주", "id":"071050", "volumeInc":"1.61", "price":"79000", "priceInc":"8.97" },
+    { "name":"SKC", "id":"011790", "volumeInc":"1.55", "price":"48500", "priceInc":"3.30" },
+    { "name":"신한지주", "id":"055550", "volumeInc":"1.51", "price":"52000", "priceInc":"3.79" }
+  ]
+}
