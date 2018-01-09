@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "롯데쇼핑",
+  "dailyTrading" : [
+    { "date":"2017-12-26", "volume":"152866", "adjClosePrice":"198500", "featured":false },
+    { "date":"2017-12-27", "volume":"61111", "adjClosePrice":"198500", "featured":false },
+    { "date":"2017-12-28", "volume":"46273", "adjClosePrice":"199000", "featured":false },
+    { "date":"2018-01-02", "volume":"62210", "adjClosePrice":"200500", "featured":false },
+    { "date":"2018-01-03", "volume":"132184", "adjClosePrice":"204500", "featured":false },
+    { "date":"2018-01-04", "volume":"365751", "adjClosePrice":"217000", "featured":true },
+    { "date":"2018-01-05", "volume":"146424", "adjClosePrice":"216500", "featured":false },
+    { "date":"2018-01-08", "volume":"193535", "adjClosePrice":"222500", "featured":false },
+    { "date":"2018-01-09", "volume":"123366", "adjClosePrice":"222500", "featured":false }
+  ]
+}

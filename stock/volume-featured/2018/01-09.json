@@ -1,0 +1,22 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"JW중외제약", "id":"001060", "volumeInc":"4.67", "price":"46950", "priceInc":"5.03" },
+    { "name":"JW홀딩스", "id":"096760", "volumeInc":"4.31", "price":"8730", "priceInc":"6.46" },
+    { "name":"두산인프라코어", "id":"042670", "volumeInc":"3.85", "price":"10500", "priceInc":"7.58" },
+    { "name":"LG이노텍", "id":"011070", "volumeInc":"3.66", "price":"156500", "priceInc":"10.21" },
+    { "name":"고려아연", "id":"010130", "volumeInc":"2.34", "price":"529000", "priceInc":"6.01" },
+    { "name":"삼성물산", "id":"028260", "volumeInc":"2.25", "price":"136000", "priceInc":"3.82" },
+    { "name":"경동나비엔", "id":"009450", "volumeInc":"2.18", "price":"54400", "priceInc":"12.75" },
+    { "name":"종근당", "id":"185750", "volumeInc":"2.02", "price":"145000", "priceInc":"3.94" },
+    { "name":"LG유플러스", "id":"032640", "volumeInc":"1.91", "price":"15150", "priceInc":"7.83" },
+    { "name":"우리은행", "id":"000030", "volumeInc":"1.86", "price":"16650", "priceInc":"2.15" },
+    { "name":"삼성화재", "id":"000810", "volumeInc":"1.70", "price":"272000", "priceInc":"3.03" },
+    { "name":"LG", "id":"003550", "volumeInc":"1.69", "price":"93600", "priceInc":"4.46" },
+    { "name":"SK텔레콤", "id":"017670", "volumeInc":"1.68", "price":"276000", "priceInc":"3.76" },
+    { "name":"KT", "id":"030200", "volumeInc":"1.60", "price":"30400", "priceInc":"2.18" },
+    { "name":"한화", "id":"000880", "volumeInc":"1.59", "price":"45850", "priceInc":"0.33" },
+    { "name":"AK홀딩스", "id":"006840", "volumeInc":"1.53", "price":"74800", "priceInc":"3.17" },
+    { "name":"호텔신라", "id":"008770", "volumeInc":"1.52", "price":"89800", "priceInc":"5.77" }
+  ]
+}
