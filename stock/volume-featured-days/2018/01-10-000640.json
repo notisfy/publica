@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "동아쏘시오홀딩스",
+  "dailyTrading" : [
+    { "date":"2017-12-27", "volume":"13695", "adjClosePrice":"127500", "featured":false },
+    { "date":"2017-12-28", "volume":"13301", "adjClosePrice":"128000", "featured":false },
+    { "date":"2018-01-02", "volume":"16531", "adjClosePrice":"126500", "featured":false },
+    { "date":"2018-01-03", "volume":"14969", "adjClosePrice":"126500", "featured":false },
+    { "date":"2018-01-04", "volume":"23623", "adjClosePrice":"127000", "featured":false },
+    { "date":"2018-01-05", "volume":"18978", "adjClosePrice":"131000", "featured":false },
+    { "date":"2018-01-08", "volume":"32127", "adjClosePrice":"134000", "featured":true },
+    { "date":"2018-01-09", "volume":"28323", "adjClosePrice":"136500", "featured":false },
+    { "date":"2018-01-10", "volume":"34392", "adjClosePrice":"139500", "featured":true }
+  ]
+}

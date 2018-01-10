@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "대한전선",
+  "dailyTrading" : [
+    { "date":"2017-12-27", "volume":"566790", "adjClosePrice":"1085", "featured":false },
+    { "date":"2017-12-28", "volume":"893139", "adjClosePrice":"1125", "featured":true },
+    { "date":"2018-01-02", "volume":"472298", "adjClosePrice":"1120", "featured":false },
+    { "date":"2018-01-03", "volume":"692512", "adjClosePrice":"1130", "featured":false },
+    { "date":"2018-01-04", "volume":"1261707", "adjClosePrice":"1175", "featured":true },
+    { "date":"2018-01-05", "volume":"1169433", "adjClosePrice":"1160", "featured":false },
+    { "date":"2018-01-08", "volume":"2872952", "adjClosePrice":"1250", "featured":true },
+    { "date":"2018-01-09", "volume":"1011316", "adjClosePrice":"1220", "featured":false },
+    { "date":"2018-01-10", "volume":"834900", "adjClosePrice":"1205", "featured":false }
+  ]
+}

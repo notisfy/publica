@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "POSCO",
+  "dailyTrading" : [
+    { "date":"2017-12-27", "volume":"142903", "adjClosePrice":"334500", "featured":false },
+    { "date":"2017-12-28", "volume":"149788", "adjClosePrice":"332500", "featured":false },
+    { "date":"2018-01-02", "volume":"152869", "adjClosePrice":"339000", "featured":false },
+    { "date":"2018-01-03", "volume":"484858", "adjClosePrice":"357500", "featured":true },
+    { "date":"2018-01-04", "volume":"415558", "adjClosePrice":"367500", "featured":false },
+    { "date":"2018-01-05", "volume":"204373", "adjClosePrice":"368000", "featured":false },
+    { "date":"2018-01-08", "volume":"206165", "adjClosePrice":"369500", "featured":false },
+    { "date":"2018-01-09", "volume":"229294", "adjClosePrice":"377500", "featured":false },
+    { "date":"2018-01-10", "volume":"208319", "adjClosePrice":"372500", "featured":false }
+  ]
+}
