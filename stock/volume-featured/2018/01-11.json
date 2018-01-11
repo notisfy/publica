@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"동아에스티", "id":"170900", "volumeInc":"9.22", "price":"123500", "priceInc":"17.06" },
+    { "name":"동아쏘시오홀딩스", "id":"000640", "volumeInc":"5.88", "price":"148500", "priceInc":"6.45" },
+    { "name":"한국타이어월드와이드", "id":"000240", "volumeInc":"2.32", "price":"19400", "priceInc":"2.92" },
+    { "name":"NHN엔터테인먼트", "id":"181710", "volumeInc":"2.28", "price":"71400", "priceInc":"5.93" },
+    { "name":"JW중외제약", "id":"001060", "volumeInc":"2.09", "price":"48700", "priceInc":"2.20" },
+    { "name":"대한전선", "id":"001440", "volumeInc":"1.97", "price":"1225", "priceInc":"1.66" },
+    { "name":"삼성화재", "id":"000810", "volumeInc":"1.74", "price":"277000", "priceInc":"1.09" },
+    { "name":"동양", "id":"001520", "volumeInc":"1.68", "price":"1915", "priceInc":"0.26" },
+    { "name":"부광약품", "id":"003000", "volumeInc":"1.67", "price":"26450", "priceInc":"1.93" },
+    { "name":"한국콜마", "id":"161890", "volumeInc":"1.63", "price":"88100", "priceInc":"3.65" },
+    { "name":"JW홀딩스", "id":"096760", "volumeInc":"1.54", "price":"8840", "priceInc":"2.08" }
+  ]
+}

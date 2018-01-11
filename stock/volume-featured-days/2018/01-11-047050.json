@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "포스코대우",
+  "dailyTrading" : [
+    { "date":"2017-12-28", "volume":"251273", "adjClosePrice":"18150", "featured":false },
+    { "date":"2018-01-02", "volume":"603093", "adjClosePrice":"18750", "featured":false },
+    { "date":"2018-01-03", "volume":"1110311", "adjClosePrice":"19500", "featured":true },
+    { "date":"2018-01-04", "volume":"1298013", "adjClosePrice":"20000", "featured":true },
+    { "date":"2018-01-05", "volume":"736155", "adjClosePrice":"19950", "featured":false },
+    { "date":"2018-01-08", "volume":"516972", "adjClosePrice":"19800", "featured":false },
+    { "date":"2018-01-09", "volume":"465422", "adjClosePrice":"20200", "featured":false },
+    { "date":"2018-01-10", "volume":"1947572", "adjClosePrice":"21550", "featured":true },
+    { "date":"2018-01-11", "volume":"861637", "adjClosePrice":"20650", "featured":false }
+  ]
+}
