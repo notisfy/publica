@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "현대미포조선",
+  "dailyTrading" : [
+    { "date":"2018-01-02", "volume":"290181", "adjClosePrice":"86000", "featured":false },
+    { "date":"2018-01-03", "volume":"242832", "adjClosePrice":"89000", "featured":false },
+    { "date":"2018-01-04", "volume":"249285", "adjClosePrice":"91200", "featured":false },
+    { "date":"2018-01-05", "volume":"185986", "adjClosePrice":"90000", "featured":false },
+    { "date":"2018-01-08", "volume":"201709", "adjClosePrice":"94900", "featured":false },
+    { "date":"2018-01-09", "volume":"104753", "adjClosePrice":"95600", "featured":false },
+    { "date":"2018-01-10", "volume":"359123", "adjClosePrice":"101000", "featured":true },
+    { "date":"2018-01-11", "volume":"160440", "adjClosePrice":"99200", "featured":false },
+    { "date":"2018-01-12", "volume":"176823", "adjClosePrice":"102500", "featured":false },
+    { "date":"2018-01-15", "volume":"191122", "adjClosePrice":"105000", "featured":false }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"메리츠종금증권", "id":"008560", "volumeInc":"2.48", "price":"5080", "priceInc":"3.36" },
+    { "name":"한화케미칼", "id":"009830", "volumeInc":"2.26", "price":"34400", "priceInc":"5.68" },
+    { "name":"한국토지신탁", "id":"034830", "volumeInc":"2.18", "price":"3265", "priceInc":"3.65" },
+    { "name":"대우조선해양", "id":"042660", "volumeInc":"2.13", "price":"19100", "priceInc":"10.40" },
+    { "name":"한진칼", "id":"180640", "volumeInc":"1.81", "price":"20850", "priceInc":"3.47" },
+    { "name":"삼성생명", "id":"032830", "volumeInc":"1.77", "price":"129000", "priceInc":"3.61" },
+    { "name":"LG화학우", "id":"051915", "volumeInc":"1.76", "price":"259500", "priceInc":"1.37" },
+    { "name":"한국타이어월드와이드", "id":"000240", "volumeInc":"1.66", "price":"19400", "priceInc":"0.52" },
+    { "name":"DGB금융지주", "id":"139130", "volumeInc":"1.66", "price":"11500", "priceInc":"1.77" },
+    { "name":"만도", "id":"204320", "volumeInc":"1.61", "price":"279000", "priceInc":"3.53" },
+    { "name":"한화생명", "id":"088350", "volumeInc":"1.55", "price":"7380", "priceInc":"3.22" }
+  ]
+}
