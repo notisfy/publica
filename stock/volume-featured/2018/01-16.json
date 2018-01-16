@@ -1,0 +1,14 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"도레이케미칼", "id":"008000", "volumeInc":"4.56", "price":"19800", "priceInc":"0.25" },
+    { "name":"동원F&B", "id":"049770", "volumeInc":"3.03", "price":"251000", "priceInc":"6.81" },
+    { "name":"LG디스플레이", "id":"034220", "volumeInc":"2.69", "price":"31000", "priceInc":"6.90" },
+    { "name":"NHN엔터테인먼트", "id":"181710", "volumeInc":"2.39", "price":"76500", "priceInc":"5.23" },
+    { "name":"제주항공", "id":"089590", "volumeInc":"1.75", "price":"35600", "priceInc":"2.01" },
+    { "name":"현대글로비스", "id":"086280", "volumeInc":"1.65", "price":"140500", "priceInc":"0.72" },
+    { "name":"롯데쇼핑", "id":"023530", "volumeInc":"1.56", "price":"232000", "priceInc":"2.65" },
+    { "name":"한화테크윈", "id":"012450", "volumeInc":"1.55", "price":"33500", "priceInc":"0.75" },
+    { "name":"지역난방공사", "id":"071320", "volumeInc":"1.53", "price":"74800", "priceInc":"1.49" }
+  ]
+}
