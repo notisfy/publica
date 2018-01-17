@@ -1,0 +1,12 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"대한전선", "id":"001440", "volumeInc":"20.48", "price":"1330", "priceInc":"11.76" },
+    { "name":"잇츠스킨", "id":"226320", "volumeInc":"5.09", "price":"60300", "priceInc":"14.42" },
+    { "name":"삼성에스디에스", "id":"018260", "volumeInc":"3.24", "price":"264000", "priceInc":"4.35" },
+    { "name":"한국항공우주", "id":"047810", "volumeInc":"2.56", "price":"54100", "priceInc":"6.08" },
+    { "name":"GKL", "id":"114090", "volumeInc":"1.70", "price":"30800", "priceInc":"7.88" },
+    { "name":"한국콜마", "id":"161890", "volumeInc":"1.57", "price":"90400", "priceInc":"2.73" },
+    { "name":"강원랜드", "id":"035250", "volumeInc":"1.52", "price":"32550", "priceInc":"2.68" }
+  ]
+}
