@@ -1,0 +1,19 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"동아에스티", "id":"170900", "volumeInc":"5.84", "price":"124500", "priceInc":"3.75" },
+    { "name":"동아쏘시오홀딩스", "id":"000640", "volumeInc":"4.48", "price":"157500", "priceInc":"3.96" },
+    { "name":"동부하이텍", "id":"000990", "volumeInc":"3.82", "price":"13250", "priceInc":"13.25" },
+    { "name":"스카이라이프", "id":"053210", "volumeInc":"3.12", "price":"13650", "priceInc":"2.63" },
+    { "name":"삼성증권", "id":"016360", "volumeInc":"2.21", "price":"40750", "priceInc":"2.26" },
+    { "name":"키움증권", "id":"039490", "volumeInc":"1.92", "price":"105500", "priceInc":"6.78" },
+    { "name":"LG유플러스", "id":"032640", "volumeInc":"1.89", "price":"15050", "priceInc":"4.51" },
+    { "name":"메리츠종금증권", "id":"008560", "volumeInc":"1.87", "price":"5150", "priceInc":"0.98" },
+    { "name":"SK텔레콤", "id":"017670", "volumeInc":"1.82", "price":"278000", "priceInc":"4.32" },
+    { "name":"JW중외제약", "id":"001060", "volumeInc":"1.74", "price":"48150", "priceInc":"2.34" },
+    { "name":"NH투자증권", "id":"005940", "volumeInc":"1.72", "price":"15850", "priceInc":"0.32" },
+    { "name":"농심", "id":"004370", "volumeInc":"1.70", "price":"318000", "priceInc":"0.16" },
+    { "name":"한국금융지주", "id":"071050", "volumeInc":"1.69", "price":"81900", "priceInc":"2.50" },
+    { "name":"삼성카드", "id":"029780", "volumeInc":"1.56", "price":"38700", "priceInc":"1.18" }
+  ]
+}
