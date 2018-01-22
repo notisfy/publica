@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "S-Oil",
+  "dailyTrading" : [
+    { "date":"2018-01-08", "volume":"385105", "adjClosePrice":"111500", "featured":false },
+    { "date":"2018-01-09", "volume":"349088", "adjClosePrice":"114000", "featured":false },
+    { "date":"2018-01-10", "volume":"540370", "adjClosePrice":"117500", "featured":true },
+    { "date":"2018-01-11", "volume":"426864", "adjClosePrice":"116000", "featured":false },
+    { "date":"2018-01-12", "volume":"262386", "adjClosePrice":"113500", "featured":false },
+    { "date":"2018-01-15", "volume":"126493", "adjClosePrice":"113000", "featured":false },
+    { "date":"2018-01-16", "volume":"231996", "adjClosePrice":"113000", "featured":false },
+    { "date":"2018-01-17", "volume":"208707", "adjClosePrice":"113500", "featured":false },
+    { "date":"2018-01-18", "volume":"386077", "adjClosePrice":"110500", "featured":false },
+    { "date":"2018-01-19", "volume":"195974", "adjClosePrice":"113000", "featured":false },
+    { "date":"2018-01-22", "volume":"576041", "adjClosePrice":"118000", "featured":true }
+  ]
+}

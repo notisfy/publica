@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "종근당",
+  "dailyTrading" : [
+    { "date":"2018-01-08", "volume":"34266", "adjClosePrice":"139500", "featured":false },
+    { "date":"2018-01-09", "volume":"120367", "adjClosePrice":"145000", "featured":true },
+    { "date":"2018-01-10", "volume":"84829", "adjClosePrice":"148000", "featured":false },
+    { "date":"2018-01-11", "volume":"33898", "adjClosePrice":"146500", "featured":false },
+    { "date":"2018-01-12", "volume":"96263", "adjClosePrice":"149000", "featured":true },
+    { "date":"2018-01-15", "volume":"74641", "adjClosePrice":"147500", "featured":false },
+    { "date":"2018-01-16", "volume":"51840", "adjClosePrice":"146500", "featured":false },
+    { "date":"2018-01-17", "volume":"49159", "adjClosePrice":"142000", "featured":false },
+    { "date":"2018-01-18", "volume":"67013", "adjClosePrice":"141500", "featured":false },
+    { "date":"2018-01-19", "volume":"44269", "adjClosePrice":"142500", "featured":false },
+    { "date":"2018-01-22", "volume":"37731", "adjClosePrice":"144500", "featured":false }
+  ]
+}

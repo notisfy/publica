@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"쌍용차", "id":"003620", "volumeInc":"5.25", "price":"5620", "priceInc":"5.44" },
+    { "name":"삼립식품", "id":"005610", "volumeInc":"2.75", "price":"159500", "priceInc":"7.05" },
+    { "name":"제일약품", "id":"002620", "volumeInc":"2.43", "price":"37250", "priceInc":"4.20" },
+    { "name":"CJ CGV", "id":"079160", "volumeInc":"2.31", "price":"77400", "priceInc":"4.59" },
+    { "name":"아이에스동서", "id":"010780", "volumeInc":"2.16", "price":"36650", "priceInc":"4.42" },
+    { "name":"S-Oil", "id":"010950", "volumeInc":"2.07", "price":"118000", "priceInc":"4.42" },
+    { "name":"넥센타이어", "id":"002350", "volumeInc":"1.79", "price":"12450", "priceInc":"3.32" },
+    { "name":"대한유화", "id":"006650", "volumeInc":"1.76", "price":"321500", "priceInc":"5.76" },
+    { "name":"롯데케미칼", "id":"011170", "volumeInc":"1.76", "price":"402000", "priceInc":"3.74" },
+    { "name":"롯데칠성", "id":"005300", "volumeInc":"1.67", "price":"1461000", "priceInc":"7.19" },
+    { "name":"한국콜마", "id":"161890", "volumeInc":"1.54", "price":"92700", "priceInc":"1.31" }
+  ]
+}
