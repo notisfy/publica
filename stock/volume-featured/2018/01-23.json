@@ -1,0 +1,25 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"롯데푸드", "id":"002270", "volumeInc":"3.91", "price":"610000", "priceInc":"7.02" },
+    { "name":"삼성증권", "id":"016360", "volumeInc":"3.81", "price":"42250", "priceInc":"5.49" },
+    { "name":"스카이라이프", "id":"053210", "volumeInc":"3.41", "price":"14550", "priceInc":"2.83" },
+    { "name":"LG디스플레이", "id":"034220", "volumeInc":"3.13", "price":"32550", "priceInc":"5.85" },
+    { "name":"JB금융지주", "id":"175330", "volumeInc":"2.88", "price":"6410", "priceInc":"0.16" },
+    { "name":"경동나비엔", "id":"009450", "volumeInc":"2.74", "price":"60300", "priceInc":"7.49" },
+    { "name":"도레이케미칼", "id":"008000", "volumeInc":"2.66", "price":"19800", "priceInc":"0.25" },
+    { "name":"동원F&B", "id":"049770", "volumeInc":"2.43", "price":"257000", "priceInc":"2.39" },
+    { "name":"NH투자증권", "id":"005940", "volumeInc":"2.37", "price":"16850", "priceInc":"6.31" },
+    { "name":"현대그린푸드", "id":"005440", "volumeInc":"2.32", "price":"16200", "priceInc":"2.86" },
+    { "name":"한화케미칼", "id":"009830", "volumeInc":"2.22", "price":"35700", "priceInc":"2.88" },
+    { "name":"SK가스", "id":"018670", "volumeInc":"2.14", "price":"101500", "priceInc":"3.47" },
+    { "name":"미래에셋대우", "id":"006800", "volumeInc":"2.13", "price":"10500", "priceInc":"6.92" },
+    { "name":"휠라코리아", "id":"081660", "volumeInc":"2.11", "price":"86500", "priceInc":"2.73" },
+    { "name":"동부하이텍", "id":"000990", "volumeInc":"2.10", "price":"13600", "priceInc":"5.84" },
+    { "name":"대한전선", "id":"001440", "volumeInc":"2.08", "price":"1350", "priceInc":"1.12" },
+    { "name":"DGB금융지주", "id":"139130", "volumeInc":"1.94", "price":"12100", "priceInc":"3.86" },
+    { "name":"키움증권", "id":"039490", "volumeInc":"1.87", "price":"109000", "priceInc":"5.83" },
+    { "name":"대상", "id":"001680", "volumeInc":"1.83", "price":"27550", "priceInc":"6.58" },
+    { "name":"NHN엔터테인먼트", "id":"181710", "volumeInc":"1.68", "price":"79800", "priceInc":"3.77" }
+  ]
+}
