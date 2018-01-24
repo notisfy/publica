@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "한화케미칼",
+  "dailyTrading" : [
+    { "date":"2018-01-10", "volume":"966454", "adjClosePrice":"33750", "featured":false },
+    { "date":"2018-01-11", "volume":"1513963", "adjClosePrice":"32850", "featured":false },
+    { "date":"2018-01-12", "volume":"966824", "adjClosePrice":"32550", "featured":false },
+    { "date":"2018-01-15", "volume":"2342796", "adjClosePrice":"34400", "featured":true },
+    { "date":"2018-01-16", "volume":"1012842", "adjClosePrice":"34350", "featured":false },
+    { "date":"2018-01-17", "volume":"870879", "adjClosePrice":"33850", "featured":false },
+    { "date":"2018-01-18", "volume":"854921", "adjClosePrice":"33300", "featured":false },
+    { "date":"2018-01-19", "volume":"884801", "adjClosePrice":"33750", "featured":false },
+    { "date":"2018-01-22", "volume":"1165347", "adjClosePrice":"34700", "featured":false },
+    { "date":"2018-01-23", "volume":"2350213", "adjClosePrice":"35700", "featured":true },
+    { "date":"2018-01-24", "volume":"1232791", "adjClosePrice":"34650", "featured":false }
+  ]
+}

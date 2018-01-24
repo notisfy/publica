@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"쌍용차", "id":"003620", "volumeInc":"3.87", "price":"5900", "priceInc":"5.17" },
+    { "name":"제주항공", "id":"089590", "volumeInc":"3.38", "price":"38200", "priceInc":"9.30" },
+    { "name":"동원시스템즈", "id":"014820", "volumeInc":"3.17", "price":"53800", "priceInc":"6.53" },
+    { "name":"한국가스공사", "id":"036460", "volumeInc":"2.99", "price":"51100", "priceInc":"4.07" },
+    { "name":"다우기술", "id":"023590", "volumeInc":"2.65", "price":"25150", "priceInc":"4.79" },
+    { "name":"한온시스템", "id":"018880", "volumeInc":"1.82", "price":"13200", "priceInc":"3.94" },
+    { "name":"삼양사", "id":"145990", "volumeInc":"1.76", "price":"92700", "priceInc":"2.21" },
+    { "name":"동양생명", "id":"082640", "volumeInc":"1.69", "price":"7700", "priceInc":"3.22" },
+    { "name":"고려아연", "id":"010130", "volumeInc":"1.59", "price":"519000", "priceInc":"1.57" },
+    { "name":"CJ CGV", "id":"079160", "volumeInc":"1.54", "price":"78600", "priceInc":"1.55" },
+    { "name":"삼성SDI", "id":"006400", "volumeInc":"1.52", "price":"208000", "priceInc":"3.48" },
+    { "name":"현대로템", "id":"064350", "volumeInc":"1.50", "price":"17150", "priceInc":"1.78" }
+  ]
+}

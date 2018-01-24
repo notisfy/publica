@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "미래에셋대우",
+  "dailyTrading" : [
+    { "date":"2018-01-10", "volume":"1834638", "adjClosePrice":"9640", "featured":false },
+    { "date":"2018-01-11", "volume":"4386573", "adjClosePrice":"9700", "featured":false },
+    { "date":"2018-01-12", "volume":"5521667", "adjClosePrice":"9840", "featured":true },
+    { "date":"2018-01-15", "volume":"3187723", "adjClosePrice":"9890", "featured":false },
+    { "date":"2018-01-16", "volume":"2841750", "adjClosePrice":"9860", "featured":false },
+    { "date":"2018-01-17", "volume":"2534813", "adjClosePrice":"9920", "featured":false },
+    { "date":"2018-01-18", "volume":"3966757", "adjClosePrice":"10050", "featured":false },
+    { "date":"2018-01-19", "volume":"2479322", "adjClosePrice":"10050", "featured":false },
+    { "date":"2018-01-22", "volume":"4280250", "adjClosePrice":"9820", "featured":false },
+    { "date":"2018-01-23", "volume":"8015491", "adjClosePrice":"10500", "featured":true },
+    { "date":"2018-01-24", "volume":"5827577", "adjClosePrice":"10600", "featured":false }
+  ]
+}
