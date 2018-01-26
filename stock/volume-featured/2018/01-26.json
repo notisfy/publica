@@ -1,0 +1,25 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"삼양사", "id":"145990", "volumeInc":"13.55", "price":"101500", "priceInc":"6.06" },
+    { "name":"이마트", "id":"139480", "volumeInc":"5.67", "price":"294500", "priceInc":"15.04" },
+    { "name":"일양약품", "id":"007570", "volumeInc":"5.09", "price":"44550", "priceInc":"7.48" },
+    { "name":"신세계", "id":"004170", "volumeInc":"4.13", "price":"340500", "priceInc":"9.84" },
+    { "name":"JW중외제약", "id":"001060", "volumeInc":"3.87", "price":"51500", "priceInc":"7.29" },
+    { "name":"CJ대한통운", "id":"000120", "volumeInc":"3.08", "price":"136000", "priceInc":"1.49" },
+    { "name":"롯데하이마트", "id":"071840", "volumeInc":"2.81", "price":"77200", "priceInc":"4.89" },
+    { "name":"제주항공", "id":"089590", "volumeInc":"2.66", "price":"39300", "priceInc":"2.48" },
+    { "name":"JW홀딩스", "id":"096760", "volumeInc":"2.46", "price":"9510", "priceInc":"4.74" },
+    { "name":"동양", "id":"001520", "volumeInc":"2.42", "price":"2145", "priceInc":"2.88" },
+    { "name":"삼성엔지니어링", "id":"028050", "volumeInc":"2.16", "price":"17350", "priceInc":"2.97" },
+    { "name":"CJ CGV", "id":"079160", "volumeInc":"2.01", "price":"79700", "priceInc":"4.18" },
+    { "name":"한화테크윈", "id":"012450", "volumeInc":"1.95", "price":"34100", "priceInc":"2.87" },
+    { "name":"휠라코리아", "id":"081660", "volumeInc":"1.87", "price":"89800", "priceInc":"2.16" },
+    { "name":"팬오션", "id":"028670", "volumeInc":"1.81", "price":"6110", "priceInc":"2.86" },
+    { "name":"녹십자홀딩스", "id":"005250", "volumeInc":"1.78", "price":"40950", "priceInc":"3.02" },
+    { "name":"현대홈쇼핑", "id":"057050", "volumeInc":"1.73", "price":"121500", "priceInc":"2.97" },
+    { "name":"오뚜기", "id":"007310", "volumeInc":"1.68", "price":"796000", "priceInc":"1.40" },
+    { "name":"쌍용양회", "id":"003410", "volumeInc":"1.63", "price":"21700", "priceInc":"6.63" },
+    { "name":"아이에스동서", "id":"010780", "volumeInc":"1.59", "price":"37950", "priceInc":"1.20" }
+  ]
+}
