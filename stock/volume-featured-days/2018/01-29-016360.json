@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "삼성증권",
+  "dailyTrading" : [
+    { "date":"2018-01-15", "volume":"563030", "adjClosePrice":"39950", "featured":false },
+    { "date":"2018-01-16", "volume":"344834", "adjClosePrice":"39950", "featured":false },
+    { "date":"2018-01-17", "volume":"290890", "adjClosePrice":"39850", "featured":false },
+    { "date":"2018-01-18", "volume":"650442", "adjClosePrice":"40750", "featured":true },
+    { "date":"2018-01-19", "volume":"226153", "adjClosePrice":"40700", "featured":false },
+    { "date":"2018-01-22", "volume":"291153", "adjClosePrice":"40050", "featured":false },
+    { "date":"2018-01-23", "volume":"1193172", "adjClosePrice":"42250", "featured":true },
+    { "date":"2018-01-24", "volume":"512957", "adjClosePrice":"42300", "featured":false },
+    { "date":"2018-01-25", "volume":"516414", "adjClosePrice":"42950", "featured":true },
+    { "date":"2018-01-26", "volume":"515221", "adjClosePrice":"43050", "featured":false },
+    { "date":"2018-01-29", "volume":"695173", "adjClosePrice":"43900", "featured":true }
+  ]
+}
