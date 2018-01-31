@@ -1,0 +1,25 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"제일기획", "id":"030000", "volumeInc":"6.42", "price":"21250", "priceInc":"7.59" },
+    { "name":"삼성전자", "id":"005930", "volumeInc":"5.19", "price":"2495000", "priceInc":"0.20" },
+    { "name":"동부하이텍", "id":"000990", "volumeInc":"5.06", "price":"14800", "priceInc":"8.82" },
+    { "name":"삼성물산", "id":"028260", "volumeInc":"3.66", "price":"142000", "priceInc":"2.53" },
+    { "name":"삼성전자우", "id":"005935", "volumeInc":"2.61", "price":"2109000", "priceInc":"2.88" },
+    { "name":"신세계", "id":"004170", "volumeInc":"2.33", "price":"343000", "priceInc":"3.47" },
+    { "name":"삼성화재", "id":"000810", "volumeInc":"2.27", "price":"289000", "priceInc":"3.40" },
+    { "name":"메리츠금융지주", "id":"138040", "volumeInc":"2.16", "price":"16500", "priceInc":"0.30" },
+    { "name":"쌍용차", "id":"003620", "volumeInc":"2.02", "price":"5880", "priceInc":"0.86" },
+    { "name":"현대로템", "id":"064350", "volumeInc":"1.88", "price":"17150", "priceInc":"1.18" },
+    { "name":"삼성카드", "id":"029780", "volumeInc":"1.87", "price":"38950", "priceInc":"1.70" },
+    { "name":"삼성전기", "id":"009150", "volumeInc":"1.84", "price":"106500", "priceInc":"0.95" },
+    { "name":"현대차", "id":"005380", "volumeInc":"1.82", "price":"162000", "priceInc":"3.85" },
+    { "name":"현대모비스", "id":"012330", "volumeInc":"1.81", "price":"247500", "priceInc":"0.81" },
+    { "name":"기아차", "id":"000270", "volumeInc":"1.78", "price":"34650", "priceInc":"1.32" },
+    { "name":"한국단자", "id":"025540", "volumeInc":"1.70", "price":"69600", "priceInc":"0.43" },
+    { "name":"한국토지신탁", "id":"034830", "volumeInc":"1.66", "price":"3290", "priceInc":"0.46" },
+    { "name":"메리츠화재", "id":"000060", "volumeInc":"1.63", "price":"24900", "priceInc":"1.22" },
+    { "name":"에스원", "id":"012750", "volumeInc":"1.63", "price":"99400", "priceInc":"0.81" },
+    { "name":"코웨이", "id":"021240", "volumeInc":"1.50", "price":"95200", "priceInc":"0.32" }
+  ]
+}
