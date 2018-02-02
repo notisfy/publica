@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "아이에스동서",
+  "dailyTrading" : [
+    { "date":"2018-01-19", "volume":"125914", "adjClosePrice":"35100", "featured":false },
+    { "date":"2018-01-22", "volume":"200137", "adjClosePrice":"36650", "featured":true },
+    { "date":"2018-01-23", "volume":"134887", "adjClosePrice":"37000", "featured":false },
+    { "date":"2018-01-24", "volume":"89147", "adjClosePrice":"37400", "featured":false },
+    { "date":"2018-01-25", "volume":"74260", "adjClosePrice":"37500", "featured":false },
+    { "date":"2018-01-26", "volume":"152678", "adjClosePrice":"37950", "featured":true },
+    { "date":"2018-01-29", "volume":"187342", "adjClosePrice":"38800", "featured":true },
+    { "date":"2018-01-30", "volume":"163436", "adjClosePrice":"39300", "featured":false },
+    { "date":"2018-01-31", "volume":"160608", "adjClosePrice":"39250", "featured":false },
+    { "date":"2018-02-01", "volume":"82410", "adjClosePrice":"39550", "featured":false },
+    { "date":"2018-02-02", "volume":"73818", "adjClosePrice":"38600", "featured":false }
+  ]
+}

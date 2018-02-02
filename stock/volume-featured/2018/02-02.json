@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"지역난방공사", "id":"071320", "volumeInc":"8.11", "price":"80900", "priceInc":"5.61" },
+    { "name":"현대상선", "id":"011200", "volumeInc":"5.57", "price":"4800", "priceInc":"3.90" },
+    { "name":"현대글로비스", "id":"086280", "volumeInc":"2.97", "price":"143500", "priceInc":"2.14" },
+    { "name":"금호석유", "id":"011780", "volumeInc":"2.93", "price":"106000", "priceInc":"2.91" },
+    { "name":"기아차", "id":"000270", "volumeInc":"2.85", "price":"35250", "priceInc":"2.62" },
+    { "name":"만도", "id":"204320", "volumeInc":"2.35", "price":"288000", "priceInc":"4.16" },
+    { "name":"현대위아", "id":"011210", "volumeInc":"2.09", "price":"62300", "priceInc":"1.80" },
+    { "name":"현대모비스", "id":"012330", "volumeInc":"2.01", "price":"255000", "priceInc":"3.66" },
+    { "name":"한국타이어", "id":"161390", "volumeInc":"1.91", "price":"55800", "priceInc":"1.64" },
+    { "name":"현대엘리베이", "id":"017800", "volumeInc":"1.64", "price":"61700", "priceInc":"1.15" }
+  ]
+}
