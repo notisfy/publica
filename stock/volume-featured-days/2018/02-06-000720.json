@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "현대건설",
+  "dailyTrading" : [
+    { "date":"2018-01-23", "volume":"791943", "adjClosePrice":"41000", "featured":false },
+    { "date":"2018-01-24", "volume":"410902", "adjClosePrice":"40850", "featured":false },
+    { "date":"2018-01-25", "volume":"1097198", "adjClosePrice":"42150", "featured":true },
+    { "date":"2018-01-26", "volume":"2114571", "adjClosePrice":"40800", "featured":false },
+    { "date":"2018-01-29", "volume":"2543652", "adjClosePrice":"43600", "featured":true },
+    { "date":"2018-01-30", "volume":"1398091", "adjClosePrice":"43400", "featured":false },
+    { "date":"2018-01-31", "volume":"752154", "adjClosePrice":"42900", "featured":false },
+    { "date":"2018-02-01", "volume":"1319010", "adjClosePrice":"44150", "featured":true },
+    { "date":"2018-02-02", "volume":"686416", "adjClosePrice":"43450", "featured":false },
+    { "date":"2018-02-05", "volume":"1121544", "adjClosePrice":"43450", "featured":false },
+    { "date":"2018-02-06", "volume":"1029628", "adjClosePrice":"43250", "featured":false }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"삼양사", "id":"145990", "volumeInc":"3.12", "price":"96700", "priceInc":"2.55" },
+    { "name":"제주항공", "id":"089590", "volumeInc":"2.79", "price":"38850", "priceInc":"1.83" },
+    { "name":"한미약품", "id":"128940", "volumeInc":"2.76", "price":"554000", "priceInc":"6.33" },
+    { "name":"맥쿼리인프라", "id":"088980", "volumeInc":"2.37", "price":"8330", "priceInc":"0.36" },
+    { "name":"OCI", "id":"010060", "volumeInc":"2.35", "price":"158500", "priceInc":"4.62" },
+    { "name":"만도", "id":"204320", "volumeInc":"2.09", "price":"286000", "priceInc":"3.44" },
+    { "name":"한솔케미칼", "id":"014680", "volumeInc":"2.05", "price":"69200", "priceInc":"1.32" },
+    { "name":"롯데쇼핑", "id":"023530", "volumeInc":"1.99", "price":"255500", "priceInc":"1.59" },
+    { "name":"도레이케미칼", "id":"008000", "volumeInc":"1.95", "price":"19850", "priceInc":"0.25" },
+    { "name":"잇츠스킨", "id":"226320", "volumeInc":"1.93", "price":"63400", "priceInc":"0.79" },
+    { "name":"삼양홀딩스", "id":"000070", "volumeInc":"1.69", "price":"116500", "priceInc":"1.75" },
+    { "name":"아시아나항공", "id":"020560", "volumeInc":"1.65", "price":"5200", "priceInc":"1.17" },
+    { "name":"롯데푸드", "id":"002270", "volumeInc":"1.58", "price":"616000", "priceInc":"0.49" },
+    { "name":"LG화학우", "id":"051915", "volumeInc":"1.53", "price":"227500", "priceInc":"0.22" }
+  ]
+}
