@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "동아에스티",
+  "dailyTrading" : [
+    { "date":"2018-01-24", "volume":"82892", "adjClosePrice":"119500", "featured":false },
+    { "date":"2018-01-25", "volume":"59660", "adjClosePrice":"118000", "featured":false },
+    { "date":"2018-01-26", "volume":"78610", "adjClosePrice":"121000", "featured":false },
+    { "date":"2018-01-29", "volume":"80616", "adjClosePrice":"118500", "featured":false },
+    { "date":"2018-01-30", "volume":"127473", "adjClosePrice":"122500", "featured":true },
+    { "date":"2018-01-31", "volume":"72763", "adjClosePrice":"119000", "featured":false },
+    { "date":"2018-02-01", "volume":"69376", "adjClosePrice":"118500", "featured":false },
+    { "date":"2018-02-02", "volume":"68098", "adjClosePrice":"113500", "featured":false },
+    { "date":"2018-02-05", "volume":"66041", "adjClosePrice":"109500", "featured":false },
+    { "date":"2018-02-06", "volume":"70447", "adjClosePrice":"109500", "featured":false },
+    { "date":"2018-02-07", "volume":"56389", "adjClosePrice":"109000", "featured":false }
+  ]
+}
