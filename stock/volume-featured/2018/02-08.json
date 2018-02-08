@@ -1,0 +1,13 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"휴켐스", "id":"069260", "volumeInc":"3.73", "price":"25900", "priceInc":"7.69" },
+    { "name":"동부하이텍", "id":"000990", "volumeInc":"2.34", "price":"15700", "priceInc":"3.97" },
+    { "name":"삼성엔지니어링", "id":"028050", "volumeInc":"2.34", "price":"15150", "priceInc":"1.00" },
+    { "name":"LS산전", "id":"010120", "volumeInc":"2.05", "price":"55700", "priceInc":"1.09" },
+    { "name":"현대차우", "id":"005385", "volumeInc":"1.96", "price":"90800", "priceInc":"0.89" },
+    { "name":"현대엘리베이", "id":"017800", "volumeInc":"1.94", "price":"58500", "priceInc":"1.74" },
+    { "name":"현대차", "id":"005380", "volumeInc":"1.70", "price":"161000", "priceInc":"2.22" },
+    { "name":"대우조선해양", "id":"042660", "volumeInc":"1.60", "price":"21450", "priceInc":"2.63" }
+  ]
+}

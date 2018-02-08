@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "삼양사",
+  "dailyTrading" : [
+    { "date":"2018-01-25", "volume":"42718", "adjClosePrice":"95700", "featured":true },
+    { "date":"2018-01-26", "volume":"227980", "adjClosePrice":"101500", "featured":true },
+    { "date":"2018-01-29", "volume":"55591", "adjClosePrice":"104500", "featured":false },
+    { "date":"2018-01-30", "volume":"46872", "adjClosePrice":"104500", "featured":false },
+    { "date":"2018-01-31", "volume":"38056", "adjClosePrice":"102500", "featured":false },
+    { "date":"2018-02-01", "volume":"12163", "adjClosePrice":"102000", "featured":false },
+    { "date":"2018-02-02", "volume":"26654", "adjClosePrice":"97600", "featured":false },
+    { "date":"2018-02-05", "volume":"41596", "adjClosePrice":"94300", "featured":false },
+    { "date":"2018-02-06", "volume":"62349", "adjClosePrice":"96700", "featured":true },
+    { "date":"2018-02-07", "volume":"28416", "adjClosePrice":"95300", "featured":false },
+    { "date":"2018-02-08", "volume":"39289", "adjClosePrice":"92300", "featured":false }
+  ]
+}
