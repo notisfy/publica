@@ -1,0 +1,8 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"부광약품", "id":"003000", "volumeInc":"2.77", "price":"24000", "priceInc":"0.42" },
+    { "name":"키움증권", "id":"039490", "volumeInc":"2.35", "price":"108500", "priceInc":"6.90" },
+    { "name":"NH투자증권", "id":"005940", "volumeInc":"1.73", "price":"14850", "priceInc":"2.77" }
+  ]
+}

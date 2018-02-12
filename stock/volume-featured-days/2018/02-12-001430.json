@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "세아베스틸",
+  "dailyTrading" : [
+    { "date":"2018-01-29", "volume":"97946", "adjClosePrice":"32250", "featured":true },
+    { "date":"2018-01-30", "volume":"55673", "adjClosePrice":"31500", "featured":false },
+    { "date":"2018-01-31", "volume":"64741", "adjClosePrice":"31750", "featured":false },
+    { "date":"2018-02-01", "volume":"69369", "adjClosePrice":"32400", "featured":false },
+    { "date":"2018-02-02", "volume":"64934", "adjClosePrice":"30900", "featured":false },
+    { "date":"2018-02-05", "volume":"60530", "adjClosePrice":"30250", "featured":false },
+    { "date":"2018-02-06", "volume":"73561", "adjClosePrice":"29850", "featured":false },
+    { "date":"2018-02-07", "volume":"48092", "adjClosePrice":"29050", "featured":false },
+    { "date":"2018-02-08", "volume":"53333", "adjClosePrice":"29000", "featured":false },
+    { "date":"2018-02-09", "volume":"81944", "adjClosePrice":"30000", "featured":false },
+    { "date":"2018-02-12", "volume":"51386", "adjClosePrice":"29150", "featured":false }
+  ]
+}
