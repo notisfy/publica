@@ -1,0 +1,12 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"만도", "id":"204320", "volumeInc":"2.80", "price":"228000", "priceInc":"1.33" },
+    { "name":"우리은행", "id":"000030", "volumeInc":"2.17", "price":"16300", "priceInc":"4.82" },
+    { "name":"SK하이닉스", "id":"000660", "volumeInc":"1.76", "price":"77700", "priceInc":"4.30" },
+    { "name":"맥쿼리인프라", "id":"088980", "volumeInc":"1.71", "price":"8450", "priceInc":"0.72" },
+    { "name":"롯데칠성", "id":"005300", "volumeInc":"1.67", "price":"1567000", "priceInc":"0.38" },
+    { "name":"현대차우", "id":"005385", "volumeInc":"1.53", "price":"87800", "priceInc":"0.34" },
+    { "name":"한국타이어월드와이드", "id":"000240", "volumeInc":"1.51", "price":"19600", "priceInc":"0.51" }
+  ]
+}
