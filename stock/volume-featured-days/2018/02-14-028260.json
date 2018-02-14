@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "삼성물산",
+  "dailyTrading" : [
+    { "date":"2018-01-31", "volume":"1191555", "adjClosePrice":"142000", "featured":true },
+    { "date":"2018-02-01", "volume":"409827", "adjClosePrice":"141500", "featured":false },
+    { "date":"2018-02-02", "volume":"593189", "adjClosePrice":"140000", "featured":false },
+    { "date":"2018-02-05", "volume":"1398662", "adjClosePrice":"143000", "featured":true },
+    { "date":"2018-02-06", "volume":"840172", "adjClosePrice":"138500", "featured":false },
+    { "date":"2018-02-07", "volume":"644452", "adjClosePrice":"133000", "featured":false },
+    { "date":"2018-02-08", "volume":"573607", "adjClosePrice":"132500", "featured":false },
+    { "date":"2018-02-09", "volume":"534154", "adjClosePrice":"127500", "featured":false },
+    { "date":"2018-02-12", "volume":"305266", "adjClosePrice":"128000", "featured":false },
+    { "date":"2018-02-13", "volume":"485810", "adjClosePrice":"132000", "featured":false },
+    { "date":"2018-02-14", "volume":"275188", "adjClosePrice":"133000", "featured":false }
+  ]
+}

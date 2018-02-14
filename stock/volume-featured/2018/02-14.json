@@ -1,0 +1,6 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"코스맥스", "id":"192820", "volumeInc":"2.56", "price":"124000", "priceInc":"4.64" }
+  ]
+}
