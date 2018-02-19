@@ -1,0 +1,9 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"LS산전", "id":"010120", "volumeInc":"2.61", "price":"58000", "priceInc":"6.23" },
+    { "name":"세아베스틸", "id":"001430", "volumeInc":"1.74", "price":"28200", "priceInc":"1.99" },
+    { "name":"BNK금융지주", "id":"138930", "volumeInc":"1.73", "price":"10750", "priceInc":"3.86" },
+    { "name":"코웨이", "id":"021240", "volumeInc":"1.55", "price":"85500", "priceInc":"3.01" }
+  ]
+}
