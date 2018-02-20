@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "동양",
+  "dailyTrading" : [
+    { "date":"2018-02-06", "volume":"938988", "adjClosePrice":"2180", "featured":false },
+    { "date":"2018-02-07", "volume":"848878", "adjClosePrice":"2095", "featured":false },
+    { "date":"2018-02-08", "volume":"596611", "adjClosePrice":"2075", "featured":false },
+    { "date":"2018-02-09", "volume":"1456653", "adjClosePrice":"2200", "featured":true },
+    { "date":"2018-02-12", "volume":"1002441", "adjClosePrice":"2095", "featured":false },
+    { "date":"2018-02-13", "volume":"619153", "adjClosePrice":"2050", "featured":false },
+    { "date":"2018-02-14", "volume":"538064", "adjClosePrice":"2020", "featured":false },
+    { "date":"2018-02-19", "volume":"386128", "adjClosePrice":"2090", "featured":false },
+    { "date":"2018-02-20", "volume":"393926", "adjClosePrice":"2075", "featured":false }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"대한전선", "id":"001440", "volumeInc":"5.50", "price":"1350", "priceInc":"4.25" }
+  ]
+}
