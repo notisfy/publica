@@ -1,0 +1,14 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한국콜마", "id":"161890", "volumeInc":"8.55", "price":"82700", "priceInc":"6.57" },
+    { "name":"한솔케미칼", "id":"014680", "volumeInc":"3.33", "price":"80300", "priceInc":"8.66" },
+    { "name":"도레이케미칼", "id":"008000", "volumeInc":"2.46", "price":"19950", "priceInc":"0.25" },
+    { "name":"한국타이어", "id":"161390", "volumeInc":"1.79", "price":"57000", "priceInc":"5.56" },
+    { "name":"아모레퍼시픽", "id":"090430", "volumeInc":"1.57", "price":"294500", "priceInc":"6.90" },
+    { "name":"LS산전", "id":"010120", "volumeInc":"1.56", "price":"58200", "priceInc":"1.04" },
+    { "name":"코리안리", "id":"003690", "volumeInc":"1.56", "price":"12050", "priceInc":"2.12" },
+    { "name":"CJ제일제당", "id":"097950", "volumeInc":"1.52", "price":"334500", "priceInc":"2.92" },
+    { "name":"한국타이어월드와이드", "id":"000240", "volumeInc":"1.51", "price":"20150", "priceInc":"3.33" }
+  ]
+}
