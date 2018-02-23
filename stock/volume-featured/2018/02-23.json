@@ -1,0 +1,12 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"휠라코리아", "id":"081660", "volumeInc":"6.34", "price":"94700", "priceInc":"6.76" },
+    { "name":"대우조선해양", "id":"042660", "volumeInc":"2.65", "price":"24500", "priceInc":"7.69" },
+    { "name":"CJ제일제당", "id":"097950", "volumeInc":"2.22", "price":"353000", "priceInc":"5.22" },
+    { "name":"팬오션", "id":"028670", "volumeInc":"2.15", "price":"6110", "priceInc":"2.00" },
+    { "name":"농심", "id":"004370", "volumeInc":"1.84", "price":"314500", "priceInc":"3.45" },
+    { "name":"동부하이텍", "id":"000990", "volumeInc":"1.66", "price":"16250", "priceInc":"0.62" },
+    { "name":"현대엘리베이", "id":"017800", "volumeInc":"1.52", "price":"59500", "priceInc":"3.48" }
+  ]
+}
