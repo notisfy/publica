@@ -1,0 +1,10 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"휠라코리아", "id":"081660", "volumeInc":"5.97", "price":"100000", "priceInc":"5.60" },
+    { "name":"현대글로비스", "id":"086280", "volumeInc":"3.15", "price":"144000", "priceInc":"5.11" },
+    { "name":"SK이노베이션", "id":"096770", "volumeInc":"1.91", "price":"209000", "priceInc":"4.76" },
+    { "name":"한화테크윈", "id":"012450", "volumeInc":"1.88", "price":"29550", "priceInc":"4.60" },
+    { "name":"롯데하이마트", "id":"071840", "volumeInc":"1.73", "price":"67100", "priceInc":"1.82" }
+  ]
+}

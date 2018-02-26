@@ -1,0 +1,26 @@
+{
+  "version" : "volume-featured-profit-v1",
+  "stocks" : [
+    { "name":"대우조선해양", "id":"042660", "profit":"14.85", "featuredDate":"2018-02-22", "featuredVolumeInc":"1.81" },
+    { "name":"만도", "id":"204320", "profit":"10.48", "featuredDate":"2018-02-13", "featuredVolumeInc":"2.84" },
+    { "name":"CJ제일제당", "id":"097950", "profit":"8.23", "featuredDate":"2018-02-21", "featuredVolumeInc":"1.52" },
+    { "name":"코스맥스", "id":"192820", "profit":"8.03", "featuredDate":"2018-02-14", "featuredVolumeInc":"2.55" },
+    { "name":"한국타이어", "id":"161390", "profit":"7.12", "featuredDate":"2018-02-21", "featuredVolumeInc":"1.80" },
+    { "name":"키움증권", "id":"039490", "profit":"6.73", "featuredDate":"2018-02-12", "featuredVolumeInc":"2.35" },
+    { "name":"한국타이어월드와이드", "id":"000240", "profit":"6.60", "featuredDate":"2018-02-13", "featuredVolumeInc":"1.51" },
+    { "name":"아모레퍼시픽", "id":"090430", "profit":"6.34", "featuredDate":"2018-02-21", "featuredVolumeInc":"1.57" },
+    { "name":"롯데칠성", "id":"005300", "profit":"6.33", "featuredDate":"2018-02-13", "featuredVolumeInc":"1.66" },
+    { "name":"부광약품", "id":"003000", "profit":"6.33", "featuredDate":"2018-02-12", "featuredVolumeInc":"2.74" },
+    { "name":"한국콜마", "id":"161890", "profit":"6.28", "featuredDate":"2018-02-21", "featuredVolumeInc":"8.56" },
+    { "name":"한솔케미칼", "id":"014680", "profit":"6.25", "featuredDate":"2018-02-21", "featuredVolumeInc":"3.32" },
+    { "name":"BNK금융지주", "id":"138930", "profit":"6.16", "featuredDate":"2018-02-19", "featuredVolumeInc":"1.73" },
+    { "name":"NH투자증권", "id":"005940", "profit":"5.94", "featuredDate":"2018-02-12", "featuredVolumeInc":"1.73" },
+    { "name":"우리은행", "id":"000030", "profit":"5.88", "featuredDate":"2018-02-13", "featuredVolumeInc":"2.17" },
+    { "name":"대한전선", "id":"001440", "profit":"5.68", "featuredDate":"2018-02-20", "featuredVolumeInc":"5.50" },
+    { "name":"SK하이닉스", "id":"000660", "profit":"4.39", "featuredDate":"2018-02-13", "featuredVolumeInc":"1.76" },
+    { "name":"코리안리", "id":"003690", "profit":"4.26", "featuredDate":"2018-02-21", "featuredVolumeInc":"1.56" },
+    { "name":"현대차우", "id":"005385", "profit":"3.91", "featuredDate":"2018-02-13", "featuredVolumeInc":"1.53" },
+    { "name":"LS산전", "id":"010120", "profit":"3.14", "featuredDate":"2018-02-19", "featuredVolumeInc":"2.61" },
+    { "name":"세아베스틸", "id":"001430", "profit":"2.88", "featuredDate":"2018-02-19", "featuredVolumeInc":"1.74" }
+  ]
+}

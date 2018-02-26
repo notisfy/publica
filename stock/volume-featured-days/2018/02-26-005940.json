@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "NH투자증권",
+  "dailyTrading" : [
+    { "date":"2018-02-12", "volume":"2059597", "adjClosePrice":"14850", "featured":true },
+    { "date":"2018-02-13", "volume":"1326917", "adjClosePrice":"14600", "featured":false },
+    { "date":"2018-02-14", "volume":"1152150", "adjClosePrice":"14650", "featured":false },
+    { "date":"2018-02-19", "volume":"1465855", "adjClosePrice":"14950", "featured":false },
+    { "date":"2018-02-20", "volume":"856432", "adjClosePrice":"14550", "featured":false },
+    { "date":"2018-02-21", "volume":"1079829", "adjClosePrice":"14700", "featured":false },
+    { "date":"2018-02-22", "volume":"1396827", "adjClosePrice":"14250", "featured":false },
+    { "date":"2018-02-23", "volume":"1294305", "adjClosePrice":"14700", "featured":false },
+    { "date":"2018-02-26", "volume":"970858", "adjClosePrice":"14550", "featured":false }
+  ]
+}

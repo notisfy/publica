@@ -1,0 +1,45 @@
+{
+  "version" : "today-summary-v1",
+  "kospi_today" : "2457.65",
+  "kospi_diff" : "6.13",
+  "featured_today" : [
+    { "name":"휠라코리아", "id":"081660", "volumeInc":"5.97", "price":"100000", "priceInc":"5.60" },
+    { "name":"현대글로비스", "id":"086280", "volumeInc":"3.15", "price":"144000", "priceInc":"5.11" },
+    { "name":"SK이노베이션", "id":"096770", "volumeInc":"1.91", "price":"209000", "priceInc":"4.76" },
+    { "name":"한화테크윈", "id":"012450", "volumeInc":"1.88", "price":"29550", "priceInc":"4.60" },
+    { "name":"롯데하이마트", "id":"071840", "volumeInc":"1.73", "price":"67100", "priceInc":"1.82" }
+  ],
+  "holdings_today" : [
+    { "name":"두산우", "id":"000155", "holdings":"215200" },
+    { "name":"한국쉘석유", "id":"002960", "holdings":"5625007" },
+    { "name":"성보화학", "id":"003080", "holdings":"385890" },
+    { "name":"코리안리", "id":"003690", "holdings":"589215" },
+    { "name":"효성", "id":"004800", "holdings":"2923051" },
+    { "name":"현대차우", "id":"005385", "holdings":"286584" },
+    { "name":"미래에셋대우우", "id":"006805", "holdings":"268090" },
+    { "name":"대덕전자", "id":"008060", "holdings":"1641217" },
+    { "name":"한샘", "id":"009240", "holdings":"320500" },
+    { "name":"S-Oil우", "id":"010955", "holdings":"3027362" },
+    { "name":"한국전력", "id":"015760", "holdings":"696000" },
+    { "name":"SK텔레콤", "id":"017670", "holdings":"1021000" },
+    { "name":"SK가스", "id":"018670", "holdings":"292300" },
+    { "name":"대교", "id":"019680", "holdings":"686614" },
+    { "name":"대교우B", "id":"019685", "holdings":"275210" },
+    { "name":"코웨이", "id":"021240", "holdings":"939400" },
+    { "name":"BGF", "id":"027410", "holdings":"26100" },
+    { "name":"삼성카드", "id":"029780", "holdings":"154750" },
+    { "name":"KT", "id":"030200", "holdings":"2159234" },
+    { "name":"KT&G", "id":"033780", "holdings":"517800" },
+    { "name":"맥쿼리인프라", "id":"088980", "holdings":"958513" },
+    { "name":"CJ제일제당 우", "id":"097955", "holdings":"286500" },
+    { "name":"코오롱인더", "id":"120110", "holdings":"150600" },
+    { "name":"TIGER 레버리지", "id":"123320", "holdings":"3819074" },
+    { "name":"TIGER 200 금융", "id":"139270", "holdings":"9015" },
+    { "name":"광주은행", "id":"192530", "holdings":"24100" }
+  ],
+  "holdings_diff" : [
+    { "name":"S-Oil", "id":"010950", "diff":"-112500" },
+    { "name":"S-Oil우", "id":"010955", "diff":"-86496" },
+    { "name":"BGF", "id":"027410", "diff":"12850" }
+  ]
+}
