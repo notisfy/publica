@@ -1,0 +1,7 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한화", "id":"000880", "volumeInc":"1.84", "price":"44900", "priceInc":"2.98" },
+    { "name":"영원무역홀딩스", "id":"009970", "volumeInc":"1.55", "price":"56400", "priceInc":"0.53" }
+  ]
+}

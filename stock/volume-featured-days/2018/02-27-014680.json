@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "한솔케미칼",
+  "dailyTrading" : [
+    { "date":"2018-02-13", "volume":"84742", "adjClosePrice":"75900", "featured":false },
+    { "date":"2018-02-14", "volume":"74716", "adjClosePrice":"76400", "featured":false },
+    { "date":"2018-02-19", "volume":"65038", "adjClosePrice":"76400", "featured":false },
+    { "date":"2018-02-20", "volume":"70287", "adjClosePrice":"73900", "featured":false },
+    { "date":"2018-02-21", "volume":"259389", "adjClosePrice":"80300", "featured":true },
+    { "date":"2018-02-22", "volume":"94969", "adjClosePrice":"78500", "featured":false },
+    { "date":"2018-02-23", "volume":"84544", "adjClosePrice":"76000", "featured":false },
+    { "date":"2018-02-26", "volume":"68578", "adjClosePrice":"75000", "featured":false },
+    { "date":"2018-02-27", "volume":"45862", "adjClosePrice":"75700", "featured":false }
+  ]
+}
