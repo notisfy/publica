@@ -1,0 +1,9 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"롯데하이마트", "id":"071840", "volumeInc":"2.43", "price":"70000", "priceInc":"4.01" },
+    { "name":"금호타이어", "id":"073240", "volumeInc":"1.99", "price":"5600", "priceInc":"5.26" },
+    { "name":"현대중공업", "id":"009540", "volumeInc":"1.92", "price":"131000", "priceInc":"1.55" },
+    { "name":"신한지주", "id":"055550", "volumeInc":"1.64", "price":"47400", "priceInc":"0.96" }
+  ]
+}
