@@ -1,0 +1,10 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"지역난방공사", "id":"071320", "volumeInc":"2.68", "price":"87400", "priceInc":"5.30" },
+    { "name":"한국가스공사", "id":"036460", "volumeInc":"2.05", "price":"48800", "priceInc":"6.32" },
+    { "name":"맥쿼리인프라", "id":"088980", "volumeInc":"1.95", "price":"8460", "priceInc":"0.71" },
+    { "name":"LG생활건강우", "id":"051905", "volumeInc":"1.84", "price":"631000", "priceInc":"2.77" },
+    { "name":"휠라코리아", "id":"081660", "volumeInc":"1.80", "price":"101000", "priceInc":"1.30" }
+  ]
+}
