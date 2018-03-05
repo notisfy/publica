@@ -3,6 +3,7 @@
   "kospi_today" : "2375.06",
   "kospi_diff" : "-27.10",
   "featured_today" : [
+    { "name":"거래량 특징주 없음", "id":"000000", "volumeInc":"0.0", "price":"0", "priceInc":"0" }
   ],
   "holdings_today" : [
     { "name":"두산우", "id":"000155", "holdings":"215200" },
