@@ -2,10 +2,10 @@
   "version" : "volume-featured-v1",
   "stocks" : [
     { "name":"현대중공업", "id":"009540", "volumeInc":"3.06", "price":"139000", "priceInc":"12.55" },
-    { "name":"영원무역", "id":"111770", "volumeInc":"2.07", "price":"27850", "priceInc":"3.53" },
-    { "name":"삼성중공업", "id":"010140", "volumeInc":"2.07", "price":"8510", "priceInc":"3.28" },
-    { "name":"대우조선해양", "id":"042660", "volumeInc":"1.90", "price":"26100", "priceInc":"10.36" },
-    { "name":"SK하이닉스", "id":"000660", "volumeInc":"1.79", "price":"82400", "priceInc":"5.24" },
+    { "name":"삼성중공업", "id":"010140", "volumeInc":"2.08", "price":"8510", "priceInc":"3.28" },
+    { "name":"영원무역", "id":"111770", "volumeInc":"2.08", "price":"27850", "priceInc":"3.53" },
+    { "name":"대우조선해양", "id":"042660", "volumeInc":"1.91", "price":"26100", "priceInc":"10.36" },
+    { "name":"SK하이닉스", "id":"000660", "volumeInc":"1.80", "price":"82400", "priceInc":"5.24" },
     { "name":"대우건설", "id":"047040", "volumeInc":"1.65", "price":"5470", "priceInc":"7.68" },
     { "name":"SK", "id":"034730", "volumeInc":"1.62", "price":"295500", "priceInc":"5.54" },
     { "name":"키움증권", "id":"039490", "volumeInc":"1.59", "price":"101500", "priceInc":"4.10" }
