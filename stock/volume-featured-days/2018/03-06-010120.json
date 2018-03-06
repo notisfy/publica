@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "LS산전",
+  "dailyTrading" : [
+    { "date":"2018-02-20", "volume":"80347", "adjClosePrice":"57600", "featured":false },
+    { "date":"2018-02-21", "volume":"146824", "adjClosePrice":"58200", "featured":true },
+    { "date":"2018-02-22", "volume":"74660", "adjClosePrice":"57200", "featured":false },
+    { "date":"2018-02-23", "volume":"65546", "adjClosePrice":"57800", "featured":false },
+    { "date":"2018-02-26", "volume":"75248", "adjClosePrice":"57100", "featured":false },
+    { "date":"2018-02-27", "volume":"42727", "adjClosePrice":"56900", "featured":false },
+    { "date":"2018-02-28", "volume":"75370", "adjClosePrice":"55800", "featured":false },
+    { "date":"2018-03-02", "volume":"65324", "adjClosePrice":"54900", "featured":false },
+    { "date":"2018-03-05", "volume":"51553", "adjClosePrice":"54500", "featured":false },
+    { "date":"2018-03-06", "volume":"56013", "adjClosePrice":"54900", "featured":false }
+  ]
+}
