@@ -1,0 +1,10 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"현대엘리베이", "id":"017800", "volumeInc":"11.10", "price":"62600", "priceInc":"9.44" },
+    { "name":"현대상선", "id":"011200", "volumeInc":"2.26", "price":"4390", "priceInc":"0.80" },
+    { "name":"대우조선해양", "id":"042660", "volumeInc":"2.19", "price":"26350", "priceInc":"0.96" },
+    { "name":"현대건설", "id":"000720", "volumeInc":"1.59", "price":"38750", "priceInc":"1.57" },
+    { "name":"LS", "id":"006260", "volumeInc":"1.50", "price":"75400", "priceInc":"4.43" }
+  ]
+}
