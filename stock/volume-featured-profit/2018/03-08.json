@@ -1,0 +1,28 @@
+{
+  "version" : "volume-featured-profit-v1",
+  "stocks" : [
+    { "name":"대우조선해양", "id":"042660", "profit":"24.45", "featuredDate":"2018-02-22", "featuredVolumeInc":"1.81" },
+    { "name":"현대엘리베이", "id":"017800", "profit":"20.36", "featuredDate":"2018-02-23", "featuredVolumeInc":"1.51" },
+    { "name":"현대중공업", "id":"009540", "profit":"18.62", "featuredDate":"2018-02-28", "featuredVolumeInc":"1.92" },
+    { "name":"휠라코리아", "id":"081660", "profit":"12.22", "featuredDate":"2018-02-23", "featuredVolumeInc":"6.33" },
+    { "name":"삼성중공업", "id":"010140", "profit":"11.07", "featuredDate":"2018-03-06", "featuredVolumeInc":"2.07" },
+    { "name":"LG생활건강우", "id":"051905", "profit":"9.37", "featuredDate":"2018-03-02", "featuredVolumeInc":"1.84" },
+    { "name":"롯데하이마트", "id":"071840", "profit":"9.01", "featuredDate":"2018-02-26", "featuredVolumeInc":"1.73" },
+    { "name":"금호타이어", "id":"073240", "profit":"8.52", "featuredDate":"2018-02-28", "featuredVolumeInc":"1.96" },
+    { "name":"현대글로비스", "id":"086280", "profit":"6.20", "featuredDate":"2018-02-26", "featuredVolumeInc":"3.15" },
+    { "name":"SK이노베이션", "id":"096770", "profit":"5.71", "featuredDate":"2018-02-26", "featuredVolumeInc":"1.91" },
+    { "name":"농심", "id":"004370", "profit":"5.35", "featuredDate":"2018-02-23", "featuredVolumeInc":"1.83" },
+    { "name":"한화테크윈", "id":"012450", "profit":"5.34", "featuredDate":"2018-02-26", "featuredVolumeInc":"1.88" },
+    { "name":"키움증권", "id":"039490", "profit":"5.08", "featuredDate":"2018-03-06", "featuredVolumeInc":"1.59" },
+    { "name":"지역난방공사", "id":"071320", "profit":"4.52", "featuredDate":"2018-03-02", "featuredVolumeInc":"2.68" },
+    { "name":"팬오션", "id":"028670", "profit":"3.39", "featuredDate":"2018-02-23", "featuredVolumeInc":"2.15" },
+    { "name":"대우건설", "id":"047040", "profit":"3.20", "featuredDate":"2018-03-06", "featuredVolumeInc":"1.65" },
+    { "name":"신한지주", "id":"055550", "profit":"3.20", "featuredDate":"2018-02-28", "featuredVolumeInc":"1.63" },
+    { "name":"영원무역", "id":"111770", "profit":"3.15", "featuredDate":"2018-03-06", "featuredVolumeInc":"2.07" },
+    { "name":"CJ제일제당", "id":"097950", "profit":"2.66", "featuredDate":"2018-02-23", "featuredVolumeInc":"2.21" },
+    { "name":"한국가스공사", "id":"036460", "profit":"2.58", "featuredDate":"2018-03-02", "featuredVolumeInc":"2.05" },
+    { "name":"한화", "id":"000880", "profit":"2.55", "featuredDate":"2018-02-27", "featuredVolumeInc":"1.83" },
+    { "name":"SK하이닉스", "id":"000660", "profit":"2.31", "featuredDate":"2018-03-06", "featuredVolumeInc":"1.79" },
+    { "name":"SK", "id":"034730", "profit":"2.23", "featuredDate":"2018-03-06", "featuredVolumeInc":"1.62" }
+  ]
+}
