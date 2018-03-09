@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "삼성중공업",
+  "dailyTrading" : [
+    { "date":"2018-02-23", "volume":"2661884", "adjClosePrice":"8880", "featured":false },
+    { "date":"2018-02-26", "volume":"3159017", "adjClosePrice":"8760", "featured":false },
+    { "date":"2018-02-27", "volume":"2909522", "adjClosePrice":"8600", "featured":false },
+    { "date":"2018-02-28", "volume":"2457051", "adjClosePrice":"8550", "featured":false },
+    { "date":"2018-03-02", "volume":"3464665", "adjClosePrice":"8250", "featured":false },
+    { "date":"2018-03-05", "volume":"2063423", "adjClosePrice":"8240", "featured":false },
+    { "date":"2018-03-06", "volume":"13216791", "adjClosePrice":"8510", "featured":true },
+    { "date":"2018-03-07", "volume":"14198179", "adjClosePrice":"7620", "featured":false },
+    { "date":"2018-03-08", "volume":"8482749", "adjClosePrice":"8290", "featured":false },
+    { "date":"2018-03-09", "volume":"7766998", "adjClosePrice":"8160", "featured":false }
+  ]
+}
