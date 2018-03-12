@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "오뚜기",
+  "dailyTrading" : [
+    { "date":"2018-02-26", "volume":"5713", "adjClosePrice":"716000", "featured":false },
+    { "date":"2018-02-27", "volume":"5707", "adjClosePrice":"723000", "featured":false },
+    { "date":"2018-02-28", "volume":"4196", "adjClosePrice":"707000", "featured":false },
+    { "date":"2018-03-02", "volume":"5286", "adjClosePrice":"698000", "featured":false },
+    { "date":"2018-03-05", "volume":"2614", "adjClosePrice":"696000", "featured":false },
+    { "date":"2018-03-06", "volume":"2665", "adjClosePrice":"695000", "featured":false },
+    { "date":"2018-03-07", "volume":"3967", "adjClosePrice":"691000", "featured":false },
+    { "date":"2018-03-08", "volume":"15293", "adjClosePrice":"738000", "featured":true },
+    { "date":"2018-03-09", "volume":"5891", "adjClosePrice":"735000", "featured":false },
+    { "date":"2018-03-12", "volume":"3769", "adjClosePrice":"733000", "featured":false }
+  ]
+}

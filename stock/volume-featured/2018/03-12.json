@@ -1,0 +1,13 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"두산", "id":"000150", "volumeInc":"3.07", "price":"105500", "priceInc":"3.94" },
+    { "name":"코스맥스", "id":"192820", "volumeInc":"2.34", "price":"137500", "priceInc":"4.17" },
+    { "name":"LS산전", "id":"010120", "volumeInc":"2.19", "price":"60000", "priceInc":"5.82" },
+    { "name":"삼성엔지니어링", "id":"028050", "volumeInc":"2.06", "price":"18000", "priceInc":"8.11" },
+    { "name":"한미사이언스", "id":"008930", "volumeInc":"1.65", "price":"93900", "priceInc":"6.34" },
+    { "name":"맥쿼리인프라", "id":"088980", "volumeInc":"1.63", "price":"8610", "priceInc":"1.18" },
+    { "name":"오리온", "id":"001800", "volumeInc":"1.56", "price":"27750", "priceInc":"2.59" },
+    { "name":"SK이노베이션", "id":"096770", "volumeInc":"1.52", "price":"214500", "priceInc":"4.89" }
+  ]
+}
