@@ -1,0 +1,8 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"현대글로비스", "id":"086280", "volumeInc":"4.19", "price":"153000", "priceInc":"9.29" },
+    { "name":"삼성SDI", "id":"006400", "volumeInc":"2.27", "price":"206500", "priceInc":"2.23" },
+    { "name":"넥센타이어", "id":"002350", "volumeInc":"1.98", "price":"12350", "priceInc":"3.35" }
+  ]
+}
