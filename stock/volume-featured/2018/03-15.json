@@ -1,0 +1,14 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한전기술", "id":"052690", "volumeInc":"5.94", "price":"27000", "priceInc":"9.76" },
+    { "name":"JW홀딩스", "id":"096760", "volumeInc":"4.04", "price":"8660", "priceInc":"2.97" },
+    { "name":"한전KPS", "id":"051600", "volumeInc":"2.36", "price":"44300", "priceInc":"4.24" },
+    { "name":"NHN엔터테인먼트", "id":"181710", "volumeInc":"2.25", "price":"70900", "priceInc":"1.72" },
+    { "name":"영원무역홀딩스", "id":"009970", "volumeInc":"2.17", "price":"55000", "priceInc":"3.00" },
+    { "name":"이노션", "id":"214320", "volumeInc":"1.91", "price":"63900", "priceInc":"3.23" },
+    { "name":"쌍용양회", "id":"003410", "volumeInc":"1.88", "price":"21900", "priceInc":"9.23" },
+    { "name":"하나투어", "id":"039130", "volumeInc":"1.82", "price":"115000", "priceInc":"5.50" },
+    { "name":"맥쿼리인프라", "id":"088980", "volumeInc":"1.51", "price":"8730", "priceInc":"0.58" }
+  ]
+}
