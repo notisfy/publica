@@ -2,13 +2,13 @@
   "version" : "volume-featured-v1",
   "stocks" : [
     { "name":"맥쿼리인프라", "id":"088980", "volumeInc":"1.96", "price":"8820", "priceInc":"1.03" },
-    { "name":"동부하이텍", "id":"000990", "volumeInc":"1.94", "price":"16700", "priceInc":"8.09" },
+    { "name":"DB하이텍", "id":"000990", "volumeInc":"1.96", "price":"16700", "priceInc":"8.09" },
     { "name":"한섬", "id":"020000", "volumeInc":"1.83", "price":"29200", "priceInc":"2.82" },
     { "name":"아모레퍼시픽우", "id":"090435", "volumeInc":"1.66", "price":"165000", "priceInc":"2.80" },
     { "name":"롯데쇼핑", "id":"023530", "volumeInc":"1.59", "price":"229000", "priceInc":"2.92" },
     { "name":"기업은행", "id":"024110", "volumeInc":"1.56", "price":"16350", "priceInc":"3.48" },
     { "name":"LS산전", "id":"010120", "volumeInc":"1.54", "price":"64800", "priceInc":"1.25" },
     { "name":"두산", "id":"000150", "volumeInc":"1.51", "price":"103500", "priceInc":"1.47" },
-    { "name":"LG유플러스", "id":"032640", "volumeInc":"1.50", "price":"12850", "priceInc":"3.21" }
+    { "name":"LG유플러스", "id":"032640", "volumeInc":"1.51", "price":"12850", "priceInc":"3.21" }
   ]
 }
