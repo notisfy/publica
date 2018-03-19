@@ -1,0 +1,10 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"현대엘리베이", "id":"017800", "volumeInc":"6.28", "price":"84500", "priceInc":"13.12" },
+    { "name":"한전기술", "id":"052690", "volumeInc":"5.15", "price":"29050", "priceInc":"4.31" },
+    { "name":"동국제강", "id":"001230", "volumeInc":"3.75", "price":"10500", "priceInc":"5.00" },
+    { "name":"한전KPS", "id":"051600", "volumeInc":"3.32", "price":"46300", "priceInc":"4.40" },
+    { "name":"롯데푸드", "id":"002270", "volumeInc":"1.52", "price":"619000", "priceInc":"0.65" }
+  ]
+}
