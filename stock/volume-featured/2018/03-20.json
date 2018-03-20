@@ -1,0 +1,9 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"일양약품", "id":"007570", "volumeInc":"4.46", "price":"41300", "priceInc":"5.36" },
+    { "name":"휠라코리아", "id":"081660", "volumeInc":"2.80", "price":"109500", "priceInc":"7.88" },
+    { "name":"하이트진로", "id":"000080", "volumeInc":"1.58", "price":"22000", "priceInc":"4.27" },
+    { "name":"대우조선해양", "id":"042660", "volumeInc":"1.56", "price":"26650", "priceInc":"5.34" }
+  ]
+}
