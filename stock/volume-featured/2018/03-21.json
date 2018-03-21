@@ -1,0 +1,11 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한국항공우주", "id":"047810", "volumeInc":"3.13", "price":"52600", "priceInc":"6.69" },
+    { "name":"한온시스템", "id":"018880", "volumeInc":"1.98", "price":"11700", "priceInc":"0.43" },
+    { "name":"제일파마홀딩스", "id":"002620", "volumeInc":"1.79", "price":"32650", "priceInc":"4.15" },
+    { "name":"금호석유", "id":"011780", "volumeInc":"1.74", "price":"97800", "priceInc":"6.42" },
+    { "name":"한화테크윈", "id":"012450", "volumeInc":"1.65", "price":"30300", "priceInc":"4.30" },
+    { "name":"하이트진로", "id":"000080", "volumeInc":"1.63", "price":"22350", "priceInc":"1.59" }
+  ]
+}

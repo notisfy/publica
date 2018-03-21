@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "영원무역홀딩스",
+  "dailyTrading" : [
+    { "date":"2018-03-07", "volume":"977", "adjClosePrice":"52600", "featured":false },
+    { "date":"2018-03-08", "volume":"2484", "adjClosePrice":"52600", "featured":false },
+    { "date":"2018-03-09", "volume":"4233", "adjClosePrice":"53900", "featured":false },
+    { "date":"2018-03-12", "volume":"2908", "adjClosePrice":"55000", "featured":false },
+    { "date":"2018-03-13", "volume":"3078", "adjClosePrice":"55000", "featured":false },
+    { "date":"2018-03-14", "volume":"3310", "adjClosePrice":"53400", "featured":false },
+    { "date":"2018-03-15", "volume":"7490", "adjClosePrice":"55000", "featured":true },
+    { "date":"2018-03-16", "volume":"54630", "adjClosePrice":"53500", "featured":false },
+    { "date":"2018-03-19", "volume":"1843", "adjClosePrice":"53600", "featured":false },
+    { "date":"2018-03-20", "volume":"798", "adjClosePrice":"54800", "featured":false },
+    { "date":"2018-03-21", "volume":"2483", "adjClosePrice":"53400", "featured":false }
+  ]
+}
