@@ -1,0 +1,6 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"대우조선해양", "id":"042660", "volumeInc":"5.09", "price":"28200", "priceInc":"3.49" }
+  ]
+}
