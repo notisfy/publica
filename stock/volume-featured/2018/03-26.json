@@ -1,0 +1,7 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"쌍용양회", "id":"003410", "volumeInc":"1.74", "price":"22150", "priceInc":"0.91" },
+    { "name":"CJ대한통운", "id":"000120", "volumeInc":"1.66", "price":"132000", "priceInc":"1.54" }
+  ]
+}
