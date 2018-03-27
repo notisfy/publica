@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"두산중공업", "id":"034020", "volumeInc":"3.16", "price":"16550", "priceInc":"8.17" },
+    { "name":"롯데푸드", "id":"002270", "volumeInc":"2.69", "price":"643000", "priceInc":"4.21" },
+    { "name":"현대글로비스", "id":"086280", "volumeInc":"2.68", "price":"157500", "priceInc":"3.62" },
+    { "name":"쌍용양회", "id":"003410", "volumeInc":"2.23", "price":"22500", "priceInc":"1.58" },
+    { "name":"현대모비스", "id":"012330", "volumeInc":"2.17", "price":"245000", "priceInc":"5.38" },
+    { "name":"현대위아", "id":"011210", "volumeInc":"1.77", "price":"55900", "priceInc":"3.52" },
+    { "name":"삼성전기", "id":"009150", "volumeInc":"1.71", "price":"107500", "priceInc":"2.87" },
+    { "name":"현대제철", "id":"004020", "volumeInc":"1.58", "price":"52400", "priceInc":"3.56" },
+    { "name":"롯데하이마트", "id":"071840", "volumeInc":"1.57", "price":"74000", "priceInc":"2.21" },
+    { "name":"POSCO", "id":"005490", "volumeInc":"1.53", "price":"345500", "priceInc":"5.34" },
+    { "name":"휠라코리아", "id":"081660", "volumeInc":"1.52", "price":"111500", "priceInc":"2.29" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "OCI",
+  "dailyTrading" : [
+    { "date":"2018-03-13", "volume":"381750", "adjClosePrice":"149500", "featured":false },
+    { "date":"2018-03-14", "volume":"220757", "adjClosePrice":"147500", "featured":false },
+    { "date":"2018-03-15", "volume":"188405", "adjClosePrice":"148000", "featured":false },
+    { "date":"2018-03-16", "volume":"122189", "adjClosePrice":"148000", "featured":false },
+    { "date":"2018-03-19", "volume":"161204", "adjClosePrice":"148500", "featured":false },
+    { "date":"2018-03-20", "volume":"266866", "adjClosePrice":"144000", "featured":false },
+    { "date":"2018-03-21", "volume":"373073", "adjClosePrice":"143000", "featured":false },
+    { "date":"2018-03-22", "volume":"705094", "adjClosePrice":"157500", "featured":true },
+    { "date":"2018-03-23", "volume":"546187", "adjClosePrice":"158500", "featured":false },
+    { "date":"2018-03-26", "volume":"410010", "adjClosePrice":"167000", "featured":false },
+    { "date":"2018-03-27", "volume":"319663", "adjClosePrice":"161500", "featured":false }
+  ]
+}
