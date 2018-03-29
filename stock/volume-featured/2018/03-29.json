@@ -1,0 +1,12 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"현대글로비스", "id":"086280", "volumeInc":"8.97", "price":"182000", "priceInc":"4.90" },
+    { "name":"한전기술", "id":"052690", "volumeInc":"3.67", "price":"30650", "priceInc":"7.17" },
+    { "name":"삼성물산", "id":"028260", "volumeInc":"3.13", "price":"137000", "priceInc":"4.18" },
+    { "name":"한섬", "id":"020000", "volumeInc":"3.11", "price":"30850", "priceInc":"2.15" },
+    { "name":"한국전력", "id":"015760", "volumeInc":"1.71", "price":"32900", "priceInc":"3.46" },
+    { "name":"한전KPS", "id":"051600", "volumeInc":"1.61", "price":"45400", "priceInc":"2.25" },
+    { "name":"제주항공", "id":"089590", "volumeInc":"1.59", "price":"44750", "priceInc":"7.06" }
+  ]
+}

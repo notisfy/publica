@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "현대글로비스",
+  "dailyTrading" : [
+    { "date":"2018-03-15", "volume":"359213", "adjClosePrice":"156000", "featured":false },
+    { "date":"2018-03-16", "volume":"353316", "adjClosePrice":"151500", "featured":false },
+    { "date":"2018-03-19", "volume":"185939", "adjClosePrice":"154500", "featured":false },
+    { "date":"2018-03-20", "volume":"154145", "adjClosePrice":"155500", "featured":false },
+    { "date":"2018-03-21", "volume":"181999", "adjClosePrice":"161500", "featured":false },
+    { "date":"2018-03-22", "volume":"263849", "adjClosePrice":"154000", "featured":false },
+    { "date":"2018-03-23", "volume":"133183", "adjClosePrice":"153500", "featured":false },
+    { "date":"2018-03-26", "volume":"177378", "adjClosePrice":"152000", "featured":false },
+    { "date":"2018-03-27", "volume":"386105", "adjClosePrice":"157500", "featured":true },
+    { "date":"2018-03-28", "volume":"1330357", "adjClosePrice":"173500", "featured":true },
+    { "date":"2018-03-29", "volume":"1708298", "adjClosePrice":"182000", "featured":true }
+  ]
+}
