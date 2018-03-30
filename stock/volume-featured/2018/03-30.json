@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"금호타이어", "id":"073240", "volumeInc":"8.01", "price":"4615", "priceInc":"30.00" },
+    { "name":"삼성물산", "id":"028260", "volumeInc":"3.22", "price":"140000", "priceInc":"2.19" },
+    { "name":"제주항공", "id":"089590", "volumeInc":"2.21", "price":"47100", "priceInc":"5.25" },
+    { "name":"KCC", "id":"002380", "volumeInc":"2.19", "price":"345500", "priceInc":"4.22" },
+    { "name":"GS리테일", "id":"007070", "volumeInc":"1.80", "price":"32650", "priceInc":"6.35" },
+    { "name":"SK가스", "id":"018670", "volumeInc":"1.80", "price":"96000", "priceInc":"2.89" },
+    { "name":"GKL", "id":"114090", "volumeInc":"1.78", "price":"25700", "priceInc":"4.90" },
+    { "name":"대한항공", "id":"003490", "volumeInc":"1.68", "price":"33800", "priceInc":"3.36" },
+    { "name":"코스맥스", "id":"192820", "volumeInc":"1.54", "price":"142500", "priceInc":"3.64" },
+    { "name":"넥센타이어", "id":"002350", "volumeInc":"1.53", "price":"12550", "priceInc":"0.80" }
+  ]
+}
