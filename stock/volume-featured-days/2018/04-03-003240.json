@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "태광산업",
+  "dailyTrading" : [
+    { "date":"2018-03-20", "volume":"706", "adjClosePrice":"1208000", "featured":false },
+    { "date":"2018-03-21", "volume":"704", "adjClosePrice":"1194000", "featured":false },
+    { "date":"2018-03-22", "volume":"642", "adjClosePrice":"1201000", "featured":false },
+    { "date":"2018-03-23", "volume":"1016", "adjClosePrice":"1170000", "featured":false },
+    { "date":"2018-03-26", "volume":"864", "adjClosePrice":"1210000", "featured":false },
+    { "date":"2018-03-27", "volume":"1106", "adjClosePrice":"1202000", "featured":false },
+    { "date":"2018-03-28", "volume":"1821", "adjClosePrice":"1255000", "featured":true },
+    { "date":"2018-03-29", "volume":"1066", "adjClosePrice":"1260000", "featured":false },
+    { "date":"2018-03-30", "volume":"666", "adjClosePrice":"1257000", "featured":false },
+    { "date":"2018-04-02", "volume":"1671", "adjClosePrice":"1333000", "featured":true },
+    { "date":"2018-04-03", "volume":"833", "adjClosePrice":"1357000", "featured":false }
+  ]
+}
