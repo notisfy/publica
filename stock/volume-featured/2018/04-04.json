@@ -1,0 +1,20 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"영진약품", "id":"003520", "volumeInc":"5.62", "price":"9770", "priceInc":"17.71" },
+    { "name":"부광약품", "id":"003000", "volumeInc":"5.37", "price":"26950", "priceInc":"5.48" },
+    { "name":"현대로템", "id":"064350", "volumeInc":"3.85", "price":"16600", "priceInc":"4.73" },
+    { "name":"동양생명", "id":"082640", "volumeInc":"3.02", "price":"7910", "priceInc":"4.08" },
+    { "name":"현대차우", "id":"005385", "volumeInc":"3.00", "price":"88800", "priceInc":"4.23" },
+    { "name":"현대상선", "id":"011200", "volumeInc":"2.88", "price":"4485", "priceInc":"0.79" },
+    { "name":"현대차2우B", "id":"005387", "volumeInc":"2.85", "price":"99700", "priceInc":"3.75" },
+    { "name":"일양약품", "id":"007570", "volumeInc":"2.44", "price":"43150", "priceInc":"1.89" },
+    { "name":"현대글로비스", "id":"086280", "volumeInc":"2.26", "price":"171000", "priceInc":"3.01" },
+    { "name":"현대모비스", "id":"012330", "volumeInc":"2.21", "price":"264500", "priceInc":"3.52" },
+    { "name":"현대차", "id":"005380", "volumeInc":"2.20", "price":"156500", "priceInc":"2.96" },
+    { "name":"현대위아", "id":"011210", "volumeInc":"2.13", "price":"57300", "priceInc":"4.37" },
+    { "name":"휠라코리아", "id":"081660", "volumeInc":"1.71", "price":"112500", "priceInc":"0.90" },
+    { "name":"강원랜드", "id":"035250", "volumeInc":"1.54", "price":"28450", "priceInc":"0.35" },
+    { "name":"유한양행", "id":"000100", "volumeInc":"1.51", "price":"228000", "priceInc":"1.33" }
+  ]
+}
