@@ -1,0 +1,10 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"현대상선", "id":"011200", "volumeInc":"16.71", "price":"5150", "priceInc":"14.83" },
+    { "name":"쿠쿠홀딩스", "id":"192400", "volumeInc":"3.11", "price":"95900", "priceInc":"1.05" },
+    { "name":"현대중공업", "id":"009540", "volumeInc":"1.80", "price":"129500", "priceInc":"7.02" },
+    { "name":"현대산업", "id":"012630", "volumeInc":"1.76", "price":"39600", "priceInc":"0.76" },
+    { "name":"유한양행", "id":"000100", "volumeInc":"1.73", "price":"232500", "priceInc":"1.97" }
+  ]
+}

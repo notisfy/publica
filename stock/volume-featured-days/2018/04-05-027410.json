@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "BGF",
+  "dailyTrading" : [
+    { "date":"2018-03-22", "volume":"1437312", "adjClosePrice":"15050", "featured":true },
+    { "date":"2018-03-23", "volume":"1426652", "adjClosePrice":"15250", "featured":false },
+    { "date":"2018-03-26", "volume":"1519789", "adjClosePrice":"13550", "featured":false },
+    { "date":"2018-03-27", "volume":"1736317", "adjClosePrice":"12750", "featured":false },
+    { "date":"2018-03-28", "volume":"890244", "adjClosePrice":"12400", "featured":false },
+    { "date":"2018-03-29", "volume":"620321", "adjClosePrice":"12650", "featured":false },
+    { "date":"2018-03-30", "volume":"499717", "adjClosePrice":"13100", "featured":false },
+    { "date":"2018-04-02", "volume":"515196", "adjClosePrice":"13250", "featured":false },
+    { "date":"2018-04-03", "volume":"435946", "adjClosePrice":"13400", "featured":false },
+    { "date":"2018-04-04", "volume":"569962", "adjClosePrice":"12900", "featured":false },
+    { "date":"2018-04-05", "volume":"405800", "adjClosePrice":"12900", "featured":false }
+  ]
+}
