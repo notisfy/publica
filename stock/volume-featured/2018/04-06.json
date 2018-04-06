@@ -1,0 +1,12 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"현대산업", "id":"012630", "volumeInc":"2.72", "price":"41750", "priceInc":"5.43" },
+    { "name":"현대엘리베이", "id":"017800", "volumeInc":"2.37", "price":"80300", "priceInc":"0.63" },
+    { "name":"롯데푸드", "id":"002270", "volumeInc":"2.34", "price":"701000", "priceInc":"2.04" },
+    { "name":"JW홀딩스", "id":"096760", "volumeInc":"2.16", "price":"9040", "priceInc":"2.38" },
+    { "name":"LG전자", "id":"066570", "volumeInc":"1.93", "price":"111000", "priceInc":"5.71" },
+    { "name":"현대차우", "id":"005385", "volumeInc":"1.83", "price":"90100", "priceInc":"0.67" },
+    { "name":"CJ CGV", "id":"079160", "volumeInc":"1.81", "price":"71300", "priceInc":"0.56" }
+  ]
+}
