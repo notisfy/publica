@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"GS건설", "id":"006360", "volumeInc":"9.39", "price":"33750", "priceInc":"14.99" },
+    { "name":"유한양행", "id":"000100", "volumeInc":"5.80", "price":"254500", "priceInc":"8.53" },
+    { "name":"부광약품", "id":"003000", "volumeInc":"4.83", "price":"29450", "priceInc":"9.89" },
+    { "name":"현대산업", "id":"012630", "volumeInc":"3.46", "price":"43750", "priceInc":"4.79" },
+    { "name":"CJ CGV", "id":"079160", "volumeInc":"3.06", "price":"75600", "priceInc":"6.03" },
+    { "name":"대림산업", "id":"000210", "volumeInc":"2.75", "price":"77300", "priceInc":"3.76" },
+    { "name":"일양약품", "id":"007570", "volumeInc":"2.56", "price":"44550", "priceInc":"2.41" },
+    { "name":"한올바이오파마", "id":"009420", "volumeInc":"1.93", "price":"35750", "priceInc":"0.85" },
+    { "name":"대우건설", "id":"047040", "volumeInc":"1.72", "price":"5580", "priceInc":"4.89" },
+    { "name":"현대건설", "id":"000720", "volumeInc":"1.66", "price":"44650", "priceInc":"2.76" },
+    { "name":"삼성중공업", "id":"010140", "volumeInc":"1.62", "price":"8220", "priceInc":"4.85" }
+  ]
+}

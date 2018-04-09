@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "롯데지주",
+  "dailyTrading" : [
+    { "date":"2018-03-26", "volume":"116939", "adjClosePrice":"60200", "featured":false },
+    { "date":"2018-03-27", "volume":"121292", "adjClosePrice":"61500", "featured":false },
+    { "date":"2018-03-28", "volume":"194726", "adjClosePrice":"63000", "featured":false },
+    { "date":"2018-03-29", "volume":"114764", "adjClosePrice":"63400", "featured":false },
+    { "date":"2018-03-30", "volume":"96836", "adjClosePrice":"63500", "featured":false },
+    { "date":"2018-04-02", "volume":"333418", "adjClosePrice":"66600", "featured":true },
+    { "date":"2018-04-03", "volume":"415929", "adjClosePrice":"68900", "featured":true },
+    { "date":"2018-04-04", "volume":"184040", "adjClosePrice":"67100", "featured":false },
+    { "date":"2018-04-05", "volume":"190588", "adjClosePrice":"67800", "featured":false },
+    { "date":"2018-04-06", "volume":"141797", "adjClosePrice":"68200", "featured":false },
+    { "date":"2018-04-09", "volume":"489648", "adjClosePrice":"64400", "featured":false }
+  ]
+}
