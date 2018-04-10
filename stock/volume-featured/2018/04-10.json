@@ -1,0 +1,20 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"삼성물산", "id":"028260", "volumeInc":"5.03", "price":"144000", "priceInc":"3.97" },
+    { "name":"아모레퍼시픽우", "id":"090435", "volumeInc":"3.12", "price":"172500", "priceInc":"1.47" },
+    { "name":"LG생활건강우", "id":"051905", "volumeInc":"2.80", "price":"762000", "priceInc":"1.20" },
+    { "name":"종근당", "id":"185750", "volumeInc":"2.56", "price":"138000", "priceInc":"4.55" },
+    { "name":"한미약품", "id":"128940", "volumeInc":"2.32", "price":"555000", "priceInc":"8.40" },
+    { "name":"하나금융지주", "id":"086790", "volumeInc":"1.95", "price":"42800", "priceInc":"2.88" },
+    { "name":"한미사이언스", "id":"008930", "volumeInc":"1.79", "price":"97100", "priceInc":"4.52" },
+    { "name":"녹십자", "id":"006280", "volumeInc":"1.79", "price":"222500", "priceInc":"3.97" },
+    { "name":"휠라코리아", "id":"081660", "volumeInc":"1.76", "price":"118500", "priceInc":"4.87" },
+    { "name":"현대그린푸드", "id":"005440", "volumeInc":"1.71", "price":"15200", "priceInc":"2.70" },
+    { "name":"POSCO", "id":"005490", "volumeInc":"1.65", "price":"324500", "priceInc":"3.67" },
+    { "name":"삼성전기", "id":"009150", "volumeInc":"1.57", "price":"109000", "priceInc":"2.83" },
+    { "name":"동아에스티", "id":"170900", "volumeInc":"1.57", "price":"114000", "priceInc":"4.11" },
+    { "name":"KCC", "id":"002380", "volumeInc":"1.55", "price":"362000", "priceInc":"2.55" },
+    { "name":"우리은행", "id":"000030", "volumeInc":"1.51", "price":"14250", "priceInc":"3.26" }
+  ]
+}
