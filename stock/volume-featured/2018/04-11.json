@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"JW홀딩스", "id":"096760", "volumeInc":"26.41", "price":"10700", "priceInc":"16.81" },
+    { "name":"JW중외제약", "id":"001060", "volumeInc":"13.74", "price":"48950", "priceInc":"7.58" },
+    { "name":"부광약품", "id":"003000", "volumeInc":"4.67", "price":"30750", "priceInc":"3.71" },
+    { "name":"롯데푸드", "id":"002270", "volumeInc":"2.93", "price":"698000", "priceInc":"0.58" },
+    { "name":"영진약품", "id":"003520", "volumeInc":"2.54", "price":"9200", "priceInc":"2.68" },
+    { "name":"우리은행", "id":"000030", "volumeInc":"2.40", "price":"14350", "priceInc":"0.70" },
+    { "name":"제일파마홀딩스", "id":"002620", "volumeInc":"2.30", "price":"32750", "priceInc":"2.66" },
+    { "name":"동아에스티", "id":"170900", "volumeInc":"1.94", "price":"121000", "priceInc":"6.14" },
+    { "name":"한국가스공사", "id":"036460", "volumeInc":"1.69", "price":"50500", "priceInc":"2.43" },
+    { "name":"LG하우시스", "id":"108670", "volumeInc":"1.68", "price":"80200", "priceInc":"3.22" }
+  ]
+}
