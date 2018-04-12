@@ -1,0 +1,14 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"삼성전기", "id":"009150", "volumeInc":"3.80", "price":"115500", "priceInc":"6.94" },
+    { "name":"대림산업", "id":"000210", "volumeInc":"3.75", "price":"80000", "priceInc":"5.26" },
+    { "name":"롯데지주", "id":"004990", "volumeInc":"2.73", "price":"62900", "priceInc":"0.80" },
+    { "name":"GS건설", "id":"006360", "volumeInc":"2.24", "price":"34400", "priceInc":"2.84" },
+    { "name":"휠라코리아", "id":"081660", "volumeInc":"2.09", "price":"124500", "priceInc":"4.18" },
+    { "name":"현대산업", "id":"012630", "volumeInc":"1.79", "price":"43800", "priceInc":"0.46" },
+    { "name":"현대미포조선", "id":"010620", "volumeInc":"1.77", "price":"93000", "priceInc":"0.76" },
+    { "name":"하나금융지주", "id":"086790", "volumeInc":"1.75", "price":"42900", "priceInc":"1.42" },
+    { "name":"두산", "id":"000150", "volumeInc":"1.50", "price":"106500", "priceInc":"3.40" }
+  ]
+}
