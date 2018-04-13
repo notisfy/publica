@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "현대차우",
+  "dailyTrading" : [
+    { "date":"2018-03-30", "volume":"29047", "adjClosePrice":"85500", "featured":false },
+    { "date":"2018-04-02", "volume":"52156", "adjClosePrice":"85400", "featured":false },
+    { "date":"2018-04-03", "volume":"68137", "adjClosePrice":"85200", "featured":false },
+    { "date":"2018-04-04", "volume":"104435", "adjClosePrice":"88800", "featured":true },
+    { "date":"2018-04-05", "volume":"52161", "adjClosePrice":"89500", "featured":false },
+    { "date":"2018-04-06", "volume":"65833", "adjClosePrice":"90100", "featured":true },
+    { "date":"2018-04-09", "volume":"46123", "adjClosePrice":"89400", "featured":false },
+    { "date":"2018-04-10", "volume":"46577", "adjClosePrice":"89000", "featured":false },
+    { "date":"2018-04-11", "volume":"27399", "adjClosePrice":"88000", "featured":false },
+    { "date":"2018-04-12", "volume":"40211", "adjClosePrice":"88000", "featured":false },
+    { "date":"2018-04-13", "volume":"43471", "adjClosePrice":"86600", "featured":false }
+  ]
+}
