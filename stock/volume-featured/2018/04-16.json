@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"부광약품", "id":"003000", "volumeInc":"4.00", "price":"29600", "priceInc":"2.96" },
+    { "name":"한전기술", "id":"052690", "volumeInc":"3.26", "price":"31850", "priceInc":"11.95" },
+    { "name":"GKL", "id":"114090", "volumeInc":"2.58", "price":"26700", "priceInc":"7.66" },
+    { "name":"삼성전기", "id":"009150", "volumeInc":"2.41", "price":"126000", "priceInc":"6.33" },
+    { "name":"영원무역", "id":"111770", "volumeInc":"2.38", "price":"28350", "priceInc":"2.90" },
+    { "name":"아시아나항공", "id":"020560", "volumeInc":"1.91", "price":"5200", "priceInc":"4.10" },
+    { "name":"한화생명", "id":"088350", "volumeInc":"1.81", "price":"6170", "priceInc":"4.05" },
+    { "name":"영진약품", "id":"003520", "volumeInc":"1.79", "price":"9560", "priceInc":"2.91" },
+    { "name":"현대로템", "id":"064350", "volumeInc":"1.62", "price":"17700", "priceInc":"3.51" },
+    { "name":"LG이노텍", "id":"011070", "volumeInc":"1.61", "price":"131000", "priceInc":"6.50" }
+  ]
+}

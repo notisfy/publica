@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "제일파마홀딩스",
+  "dailyTrading" : [
+    { "date":"2018-04-02", "volume":"3563", "adjClosePrice":"31700", "featured":false },
+    { "date":"2018-04-03", "volume":"4716", "adjClosePrice":"31250", "featured":false },
+    { "date":"2018-04-04", "volume":"6119", "adjClosePrice":"31300", "featured":false },
+    { "date":"2018-04-05", "volume":"8926", "adjClosePrice":"31550", "featured":false },
+    { "date":"2018-04-06", "volume":"2704", "adjClosePrice":"31600", "featured":false },
+    { "date":"2018-04-09", "volume":"5140", "adjClosePrice":"31700", "featured":false },
+    { "date":"2018-04-10", "volume":"5106", "adjClosePrice":"31900", "featured":false },
+    { "date":"2018-04-11", "volume":"28996", "adjClosePrice":"32750", "featured":true },
+    { "date":"2018-04-12", "volume":"10227", "adjClosePrice":"32450", "featured":false },
+    { "date":"2018-04-13", "volume":"27995", "adjClosePrice":"33250", "featured":true },
+    { "date":"2018-04-16", "volume":"9389", "adjClosePrice":"33300", "featured":false }
+  ]
+}
