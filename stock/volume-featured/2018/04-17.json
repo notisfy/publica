@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"현대차우", "id":"005385", "volumeInc":"5.02", "price":"90600", "priceInc":"4.02" },
+    { "name":"현대차2우B", "id":"005387", "volumeInc":"5.00", "price":"102500", "priceInc":"3.54" },
+    { "name":"강원랜드", "id":"035250", "volumeInc":"2.59", "price":"27100", "priceInc":"2.46" },
+    { "name":"LG이노텍", "id":"011070", "volumeInc":"2.24", "price":"136500", "priceInc":"4.20" },
+    { "name":"동양생명", "id":"082640", "volumeInc":"2.03", "price":"8460", "priceInc":"1.44" },
+    { "name":"유한양행", "id":"000100", "volumeInc":"1.73", "price":"252000", "priceInc":"1.82" },
+    { "name":"CJ CGV", "id":"079160", "volumeInc":"1.63", "price":"76000", "priceInc":"1.74" },
+    { "name":"CJ대한통운", "id":"000120", "volumeInc":"1.62", "price":"146500", "priceInc":"1.03" },
+    { "name":"아모레퍼시픽우", "id":"090435", "volumeInc":"1.60", "price":"175500", "priceInc":"0.86" },
+    { "name":"현대글로비스", "id":"086280", "volumeInc":"1.51", "price":"188000", "priceInc":"6.52" }
+  ]
+}
