@@ -1,0 +1,25 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"쌍용양회", "id":"003410", "volumeInc":"4.06", "price":"23650", "priceInc":"7.01" },
+    { "name":"동양생명", "id":"082640", "volumeInc":"3.20", "price":"8770", "priceInc":"3.66" },
+    { "name":"두산중공업", "id":"034020", "volumeInc":"2.89", "price":"16050", "priceInc":"5.94" },
+    { "name":"현대엘리베이", "id":"017800", "volumeInc":"2.65", "price":"89400", "priceInc":"5.30" },
+    { "name":"현대건설", "id":"000720", "volumeInc":"2.57", "price":"44250", "priceInc":"9.12" },
+    { "name":"롯데푸드", "id":"002270", "volumeInc":"2.18", "price":"709000", "priceInc":"3.05" },
+    { "name":"한국콜마", "id":"161890", "volumeInc":"1.96", "price":"82900", "priceInc":"3.11" },
+    { "name":"KCC", "id":"002380", "volumeInc":"1.93", "price":"371500", "priceInc":"3.34" },
+    { "name":"LS", "id":"006260", "volumeInc":"1.92", "price":"71600", "priceInc":"6.39" },
+    { "name":"POSCO", "id":"005490", "volumeInc":"1.90", "price":"349500", "priceInc":"4.95" },
+    { "name":"현대제철", "id":"004020", "volumeInc":"1.86", "price":"51800", "priceInc":"3.39" },
+    { "name":"쿠쿠홀딩스", "id":"192400", "volumeInc":"1.84", "price":"116500", "priceInc":"7.37" },
+    { "name":"현대로템", "id":"064350", "volumeInc":"1.83", "price":"18200", "priceInc":"3.12" },
+    { "name":"동양", "id":"001520", "volumeInc":"1.83", "price":"1960", "priceInc":"4.81" },
+    { "name":"하이트진로", "id":"000080", "volumeInc":"1.82", "price":"21100", "priceInc":"1.44" },
+    { "name":"현대상선", "id":"011200", "volumeInc":"1.80", "price":"4815", "priceInc":"5.25" },
+    { "name":"대림산업", "id":"000210", "volumeInc":"1.79", "price":"81700", "priceInc":"4.34" },
+    { "name":"CJ대한통운", "id":"000120", "volumeInc":"1.78", "price":"149500", "priceInc":"2.05" },
+    { "name":"현대산업", "id":"012630", "volumeInc":"1.69", "price":"43200", "priceInc":"1.41" },
+    { "name":"대우건설", "id":"047040", "volumeInc":"1.66", "price":"5990", "priceInc":"5.46" }
+  ]
+}
