@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "JW홀딩스",
+  "dailyTrading" : [
+    { "date":"2018-04-05", "volume":"440131", "adjClosePrice":"8830", "featured":false },
+    { "date":"2018-04-06", "volume":"737801", "adjClosePrice":"9040", "featured":true },
+    { "date":"2018-04-09", "volume":"333644", "adjClosePrice":"9100", "featured":false },
+    { "date":"2018-04-10", "volume":"412209", "adjClosePrice":"9160", "featured":false },
+    { "date":"2018-04-11", "volume":"15040687", "adjClosePrice":"10700", "featured":true },
+    { "date":"2018-04-12", "volume":"3617968", "adjClosePrice":"9910", "featured":false },
+    { "date":"2018-04-13", "volume":"1470379", "adjClosePrice":"10000", "featured":false },
+    { "date":"2018-04-16", "volume":"862175", "adjClosePrice":"9970", "featured":false },
+    { "date":"2018-04-17", "volume":"732282", "adjClosePrice":"9850", "featured":false },
+    { "date":"2018-04-18", "volume":"763829", "adjClosePrice":"9600", "featured":false }
+  ]
+}
