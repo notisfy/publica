@@ -1,6 +1,25 @@
 {
   "version" : "volume-featured-v1",
   "stocks" : [
-    { "name":"거래량 특징주 없음", "id":"000000", "volumeInc":"0.0", "price":"0", "priceInc":"0" }
+    { "name":"쌍용양회", "id":"003410", "volumeInc":"12.32", "price":"25700", "priceInc":"8.67" },
+    { "name":"대한전선", "id":"001440", "volumeInc":"7.14", "price":"1495", "priceInc":"9.52" },
+    { "name":"현대엘리베이", "id":"017800", "volumeInc":"6.52", "price":"104000", "priceInc":"16.33" },
+    { "name":"현대건설", "id":"000720", "volumeInc":"6.38", "price":"49650", "priceInc":"12.20" },
+    { "name":"현대차우", "id":"005385", "volumeInc":"4.96", "price":"92300", "priceInc":"0.98" },
+    { "name":"현대산업", "id":"012630", "volumeInc":"3.50", "price":"44050", "priceInc":"1.97" },
+    { "name":"동양", "id":"001520", "volumeInc":"3.48", "price":"2000", "priceInc":"2.04" },
+    { "name":"현대제철", "id":"004020", "volumeInc":"3.35", "price":"54300", "priceInc":"4.83" },
+    { "name":"쿠쿠홀딩스", "id":"192400", "volumeInc":"3.29", "price":"121500", "priceInc":"4.29" },
+    { "name":"한전KPS", "id":"051600", "volumeInc":"3.24", "price":"48450", "priceInc":"6.48" },
+    { "name":"현대상선", "id":"011200", "volumeInc":"3.05", "price":"4955", "priceInc":"2.91" },
+    { "name":"대우건설", "id":"047040", "volumeInc":"2.92", "price":"6320", "priceInc":"5.51" },
+    { "name":"GS건설", "id":"006360", "volumeInc":"2.82", "price":"36900", "priceInc":"4.53" },
+    { "name":"LG하우시스", "id":"108670", "volumeInc":"2.72", "price":"82300", "priceInc":"2.75" },
+    { "name":"한전기술", "id":"052690", "volumeInc":"2.58", "price":"33700", "priceInc":"6.14" },
+    { "name":"동국제강", "id":"001230", "volumeInc":"2.27", "price":"10200", "priceInc":"6.81" },
+    { "name":"LS", "id":"006260", "volumeInc":"2.13", "price":"74200", "priceInc":"3.63" },
+    { "name":"한국가스공사", "id":"036460", "volumeInc":"2.09", "price":"50800", "priceInc":"3.67" },
+    { "name":"풍산", "id":"103140", "volumeInc":"2.07", "price":"39600", "priceInc":"6.02" },
+    { "name":"LS산전", "id":"010120", "volumeInc":"1.98", "price":"65500", "priceInc":"2.50" }
   ]
 }

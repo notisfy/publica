@@ -11,6 +11,7 @@
     { "date":"2018-04-13", "volume":"2131534", "adjClosePrice":"14600", "featured":true },
     { "date":"2018-04-16", "volume":"750472", "adjClosePrice":"14450", "featured":false },
     { "date":"2018-04-17", "volume":"760945", "adjClosePrice":"14350", "featured":false },
-    { "date":"2018-04-18", "volume":"1450956", "adjClosePrice":"14750", "featured":false }
+    { "date":"2018-04-18", "volume":"1450956", "adjClosePrice":"14750", "featured":false },
+    { "date":"2018-04-19", "volume":"1142384", "adjClosePrice":"14850", "featured":false }
   ]
 }
