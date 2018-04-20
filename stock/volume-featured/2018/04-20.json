@@ -1,0 +1,20 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"영진약품", "id":"003520", "volumeInc":"8.51", "price":"9040", "priceInc":"2.96" },
+    { "name":"강원랜드", "id":"035250", "volumeInc":"3.93", "price":"28750", "priceInc":"4.17" },
+    { "name":"현대산업", "id":"012630", "volumeInc":"3.67", "price":"45450", "priceInc":"3.18" },
+    { "name":"LS산전", "id":"010120", "volumeInc":"3.04", "price":"67000", "priceInc":"2.29" },
+    { "name":"두산중공업", "id":"034020", "volumeInc":"2.83", "price":"16900", "priceInc":"3.05" },
+    { "name":"한전기술", "id":"052690", "volumeInc":"2.76", "price":"35750", "priceInc":"6.08" },
+    { "name":"SK디스커버리", "id":"006120", "volumeInc":"2.49", "price":"42650", "priceInc":"4.79" },
+    { "name":"한섬", "id":"020000", "volumeInc":"2.40", "price":"35200", "priceInc":"6.02" },
+    { "name":"한국전력", "id":"015760", "volumeInc":"1.92", "price":"35800", "priceInc":"3.17" },
+    { "name":"롯데정밀화학", "id":"004000", "volumeInc":"1.81", "price":"70000", "priceInc":"0.14" },
+    { "name":"KCC", "id":"002380", "volumeInc":"1.77", "price":"375000", "priceInc":"0.27" },
+    { "name":"롯데지주", "id":"004990", "volumeInc":"1.69", "price":"65400", "priceInc":"2.67" },
+    { "name":"LG전자", "id":"066570", "volumeInc":"1.69", "price":"109000", "priceInc":"2.83" },
+    { "name":"한화", "id":"000880", "volumeInc":"1.65", "price":"41250", "priceInc":"2.87" },
+    { "name":"SK가스", "id":"018670", "volumeInc":"1.56", "price":"96000", "priceInc":"1.80" }
+  ]
+}
