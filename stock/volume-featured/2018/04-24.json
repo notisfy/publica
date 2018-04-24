@@ -1,0 +1,20 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"현대차우", "id":"005385", "volumeInc":"5.40", "price":"97400", "priceInc":"4.73" },
+    { "name":"현대차2우B", "id":"005387", "volumeInc":"5.16", "price":"109500", "priceInc":"1.86" },
+    { "name":"한진칼", "id":"180640", "volumeInc":"4.51", "price":"25550", "priceInc":"4.29" },
+    { "name":"동서", "id":"026960", "volumeInc":"3.81", "price":"27650", "priceInc":"1.84" },
+    { "name":"현대산업", "id":"012630", "volumeInc":"3.34", "price":"46850", "priceInc":"2.97" },
+    { "name":"KCC", "id":"002380", "volumeInc":"2.41", "price":"387500", "priceInc":"3.06" },
+    { "name":"영원무역", "id":"111770", "volumeInc":"2.16", "price":"29900", "priceInc":"3.28" },
+    { "name":"CJ제일제당", "id":"097950", "volumeInc":"2.14", "price":"340500", "priceInc":"2.56" },
+    { "name":"BNK금융지주", "id":"138930", "volumeInc":"1.96", "price":"10450", "priceInc":"0.97" },
+    { "name":"삼성생명", "id":"032830", "volumeInc":"1.88", "price":"117500", "priceInc":"2.62" },
+    { "name":"롯데정밀화학", "id":"004000", "volumeInc":"1.80", "price":"69600", "priceInc":"1.46" },
+    { "name":"NH투자증권", "id":"005940", "volumeInc":"1.75", "price":"15400", "priceInc":"4.76" },
+    { "name":"호텔신라", "id":"008770", "volumeInc":"1.70", "price":"107500", "priceInc":"3.37" },
+    { "name":"하이트진로", "id":"000080", "volumeInc":"1.65", "price":"21750", "priceInc":"2.59" },
+    { "name":"키움증권", "id":"039490", "volumeInc":"1.52", "price":"118000", "priceInc":"1.72" }
+  ]
+}
