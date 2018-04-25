@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"현대백화점", "id":"069960", "volumeInc":"3.65", "price":"97200", "priceInc":"6.93" },
+    { "name":"동원F&B", "id":"049770", "volumeInc":"2.87", "price":"238000", "priceInc":"5.78" },
+    { "name":"영원무역", "id":"111770", "volumeInc":"2.53", "price":"30600", "priceInc":"2.34" },
+    { "name":"대상", "id":"001680", "volumeInc":"2.29", "price":"26250", "priceInc":"2.54" },
+    { "name":"스카이라이프", "id":"053210", "volumeInc":"1.83", "price":"12650", "priceInc":"0.80" },
+    { "name":"롯데푸드", "id":"002270", "volumeInc":"1.82", "price":"752000", "priceInc":"3.87" },
+    { "name":"CJ CGV", "id":"079160", "volumeInc":"1.70", "price":"77000", "priceInc":"2.94" },
+    { "name":"현대홈쇼핑", "id":"057050", "volumeInc":"1.57", "price":"107000", "priceInc":"1.42" },
+    { "name":"삼성카드", "id":"029780", "volumeInc":"1.55", "price":"36750", "priceInc":"2.65" },
+    { "name":"농심", "id":"004370", "volumeInc":"1.54", "price":"327500", "priceInc":"0.46" }
+  ]
+}
