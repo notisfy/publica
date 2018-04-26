@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"쌍용양회", "id":"003410", "volumeInc":"4.86", "price":"25300", "priceInc":"4.98" },
+    { "name":"현대산업", "id":"012630", "volumeInc":"4.53", "price":"46400", "priceInc":"0.32" },
+    { "name":"현대미포조선", "id":"010620", "volumeInc":"3.06", "price":"91900", "priceInc":"10.59" },
+    { "name":"현대상선", "id":"011200", "volumeInc":"3.05", "price":"5280", "priceInc":"7.76" },
+    { "name":"대림산업", "id":"000210", "volumeInc":"2.12", "price":"85500", "priceInc":"1.91" },
+    { "name":"코리안리", "id":"003690", "volumeInc":"1.98", "price":"11500", "priceInc":"0.44" },
+    { "name":"삼성물산", "id":"028260", "volumeInc":"1.95", "price":"139500", "priceInc":"3.33" },
+    { "name":"GS건설", "id":"006360", "volumeInc":"1.92", "price":"38400", "priceInc":"3.78" },
+    { "name":"영진약품", "id":"003520", "volumeInc":"1.90", "price":"8720", "priceInc":"2.23" },
+    { "name":"SK하이닉스", "id":"000660", "volumeInc":"1.77", "price":"86500", "priceInc":"4.98" },
+    { "name":"삼성전기", "id":"009150", "volumeInc":"1.71", "price":"118500", "priceInc":"0.85" },
+    { "name":"SK디스커버리", "id":"006120", "volumeInc":"1.56", "price":"42350", "priceInc":"3.17" }
+  ]
+}
