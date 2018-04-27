@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "한전KPS",
+  "dailyTrading" : [
+    { "date":"2018-04-13", "volume":"65824", "adjClosePrice":"45000", "featured":false },
+    { "date":"2018-04-16", "volume":"200433", "adjClosePrice":"46350", "featured":false },
+    { "date":"2018-04-17", "volume":"169359", "adjClosePrice":"46050", "featured":false },
+    { "date":"2018-04-18", "volume":"122266", "adjClosePrice":"45500", "featured":false },
+    { "date":"2018-04-19", "volume":"526149", "adjClosePrice":"48450", "featured":true },
+    { "date":"2018-04-20", "volume":"491847", "adjClosePrice":"49750", "featured":false },
+    { "date":"2018-04-23", "volume":"536448", "adjClosePrice":"51200", "featured":true },
+    { "date":"2018-04-24", "volume":"270894", "adjClosePrice":"49500", "featured":false },
+    { "date":"2018-04-25", "volume":"200210", "adjClosePrice":"48750", "featured":false },
+    { "date":"2018-04-26", "volume":"128362", "adjClosePrice":"49050", "featured":false },
+    { "date":"2018-04-27", "volume":"150404", "adjClosePrice":"49750", "featured":false }
+  ]
+}

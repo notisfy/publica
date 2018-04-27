@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "GKL",
+  "dailyTrading" : [
+    { "date":"2018-04-13", "volume":"256209", "adjClosePrice":"24800", "featured":false },
+    { "date":"2018-04-16", "volume":"850168", "adjClosePrice":"26700", "featured":true },
+    { "date":"2018-04-17", "volume":"619057", "adjClosePrice":"27000", "featured":false },
+    { "date":"2018-04-18", "volume":"441603", "adjClosePrice":"26600", "featured":false },
+    { "date":"2018-04-19", "volume":"311765", "adjClosePrice":"26400", "featured":false },
+    { "date":"2018-04-20", "volume":"162944", "adjClosePrice":"26700", "featured":false },
+    { "date":"2018-04-23", "volume":"231012", "adjClosePrice":"25600", "featured":false },
+    { "date":"2018-04-24", "volume":"468718", "adjClosePrice":"27400", "featured":false },
+    { "date":"2018-04-25", "volume":"275919", "adjClosePrice":"27500", "featured":false },
+    { "date":"2018-04-26", "volume":"297660", "adjClosePrice":"26500", "featured":false },
+    { "date":"2018-04-27", "volume":"172297", "adjClosePrice":"26600", "featured":false }
+  ]
+}
