@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "쿠쿠홀딩스",
+  "dailyTrading" : [
+    { "date":"2018-04-18", "volume":"28039", "adjClosePrice":"116500", "featured":true },
+    { "date":"2018-04-19", "volume":"51467", "adjClosePrice":"121500", "featured":true },
+    { "date":"2018-04-20", "volume":"30201", "adjClosePrice":"115500", "featured":false },
+    { "date":"2018-04-23", "volume":"22078", "adjClosePrice":"113000", "featured":false },
+    { "date":"2018-04-24", "volume":"16748", "adjClosePrice":"117000", "featured":false },
+    { "date":"2018-04-25", "volume":"16247", "adjClosePrice":"121500", "featured":false },
+    { "date":"2018-04-26", "volume":"7633", "adjClosePrice":"120500", "featured":false },
+    { "date":"2018-04-27", "volume":"13197", "adjClosePrice":"122500", "featured":false },
+    { "date":"2018-04-30", "volume":"13450", "adjClosePrice":"119000", "featured":false },
+    { "date":"2018-05-02", "volume":"17471", "adjClosePrice":"121000", "featured":false }
+  ]
+}
