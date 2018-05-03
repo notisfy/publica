@@ -1,0 +1,6 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"거래량 특징주 없음", "id":"000000", "volumeInc":"0.0", "price":"0", "priceInc":"0" }
+  ]
+}

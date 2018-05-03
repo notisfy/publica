@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "SK디스커버리",
+  "dailyTrading" : [
+    { "date":"2018-04-19", "volume":"84292", "adjClosePrice":"40700", "featured":false },
+    { "date":"2018-04-20", "volume":"297111", "adjClosePrice":"42650", "featured":true },
+    { "date":"2018-04-23", "volume":"156441", "adjClosePrice":"42650", "featured":false },
+    { "date":"2018-04-24", "volume":"138124", "adjClosePrice":"41600", "featured":false },
+    { "date":"2018-04-25", "volume":"110049", "adjClosePrice":"41050", "featured":false },
+    { "date":"2018-04-26", "volume":"186310", "adjClosePrice":"42350", "featured":true },
+    { "date":"2018-04-27", "volume":"218774", "adjClosePrice":"42800", "featured":true },
+    { "date":"2018-04-30", "volume":"77508", "adjClosePrice":"42650", "featured":false },
+    { "date":"2018-05-02", "volume":"106110", "adjClosePrice":"42800", "featured":false },
+    { "date":"2018-05-03", "volume":"216089", "adjClosePrice":"44200", "featured":false }
+  ]
+}
