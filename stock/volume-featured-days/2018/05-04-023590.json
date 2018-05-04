@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "다우기술",
+  "dailyTrading" : [
+    { "date":"2018-04-20", "volume":"122054", "adjClosePrice":"23400", "featured":false },
+    { "date":"2018-04-23", "volume":"191500", "adjClosePrice":"22800", "featured":false },
+    { "date":"2018-04-24", "volume":"256607", "adjClosePrice":"22750", "featured":false },
+    { "date":"2018-04-25", "volume":"161050", "adjClosePrice":"22500", "featured":false },
+    { "date":"2018-04-26", "volume":"106184", "adjClosePrice":"22600", "featured":false },
+    { "date":"2018-04-27", "volume":"429195", "adjClosePrice":"23900", "featured":true },
+    { "date":"2018-04-30", "volume":"243007", "adjClosePrice":"24150", "featured":false },
+    { "date":"2018-05-02", "volume":"146963", "adjClosePrice":"24050", "featured":false },
+    { "date":"2018-05-03", "volume":"162839", "adjClosePrice":"24200", "featured":false },
+    { "date":"2018-05-04", "volume":"444812", "adjClosePrice":"25300", "featured":true }
+  ]
+}

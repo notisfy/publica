@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "동서",
+  "dailyTrading" : [
+    { "date":"2018-04-20", "volume":"38011", "adjClosePrice":"27200", "featured":false },
+    { "date":"2018-04-23", "volume":"48503", "adjClosePrice":"27150", "featured":false },
+    { "date":"2018-04-24", "volume":"263910", "adjClosePrice":"27650", "featured":true },
+    { "date":"2018-04-25", "volume":"186454", "adjClosePrice":"27200", "featured":false },
+    { "date":"2018-04-26", "volume":"85347", "adjClosePrice":"26850", "featured":false },
+    { "date":"2018-04-27", "volume":"83633", "adjClosePrice":"27450", "featured":false },
+    { "date":"2018-04-30", "volume":"45871", "adjClosePrice":"27550", "featured":false },
+    { "date":"2018-05-02", "volume":"42000", "adjClosePrice":"27600", "featured":false },
+    { "date":"2018-05-03", "volume":"72767", "adjClosePrice":"27800", "featured":false },
+    { "date":"2018-05-04", "volume":"54712", "adjClosePrice":"27300", "featured":false }
+  ]
+}

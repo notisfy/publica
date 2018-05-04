@@ -1,0 +1,25 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"현대로템", "id":"064350", "volumeInc":"14.61", "price":"31800", "priceInc":"17.78" },
+    { "name":"현대건설", "id":"000720", "volumeInc":"3.65", "price":"65900", "priceInc":"8.03" },
+    { "name":"LIG넥스원", "id":"079550", "volumeInc":"3.64", "price":"42450", "priceInc":"9.41" },
+    { "name":"한화에어로스페이스", "id":"012450", "volumeInc":"3.29", "price":"25950", "priceInc":"8.58" },
+    { "name":"현대미포조선", "id":"010620", "volumeInc":"3.22", "price":"101000", "priceInc":"5.32" },
+    { "name":"메리츠종금증권", "id":"008560", "volumeInc":"2.96", "price":"4280", "priceInc":"6.20" },
+    { "name":"현대제철", "id":"004020", "volumeInc":"2.88", "price":"61600", "priceInc":"3.36" },
+    { "name":"고려아연", "id":"010130", "volumeInc":"2.46", "price":"443500", "priceInc":"2.19" },
+    { "name":"키움증권", "id":"039490", "volumeInc":"2.41", "price":"122000", "priceInc":"3.83" },
+    { "name":"다우기술", "id":"023590", "volumeInc":"2.39", "price":"25300", "priceInc":"4.55" },
+    { "name":"SKC", "id":"011790", "volumeInc":"2.25", "price":"40000", "priceInc":"6.24" },
+    { "name":"한국항공우주", "id":"047810", "volumeInc":"2.23", "price":"45350", "priceInc":"6.46" },
+    { "name":"대우건설", "id":"047040", "volumeInc":"2.10", "price":"6610", "priceInc":"3.44" },
+    { "name":"현대중공업", "id":"009540", "volumeInc":"2.08", "price":"124500", "priceInc":"4.18" },
+    { "name":"쌍용양회", "id":"003410", "volumeInc":"2.07", "price":"32000", "priceInc":"5.61" },
+    { "name":"쿠쿠홀딩스", "id":"192400", "volumeInc":"2.02", "price":"126500", "priceInc":"4.98" },
+    { "name":"GS건설", "id":"006360", "volumeInc":"1.99", "price":"42500", "priceInc":"5.33" },
+    { "name":"한국토지신탁", "id":"034830", "volumeInc":"1.96", "price":"3145", "priceInc":"2.78" },
+    { "name":"GKL", "id":"114090", "volumeInc":"1.69", "price":"27400", "priceInc":"0.37" },
+    { "name":"제주항공", "id":"089590", "volumeInc":"1.63", "price":"49700", "priceInc":"3.97" }
+  ]
+}
