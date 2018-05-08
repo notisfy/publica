@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "농심",
+  "dailyTrading" : [
+    { "date":"2018-04-24", "volume":"18483", "adjClosePrice":"326000", "featured":false },
+    { "date":"2018-04-25", "volume":"33169", "adjClosePrice":"327500", "featured":true },
+    { "date":"2018-04-26", "volume":"20936", "adjClosePrice":"321500", "featured":false },
+    { "date":"2018-04-27", "volume":"14536", "adjClosePrice":"323000", "featured":false },
+    { "date":"2018-04-30", "volume":"31786", "adjClosePrice":"324000", "featured":false },
+    { "date":"2018-05-02", "volume":"36240", "adjClosePrice":"327000", "featured":false },
+    { "date":"2018-05-03", "volume":"22863", "adjClosePrice":"328000", "featured":false },
+    { "date":"2018-05-04", "volume":"15303", "adjClosePrice":"326500", "featured":false },
+    { "date":"2018-05-08", "volume":"14356", "adjClosePrice":"319500", "featured":false }
+  ]
+}
