@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "현대엘리베이",
+  "dailyTrading" : [
+    { "date":"2018-04-26", "volume":"757932", "adjClosePrice":"94900", "featured":false },
+    { "date":"2018-04-27", "volume":"1358584", "adjClosePrice":"93900", "featured":false },
+    { "date":"2018-04-30", "volume":"2937539", "adjClosePrice":"104000", "featured":false },
+    { "date":"2018-05-02", "volume":"1768170", "adjClosePrice":"99400", "featured":false },
+    { "date":"2018-05-03", "volume":"1059865", "adjClosePrice":"92400", "featured":false },
+    { "date":"2018-05-04", "volume":"1151534", "adjClosePrice":"99900", "featured":true },
+    { "date":"2018-05-08", "volume":"826385", "adjClosePrice":"97400", "featured":false },
+    { "date":"2018-05-09", "volume":"2065024", "adjClosePrice":"108500", "featured":true },
+    { "date":"2018-05-10", "volume":"1745887", "adjClosePrice":"106500", "featured":false }
+  ]
+}
