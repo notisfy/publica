@@ -1,0 +1,25 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"휠라코리아", "id":"081660", "volumeInc":"5.86", "price":"26600", "priceInc":"4.31" },
+    { "name":"NHN엔터테인먼트", "id":"181710", "volumeInc":"4.70", "price":"64000", "priceInc":"6.67" },
+    { "name":"만도", "id":"204320", "volumeInc":"4.25", "price":"43900", "priceInc":"0.92" },
+    { "name":"풍산", "id":"103140", "volumeInc":"3.83", "price":"40250", "priceInc":"6.06" },
+    { "name":"코스맥스", "id":"192820", "volumeInc":"3.63", "price":"168500", "priceInc":"9.06" },
+    { "name":"CJ", "id":"001040", "volumeInc":"3.59", "price":"169000", "priceInc":"3.05" },
+    { "name":"CJ CGV", "id":"079160", "volumeInc":"3.54", "price":"77000", "priceInc":"7.84" },
+    { "name":"한섬", "id":"020000", "volumeInc":"3.33", "price":"35600", "priceInc":"9.71" },
+    { "name":"휴켐스", "id":"069260", "volumeInc":"3.17", "price":"29100", "priceInc":"3.37" },
+    { "name":"현대백화점", "id":"069960", "volumeInc":"3.00", "price":"109500", "priceInc":"6.83" },
+    { "name":"미래에셋대우", "id":"006800", "volumeInc":"2.56", "price":"10050", "priceInc":"5.35" },
+    { "name":"하나투어", "id":"039130", "volumeInc":"2.32", "price":"102500", "priceInc":"1.49" },
+    { "name":"대한전선", "id":"001440", "volumeInc":"2.30", "price":"1720", "priceInc":"0.58" },
+    { "name":"현대엘리베이", "id":"017800", "volumeInc":"2.14", "price":"111500", "priceInc":"4.69" },
+    { "name":"아이에스동서", "id":"010780", "volumeInc":"2.00", "price":"31350", "priceInc":"5.38" },
+    { "name":"키움증권", "id":"039490", "volumeInc":"1.99", "price":"123000", "priceInc":"2.50" },
+    { "name":"NH투자증권", "id":"005940", "volumeInc":"1.99", "price":"16500", "priceInc":"5.10" },
+    { "name":"제일기획", "id":"030000", "volumeInc":"1.98", "price":"19500", "priceInc":"5.98" },
+    { "name":"GKL", "id":"114090", "volumeInc":"1.94", "price":"27600", "priceInc":"7.81" },
+    { "name":"한화", "id":"000880", "volumeInc":"1.92", "price":"41050", "priceInc":"4.19" }
+  ]
+}

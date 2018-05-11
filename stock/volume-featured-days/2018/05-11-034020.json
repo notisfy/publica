@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "두산중공업",
+  "dailyTrading" : [
+    { "date":"2018-04-27", "volume":"1155610", "adjClosePrice":"17250", "featured":true },
+    { "date":"2018-04-30", "volume":"2382908", "adjClosePrice":"17900", "featured":false },
+    { "date":"2018-05-02", "volume":"1718413", "adjClosePrice":"18150", "featured":false },
+    { "date":"2018-05-03", "volume":"2703837", "adjClosePrice":"18450", "featured":false },
+    { "date":"2018-05-04", "volume":"1682285", "adjClosePrice":"19200", "featured":false },
+    { "date":"2018-05-08", "volume":"1208858", "adjClosePrice":"18750", "featured":false },
+    { "date":"2018-05-09", "volume":"917622", "adjClosePrice":"18500", "featured":false },
+    { "date":"2018-05-10", "volume":"1772341", "adjClosePrice":"19600", "featured":true },
+    { "date":"2018-05-11", "volume":"1442067", "adjClosePrice":"19400", "featured":false }
+  ]
+}
