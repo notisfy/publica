@@ -1,0 +1,25 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"LG상사", "id":"001120", "volumeInc":"14.63", "price":"30300", "priceInc":"16.54" },
+    { "name":"현대건설", "id":"000720", "volumeInc":"6.03", "price":"73300", "priceInc":"13.82" },
+    { "name":"쌍용양회", "id":"003410", "volumeInc":"4.96", "price":"38600", "priceInc":"13.03" },
+    { "name":"포스코대우", "id":"047050", "volumeInc":"4.08", "price":"25250", "priceInc":"9.07" },
+    { "name":"현대제철", "id":"004020", "volumeInc":"3.76", "price":"68700", "priceInc":"4.89" },
+    { "name":"동양", "id":"001520", "volumeInc":"3.47", "price":"2270", "priceInc":"6.07" },
+    { "name":"대우건설", "id":"047040", "volumeInc":"3.33", "price":"6920", "priceInc":"7.62" },
+    { "name":"SK네트웍스", "id":"001740", "volumeInc":"3.29", "price":"5360", "priceInc":"3.28" },
+    { "name":"한국가스공사", "id":"036460", "volumeInc":"3.23", "price":"59800", "priceInc":"6.03" },
+    { "name":"GS건설", "id":"006360", "volumeInc":"2.84", "price":"46750", "priceInc":"7.22" },
+    { "name":"LS산전", "id":"010120", "volumeInc":"2.65", "price":"80600", "priceInc":"4.95" },
+    { "name":"현대상선", "id":"011200", "volumeInc":"2.63", "price":"6180", "priceInc":"6.92" },
+    { "name":"대림산업", "id":"000210", "volumeInc":"2.53", "price":"87200", "priceInc":"5.06" },
+    { "name":"한화", "id":"000880", "volumeInc":"2.41", "price":"41950", "priceInc":"2.19" },
+    { "name":"한국토지신탁", "id":"034830", "volumeInc":"2.41", "price":"3115", "priceInc":"0.97" },
+    { "name":"삼성엔지니어링", "id":"028050", "volumeInc":"2.31", "price":"18900", "priceInc":"6.48" },
+    { "name":"현대엘리베이", "id":"017800", "volumeInc":"2.25", "price":"114500", "priceInc":"2.69" },
+    { "name":"삼양홀딩스", "id":"000070", "volumeInc":"2.21", "price":"117500", "priceInc":"1.73" },
+    { "name":"동원시스템즈", "id":"014820", "volumeInc":"2.19", "price":"42600", "priceInc":"1.55" },
+    { "name":"동국제강", "id":"001230", "volumeInc":"2.18", "price":"11000", "priceInc":"5.26" }
+  ]
+}
