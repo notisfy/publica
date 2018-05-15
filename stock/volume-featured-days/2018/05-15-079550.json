@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "LIG넥스원",
+  "dailyTrading" : [
+    { "date":"2018-05-02", "volume":"386505", "adjClosePrice":"37100", "featured":false },
+    { "date":"2018-05-03", "volume":"267212", "adjClosePrice":"38800", "featured":false },
+    { "date":"2018-05-04", "volume":"472169", "adjClosePrice":"42450", "featured":true },
+    { "date":"2018-05-08", "volume":"395718", "adjClosePrice":"44750", "featured":false },
+    { "date":"2018-05-09", "volume":"272276", "adjClosePrice":"44100", "featured":false },
+    { "date":"2018-05-10", "volume":"143185", "adjClosePrice":"45000", "featured":false },
+    { "date":"2018-05-11", "volume":"85343", "adjClosePrice":"44100", "featured":false },
+    { "date":"2018-05-14", "volume":"74330", "adjClosePrice":"43200", "featured":false },
+    { "date":"2018-05-15", "volume":"87948", "adjClosePrice":"42950", "featured":false }
+  ]
+}

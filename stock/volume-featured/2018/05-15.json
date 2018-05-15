@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"대한전선", "id":"001440", "volumeInc":"18.79", "price":"2300", "priceInc":"29.94" },
+    { "name":"현대로템", "id":"064350", "volumeInc":"4.56", "price":"40150", "priceInc":"0.25" },
+    { "name":"두산중공업", "id":"034020", "volumeInc":"2.92", "price":"21250", "priceInc":"3.66" },
+    { "name":"현대상선", "id":"011200", "volumeInc":"2.78", "price":"6440", "priceInc":"4.21" },
+    { "name":"휴켐스", "id":"069260", "volumeInc":"2.55", "price":"31050", "priceInc":"2.48" },
+    { "name":"삼성엔지니어링", "id":"028050", "volumeInc":"2.40", "price":"19150", "priceInc":"1.32" },
+    { "name":"GKL", "id":"114090", "volumeInc":"1.97", "price":"27750", "priceInc":"6.12" },
+    { "name":"스카이라이프", "id":"053210", "volumeInc":"1.91", "price":"13250", "priceInc":"3.52" },
+    { "name":"한섬", "id":"020000", "volumeInc":"1.71", "price":"35700", "priceInc":"3.78" },
+    { "name":"경동나비엔", "id":"009450", "volumeInc":"1.64", "price":"62900", "priceInc":"6.43" },
+    { "name":"한전KPS", "id":"051600", "volumeInc":"1.64", "price":"44900", "priceInc":"2.05" }
+  ]
+}
