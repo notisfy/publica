@@ -1,0 +1,22 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"코리안리", "id":"003690", "volumeInc":"8.25", "price":"12300", "priceInc":"5.58" },
+    { "name":"SK가스", "id":"018670", "volumeInc":"6.69", "price":"97300", "priceInc":"6.69" },
+    { "name":"만도", "id":"204320", "volumeInc":"5.08", "price":"44100", "priceInc":"5.63" },
+    { "name":"휠라코리아", "id":"081660", "volumeInc":"3.87", "price":"26800", "priceInc":"3.08" },
+    { "name":"삼양홀딩스", "id":"000070", "volumeInc":"3.06", "price":"120500", "priceInc":"3.43" },
+    { "name":"쿠쿠홀딩스", "id":"192400", "volumeInc":"2.50", "price":"138000", "priceInc":"8.24" },
+    { "name":"영원무역홀딩스", "id":"009970", "volumeInc":"2.50", "price":"55200", "priceInc":"0.55" },
+    { "name":"영원무역", "id":"111770", "volumeInc":"2.46", "price":"32950", "priceInc":"4.60" },
+    { "name":"한국항공우주", "id":"047810", "volumeInc":"2.44", "price":"44350", "priceInc":"3.50" },
+    { "name":"대웅제약", "id":"069620", "volumeInc":"2.06", "price":"201000", "priceInc":"6.07" },
+    { "name":"엔씨소프트", "id":"036570", "volumeInc":"1.85", "price":"360500", "priceInc":"1.98" },
+    { "name":"BNK금융지주", "id":"138930", "volumeInc":"1.83", "price":"10500", "priceInc":"2.44" },
+    { "name":"오뚜기", "id":"007310", "volumeInc":"1.82", "price":"784000", "priceInc":"4.95" },
+    { "name":"현대차2우B", "id":"005387", "volumeInc":"1.73", "price":"103000", "priceInc":"1.98" },
+    { "name":"잇츠한불", "id":"226320", "volumeInc":"1.66", "price":"58600", "priceInc":"9.53" },
+    { "name":"에스원", "id":"012750", "volumeInc":"1.65", "price":"97300", "priceInc":"3.07" },
+    { "name":"삼양사", "id":"145990", "volumeInc":"1.52", "price":"89400", "priceInc":"0.56" }
+  ]
+}
