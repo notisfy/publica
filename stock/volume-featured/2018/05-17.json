@@ -1,0 +1,9 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"동양", "id":"001520", "volumeInc":"5.34", "price":"2245", "priceInc":"6.15" },
+    { "name":"LG상사", "id":"001120", "volumeInc":"4.18", "price":"28550", "priceInc":"0.88" },
+    { "name":"LG화학우", "id":"051915", "volumeInc":"1.69", "price":"205500", "priceInc":"1.23" },
+    { "name":"한온시스템", "id":"018880", "volumeInc":"1.66", "price":"11650", "priceInc":"5.43" }
+  ]
+}
