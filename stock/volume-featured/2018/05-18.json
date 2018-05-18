@@ -1,0 +1,11 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"만도", "id":"204320", "volumeInc":"4.05", "price":"47550", "priceInc":"2.15" },
+    { "name":"휠라코리아", "id":"081660", "volumeInc":"3.03", "price":"28000", "priceInc":"2.38" },
+    { "name":"한섬", "id":"020000", "volumeInc":"1.85", "price":"37500", "priceInc":"3.73" },
+    { "name":"S-Oil", "id":"010950", "volumeInc":"1.84", "price":"111500", "priceInc":"3.72" },
+    { "name":"이마트", "id":"139480", "volumeInc":"1.61", "price":"271500", "priceInc":"4.62" },
+    { "name":"스카이라이프", "id":"053210", "volumeInc":"1.59", "price":"13200", "priceInc":"2.72" }
+  ]
+}
