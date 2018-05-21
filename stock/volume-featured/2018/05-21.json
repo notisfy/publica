@@ -1,0 +1,11 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"삼성전자", "id":"005930", "volumeInc":"2.73", "price":"50000", "priceInc":"1.01" },
+    { "name":"한섬", "id":"020000", "volumeInc":"2.35", "price":"38950", "priceInc":"3.87" },
+    { "name":"대웅제약", "id":"069620", "volumeInc":"2.20", "price":"205500", "priceInc":"6.75" },
+    { "name":"코리안리", "id":"003690", "volumeInc":"2.16", "price":"12500", "priceInc":"1.21" },
+    { "name":"락앤락", "id":"115390", "volumeInc":"2.13", "price":"24900", "priceInc":"4.62" },
+    { "name":"쿠쿠홀딩스", "id":"192400", "volumeInc":"2.10", "price":"155500", "priceInc":"1.63" }
+  ]
+}
