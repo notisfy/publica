@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "팬오션",
+  "dailyTrading" : [
+    { "date":"2018-05-09", "volume":"1483383", "adjClosePrice":"5130", "featured":false },
+    { "date":"2018-05-10", "volume":"6305439", "adjClosePrice":"5470", "featured":true },
+    { "date":"2018-05-11", "volume":"3771823", "adjClosePrice":"5540", "featured":false },
+    { "date":"2018-05-14", "volume":"4989191", "adjClosePrice":"5740", "featured":true },
+    { "date":"2018-05-15", "volume":"3208893", "adjClosePrice":"5610", "featured":false },
+    { "date":"2018-05-16", "volume":"3298200", "adjClosePrice":"5470", "featured":false },
+    { "date":"2018-05-17", "volume":"3365557", "adjClosePrice":"5280", "featured":false },
+    { "date":"2018-05-18", "volume":"4887021", "adjClosePrice":"5140", "featured":false },
+    { "date":"2018-05-21", "volume":"1866858", "adjClosePrice":"5170", "featured":false },
+    { "date":"2018-05-23", "volume":"2162489", "adjClosePrice":"5140", "featured":false }
+  ]
+}

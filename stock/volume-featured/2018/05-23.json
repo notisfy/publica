@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"대한전선", "id":"001440", "volumeInc":"5.73", "price":"1830", "priceInc":"2.81" },
+    { "name":"삼성전자우", "id":"005935", "volumeInc":"5.55", "price":"40800", "priceInc":"2.64" },
+    { "name":"삼성전자", "id":"005930", "volumeInc":"4.84", "price":"51800", "priceInc":"3.60" },
+    { "name":"SK가스", "id":"018670", "volumeInc":"3.63", "price":"104500", "priceInc":"3.47" },
+    { "name":"한솔케미칼", "id":"014680", "volumeInc":"2.71", "price":"74300", "priceInc":"4.21" },
+    { "name":"SK하이닉스", "id":"000660", "volumeInc":"2.60", "price":"95300", "priceInc":"6.96" },
+    { "name":"LG화학", "id":"051910", "volumeInc":"2.20", "price":"343500", "priceInc":"1.48" },
+    { "name":"현대엘리베이", "id":"017800", "volumeInc":"1.96", "price":"108500", "priceInc":"1.40" },
+    { "name":"삼성SDI", "id":"006400", "volumeInc":"1.92", "price":"204500", "priceInc":"3.28" },
+    { "name":"현대모비스", "id":"012330", "volumeInc":"1.73", "price":"247000", "priceInc":"2.28" },
+    { "name":"태광산업", "id":"003240", "volumeInc":"1.61", "price":"1274000", "priceInc":"0.79" },
+    { "name":"넥센타이어", "id":"002350", "volumeInc":"1.59", "price":"12250", "priceInc":"0.41" }
+  ]
+}
