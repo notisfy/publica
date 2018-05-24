@@ -1,0 +1,8 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"LIG넥스원", "id":"079550", "volumeInc":"4.92", "price":"44450", "priceInc":"8.81" },
+    { "name":"영원무역홀딩스", "id":"009970", "volumeInc":"3.44", "price":"55000", "priceInc":"1.10" },
+    { "name":"지역난방공사", "id":"071320", "volumeInc":"1.70", "price":"68500", "priceInc":"1.93" }
+  ]
+}
