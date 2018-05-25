@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "한국가스공사",
+  "dailyTrading" : [
+    { "date":"2018-05-11", "volume":"201590", "adjClosePrice":"56400", "featured":false },
+    { "date":"2018-05-14", "volume":"774606", "adjClosePrice":"59800", "featured":true },
+    { "date":"2018-05-15", "volume":"558848", "adjClosePrice":"60700", "featured":false },
+    { "date":"2018-05-16", "volume":"465443", "adjClosePrice":"59600", "featured":false },
+    { "date":"2018-05-17", "volume":"315355", "adjClosePrice":"59500", "featured":false },
+    { "date":"2018-05-18", "volume":"216290", "adjClosePrice":"61000", "featured":false },
+    { "date":"2018-05-21", "volume":"206476", "adjClosePrice":"60900", "featured":false },
+    { "date":"2018-05-23", "volume":"307986", "adjClosePrice":"61500", "featured":false },
+    { "date":"2018-05-24", "volume":"266914", "adjClosePrice":"62000", "featured":false },
+    { "date":"2018-05-25", "volume":"643739", "adjClosePrice":"58300", "featured":false }
+  ]
+}
