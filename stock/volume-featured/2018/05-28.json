@@ -1,0 +1,25 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"현대제철", "id":"004020", "volumeInc":"8.87", "price":"67200", "priceInc":"14.48" },
+    { "name":"현대건설", "id":"000720", "volumeInc":"5.14", "price":"79100", "priceInc":"29.89" },
+    { "name":"대한전선", "id":"001440", "volumeInc":"5.08", "price":"1965", "priceInc":"21.30" },
+    { "name":"GS건설", "id":"006360", "volumeInc":"4.82", "price":"51600", "priceInc":"12.42" },
+    { "name":"현대상선", "id":"011200", "volumeInc":"4.72", "price":"6600", "priceInc":"22.45" },
+    { "name":"쌍용양회", "id":"003410", "volumeInc":"4.19", "price":"38600", "priceInc":"29.97" },
+    { "name":"대우건설", "id":"047040", "volumeInc":"4.10", "price":"6960", "priceInc":"14.47" },
+    { "name":"동양", "id":"001520", "volumeInc":"4.03", "price":"2275", "priceInc":"14.04" },
+    { "name":"대림산업", "id":"000210", "volumeInc":"3.63", "price":"89700", "priceInc":"8.20" },
+    { "name":"LG상사", "id":"001120", "volumeInc":"3.51", "price":"28100", "priceInc":"6.64" },
+    { "name":"효성", "id":"004800", "volumeInc":"3.44", "price":"138500", "priceInc":"6.54" },
+    { "name":"LG이노텍", "id":"011070", "volumeInc":"2.72", "price":"144500", "priceInc":"5.47" },
+    { "name":"동국제강", "id":"001230", "volumeInc":"2.54", "price":"10850", "priceInc":"11.51" },
+    { "name":"휠라코리아", "id":"081660", "volumeInc":"2.53", "price":"26450", "priceInc":"0.19" },
+    { "name":"한국가스공사", "id":"036460", "volumeInc":"2.52", "price":"60300", "priceInc":"3.43" },
+    { "name":"아이에스동서", "id":"010780", "volumeInc":"2.47", "price":"30850", "priceInc":"5.11" },
+    { "name":"LS산전", "id":"010120", "volumeInc":"2.44", "price":"80700", "priceInc":"9.95" },
+    { "name":"대한유화", "id":"006650", "volumeInc":"2.24", "price":"255500", "priceInc":"5.58" },
+    { "name":"두산인프라코어", "id":"042670", "volumeInc":"2.14", "price":"11300", "priceInc":"8.13" },
+    { "name":"세아베스틸", "id":"001430", "volumeInc":"2.03", "price":"24900", "priceInc":"2.47" }
+  ]
+}
