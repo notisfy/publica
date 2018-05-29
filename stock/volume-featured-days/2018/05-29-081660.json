@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "휠라코리아",
+  "dailyTrading" : [
+    { "date":"2018-05-15", "volume":"349798", "adjClosePrice":"26000", "featured":false },
+    { "date":"2018-05-16", "volume":"444801", "adjClosePrice":"26800", "featured":true },
+    { "date":"2018-05-17", "volume":"335076", "adjClosePrice":"27350", "featured":false },
+    { "date":"2018-05-18", "volume":"373195", "adjClosePrice":"28000", "featured":true },
+    { "date":"2018-05-21", "volume":"439938", "adjClosePrice":"26850", "featured":false },
+    { "date":"2018-05-23", "volume":"332755", "adjClosePrice":"27150", "featured":false },
+    { "date":"2018-05-24", "volume":"152463", "adjClosePrice":"27450", "featured":false },
+    { "date":"2018-05-25", "volume":"328801", "adjClosePrice":"26400", "featured":false },
+    { "date":"2018-05-28", "volume":"356407", "adjClosePrice":"26450", "featured":true },
+    { "date":"2018-05-29", "volume":"199374", "adjClosePrice":"26700", "featured":false }
+  ]
+}

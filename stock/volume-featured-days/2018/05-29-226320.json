@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "잇츠한불",
+  "dailyTrading" : [
+    { "date":"2018-05-15", "volume":"36415", "adjClosePrice":"53500", "featured":false },
+    { "date":"2018-05-16", "volume":"176749", "adjClosePrice":"58600", "featured":true },
+    { "date":"2018-05-17", "volume":"67255", "adjClosePrice":"58000", "featured":false },
+    { "date":"2018-05-18", "volume":"56508", "adjClosePrice":"57900", "featured":false },
+    { "date":"2018-05-21", "volume":"43873", "adjClosePrice":"57500", "featured":false },
+    { "date":"2018-05-23", "volume":"78175", "adjClosePrice":"54900", "featured":false },
+    { "date":"2018-05-24", "volume":"37086", "adjClosePrice":"55600", "featured":false },
+    { "date":"2018-05-25", "volume":"70793", "adjClosePrice":"53600", "featured":false },
+    { "date":"2018-05-28", "volume":"49529", "adjClosePrice":"53000", "featured":false },
+    { "date":"2018-05-29", "volume":"55088", "adjClosePrice":"54600", "featured":false }
+  ]
+}

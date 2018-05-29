@@ -1,0 +1,11 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한화에어로스페이스", "id":"012450", "volumeInc":"5.42", "price":"32900", "priceInc":"12.10" },
+    { "name":"현대로템", "id":"064350", "volumeInc":"4.27", "price":"38750", "priceInc":"6.46" },
+    { "name":"LIG넥스원", "id":"079550", "volumeInc":"3.73", "price":"50600", "priceInc":"9.41" },
+    { "name":"LG디스플레이", "id":"034220", "volumeInc":"2.08", "price":"23150", "priceInc":"5.23" },
+    { "name":"한국항공우주", "id":"047810", "volumeInc":"1.94", "price":"45450", "priceInc":"4.48" },
+    { "name":"맥쿼리인프라", "id":"088980", "volumeInc":"1.58", "price":"8910", "priceInc":"0.91" }
+  ]
+}
