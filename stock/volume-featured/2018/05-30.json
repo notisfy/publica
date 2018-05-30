@@ -1,0 +1,13 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"휠라코리아", "id":"081660", "volumeInc":"3.48", "price":"27900", "priceInc":"4.49" },
+    { "name":"삼성생명", "id":"032830", "volumeInc":"3.35", "price":"107500", "priceInc":"0.94" },
+    { "name":"현대엘리베이", "id":"017800", "volumeInc":"2.94", "price":"129000", "priceInc":"12.66" },
+    { "name":"DB하이텍", "id":"000990", "volumeInc":"2.85", "price":"16700", "priceInc":"5.03" },
+    { "name":"메리츠금융지주", "id":"138040", "volumeInc":"1.95", "price":"14150", "priceInc":"2.17" },
+    { "name":"코오롱인더", "id":"120110", "volumeInc":"1.66", "price":"66300", "priceInc":"1.07" },
+    { "name":"녹십자홀딩스", "id":"005250", "volumeInc":"1.59", "price":"38200", "priceInc":"0.79" },
+    { "name":"영원무역", "id":"111770", "volumeInc":"1.53", "price":"31650", "priceInc":"0.16" }
+  ]
+}
