@@ -1,0 +1,25 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"SK네트웍스", "id":"001740", "volumeInc":"10.76", "price":"4965", "priceInc":"2.27" },
+    { "name":"삼성전자우", "id":"005935", "volumeInc":"10.27", "price":"40500", "priceInc":"3.85" },
+    { "name":"현대위아", "id":"011210", "volumeInc":"9.08", "price":"50500", "priceInc":"2.23" },
+    { "name":"한화에어로스페이스", "id":"012450", "volumeInc":"7.53", "price":"33150", "priceInc":"3.92" },
+    { "name":"삼성전자", "id":"005930", "volumeInc":"7.04", "price":"50700", "priceInc":"2.42" },
+    { "name":"휠라코리아", "id":"081660", "volumeInc":"6.21", "price":"29150", "priceInc":"4.48" },
+    { "name":"삼성엔지니어링", "id":"028050", "volumeInc":"6.14", "price":"18450", "priceInc":"1.10" },
+    { "name":"코웨이", "id":"021240", "volumeInc":"4.39", "price":"87300", "priceInc":"2.71" },
+    { "name":"오뚜기", "id":"007310", "volumeInc":"3.67", "price":"810000", "priceInc":"3.32" },
+    { "name":"현대백화점", "id":"069960", "volumeInc":"3.30", "price":"112500", "priceInc":"5.63" },
+    { "name":"DB손해보험", "id":"005830", "volumeInc":"3.22", "price":"58500", "priceInc":"2.27" },
+    { "name":"LG생활건강우", "id":"051905", "volumeInc":"3.05", "price":"733000", "priceInc":"1.10" },
+    { "name":"DB하이텍", "id":"000990", "volumeInc":"2.94", "price":"17000", "priceInc":"1.80" },
+    { "name":"롯데정밀화학", "id":"004000", "volumeInc":"2.37", "price":"68600", "priceInc":"5.86" },
+    { "name":"동서", "id":"026960", "volumeInc":"2.34", "price":"25950", "priceInc":"1.76" },
+    { "name":"LIG넥스원", "id":"079550", "volumeInc":"2.32", "price":"51000", "priceInc":"0.79" },
+    { "name":"NAVER", "id":"035420", "volumeInc":"2.26", "price":"669000", "priceInc":"2.61" },
+    { "name":"롯데케미칼", "id":"011170", "volumeInc":"2.18", "price":"368500", "priceInc":"1.52" },
+    { "name":"SK이노베이션", "id":"096770", "volumeInc":"2.14", "price":"206000", "priceInc":"3.52" },
+    { "name":"대상", "id":"001680", "volumeInc":"2.12", "price":"25350", "priceInc":"4.54" }
+  ]
+}
