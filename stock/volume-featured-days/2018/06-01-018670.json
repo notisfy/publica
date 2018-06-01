@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "SK가스",
+  "dailyTrading" : [
+    { "date":"2018-05-18", "volume":"31885", "adjClosePrice":"98600", "featured":false },
+    { "date":"2018-05-21", "volume":"28891", "adjClosePrice":"101000", "featured":false },
+    { "date":"2018-05-23", "volume":"68346", "adjClosePrice":"104500", "featured":true },
+    { "date":"2018-05-24", "volume":"29589", "adjClosePrice":"103500", "featured":false },
+    { "date":"2018-05-25", "volume":"32279", "adjClosePrice":"103000", "featured":false },
+    { "date":"2018-05-28", "volume":"34835", "adjClosePrice":"100000", "featured":false },
+    { "date":"2018-05-29", "volume":"31818", "adjClosePrice":"99000", "featured":false },
+    { "date":"2018-05-30", "volume":"36659", "adjClosePrice":"96900", "featured":false },
+    { "date":"2018-05-31", "volume":"27195", "adjClosePrice":"100000", "featured":false },
+    { "date":"2018-06-01", "volume":"11019", "adjClosePrice":"99700", "featured":false }
+  ]
+}

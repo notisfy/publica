@@ -1,0 +1,13 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"현대로템", "id":"064350", "volumeInc":"5.47", "price":"40250", "priceInc":"4.14" },
+    { "name":"오뚜기", "id":"007310", "volumeInc":"4.66", "price":"857000", "priceInc":"5.80" },
+    { "name":"코오롱인더", "id":"120110", "volumeInc":"4.61", "price":"71000", "priceInc":"7.25" },
+    { "name":"대상", "id":"001680", "volumeInc":"4.57", "price":"27150", "priceInc":"7.10" },
+    { "name":"농심", "id":"004370", "volumeInc":"2.79", "price":"334500", "priceInc":"2.61" },
+    { "name":"한국가스공사", "id":"036460", "volumeInc":"2.08", "price":"62500", "priceInc":"3.65" },
+    { "name":"한국단자", "id":"025540", "volumeInc":"1.84", "price":"45550", "priceInc":"1.11" },
+    { "name":"SPC삼립", "id":"005610", "volumeInc":"1.57", "price":"114000", "priceInc":"3.17" }
+  ]
+}
