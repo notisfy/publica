@@ -1,0 +1,18 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"SPC삼립", "id":"005610", "volumeInc":"13.06", "price":"126500", "priceInc":"10.96" },
+    { "name":"만도", "id":"204320", "volumeInc":"4.83", "price":"43000", "priceInc":"5.39" },
+    { "name":"동원F&B", "id":"049770", "volumeInc":"3.69", "price":"247500", "priceInc":"9.03" },
+    { "name":"농심", "id":"004370", "volumeInc":"3.35", "price":"348500", "priceInc":"4.19" },
+    { "name":"한온시스템", "id":"018880", "volumeInc":"2.37", "price":"11150", "priceInc":"9.85" },
+    { "name":"LG화학", "id":"051910", "volumeInc":"2.28", "price":"363000", "priceInc":"7.72" },
+    { "name":"기아차", "id":"000270", "volumeInc":"2.07", "price":"33750", "priceInc":"5.80" },
+    { "name":"한세실업", "id":"105630", "volumeInc":"1.89", "price":"16450", "priceInc":"3.79" },
+    { "name":"GS리테일", "id":"007070", "volumeInc":"1.80", "price":"39950", "priceInc":"5.41" },
+    { "name":"롯데푸드", "id":"002270", "volumeInc":"1.76", "price":"748000", "priceInc":"3.31" },
+    { "name":"삼성SDI", "id":"006400", "volumeInc":"1.71", "price":"219000", "priceInc":"4.78" },
+    { "name":"삼양사", "id":"145990", "volumeInc":"1.65", "price":"88400", "priceInc":"2.67" },
+    { "name":"풍산", "id":"103140", "volumeInc":"1.51", "price":"37550", "priceInc":"3.30" }
+  ]
+}
