@@ -1,0 +1,13 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"GKL", "id":"114090", "volumeInc":"6.41", "price":"28600", "priceInc":"6.52" },
+    { "name":"동원F&B", "id":"049770", "volumeInc":"4.69", "price":"263000", "priceInc":"6.26" },
+    { "name":"DB하이텍", "id":"000990", "volumeInc":"4.45", "price":"18550", "priceInc":"8.16" },
+    { "name":"SKC", "id":"011790", "volumeInc":"2.87", "price":"40900", "priceInc":"4.07" },
+    { "name":"코오롱인더", "id":"120110", "volumeInc":"2.47", "price":"72300", "priceInc":"2.12" },
+    { "name":"LG유플러스", "id":"032640", "volumeInc":"1.70", "price":"12500", "priceInc":"0.81" },
+    { "name":"강원랜드", "id":"035250", "volumeInc":"1.68", "price":"27300", "priceInc":"1.30" },
+    { "name":"한국토지신탁", "id":"034830", "volumeInc":"1.57", "price":"2930", "priceInc":"2.09" }
+  ]
+}

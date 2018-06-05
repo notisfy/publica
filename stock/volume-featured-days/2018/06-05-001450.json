@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "현대해상",
+  "dailyTrading" : [
+    { "date":"2018-05-23", "volume":"502921", "adjClosePrice":"35250", "featured":false },
+    { "date":"2018-05-24", "volume":"186351", "adjClosePrice":"35600", "featured":false },
+    { "date":"2018-05-25", "volume":"131226", "adjClosePrice":"35400", "featured":false },
+    { "date":"2018-05-28", "volume":"135058", "adjClosePrice":"35000", "featured":false },
+    { "date":"2018-05-29", "volume":"114627", "adjClosePrice":"35000", "featured":false },
+    { "date":"2018-05-30", "volume":"283954", "adjClosePrice":"33550", "featured":false },
+    { "date":"2018-05-31", "volume":"312883", "adjClosePrice":"34050", "featured":true },
+    { "date":"2018-06-01", "volume":"116610", "adjClosePrice":"34550", "featured":false },
+    { "date":"2018-06-04", "volume":"169818", "adjClosePrice":"35300", "featured":false },
+    { "date":"2018-06-05", "volume":"216165", "adjClosePrice":"35900", "featured":false }
+  ]
+}
