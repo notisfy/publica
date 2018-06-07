@@ -1,0 +1,25 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"SPC삼립", "id":"005610", "volumeInc":"6.66", "price":"139000", "priceInc":"11.20" },
+    { "name":"대상", "id":"001680", "volumeInc":"3.94", "price":"28950", "priceInc":"5.66" },
+    { "name":"오리온홀딩스", "id":"001800", "volumeInc":"3.91", "price":"26650", "priceInc":"9.45" },
+    { "name":"풍산", "id":"103140", "volumeInc":"3.51", "price":"40850", "priceInc":"7.64" },
+    { "name":"코오롱인더", "id":"120110", "volumeInc":"2.98", "price":"73900", "priceInc":"2.21" },
+    { "name":"GS리테일", "id":"007070", "volumeInc":"2.98", "price":"41850", "priceInc":"5.68" },
+    { "name":"CJ제일제당", "id":"097950", "volumeInc":"2.97", "price":"379000", "priceInc":"4.12" },
+    { "name":"한국항공우주", "id":"047810", "volumeInc":"2.81", "price":"47700", "priceInc":"7.43" },
+    { "name":"오뚜기", "id":"007310", "volumeInc":"2.76", "price":"890000", "priceInc":"5.20" },
+    { "name":"하이트진로", "id":"000080", "volumeInc":"2.65", "price":"21000", "priceInc":"3.19" },
+    { "name":"휠라코리아", "id":"081660", "volumeInc":"2.32", "price":"30250", "priceInc":"0.83" },
+    { "name":"삼성SDI", "id":"006400", "volumeInc":"2.18", "price":"222000", "priceInc":"3.26" },
+    { "name":"다우기술", "id":"023590", "volumeInc":"2.15", "price":"26200", "priceInc":"5.22" },
+    { "name":"LIG넥스원", "id":"079550", "volumeInc":"2.11", "price":"52900", "priceInc":"6.87" },
+    { "name":"S-Oil", "id":"010950", "volumeInc":"2.03", "price":"113000", "priceInc":"3.20" },
+    { "name":"LG화학", "id":"051910", "volumeInc":"1.97", "price":"368500", "priceInc":"1.38" },
+    { "name":"LG화학우", "id":"051915", "volumeInc":"1.86", "price":"220500", "priceInc":"3.04" },
+    { "name":"CJ", "id":"001040", "volumeInc":"1.85", "price":"153000", "priceInc":"4.08" },
+    { "name":"제일파마홀딩스", "id":"002620", "volumeInc":"1.84", "price":"29300", "priceInc":"2.09" },
+    { "name":"경동나비엔", "id":"009450", "volumeInc":"1.71", "price":"55300", "priceInc":"5.53" }
+  ]
+}

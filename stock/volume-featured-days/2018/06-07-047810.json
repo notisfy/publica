@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "한국항공우주",
+  "dailyTrading" : [
+    { "date":"2018-05-24", "volume":"395517", "adjClosePrice":"43850", "featured":false },
+    { "date":"2018-05-25", "volume":"926497", "adjClosePrice":"44500", "featured":true },
+    { "date":"2018-05-28", "volume":"559223", "adjClosePrice":"43500", "featured":false },
+    { "date":"2018-05-29", "volume":"1122589", "adjClosePrice":"45450", "featured":true },
+    { "date":"2018-05-30", "volume":"635219", "adjClosePrice":"44300", "featured":false },
+    { "date":"2018-05-31", "volume":"741234", "adjClosePrice":"44000", "featured":false },
+    { "date":"2018-06-01", "volume":"372852", "adjClosePrice":"44350", "featured":false },
+    { "date":"2018-06-04", "volume":"473903", "adjClosePrice":"45250", "featured":false },
+    { "date":"2018-06-05", "volume":"426389", "adjClosePrice":"44400", "featured":false },
+    { "date":"2018-06-07", "volume":"1697415", "adjClosePrice":"47700", "featured":true }
+  ]
+}
