@@ -1,0 +1,12 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"스카이라이프", "id":"053210", "volumeInc":"3.36", "price":"13300", "priceInc":"1.53" },
+    { "name":"LG유플러스", "id":"032640", "volumeInc":"3.24", "price":"13250", "priceInc":"6.43" },
+    { "name":"대한유화", "id":"006650", "volumeInc":"2.66", "price":"270500", "priceInc":"5.46" },
+    { "name":"DB하이텍", "id":"000990", "volumeInc":"2.46", "price":"18900", "priceInc":"2.44" },
+    { "name":"NAVER", "id":"035420", "volumeInc":"1.99", "price":"701000", "priceInc":"3.09" },
+    { "name":"KT", "id":"030200", "volumeInc":"1.88", "price":"27850", "priceInc":"0.72" },
+    { "name":"CJ CGV", "id":"079160", "volumeInc":"1.87", "price":"67600", "priceInc":"2.27" }
+  ]
+}
