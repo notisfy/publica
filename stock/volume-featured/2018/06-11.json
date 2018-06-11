@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"동양", "id":"001520", "volumeInc":"4.90", "price":"2270", "priceInc":"6.32" },
+    { "name":"SK텔레콤", "id":"017670", "volumeInc":"2.84", "price":"241000", "priceInc":"4.78" },
+    { "name":"한국단자", "id":"025540", "volumeInc":"2.42", "price":"48000", "priceInc":"4.35" },
+    { "name":"태광산업", "id":"003240", "volumeInc":"2.35", "price":"1411000", "priceInc":"6.41" },
+    { "name":"KT", "id":"030200", "volumeInc":"2.28", "price":"28350", "priceInc":"1.80" },
+    { "name":"롯데푸드", "id":"002270", "volumeInc":"2.10", "price":"809000", "priceInc":"5.20" },
+    { "name":"휠라코리아", "id":"081660", "volumeInc":"2.09", "price":"30450", "priceInc":"2.18" },
+    { "name":"농심", "id":"004370", "volumeInc":"1.95", "price":"353500", "priceInc":"0.86" },
+    { "name":"두산인프라코어", "id":"042670", "volumeInc":"1.89", "price":"10950", "priceInc":"5.29" },
+    { "name":"대우조선해양", "id":"042660", "volumeInc":"1.61", "price":"27900", "priceInc":"4.89" }
+  ]
+}
