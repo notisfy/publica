@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"휠라코리아", "id":"081660", "volumeInc":"3.08", "price":"32500", "priceInc":"6.73" },
+    { "name":"SK텔레콤", "id":"017670", "volumeInc":"2.79", "price":"246500", "priceInc":"2.28" },
+    { "name":"코오롱인더", "id":"120110", "volumeInc":"2.69", "price":"74000", "priceInc":"1.37" },
+    { "name":"녹십자", "id":"006280", "volumeInc":"2.58", "price":"222500", "priceInc":"4.46" },
+    { "name":"동아쏘시오홀딩스", "id":"000640", "volumeInc":"2.39", "price":"107500", "priceInc":"0.47" },
+    { "name":"SKC", "id":"011790", "volumeInc":"2.26", "price":"42300", "priceInc":"3.68" },
+    { "name":"아시아나항공", "id":"020560", "volumeInc":"2.03", "price":"5090", "priceInc":"3.98" },
+    { "name":"롯데지주", "id":"004990", "volumeInc":"1.65", "price":"60100", "priceInc":"2.91" },
+    { "name":"녹십자홀딩스", "id":"005250", "volumeInc":"1.62", "price":"38350", "priceInc":"3.51" },
+    { "name":"제주항공", "id":"089590", "volumeInc":"1.51", "price":"50800", "priceInc":"2.63" },
+    { "name":"LG하우시스", "id":"108670", "volumeInc":"1.50", "price":"75600", "priceInc":"1.48" }
+  ]
+}
