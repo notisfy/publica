@@ -1,0 +1,25 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한세실업", "id":"105630", "volumeInc":"4.36", "price":"17050", "priceInc":"3.65" },
+    { "name":"휠라코리아", "id":"081660", "volumeInc":"3.39", "price":"32850", "priceInc":"1.08" },
+    { "name":"영원무역", "id":"111770", "volumeInc":"3.02", "price":"33950", "priceInc":"3.03" },
+    { "name":"휴켐스", "id":"069260", "volumeInc":"2.95", "price":"30400", "priceInc":"1.84" },
+    { "name":"현대그린푸드", "id":"005440", "volumeInc":"2.76", "price":"16250", "priceInc":"3.83" },
+    { "name":"롯데푸드", "id":"002270", "volumeInc":"2.69", "price":"822000", "priceInc":"1.61" },
+    { "name":"한국단자", "id":"025540", "volumeInc":"2.41", "price":"49300", "priceInc":"1.02" },
+    { "name":"오리온홀딩스", "id":"001800", "volumeInc":"2.34", "price":"26500", "priceInc":"0.38" },
+    { "name":"이노션", "id":"214320", "volumeInc":"2.20", "price":"68000", "priceInc":"1.19" },
+    { "name":"LG화학우", "id":"051915", "volumeInc":"2.14", "price":"230000", "priceInc":"1.32" },
+    { "name":"금호석유", "id":"011780", "volumeInc":"1.97", "price":"106000", "priceInc":"4.43" },
+    { "name":"대교", "id":"019680", "volumeInc":"1.96", "price":"7950", "priceInc":"2.32" },
+    { "name":"LG전자", "id":"066570", "volumeInc":"1.93", "price":"93600", "priceInc":"4.00" },
+    { "name":"동원F&B", "id":"049770", "volumeInc":"1.90", "price":"285500", "priceInc":"0.18" },
+    { "name":"에스원", "id":"012750", "volumeInc":"1.84", "price":"95100", "priceInc":"1.28" },
+    { "name":"GS리테일", "id":"007070", "volumeInc":"1.79", "price":"41850", "priceInc":"1.95" },
+    { "name":"일양약품", "id":"007570", "volumeInc":"1.78", "price":"40950", "priceInc":"3.15" },
+    { "name":"한섬", "id":"020000", "volumeInc":"1.75", "price":"42100", "priceInc":"2.93" },
+    { "name":"삼성카드", "id":"029780", "volumeInc":"1.75", "price":"39500", "priceInc":"0.13" },
+    { "name":"메리츠화재", "id":"000060", "volumeInc":"1.73", "price":"20950", "priceInc":"1.21" }
+  ]
+}
