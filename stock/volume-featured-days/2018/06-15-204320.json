@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "만도",
+  "dailyTrading" : [
+    { "date":"2018-06-01", "volume":"621114", "adjClosePrice":"40800", "featured":false },
+    { "date":"2018-06-04", "volume":"830213", "adjClosePrice":"43000", "featured":true },
+    { "date":"2018-06-05", "volume":"399921", "adjClosePrice":"41400", "featured":false },
+    { "date":"2018-06-07", "volume":"384664", "adjClosePrice":"42750", "featured":false },
+    { "date":"2018-06-08", "volume":"451624", "adjClosePrice":"40400", "featured":false },
+    { "date":"2018-06-11", "volume":"389141", "adjClosePrice":"39300", "featured":false },
+    { "date":"2018-06-12", "volume":"707830", "adjClosePrice":"37950", "featured":false },
+    { "date":"2018-06-14", "volume":"558905", "adjClosePrice":"37750", "featured":false },
+    { "date":"2018-06-15", "volume":"1227231", "adjClosePrice":"39350", "featured":true }
+  ]
+}

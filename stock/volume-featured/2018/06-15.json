@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"만도", "id":"204320", "volumeInc":"5.10", "price":"39350", "priceInc":"4.24" },
+    { "name":"한세실업", "id":"105630", "volumeInc":"4.45", "price":"17850", "priceInc":"4.69" },
+    { "name":"두산", "id":"000150", "volumeInc":"3.01", "price":"108000", "priceInc":"2.37" },
+    { "name":"동양생명", "id":"082640", "volumeInc":"2.12", "price":"7490", "priceInc":"2.04" },
+    { "name":"LIG넥스원", "id":"079550", "volumeInc":"2.03", "price":"51900", "priceInc":"4.95" },
+    { "name":"삼성SDI", "id":"006400", "volumeInc":"1.86", "price":"235500", "priceInc":"3.74" },
+    { "name":"삼성화재", "id":"000810", "volumeInc":"1.83", "price":"260500", "priceInc":"1.17" },
+    { "name":"현대백화점", "id":"069960", "volumeInc":"1.80", "price":"117000", "priceInc":"1.74" },
+    { "name":"한화", "id":"000880", "volumeInc":"1.66", "price":"35350", "priceInc":"0.28" },
+    { "name":"DGB금융지주", "id":"139130", "volumeInc":"1.63", "price":"11000", "priceInc":"2.80" }
+  ]
+}
