@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"DB손해보험", "id":"005830", "volumeInc":"3.44", "price":"63100", "priceInc":"5.17" },
+    { "name":"LG유플러스", "id":"032640", "volumeInc":"3.35", "price":"14000", "priceInc":"4.48" },
+    { "name":"동양생명", "id":"082640", "volumeInc":"3.32", "price":"7690", "priceInc":"2.67" },
+    { "name":"에스원", "id":"012750", "volumeInc":"2.85", "price":"99100", "priceInc":"6.56" },
+    { "name":"S-Oil", "id":"010950", "volumeInc":"2.49", "price":"113000", "priceInc":"1.35" },
+    { "name":"영원무역", "id":"111770", "volumeInc":"2.48", "price":"34450", "priceInc":"2.84" },
+    { "name":"KT", "id":"030200", "volumeInc":"2.42", "price":"28550", "priceInc":"0.88" },
+    { "name":"현대홈쇼핑", "id":"057050", "volumeInc":"2.23", "price":"112500", "priceInc":"2.74" },
+    { "name":"DB하이텍", "id":"000990", "volumeInc":"1.94", "price":"19450", "priceInc":"0.52" },
+    { "name":"휴켐스", "id":"069260", "volumeInc":"1.83", "price":"29900", "priceInc":"2.57" },
+    { "name":"동원F&B", "id":"049770", "volumeInc":"1.75", "price":"275000", "priceInc":"0.18" },
+    { "name":"현대해상", "id":"001450", "volumeInc":"1.69", "price":"36850", "priceInc":"5.89" }
+  ]
+}
