@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "금호석유",
+  "dailyTrading" : [
+    { "date":"2018-06-05", "volume":"97153", "adjClosePrice":"104000", "featured":false },
+    { "date":"2018-06-07", "volume":"151450", "adjClosePrice":"102500", "featured":false },
+    { "date":"2018-06-08", "volume":"179194", "adjClosePrice":"99300", "featured":false },
+    { "date":"2018-06-11", "volume":"103354", "adjClosePrice":"101000", "featured":false },
+    { "date":"2018-06-12", "volume":"76244", "adjClosePrice":"101500", "featured":false },
+    { "date":"2018-06-14", "volume":"290496", "adjClosePrice":"106000", "featured":true },
+    { "date":"2018-06-15", "volume":"99332", "adjClosePrice":"104500", "featured":false },
+    { "date":"2018-06-18", "volume":"114762", "adjClosePrice":"102500", "featured":false },
+    { "date":"2018-06-19", "volume":"169485", "adjClosePrice":"104500", "featured":false }
+  ]
+}
