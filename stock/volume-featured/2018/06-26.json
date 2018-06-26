@@ -1,0 +1,9 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"S-Oil", "id":"010950", "volumeInc":"2.77", "price":"115000", "priceInc":"2.68" },
+    { "name":"맥쿼리인프라", "id":"088980", "volumeInc":"2.67", "price":"9030", "priceInc":"0.44" },
+    { "name":"삼성전자우", "id":"005935", "volumeInc":"1.67", "price":"37800", "priceInc":"0.80" },
+    { "name":"만도", "id":"204320", "volumeInc":"1.67", "price":"38200", "priceInc":"2.00" }
+  ]
+}
