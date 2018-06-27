@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "락앤락",
+  "dailyTrading" : [
+    { "date":"2018-06-14", "volume":"200081", "adjClosePrice":"24100", "featured":true },
+    { "date":"2018-06-15", "volume":"92318", "adjClosePrice":"23900", "featured":false },
+    { "date":"2018-06-18", "volume":"80801", "adjClosePrice":"23450", "featured":false },
+    { "date":"2018-06-19", "volume":"113142", "adjClosePrice":"22600", "featured":false },
+    { "date":"2018-06-20", "volume":"108446", "adjClosePrice":"22350", "featured":false },
+    { "date":"2018-06-21", "volume":"64748", "adjClosePrice":"22150", "featured":false },
+    { "date":"2018-06-22", "volume":"56442", "adjClosePrice":"22150", "featured":false },
+    { "date":"2018-06-25", "volume":"51863", "adjClosePrice":"22000", "featured":false },
+    { "date":"2018-06-26", "volume":"116600", "adjClosePrice":"22700", "featured":false },
+    { "date":"2018-06-27", "volume":"37683", "adjClosePrice":"22250", "featured":false }
+  ]
+}

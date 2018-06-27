@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"삼성전자우", "id":"005935", "volumeInc":"2.29", "price":"37450", "priceInc":"0.81" },
+    { "name":"CJ대한통운", "id":"000120", "volumeInc":"2.00", "price":"164000", "priceInc":"3.47" },
+    { "name":"태광산업", "id":"003240", "volumeInc":"1.98", "price":"1374000", "priceInc":"2.69" },
+    { "name":"LG생활건강우", "id":"051905", "volumeInc":"1.75", "price":"761000", "priceInc":"1.20" },
+    { "name":"DB하이텍", "id":"000990", "volumeInc":"1.72", "price":"20700", "priceInc":"7.25" },
+    { "name":"농심", "id":"004370", "volumeInc":"1.68", "price":"350500", "priceInc":"3.24" },
+    { "name":"한국전력", "id":"015760", "volumeInc":"1.67", "price":"34900", "priceInc":"6.08" },
+    { "name":"한섬", "id":"020000", "volumeInc":"1.67", "price":"43450", "priceInc":"2.60" },
+    { "name":"NAVER", "id":"035420", "volumeInc":"1.64", "price":"723000", "priceInc":"3.43" },
+    { "name":"신세계", "id":"004170", "volumeInc":"1.59", "price":"391500", "priceInc":"0.64" }
+  ]
+}

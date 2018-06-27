@@ -1,0 +1,12 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"SKC", "id":"011790", "volumeInc":"4.43", "price":"45450", "priceInc":"3.06" },
+    { "name":"휠라코리아", "id":"081660", "volumeInc":"3.19", "price":"34500", "priceInc":"2.37" },
+    { "name":"HDC", "id":"012630", "volumeInc":"3.02", "price":"30450", "priceInc":"12.78" },
+    { "name":"한솔케미칼", "id":"014680", "volumeInc":"2.54", "price":"76500", "priceInc":"2.96" },
+    { "name":"금호석유", "id":"011780", "volumeInc":"1.78", "price":"111000", "priceInc":"6.22" },
+    { "name":"OCI", "id":"010060", "volumeInc":"1.67", "price":"107500", "priceInc":"0.94" },
+    { "name":"삼성전자우", "id":"005935", "volumeInc":"1.67", "price":"37150", "priceInc":"0.13" }
+  ]
+}

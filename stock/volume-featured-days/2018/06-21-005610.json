@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "SPC삼립",
+  "dailyTrading" : [
+    { "date":"2018-06-07", "volume":"100761", "adjClosePrice":"139000", "featured":true },
+    { "date":"2018-06-08", "volume":"56262", "adjClosePrice":"139000", "featured":false },
+    { "date":"2018-06-11", "volume":"47285", "adjClosePrice":"135000", "featured":false },
+    { "date":"2018-06-12", "volume":"22366", "adjClosePrice":"132500", "featured":false },
+    { "date":"2018-06-14", "volume":"26694", "adjClosePrice":"131500", "featured":false },
+    { "date":"2018-06-15", "volume":"19912", "adjClosePrice":"132500", "featured":false },
+    { "date":"2018-06-18", "volume":"18736", "adjClosePrice":"127000", "featured":false },
+    { "date":"2018-06-19", "volume":"41749", "adjClosePrice":"131500", "featured":true },
+    { "date":"2018-06-20", "volume":"14442", "adjClosePrice":"130500", "featured":false },
+    { "date":"2018-06-21", "volume":"15074", "adjClosePrice":"129500", "featured":false }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"스카이라이프", "id":"053210", "volumeInc":"4.15", "price":"13950", "priceInc":"5.28" },
+    { "name":"신세계", "id":"004170", "volumeInc":"3.64", "price":"419500", "priceInc":"7.15" },
+    { "name":"NAVER", "id":"035420", "volumeInc":"2.53", "price":"748000", "priceInc":"3.46" },
+    { "name":"영원무역홀딩스", "id":"009970", "volumeInc":"2.41", "price":"54400", "priceInc":"1.12" },
+    { "name":"휠라코리아", "id":"081660", "volumeInc":"1.90", "price":"36500", "priceInc":"4.73" },
+    { "name":"한솔케미칼", "id":"014680", "volumeInc":"1.64", "price":"78800", "priceInc":"1.42" },
+    { "name":"맥쿼리인프라", "id":"088980", "volumeInc":"1.53", "price":"8990", "priceInc":"0.22" }
+  ]
+}

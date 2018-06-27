@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "SK텔레콤",
+  "dailyTrading" : [
+    { "date":"2018-06-12", "volume":"496297", "adjClosePrice":"246500", "featured":true },
+    { "date":"2018-06-14", "volume":"450802", "adjClosePrice":"241500", "featured":false },
+    { "date":"2018-06-15", "volume":"373870", "adjClosePrice":"234500", "featured":false },
+    { "date":"2018-06-18", "volume":"362522", "adjClosePrice":"237500", "featured":false },
+    { "date":"2018-06-19", "volume":"259369", "adjClosePrice":"235500", "featured":false },
+    { "date":"2018-06-20", "volume":"308160", "adjClosePrice":"241500", "featured":true },
+    { "date":"2018-06-21", "volume":"208907", "adjClosePrice":"243000", "featured":false },
+    { "date":"2018-06-22", "volume":"141886", "adjClosePrice":"242000", "featured":false },
+    { "date":"2018-06-25", "volume":"169109", "adjClosePrice":"237000", "featured":false },
+    { "date":"2018-06-26", "volume":"118659", "adjClosePrice":"237000", "featured":false }
+  ]
+}

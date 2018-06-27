@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "대우조선해양",
+  "dailyTrading" : [
+    { "date":"2018-06-07", "volume":"358926", "adjClosePrice":"27100", "featured":false },
+    { "date":"2018-06-08", "volume":"260679", "adjClosePrice":"26600", "featured":false },
+    { "date":"2018-06-11", "volume":"1201756", "adjClosePrice":"27900", "featured":true },
+    { "date":"2018-06-12", "volume":"650768", "adjClosePrice":"27700", "featured":false },
+    { "date":"2018-06-14", "volume":"2497264", "adjClosePrice":"26150", "featured":false },
+    { "date":"2018-06-15", "volume":"914134", "adjClosePrice":"25850", "featured":false },
+    { "date":"2018-06-18", "volume":"899099", "adjClosePrice":"24350", "featured":false },
+    { "date":"2018-06-19", "volume":"800026", "adjClosePrice":"23550", "featured":false },
+    { "date":"2018-06-20", "volume":"344241", "adjClosePrice":"24050", "featured":false }
+  ]
+}
