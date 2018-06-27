@@ -1,0 +1,9 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한국콜마", "id":"161890", "volumeInc":"5.14", "price":"82400", "priceInc":"8.85" },
+    { "name":"잇츠한불", "id":"226320", "volumeInc":"2.18", "price":"54000", "priceInc":"4.45" },
+    { "name":"삼성전자", "id":"005930", "volumeInc":"1.68", "price":"47950", "priceInc":"2.02" },
+    { "name":"삼양사", "id":"145990", "volumeInc":"1.55", "price":"82000", "priceInc":"2.50" }
+  ]
+}
