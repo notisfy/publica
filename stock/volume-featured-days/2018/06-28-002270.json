@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "롯데푸드",
+  "dailyTrading" : [
+    { "date":"2018-06-14", "volume":"8509", "adjClosePrice":"822000", "featured":true },
+    { "date":"2018-06-15", "volume":"9384", "adjClosePrice":"793000", "featured":false },
+    { "date":"2018-06-18", "volume":"3850", "adjClosePrice":"783000", "featured":false },
+    { "date":"2018-06-19", "volume":"4035", "adjClosePrice":"759000", "featured":false },
+    { "date":"2018-06-20", "volume":"5858", "adjClosePrice":"763000", "featured":true },
+    { "date":"2018-06-21", "volume":"3543", "adjClosePrice":"775000", "featured":false },
+    { "date":"2018-06-22", "volume":"2214", "adjClosePrice":"772000", "featured":false },
+    { "date":"2018-06-25", "volume":"1511", "adjClosePrice":"787000", "featured":false },
+    { "date":"2018-06-26", "volume":"2423", "adjClosePrice":"789000", "featured":false },
+    { "date":"2018-06-27", "volume":"2581", "adjClosePrice":"804000", "featured":false },
+    { "date":"2018-06-28", "volume":"2200", "adjClosePrice":"819000", "featured":false }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"하이트진로", "id":"000080", "volumeInc":"3.23", "price":"20400", "priceInc":"3.29" },
+    { "name":"SPC삼립", "id":"005610", "volumeInc":"3.22", "price":"134000", "priceInc":"8.06" },
+    { "name":"이마트", "id":"139480", "volumeInc":"2.73", "price":"256000", "priceInc":"3.23" },
+    { "name":"오리온홀딩스", "id":"001800", "volumeInc":"2.60", "price":"27600", "priceInc":"6.98" },
+    { "name":"아모레퍼시픽", "id":"090430", "volumeInc":"2.08", "price":"320000", "priceInc":"3.56" },
+    { "name":"GS리테일", "id":"007070", "volumeInc":"2.05", "price":"43650", "priceInc":"1.87" },
+    { "name":"아모레G", "id":"002790", "volumeInc":"2.01", "price":"125500", "priceInc":"3.72" },
+    { "name":"롯데쇼핑", "id":"023530", "volumeInc":"1.91", "price":"213500", "priceInc":"2.89" },
+    { "name":"OCI", "id":"010060", "volumeInc":"1.78", "price":"107500", "priceInc":"4.88" },
+    { "name":"메리츠화재", "id":"000060", "volumeInc":"1.57", "price":"19300", "priceInc":"0.52" },
+    { "name":"아모레퍼시픽우", "id":"090435", "volumeInc":"1.54", "price":"154000", "priceInc":"3.70" }
+  ]
+}
