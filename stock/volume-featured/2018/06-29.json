@@ -1,0 +1,14 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"삼성전자우", "id":"005935", "volumeInc":"1.93", "price":"37650", "priceInc":"1.21" },
+    { "name":"LG디스플레이", "id":"034220", "volumeInc":"1.90", "price":"18300", "priceInc":"4.57" },
+    { "name":"롯데푸드", "id":"002270", "volumeInc":"1.79", "price":"852000", "priceInc":"4.03" },
+    { "name":"LG생활건강우", "id":"051905", "volumeInc":"1.75", "price":"730000", "priceInc":"1.96" },
+    { "name":"메리츠금융지주", "id":"138040", "volumeInc":"1.74", "price":"13400", "priceInc":"0.75" },
+    { "name":"현대홈쇼핑", "id":"057050", "volumeInc":"1.71", "price":"112500", "priceInc":"1.35" },
+    { "name":"스카이라이프", "id":"053210", "volumeInc":"1.66", "price":"13700", "priceInc":"0.37" },
+    { "name":"오뚜기", "id":"007310", "volumeInc":"1.65", "price":"859000", "priceInc":"3.37" },
+    { "name":"CJ", "id":"001040", "volumeInc":"1.53", "price":"142000", "priceInc":"4.03" }
+  ]
+}

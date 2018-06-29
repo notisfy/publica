@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "한화",
+  "dailyTrading" : [
+    { "date":"2018-06-15", "volume":"546633", "adjClosePrice":"35350", "featured":true },
+    { "date":"2018-06-18", "volume":"434658", "adjClosePrice":"34300", "featured":false },
+    { "date":"2018-06-19", "volume":"346813", "adjClosePrice":"33650", "featured":false },
+    { "date":"2018-06-20", "volume":"267489", "adjClosePrice":"33250", "featured":false },
+    { "date":"2018-06-21", "volume":"640835", "adjClosePrice":"31850", "featured":false },
+    { "date":"2018-06-22", "volume":"524112", "adjClosePrice":"32100", "featured":false },
+    { "date":"2018-06-25", "volume":"360134", "adjClosePrice":"32800", "featured":false },
+    { "date":"2018-06-26", "volume":"250007", "adjClosePrice":"32900", "featured":false },
+    { "date":"2018-06-27", "volume":"386691", "adjClosePrice":"31550", "featured":false },
+    { "date":"2018-06-28", "volume":"236015", "adjClosePrice":"31500", "featured":false },
+    { "date":"2018-06-29", "volume":"309784", "adjClosePrice":"31550", "featured":false }
+  ]
+}
