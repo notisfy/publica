@@ -1,0 +1,6 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"SPC삼립", "id":"005610", "volumeInc":"1.79", "price":"133500", "priceInc":"1.52" }
+  ]
+}
