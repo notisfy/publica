@@ -1,0 +1,6 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"현대해상", "id":"001450", "volumeInc":"1.57", "price":"34300", "priceInc":"3.31" }
+  ]
+}
