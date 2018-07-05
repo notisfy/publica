@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "DB하이텍",
+  "dailyTrading" : [
+    { "date":"2018-06-21", "volume":"460311", "adjClosePrice":"19300", "featured":false },
+    { "date":"2018-06-22", "volume":"923336", "adjClosePrice":"20700", "featured":true },
+    { "date":"2018-06-25", "volume":"1080916", "adjClosePrice":"19650", "featured":false },
+    { "date":"2018-06-26", "volume":"674816", "adjClosePrice":"19800", "featured":false },
+    { "date":"2018-06-27", "volume":"785429", "adjClosePrice":"20350", "featured":false },
+    { "date":"2018-06-28", "volume":"730105", "adjClosePrice":"19300", "featured":false },
+    { "date":"2018-06-29", "volume":"517924", "adjClosePrice":"19600", "featured":false },
+    { "date":"2018-07-02", "volume":"499972", "adjClosePrice":"18900", "featured":false },
+    { "date":"2018-07-03", "volume":"538418", "adjClosePrice":"19050", "featured":false },
+    { "date":"2018-07-04", "volume":"390506", "adjClosePrice":"18600", "featured":false },
+    { "date":"2018-07-05", "volume":"459989", "adjClosePrice":"18650", "featured":false }
+  ]
+}
