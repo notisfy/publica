@@ -1,0 +1,18 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"동원시스템즈", "id":"014820", "volumeInc":"6.04", "price":"34800", "priceInc":"1.90" },
+    { "name":"만도", "id":"204320", "volumeInc":"2.56", "price":"38600", "priceInc":"8.43" },
+    { "name":"삼성SDI", "id":"006400", "volumeInc":"2.46", "price":"231000", "priceInc":"7.44" },
+    { "name":"현대중공업", "id":"009540", "volumeInc":"2.11", "price":"104500", "priceInc":"2.96" },
+    { "name":"LG이노텍", "id":"011070", "volumeInc":"2.09", "price":"156000", "priceInc":"7.22" },
+    { "name":"코웨이", "id":"021240", "volumeInc":"2.06", "price":"87200", "priceInc":"5.19" },
+    { "name":"CJ", "id":"001040", "volumeInc":"1.97", "price":"143500", "priceInc":"5.13" },
+    { "name":"넥센타이어", "id":"002350", "volumeInc":"1.92", "price":"10450", "priceInc":"3.98" },
+    { "name":"휴켐스", "id":"069260", "volumeInc":"1.83", "price":"31150", "priceInc":"5.24" },
+    { "name":"현대미포조선", "id":"010620", "volumeInc":"1.70", "price":"87400", "priceInc":"0.11" },
+    { "name":"이노션", "id":"214320", "volumeInc":"1.63", "price":"57600", "priceInc":"2.49" },
+    { "name":"현대위아", "id":"011210", "volumeInc":"1.62", "price":"40900", "priceInc":"6.51" },
+    { "name":"신세계", "id":"004170", "volumeInc":"1.58", "price":"360500", "priceInc":"0.70" }
+  ]
+}
