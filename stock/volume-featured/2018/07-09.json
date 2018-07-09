@@ -1,0 +1,7 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"동원F&B", "id":"049770", "volumeInc":"2.61", "price":"305000", "priceInc":"6.46" },
+    { "name":"태광산업", "id":"003240", "volumeInc":"2.31", "price":"1524000", "priceInc":"5.83" }
+  ]
+}
