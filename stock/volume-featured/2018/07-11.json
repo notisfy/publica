@@ -1,0 +1,9 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"쌍용차", "id":"003620", "volumeInc":"18.66", "price":"4750", "priceInc":"4.74" },
+    { "name":"하이트진로", "id":"000080", "volumeInc":"2.45", "price":"19250", "priceInc":"5.48" },
+    { "name":"LG디스플레이", "id":"034220", "volumeInc":"1.83", "price":"19700", "priceInc":"0.51" },
+    { "name":"롯데정밀화학", "id":"004000", "volumeInc":"1.54", "price":"58500", "priceInc":"0.69" }
+  ]
+}
