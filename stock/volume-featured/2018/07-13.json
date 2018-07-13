@@ -1,0 +1,9 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"JB금융지주", "id":"175330", "volumeInc":"4.09", "price":"6050", "priceInc":"6.89" },
+    { "name":"이노션", "id":"214320", "volumeInc":"2.63", "price":"53700", "priceInc":"0.19" },
+    { "name":"SK", "id":"034730", "volumeInc":"1.67", "price":"273500", "priceInc":"1.67" },
+    { "name":"태광산업", "id":"003240", "volumeInc":"1.52", "price":"1493000", "priceInc":"3.32" }
+  ]
+}
