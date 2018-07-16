@@ -1,0 +1,8 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"현대미포조선", "id":"010620", "volumeInc":"2.83", "price":"83000", "priceInc":"3.88" },
+    { "name":"S-Oil", "id":"010950", "volumeInc":"2.23", "price":"116000", "priceInc":"5.94" },
+    { "name":"현대모비스", "id":"012330", "volumeInc":"1.57", "price":"222500", "priceInc":"3.25" }
+  ]
+}
