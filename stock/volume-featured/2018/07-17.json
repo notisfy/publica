@@ -1,0 +1,11 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"아시아나항공", "id":"020560", "volumeInc":"17.62", "price":"4300", "priceInc":"2.99" },
+    { "name":"동원시스템즈", "id":"014820", "volumeInc":"8.34", "price":"41050", "priceInc":"11.40" },
+    { "name":"제주항공", "id":"089590", "volumeInc":"2.25", "price":"46200", "priceInc":"4.29" },
+    { "name":"롯데지주", "id":"004990", "volumeInc":"1.89", "price":"54100", "priceInc":"5.46" },
+    { "name":"LG전자", "id":"066570", "volumeInc":"1.64", "price":"78800", "priceInc":"3.14" },
+    { "name":"잇츠한불", "id":"226320", "volumeInc":"1.63", "price":"54900", "priceInc":"4.57" }
+  ]
+}

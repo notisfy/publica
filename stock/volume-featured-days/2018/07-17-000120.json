@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "CJ대한통운",
+  "dailyTrading" : [
+    { "date":"2018-07-03", "volume":"73356", "adjClosePrice":"167500", "featured":false },
+    { "date":"2018-07-04", "volume":"146020", "adjClosePrice":"172500", "featured":true },
+    { "date":"2018-07-05", "volume":"95889", "adjClosePrice":"169500", "featured":false },
+    { "date":"2018-07-06", "volume":"65213", "adjClosePrice":"168500", "featured":false },
+    { "date":"2018-07-09", "volume":"104310", "adjClosePrice":"173000", "featured":false },
+    { "date":"2018-07-10", "volume":"52641", "adjClosePrice":"173000", "featured":false },
+    { "date":"2018-07-11", "volume":"64384", "adjClosePrice":"172500", "featured":false },
+    { "date":"2018-07-12", "volume":"41469", "adjClosePrice":"170500", "featured":false },
+    { "date":"2018-07-13", "volume":"57354", "adjClosePrice":"170000", "featured":false },
+    { "date":"2018-07-16", "volume":"67376", "adjClosePrice":"168000", "featured":false },
+    { "date":"2018-07-17", "volume":"71672", "adjClosePrice":"167500", "featured":false }
+  ]
+}
