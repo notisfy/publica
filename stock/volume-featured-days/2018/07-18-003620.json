@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "쌍용차",
+  "dailyTrading" : [
+    { "date":"2018-07-04", "volume":"153853", "adjClosePrice":"4440", "featured":false },
+    { "date":"2018-07-05", "volume":"72849", "adjClosePrice":"4455", "featured":false },
+    { "date":"2018-07-06", "volume":"92422", "adjClosePrice":"4600", "featured":false },
+    { "date":"2018-07-09", "volume":"113925", "adjClosePrice":"4550", "featured":false },
+    { "date":"2018-07-10", "volume":"90209", "adjClosePrice":"4535", "featured":false },
+    { "date":"2018-07-11", "volume":"4256396", "adjClosePrice":"4750", "featured":true },
+    { "date":"2018-07-12", "volume":"720450", "adjClosePrice":"4660", "featured":false },
+    { "date":"2018-07-13", "volume":"509740", "adjClosePrice":"4565", "featured":false },
+    { "date":"2018-07-16", "volume":"256456", "adjClosePrice":"4615", "featured":false },
+    { "date":"2018-07-17", "volume":"151395", "adjClosePrice":"4590", "featured":false },
+    { "date":"2018-07-18", "volume":"274064", "adjClosePrice":"4465", "featured":false }
+  ]
+}

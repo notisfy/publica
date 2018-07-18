@@ -1,0 +1,6 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"하나투어", "id":"039130", "volumeInc":"1.74", "price":"80700", "priceInc":"4.53" }
+  ]
+}
