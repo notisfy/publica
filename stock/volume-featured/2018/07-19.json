@@ -1,0 +1,6 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"LG디스플레이", "id":"034220", "volumeInc":"1.61", "price":"21400", "priceInc":"5.42" }
+  ]
+}
