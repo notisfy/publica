@@ -1,0 +1,8 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"LG디스플레이", "id":"034220", "volumeInc":"1.98", "price":"21900", "priceInc":"2.34" },
+    { "name":"한화", "id":"000880", "volumeInc":"1.63", "price":"31600", "priceInc":"5.16" },
+    { "name":"한섬", "id":"020000", "volumeInc":"1.60", "price":"36550", "priceInc":"2.09" }
+  ]
+}
