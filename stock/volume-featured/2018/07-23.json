@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"제일파마홀딩스", "id":"002620", "volumeInc":"5.99", "price":"24550", "priceInc":"1.87" },
+    { "name":"메리츠금융지주", "id":"138040", "volumeInc":"2.46", "price":"12450", "priceInc":"0.81" },
+    { "name":"현대해상", "id":"001450", "volumeInc":"2.07", "price":"35950", "priceInc":"5.58" },
+    { "name":"팬오션", "id":"028670", "volumeInc":"1.77", "price":"5020", "priceInc":"4.58" },
+    { "name":"영원무역", "id":"111770", "volumeInc":"1.69", "price":"31050", "priceInc":"2.14" },
+    { "name":"한전기술", "id":"052690", "volumeInc":"1.64", "price":"22400", "priceInc":"1.13" },
+    { "name":"세아베스틸", "id":"001430", "volumeInc":"1.59", "price":"20350", "priceInc":"1.50" },
+    { "name":"하나금융지주", "id":"086790", "volumeInc":"1.57", "price":"43650", "priceInc":"3.31" },
+    { "name":"한국전력", "id":"015760", "volumeInc":"1.56", "price":"32250", "priceInc":"3.53" },
+    { "name":"아모레G", "id":"002790", "volumeInc":"1.51", "price":"106500", "priceInc":"2.40" }
+  ]
+}
