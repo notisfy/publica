@@ -1,0 +1,10 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"LG화학", "id":"051910", "volumeInc":"4.00", "price":"361500", "priceInc":"9.38" },
+    { "name":"쌍용양회", "id":"003410", "volumeInc":"2.90", "price":"5150", "priceInc":"5.97" },
+    { "name":"LG화학우", "id":"051915", "volumeInc":"2.36", "price":"212500", "priceInc":"4.94" },
+    { "name":"풍산", "id":"103140", "volumeInc":"2.19", "price":"34550", "priceInc":"3.91" },
+    { "name":"현대미포조선", "id":"010620", "volumeInc":"1.63", "price":"90100", "priceInc":"4.16" }
+  ]
+}
