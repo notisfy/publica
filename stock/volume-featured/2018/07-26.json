@@ -1,0 +1,14 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"대한유화", "id":"006650", "volumeInc":"2.58", "price":"251000", "priceInc":"8.19" },
+    { "name":"한국금융지주", "id":"071050", "volumeInc":"2.25", "price":"72200", "priceInc":"3.14" },
+    { "name":"NAVER", "id":"035420", "volumeInc":"2.20", "price":"751000", "priceInc":"0.67" },
+    { "name":"현대중공업", "id":"009540", "volumeInc":"1.84", "price":"104500", "priceInc":"5.98" },
+    { "name":"SK하이닉스", "id":"000660", "volumeInc":"1.82", "price":"83100", "priceInc":"3.23" },
+    { "name":"롯데정밀화학", "id":"004000", "volumeInc":"1.76", "price":"62400", "priceInc":"4.87" },
+    { "name":"현대위아", "id":"011210", "volumeInc":"1.75", "price":"44000", "priceInc":"6.80" },
+    { "name":"유한양행", "id":"000100", "volumeInc":"1.71", "price":"224500", "priceInc":"3.70" },
+    { "name":"대우조선해양", "id":"042660", "volumeInc":"1.62", "price":"25050", "priceInc":"8.44" }
+  ]
+}
