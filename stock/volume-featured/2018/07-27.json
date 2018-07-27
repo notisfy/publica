@@ -1,0 +1,12 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"만도", "id":"204320", "volumeInc":"2.59", "price":"41700", "priceInc":"4.77" },
+    { "name":"OCI", "id":"010060", "volumeInc":"2.30", "price":"101500", "priceInc":"8.44" },
+    { "name":"동아에스티", "id":"170900", "volumeInc":"2.07", "price":"92600", "priceInc":"3.58" },
+    { "name":"두산", "id":"000150", "volumeInc":"1.79", "price":"101500", "priceInc":"1.50" },
+    { "name":"LG생활건강", "id":"051900", "volumeInc":"1.72", "price":"1261000", "priceInc":"1.78" },
+    { "name":"한솔케미칼", "id":"014680", "volumeInc":"1.65", "price":"78300", "priceInc":"3.85" },
+    { "name":"한라홀딩스", "id":"060980", "volumeInc":"1.56", "price":"47250", "priceInc":"3.17" }
+  ]
+}

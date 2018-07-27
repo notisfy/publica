@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "JB금융지주",
+  "dailyTrading" : [
+    { "date":"2018-07-13", "volume":"952685", "adjClosePrice":"6050", "featured":true },
+    { "date":"2018-07-16", "volume":"364564", "adjClosePrice":"6080", "featured":false },
+    { "date":"2018-07-17", "volume":"265108", "adjClosePrice":"6070", "featured":false },
+    { "date":"2018-07-18", "volume":"240201", "adjClosePrice":"6060", "featured":false },
+    { "date":"2018-07-19", "volume":"125098", "adjClosePrice":"5870", "featured":false },
+    { "date":"2018-07-20", "volume":"149818", "adjClosePrice":"5820", "featured":false },
+    { "date":"2018-07-23", "volume":"284247", "adjClosePrice":"5790", "featured":false },
+    { "date":"2018-07-24", "volume":"314305", "adjClosePrice":"5950", "featured":false },
+    { "date":"2018-07-25", "volume":"292496", "adjClosePrice":"5990", "featured":false },
+    { "date":"2018-07-26", "volume":"230979", "adjClosePrice":"5960", "featured":false },
+    { "date":"2018-07-27", "volume":"140197", "adjClosePrice":"5950", "featured":false }
+  ]
+}
