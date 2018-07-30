@@ -1,0 +1,6 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"호텔신라", "id":"008770", "volumeInc":"2.20", "price":"99600", "priceInc":"1.63" }
+  ]
+}
