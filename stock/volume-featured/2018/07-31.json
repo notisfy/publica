@@ -1,0 +1,13 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"KCC", "id":"002380", "volumeInc":"4.14", "price":"339000", "priceInc":"3.67" },
+    { "name":"동아에스티", "id":"170900", "volumeInc":"2.85", "price":"95700", "priceInc":"7.65" },
+    { "name":"종근당", "id":"185750", "volumeInc":"2.64", "price":"104500", "priceInc":"7.73" },
+    { "name":"영진약품", "id":"003520", "volumeInc":"2.39", "price":"7480", "priceInc":"2.89" },
+    { "name":"현대위아", "id":"011210", "volumeInc":"1.84", "price":"47100", "priceInc":"6.20" },
+    { "name":"현대해상", "id":"001450", "volumeInc":"1.69", "price":"36650", "priceInc":"0.14" },
+    { "name":"한진칼", "id":"180640", "volumeInc":"1.66", "price":"18400", "priceInc":"6.05" },
+    { "name":"고려아연", "id":"010130", "volumeInc":"1.62", "price":"412500", "priceInc":"1.98" }
+  ]
+}
