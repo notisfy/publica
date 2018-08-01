@@ -1,0 +1,13 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"DGB금융지주", "id":"139130", "volumeInc":"3.82", "price":"9890", "priceInc":"5.78" },
+    { "name":"아모레G", "id":"002790", "volumeInc":"2.47", "price":"101000", "priceInc":"5.43" },
+    { "name":"한국콜마", "id":"161890", "volumeInc":"2.37", "price":"72400", "priceInc":"6.16" },
+    { "name":"코스맥스", "id":"192820", "volumeInc":"2.12", "price":"146000", "priceInc":"7.35" },
+    { "name":"두산", "id":"000150", "volumeInc":"2.09", "price":"104500", "priceInc":"0.48" },
+    { "name":"호텔신라", "id":"008770", "volumeInc":"1.94", "price":"107000", "priceInc":"7.21" },
+    { "name":"녹십자", "id":"006280", "volumeInc":"1.88", "price":"184000", "priceInc":"3.37" },
+    { "name":"LG생활건강", "id":"051900", "volumeInc":"1.71", "price":"1262000", "priceInc":"4.30" }
+  ]
+}
