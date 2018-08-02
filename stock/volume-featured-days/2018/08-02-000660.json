@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "SK하이닉스",
+  "dailyTrading" : [
+    { "date":"2018-07-19", "volume":"2340156", "adjClosePrice":"90300", "featured":false },
+    { "date":"2018-07-20", "volume":"3714657", "adjClosePrice":"87900", "featured":false },
+    { "date":"2018-07-23", "volume":"7049705", "adjClosePrice":"81700", "featured":false },
+    { "date":"2018-07-24", "volume":"3983673", "adjClosePrice":"83600", "featured":false },
+    { "date":"2018-07-25", "volume":"4047269", "adjClosePrice":"80500", "featured":false },
+    { "date":"2018-07-26", "volume":"6179823", "adjClosePrice":"83100", "featured":true },
+    { "date":"2018-07-27", "volume":"4849747", "adjClosePrice":"86100", "featured":false },
+    { "date":"2018-07-30", "volume":"2297277", "adjClosePrice":"85900", "featured":false },
+    { "date":"2018-07-31", "volume":"2786510", "adjClosePrice":"86300", "featured":false },
+    { "date":"2018-08-01", "volume":"2205623", "adjClosePrice":"85600", "featured":false },
+    { "date":"2018-08-02", "volume":"3347766", "adjClosePrice":"83200", "featured":false }
+  ]
+}

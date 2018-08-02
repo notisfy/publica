@@ -1,0 +1,7 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"JB금융지주", "id":"175330", "volumeInc":"3.16", "price":"6100", "priceInc":"1.16" },
+    { "name":"KT", "id":"030200", "volumeInc":"2.64", "price":"28800", "priceInc":"1.59" }
+  ]
+}
