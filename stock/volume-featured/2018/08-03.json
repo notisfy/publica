@@ -1,0 +1,12 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"JB금융지주", "id":"175330", "volumeInc":"3.68", "price":"6290", "priceInc":"3.11" },
+    { "name":"대웅제약", "id":"069620", "volumeInc":"3.00", "price":"193500", "priceInc":"7.20" },
+    { "name":"한화", "id":"000880", "volumeInc":"2.99", "price":"34000", "priceInc":"6.58" },
+    { "name":"두산", "id":"000150", "volumeInc":"2.52", "price":"109000", "priceInc":"4.81" },
+    { "name":"동원F&B", "id":"049770", "volumeInc":"2.06", "price":"297000", "priceInc":"7.61" },
+    { "name":"한화케미칼", "id":"009830", "volumeInc":"1.96", "price":"21750", "priceInc":"5.58" },
+    { "name":"태광산업", "id":"003240", "volumeInc":"1.52", "price":"1559000", "priceInc":"3.59" }
+  ]
+}
