@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"KT", "id":"030200", "volumeInc":"2.70", "price":"29600", "priceInc":"1.20" },
+    { "name":"동아에스티", "id":"170900", "volumeInc":"2.68", "price":"101000", "priceInc":"4.99" },
+    { "name":"현대해상", "id":"001450", "volumeInc":"2.65", "price":"38350", "priceInc":"3.79" },
+    { "name":"DB손해보험", "id":"005830", "volumeInc":"2.58", "price":"68000", "priceInc":"4.62" },
+    { "name":"삼성화재", "id":"000810", "volumeInc":"2.53", "price":"276000", "priceInc":"3.95" },
+    { "name":"아이에스동서", "id":"010780", "volumeInc":"2.21", "price":"29600", "priceInc":"2.96" },
+    { "name":"한미사이언스", "id":"008930", "volumeInc":"2.04", "price":"74700", "priceInc":"4.33" },
+    { "name":"한솔케미칼", "id":"014680", "volumeInc":"1.82", "price":"78200", "priceInc":"0.26" },
+    { "name":"태광산업", "id":"003240", "volumeInc":"1.62", "price":"1591000", "priceInc":"2.05" },
+    { "name":"한미약품", "id":"128940", "volumeInc":"1.61", "price":"452500", "priceInc":"4.87" },
+    { "name":"삼성생명", "id":"032830", "volumeInc":"1.60", "price":"98600", "priceInc":"3.57" }
+  ]
+}
