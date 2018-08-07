@@ -1,0 +1,10 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한솔케미칼", "id":"014680", "volumeInc":"3.74", "price":"83200", "priceInc":"6.39" },
+    { "name":"KCC", "id":"002380", "volumeInc":"2.13", "price":"345500", "priceInc":"0.88" },
+    { "name":"롯데케미칼", "id":"011170", "volumeInc":"2.07", "price":"347500", "priceInc":"3.89" },
+    { "name":"SKC", "id":"011790", "volumeInc":"1.77", "price":"43900", "priceInc":"2.69" },
+    { "name":"LG디스플레이", "id":"034220", "volumeInc":"1.51", "price":"22600", "priceInc":"1.80" }
+  ]
+}
