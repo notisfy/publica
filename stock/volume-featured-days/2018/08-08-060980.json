@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "한라홀딩스",
+  "dailyTrading" : [
+    { "date":"2018-07-25", "volume":"30104", "adjClosePrice":"45750", "featured":false },
+    { "date":"2018-07-26", "volume":"34509", "adjClosePrice":"45800", "featured":false },
+    { "date":"2018-07-27", "volume":"36606", "adjClosePrice":"47250", "featured":true },
+    { "date":"2018-07-30", "volume":"15427", "adjClosePrice":"45750", "featured":false },
+    { "date":"2018-07-31", "volume":"15798", "adjClosePrice":"46250", "featured":false },
+    { "date":"2018-08-01", "volume":"16167", "adjClosePrice":"46250", "featured":false },
+    { "date":"2018-08-02", "volume":"11349", "adjClosePrice":"45200", "featured":false },
+    { "date":"2018-08-03", "volume":"10130", "adjClosePrice":"45300", "featured":false },
+    { "date":"2018-08-06", "volume":"11678", "adjClosePrice":"46050", "featured":false },
+    { "date":"2018-08-07", "volume":"14483", "adjClosePrice":"45200", "featured":false },
+    { "date":"2018-08-08", "volume":"8316", "adjClosePrice":"45200", "featured":false }
+  ]
+}

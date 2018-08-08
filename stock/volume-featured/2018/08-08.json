@@ -1,0 +1,10 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"삼성에스디에스", "id":"018260", "volumeInc":"2.96", "price":"227000", "priceInc":"5.83" },
+    { "name":"현대모비스", "id":"012330", "volumeInc":"2.64", "price":"231000", "priceInc":"2.90" },
+    { "name":"다우기술", "id":"023590", "volumeInc":"2.37", "price":"24350", "priceInc":"4.28" },
+    { "name":"두산", "id":"000150", "volumeInc":"1.91", "price":"109500", "priceInc":"1.86" },
+    { "name":"LG전자", "id":"066570", "volumeInc":"1.54", "price":"75900", "priceInc":"1.07" }
+  ]
+}
