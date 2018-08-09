@@ -1,0 +1,10 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"아이에스동서", "id":"010780", "volumeInc":"3.94", "price":"32000", "priceInc":"5.79" },
+    { "name":"OCI", "id":"010060", "volumeInc":"2.78", "price":"109000", "priceInc":"6.86" },
+    { "name":"LG전자", "id":"066570", "volumeInc":"2.49", "price":"80400", "priceInc":"5.93" },
+    { "name":"코오롱인더", "id":"120110", "volumeInc":"2.45", "price":"65900", "priceInc":"5.44" },
+    { "name":"NHN엔터테인먼트", "id":"181710", "volumeInc":"2.18", "price":"67300", "priceInc":"6.83" }
+  ]
+}
