@@ -1,0 +1,12 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"강원랜드", "id":"035250", "volumeInc":"5.43", "price":"28900", "priceInc":"7.84" },
+    { "name":"GS리테일", "id":"007070", "volumeInc":"3.45", "price":"35650", "priceInc":"6.90" },
+    { "name":"쌍용양회", "id":"003410", "volumeInc":"3.15", "price":"5690", "priceInc":"9.42" },
+    { "name":"CJ CGV", "id":"079160", "volumeInc":"3.10", "price":"59300", "priceInc":"1.02" },
+    { "name":"한온시스템", "id":"018880", "volumeInc":"1.79", "price":"11700", "priceInc":"5.41" },
+    { "name":"GS", "id":"078930", "volumeInc":"1.75", "price":"53700", "priceInc":"2.29" },
+    { "name":"CJ제일제당", "id":"097950", "volumeInc":"1.69", "price":"354000", "priceInc":"3.66" }
+  ]
+}
