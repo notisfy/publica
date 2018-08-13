@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "DB손해보험",
+  "dailyTrading" : [
+    { "date":"2018-07-30", "volume":"131282", "adjClosePrice":"63900", "featured":false },
+    { "date":"2018-07-31", "volume":"174113", "adjClosePrice":"64500", "featured":false },
+    { "date":"2018-08-01", "volume":"194519", "adjClosePrice":"65500", "featured":false },
+    { "date":"2018-08-02", "volume":"94568", "adjClosePrice":"63800", "featured":false },
+    { "date":"2018-08-03", "volume":"98757", "adjClosePrice":"65000", "featured":false },
+    { "date":"2018-08-06", "volume":"405989", "adjClosePrice":"68000", "featured":true },
+    { "date":"2018-08-07", "volume":"169014", "adjClosePrice":"68100", "featured":false },
+    { "date":"2018-08-08", "volume":"198731", "adjClosePrice":"66200", "featured":false },
+    { "date":"2018-08-09", "volume":"153331", "adjClosePrice":"66200", "featured":false },
+    { "date":"2018-08-10", "volume":"149969", "adjClosePrice":"67600", "featured":false },
+    { "date":"2018-08-13", "volume":"98857", "adjClosePrice":"67200", "featured":false }
+  ]
+}

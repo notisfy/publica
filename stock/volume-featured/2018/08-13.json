@@ -1,0 +1,8 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"맥쿼리인프라", "id":"088980", "volumeInc":"2.09", "price":"9070", "priceInc":"0.55" },
+    { "name":"코스맥스", "id":"192820", "volumeInc":"2.05", "price":"148000", "priceInc":"4.59" },
+    { "name":"한온시스템", "id":"018880", "volumeInc":"1.91", "price":"11950", "priceInc":"2.14" }
+  ]
+}
