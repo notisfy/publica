@@ -1,0 +1,12 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한세실업", "id":"105630", "volumeInc":"3.04", "price":"17600", "priceInc":"15.03" },
+    { "name":"영원무역", "id":"111770", "volumeInc":"3.02", "price":"31900", "priceInc":"8.50" },
+    { "name":"엔씨소프트", "id":"036570", "volumeInc":"2.57", "price":"385000", "priceInc":"8.15" },
+    { "name":"휠라코리아", "id":"081660", "volumeInc":"2.30", "price":"34900", "priceInc":"8.89" },
+    { "name":"강원랜드", "id":"035250", "volumeInc":"2.02", "price":"29550", "priceInc":"2.07" },
+    { "name":"한국토지신탁", "id":"034830", "volumeInc":"1.89", "price":"2935", "priceInc":"3.35" },
+    { "name":"S-Oil", "id":"010950", "volumeInc":"1.81", "price":"121500", "priceInc":"2.97" }
+  ]
+}
