@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"대상", "id":"001680", "volumeInc":"4.88", "price":"27100", "priceInc":"10.61" },
+    { "name":"한세실업", "id":"105630", "volumeInc":"4.45", "price":"18200", "priceInc":"3.41" },
+    { "name":"영원무역", "id":"111770", "volumeInc":"3.80", "price":"33600", "priceInc":"5.33" },
+    { "name":"휠라코리아", "id":"081660", "volumeInc":"2.84", "price":"38000", "priceInc":"8.88" },
+    { "name":"영원무역홀딩스", "id":"009970", "volumeInc":"2.28", "price":"53200", "priceInc":"1.33" },
+    { "name":"SK텔레콤", "id":"017670", "volumeInc":"1.90", "price":"264500", "priceInc":"1.93" },
+    { "name":"KT", "id":"030200", "volumeInc":"1.69", "price":"28950", "priceInc":"0.87" },
+    { "name":"한솔케미칼", "id":"014680", "volumeInc":"1.69", "price":"83100", "priceInc":"1.59" },
+    { "name":"LG생활건강", "id":"051900", "volumeInc":"1.58", "price":"1188000", "priceInc":"0.25" },
+    { "name":"삼양사", "id":"145990", "volumeInc":"1.54", "price":"75700", "priceInc":"0.53" },
+    { "name":"현대로템", "id":"064350", "volumeInc":"1.50", "price":"30000", "priceInc":"7.14" }
+  ]
+}
