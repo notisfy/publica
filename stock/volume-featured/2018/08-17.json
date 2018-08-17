@@ -1,0 +1,14 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"녹십자홀딩스", "id":"005250", "volumeInc":"15.50", "price":"33100", "priceInc":"6.95" },
+    { "name":"녹십자", "id":"006280", "volumeInc":"6.74", "price":"189000", "priceInc":"5.59" },
+    { "name":"한진칼", "id":"180640", "volumeInc":"2.58", "price":"17950", "priceInc":"5.59" },
+    { "name":"JW중외제약", "id":"001060", "volumeInc":"2.37", "price":"37600", "priceInc":"6.52" },
+    { "name":"한올바이오파마", "id":"009420", "volumeInc":"1.99", "price":"25950", "priceInc":"7.45" },
+    { "name":"쌍용양회", "id":"003410", "volumeInc":"1.77", "price":"5710", "priceInc":"0.53" },
+    { "name":"한미약품", "id":"128940", "volumeInc":"1.66", "price":"434000", "priceInc":"3.70" },
+    { "name":"경동나비엔", "id":"009450", "volumeInc":"1.51", "price":"55500", "priceInc":"0.73" },
+    { "name":"S-Oil", "id":"010950", "volumeInc":"1.51", "price":"125000", "priceInc":"2.04" }
+  ]
+}
