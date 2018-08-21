@@ -1,0 +1,14 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한솔케미칼", "id":"014680", "volumeInc":"2.31", "price":"85100", "priceInc":"3.65" },
+    { "name":"영원무역홀딩스", "id":"009970", "volumeInc":"2.26", "price":"54300", "priceInc":"1.31" },
+    { "name":"NH투자증권", "id":"005940", "volumeInc":"1.71", "price":"12700", "priceInc":"4.96" },
+    { "name":"영진약품", "id":"003520", "volumeInc":"1.68", "price":"7790", "priceInc":"1.56" },
+    { "name":"JB금융지주", "id":"175330", "volumeInc":"1.67", "price":"6200", "priceInc":"2.48" },
+    { "name":"삼성전기", "id":"009150", "volumeInc":"1.63", "price":"143500", "priceInc":"7.49" },
+    { "name":"SK하이닉스", "id":"000660", "volumeInc":"1.55", "price":"78400", "priceInc":"4.95" },
+    { "name":"한샘", "id":"009240", "volumeInc":"1.53", "price":"93100", "priceInc":"1.75" },
+    { "name":"LG전자", "id":"066570", "volumeInc":"1.53", "price":"73400", "priceInc":"1.66" }
+  ]
+}
