@@ -1,0 +1,9 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"현대미포조선", "id":"010620", "volumeInc":"2.57", "price":"95100", "priceInc":"4.39" },
+    { "name":"풍산", "id":"103140", "volumeInc":"1.87", "price":"33350", "priceInc":"4.55" },
+    { "name":"CJ대한통운", "id":"000120", "volumeInc":"1.62", "price":"154500", "priceInc":"1.64" },
+    { "name":"아이에스동서", "id":"010780", "volumeInc":"1.51", "price":"35300", "priceInc":"2.17" }
+  ]
+}
