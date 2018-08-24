@@ -1,0 +1,9 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"JW중외제약", "id":"001060", "volumeInc":"14.59", "price":"43000", "priceInc":"3.37" },
+    { "name":"영진약품", "id":"003520", "volumeInc":"2.76", "price":"8030", "priceInc":"3.75" },
+    { "name":"한올바이오파마", "id":"009420", "volumeInc":"2.35", "price":"29550", "priceInc":"6.10" },
+    { "name":"HDC", "id":"012630", "volumeInc":"2.24", "price":"24550", "priceInc":"8.63" }
+  ]
+}

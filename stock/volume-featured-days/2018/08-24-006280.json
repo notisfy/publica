@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "녹십자",
+  "dailyTrading" : [
+    { "date":"2018-08-10", "volume":"16741", "adjClosePrice":"184500", "featured":false },
+    { "date":"2018-08-13", "volume":"19683", "adjClosePrice":"181000", "featured":false },
+    { "date":"2018-08-14", "volume":"12455", "adjClosePrice":"183500", "featured":false },
+    { "date":"2018-08-16", "volume":"23358", "adjClosePrice":"179000", "featured":false },
+    { "date":"2018-08-17", "volume":"206986", "adjClosePrice":"189000", "featured":true },
+    { "date":"2018-08-20", "volume":"44484", "adjClosePrice":"189000", "featured":false },
+    { "date":"2018-08-21", "volume":"37811", "adjClosePrice":"188500", "featured":false },
+    { "date":"2018-08-22", "volume":"27443", "adjClosePrice":"184000", "featured":false },
+    { "date":"2018-08-23", "volume":"14563", "adjClosePrice":"185000", "featured":false },
+    { "date":"2018-08-24", "volume":"29914", "adjClosePrice":"186500", "featured":false }
+  ]
+}
