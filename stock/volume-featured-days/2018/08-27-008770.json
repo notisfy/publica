@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "호텔신라",
+  "dailyTrading" : [
+    { "date":"2018-08-13", "volume":"612910", "adjClosePrice":"97500", "featured":false },
+    { "date":"2018-08-14", "volume":"289941", "adjClosePrice":"98700", "featured":false },
+    { "date":"2018-08-16", "volume":"390592", "adjClosePrice":"99100", "featured":false },
+    { "date":"2018-08-17", "volume":"417311", "adjClosePrice":"102000", "featured":false },
+    { "date":"2018-08-20", "volume":"503115", "adjClosePrice":"97800", "featured":false },
+    { "date":"2018-08-21", "volume":"479832", "adjClosePrice":"100000", "featured":false },
+    { "date":"2018-08-22", "volume":"355888", "adjClosePrice":"100000", "featured":false },
+    { "date":"2018-08-23", "volume":"793534", "adjClosePrice":"105500", "featured":true },
+    { "date":"2018-08-24", "volume":"404645", "adjClosePrice":"107500", "featured":false },
+    { "date":"2018-08-27", "volume":"331428", "adjClosePrice":"107000", "featured":false }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"JW중외제약", "id":"001060", "volumeInc":"17.26", "price":"45200", "priceInc":"5.12" },
+    { "name":"JW홀딩스", "id":"096760", "volumeInc":"4.14", "price":"8120", "priceInc":"1.88" },
+    { "name":"한올바이오파마", "id":"009420", "volumeInc":"3.27", "price":"31000", "priceInc":"4.91" },
+    { "name":"한미약품", "id":"128940", "volumeInc":"2.38", "price":"480500", "priceInc":"4.23" },
+    { "name":"CJ CGV", "id":"079160", "volumeInc":"2.23", "price":"55400", "priceInc":"5.52" },
+    { "name":"고려아연", "id":"010130", "volumeInc":"2.11", "price":"411000", "priceInc":"3.92" },
+    { "name":"풍산", "id":"103140", "volumeInc":"2.08", "price":"34550", "priceInc":"6.64" },
+    { "name":"한미사이언스", "id":"008930", "volumeInc":"1.86", "price":"83700", "priceInc":"3.98" },
+    { "name":"한국금융지주", "id":"071050", "volumeInc":"1.79", "price":"71500", "priceInc":"4.84" },
+    { "name":"NH투자증권", "id":"005940", "volumeInc":"1.76", "price":"13350", "priceInc":"4.71" },
+    { "name":"키움증권", "id":"039490", "volumeInc":"1.57", "price":"94200", "priceInc":"4.78" }
+  ]
+}
