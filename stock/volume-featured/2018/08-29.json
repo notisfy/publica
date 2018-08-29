@@ -1,0 +1,11 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"동국제강", "id":"001230", "volumeInc":"14.02", "price":"9630", "priceInc":"15.05" },
+    { "name":"두산", "id":"000150", "volumeInc":"3.36", "price":"116000", "priceInc":"3.11" },
+    { "name":"한화케미칼", "id":"009830", "volumeInc":"3.03", "price":"21300", "priceInc":"5.97" },
+    { "name":"LIG넥스원", "id":"079550", "volumeInc":"2.44", "price":"34650", "priceInc":"7.28" },
+    { "name":"메리츠종금증권", "id":"008560", "volumeInc":"2.31", "price":"3940", "priceInc":"2.60" },
+    { "name":"세아베스틸", "id":"001430", "volumeInc":"1.55", "price":"20400", "priceInc":"0.74" }
+  ]
+}
