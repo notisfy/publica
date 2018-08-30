@@ -1,0 +1,11 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"대웅제약", "id":"069620", "volumeInc":"2.65", "price":"201500", "priceInc":"2.28" },
+    { "name":"POSCO", "id":"005490", "volumeInc":"2.22", "price":"332500", "priceInc":"0.30" },
+    { "name":"세아베스틸", "id":"001430", "volumeInc":"2.15", "price":"20600", "priceInc":"0.98" },
+    { "name":"메리츠화재", "id":"000060", "volumeInc":"1.75", "price":"18000", "priceInc":"0.28" },
+    { "name":"LG생활건강우", "id":"051905", "volumeInc":"1.67", "price":"725000", "priceInc":"1.97" },
+    { "name":"코스맥스", "id":"192820", "volumeInc":"1.54", "price":"152000", "priceInc":"2.01" }
+  ]
+}

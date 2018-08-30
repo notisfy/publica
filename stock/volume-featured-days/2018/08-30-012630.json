@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "HDC",
+  "dailyTrading" : [
+    { "date":"2018-08-16", "volume":"398452", "adjClosePrice":"24700", "featured":false },
+    { "date":"2018-08-17", "volume":"245199", "adjClosePrice":"23900", "featured":false },
+    { "date":"2018-08-20", "volume":"260123", "adjClosePrice":"24350", "featured":false },
+    { "date":"2018-08-21", "volume":"232558", "adjClosePrice":"24250", "featured":false },
+    { "date":"2018-08-22", "volume":"262805", "adjClosePrice":"23650", "featured":false },
+    { "date":"2018-08-23", "volume":"595497", "adjClosePrice":"22600", "featured":false },
+    { "date":"2018-08-24", "volume":"1607563", "adjClosePrice":"24550", "featured":true },
+    { "date":"2018-08-27", "volume":"909787", "adjClosePrice":"23750", "featured":false },
+    { "date":"2018-08-28", "volume":"2410689", "adjClosePrice":"25050", "featured":true },
+    { "date":"2018-08-29", "volume":"726671", "adjClosePrice":"24550", "featured":false },
+    { "date":"2018-08-30", "volume":"514688", "adjClosePrice":"24650", "featured":false }
+  ]
+}
