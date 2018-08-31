@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"LG생활건강우", "id":"051905", "volumeInc":"2.67", "price":"749000", "priceInc":"3.31" },
+    { "name":"녹십자", "id":"006280", "volumeInc":"2.51", "price":"196000", "priceInc":"5.09" },
+    { "name":"유한양행", "id":"000100", "volumeInc":"2.45", "price":"239000", "priceInc":"4.37" },
+    { "name":"JW중외제약", "id":"001060", "volumeInc":"1.83", "price":"46050", "priceInc":"0.55" },
+    { "name":"동아에스티", "id":"170900", "volumeInc":"1.78", "price":"103000", "priceInc":"1.48" },
+    { "name":"한올바이오파마", "id":"009420", "volumeInc":"1.75", "price":"31700", "priceInc":"2.92" },
+    { "name":"한미약품", "id":"128940", "volumeInc":"1.71", "price":"497500", "priceInc":"1.84" },
+    { "name":"한미사이언스", "id":"008930", "volumeInc":"1.55", "price":"86900", "priceInc":"0.81" },
+    { "name":"동아쏘시오홀딩스", "id":"000640", "volumeInc":"1.54", "price":"105000", "priceInc":"2.44" },
+    { "name":"삼성카드", "id":"029780", "volumeInc":"1.51", "price":"35250", "priceInc":"1.29" }
+  ]
+}
