@@ -1,0 +1,6 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한세실업", "id":"105630", "volumeInc":"1.52", "price":"19400", "priceInc":"4.02" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "한미사이언스",
+  "dailyTrading" : [
+    { "date":"2018-08-20", "volume":"61521", "adjClosePrice":"77400", "featured":false },
+    { "date":"2018-08-21", "volume":"81902", "adjClosePrice":"78500", "featured":false },
+    { "date":"2018-08-22", "volume":"73399", "adjClosePrice":"79000", "featured":false },
+    { "date":"2018-08-23", "volume":"45363", "adjClosePrice":"79100", "featured":false },
+    { "date":"2018-08-24", "volume":"88691", "adjClosePrice":"80500", "featured":false },
+    { "date":"2018-08-27", "volume":"164499", "adjClosePrice":"83700", "featured":true },
+    { "date":"2018-08-28", "volume":"101699", "adjClosePrice":"83100", "featured":false },
+    { "date":"2018-08-29", "volume":"97825", "adjClosePrice":"84900", "featured":false },
+    { "date":"2018-08-30", "volume":"91113", "adjClosePrice":"86200", "featured":false },
+    { "date":"2018-08-31", "volume":"135943", "adjClosePrice":"86900", "featured":true },
+    { "date":"2018-09-03", "volume":"61800", "adjClosePrice":"87400", "featured":false }
+  ]
+}
