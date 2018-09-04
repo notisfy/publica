@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "동국제강",
+  "dailyTrading" : [
+    { "date":"2018-08-21", "volume":"286778", "adjClosePrice":"8260", "featured":false },
+    { "date":"2018-08-22", "volume":"218166", "adjClosePrice":"8280", "featured":false },
+    { "date":"2018-08-23", "volume":"248418", "adjClosePrice":"8190", "featured":false },
+    { "date":"2018-08-24", "volume":"240840", "adjClosePrice":"8100", "featured":false },
+    { "date":"2018-08-27", "volume":"265827", "adjClosePrice":"8000", "featured":false },
+    { "date":"2018-08-28", "volume":"382522", "adjClosePrice":"8370", "featured":false },
+    { "date":"2018-08-29", "volume":"5484239", "adjClosePrice":"9630", "featured":true },
+    { "date":"2018-08-30", "volume":"2661942", "adjClosePrice":"9680", "featured":false },
+    { "date":"2018-08-31", "volume":"1059486", "adjClosePrice":"9360", "featured":false },
+    { "date":"2018-09-03", "volume":"793596", "adjClosePrice":"9330", "featured":false },
+    { "date":"2018-09-04", "volume":"453828", "adjClosePrice":"9210", "featured":false }
+  ]
+}

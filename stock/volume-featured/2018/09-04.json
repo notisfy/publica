@@ -1,0 +1,12 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"SK가스", "id":"018670", "volumeInc":"6.63", "price":"88100", "priceInc":"4.26" },
+    { "name":"한미약품", "id":"128940", "volumeInc":"2.23", "price":"509000", "priceInc":"1.39" },
+    { "name":"쌍용양회", "id":"003410", "volumeInc":"2.19", "price":"6410", "priceInc":"3.05" },
+    { "name":"하나투어", "id":"039130", "volumeInc":"2.00", "price":"73500", "priceInc":"4.26" },
+    { "name":"LG이노텍", "id":"011070", "volumeInc":"1.76", "price":"155500", "priceInc":"4.36" },
+    { "name":"종근당", "id":"185750", "volumeInc":"1.69", "price":"112500", "priceInc":"2.74" },
+    { "name":"엔씨소프트", "id":"036570", "volumeInc":"1.63", "price":"406000", "priceInc":"5.32" }
+  ]
+}
