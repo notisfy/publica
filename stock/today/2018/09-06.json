@@ -1,0 +1,53 @@
+{
+  "version" : "today-summary-v1",
+  "kospi_today" : "2287.61",
+  "kospi_diff" : "-4.16",
+  "featured_today" : [
+    { "name":"현대차우", "id":"005385", "volumeInc":"5.10", "price":"80000", "priceInc":"0.88" },
+    { "name":"기아차", "id":"000270", "volumeInc":"3.16", "price":"33650", "priceInc":"4.50" },
+    { "name":"현대차", "id":"005380", "volumeInc":"2.06", "price":"134000", "priceInc":"3.88" },
+    { "name":"현대글로비스", "id":"086280", "volumeInc":"2.03", "price":"127500", "priceInc":"6.25" },
+    { "name":"KCC", "id":"002380", "volumeInc":"1.90", "price":"332500", "priceInc":"0.76" },
+    { "name":"현대차2우B", "id":"005387", "volumeInc":"1.65", "price":"88500", "priceInc":"2.31" },
+    { "name":"만도", "id":"204320", "volumeInc":"1.64", "price":"36300", "priceInc":"2.83" },
+    { "name":"CJ대한통운", "id":"000120", "volumeInc":"1.61", "price":"155500", "priceInc":"2.30" },
+    { "name":"현대중공업", "id":"009540", "volumeInc":"1.57", "price":"124000", "priceInc":"2.90" },
+    { "name":"한국단자", "id":"025540", "volumeInc":"1.54", "price":"44000", "priceInc":"1.62" },
+    { "name":"고려아연", "id":"010130", "volumeInc":"1.52", "price":"406000", "priceInc":"2.40" }
+  ],
+  "holdings_today" : [
+    { "name":"한국쉘석유", "id":"002960", "holdings":"5955507" },
+    { "name":"코리안리", "id":"003690", "holdings":"269042" },
+    { "name":"효성", "id":"004800", "holdings":"1096146" },
+    { "name":"삼성전자", "id":"005930", "holdings":"136850" },
+    { "name":"미래에셋대우우", "id":"006805", "holdings":"348325" },
+    { "name":"미래에셋대우2우B", "id":"00680K", "holdings":"99485" },
+    { "name":"대덕전자", "id":"008060", "holdings":"1805547" },
+    { "name":"메리츠종금증권", "id":"008560", "holdings":"36418" },
+    { "name":"한샘", "id":"009240", "holdings":"768600" },
+    { "name":"S-Oil", "id":"010950", "holdings":"656319" },
+    { "name":"S-Oil우", "id":"010955", "holdings":"1643426" },
+    { "name":"롯데케미칼", "id":"011170", "holdings":"996390" },
+    { "name":"동원개발", "id":"013120", "holdings":"65710" },
+    { "name":"한국전력", "id":"015760", "holdings":"532070" },
+    { "name":"SK텔레콤", "id":"017670", "holdings":"723000" },
+    { "name":"대교", "id":"019680", "holdings":"1109714" },
+    { "name":"대교우B", "id":"019685", "holdings":"343265" },
+    { "name":"코웨이", "id":"021240", "holdings":"279252" },
+    { "name":"KT", "id":"030200", "holdings":"2590950" },
+    { "name":"지역난방공사", "id":"071320", "holdings":"131600" },
+    { "name":"휴비스", "id":"079980", "holdings":"82360" },
+    { "name":"제이스텍", "id":"090470", "holdings":"248880" },
+    { "name":"웅진씽크빅", "id":"095720", "holdings":"51760" },
+    { "name":"TIGER 200", "id":"102110", "holdings":"208045" },
+    { "name":"TIGER 레버리지", "id":"123320", "holdings":"3571965" },
+    { "name":"TIGER 200 금융", "id":"139270", "holdings":"169745" },
+    { "name":"광주은행", "id":"192530", "holdings":"77273" },
+    { "name":"TIGER 코스피고배당", "id":"210780", "holdings":"59155" },
+    { "name":"TIGER 코스닥150", "id":"232080", "holdings":"12500" },
+    { "name":"효성티앤씨", "id":"298020", "holdings":"0" }
+  ],
+  "holdings_diff" : [
+    { "name":"코리안리", "id":"003690", "diff":"10150" }
+  ]
+}

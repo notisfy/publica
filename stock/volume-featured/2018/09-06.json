@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"현대차우", "id":"005385", "volumeInc":"5.10", "price":"80000", "priceInc":"0.88" },
+    { "name":"기아차", "id":"000270", "volumeInc":"3.16", "price":"33650", "priceInc":"4.50" },
+    { "name":"현대차", "id":"005380", "volumeInc":"2.06", "price":"134000", "priceInc":"3.88" },
+    { "name":"현대글로비스", "id":"086280", "volumeInc":"2.03", "price":"127500", "priceInc":"6.25" },
+    { "name":"KCC", "id":"002380", "volumeInc":"1.90", "price":"332500", "priceInc":"0.76" },
+    { "name":"현대차2우B", "id":"005387", "volumeInc":"1.65", "price":"88500", "priceInc":"2.31" },
+    { "name":"만도", "id":"204320", "volumeInc":"1.64", "price":"36300", "priceInc":"2.83" },
+    { "name":"CJ대한통운", "id":"000120", "volumeInc":"1.61", "price":"155500", "priceInc":"2.30" },
+    { "name":"현대중공업", "id":"009540", "volumeInc":"1.57", "price":"124000", "priceInc":"2.90" },
+    { "name":"한국단자", "id":"025540", "volumeInc":"1.54", "price":"44000", "priceInc":"1.62" },
+    { "name":"고려아연", "id":"010130", "volumeInc":"1.52", "price":"406000", "priceInc":"2.40" }
+  ]
+}
