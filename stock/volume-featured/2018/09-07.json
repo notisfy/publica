@@ -1,0 +1,14 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"현대글로비스", "id":"086280", "volumeInc":"2.81", "price":"134000", "priceInc":"5.10" },
+    { "name":"두산", "id":"000150", "volumeInc":"1.93", "price":"127500", "priceInc":"2.00" },
+    { "name":"현대모비스", "id":"012330", "volumeInc":"1.92", "price":"237000", "priceInc":"2.38" },
+    { "name":"SK네트웍스", "id":"001740", "volumeInc":"1.79", "price":"4925", "priceInc":"2.50" },
+    { "name":"한미사이언스", "id":"008930", "volumeInc":"1.65", "price":"88900", "priceInc":"3.37" },
+    { "name":"맥쿼리인프라", "id":"088980", "volumeInc":"1.62", "price":"9020", "priceInc":"0.45" },
+    { "name":"엔씨소프트", "id":"036570", "volumeInc":"1.62", "price":"414500", "priceInc":"3.75" },
+    { "name":"한화에어로스페이스", "id":"012450", "volumeInc":"1.61", "price":"26900", "priceInc":"5.49" },
+    { "name":"SK가스", "id":"018670", "volumeInc":"1.56", "price":"89500", "priceInc":"0.22" }
+  ]
+}
