@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "두산",
+  "dailyTrading" : [
+    { "date":"2018-08-27", "volume":"19574", "adjClosePrice":"107500", "featured":false },
+    { "date":"2018-08-28", "volume":"95904", "adjClosePrice":"112500", "featured":true },
+    { "date":"2018-08-29", "volume":"166767", "adjClosePrice":"116000", "featured":true },
+    { "date":"2018-08-30", "volume":"91665", "adjClosePrice":"117500", "featured":false },
+    { "date":"2018-08-31", "volume":"91492", "adjClosePrice":"117000", "featured":false },
+    { "date":"2018-09-03", "volume":"44271", "adjClosePrice":"120500", "featured":false },
+    { "date":"2018-09-04", "volume":"53257", "adjClosePrice":"120500", "featured":false },
+    { "date":"2018-09-05", "volume":"68403", "adjClosePrice":"121500", "featured":false },
+    { "date":"2018-09-06", "volume":"71177", "adjClosePrice":"125000", "featured":false },
+    { "date":"2018-09-07", "volume":"103813", "adjClosePrice":"127500", "featured":true },
+    { "date":"2018-09-10", "volume":"61901", "adjClosePrice":"126000", "featured":false }
+  ]
+}
