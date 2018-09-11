@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"두산", "id":"000150", "volumeInc":"5.40", "price":"136000", "priceInc":"7.94" },
+    { "name":"현대그린푸드", "id":"005440", "volumeInc":"3.31", "price":"13450", "priceInc":"5.91" },
+    { "name":"롯데지주", "id":"004990", "volumeInc":"3.23", "price":"51000", "priceInc":"6.03" },
+    { "name":"영원무역", "id":"111770", "volumeInc":"2.96", "price":"39100", "priceInc":"8.01" },
+    { "name":"맥쿼리인프라", "id":"088980", "volumeInc":"2.27", "price":"9070", "priceInc":"0.33" },
+    { "name":"한진칼", "id":"180640", "volumeInc":"2.17", "price":"19300", "priceInc":"6.04" },
+    { "name":"메리츠종금증권", "id":"008560", "volumeInc":"2.03", "price":"4045", "priceInc":"4.39" },
+    { "name":"롯데쇼핑", "id":"023530", "volumeInc":"1.85", "price":"185000", "priceInc":"3.35" },
+    { "name":"S-Oil", "id":"010950", "volumeInc":"1.83", "price":"126000", "priceInc":"3.70" },
+    { "name":"SK텔레콤", "id":"017670", "volumeInc":"1.68", "price":"271500", "priceInc":"2.26" }
+  ]
+}

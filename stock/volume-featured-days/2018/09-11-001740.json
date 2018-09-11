@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "SK네트웍스",
+  "dailyTrading" : [
+    { "date":"2018-08-28", "volume":"760609", "adjClosePrice":"4535", "featured":false },
+    { "date":"2018-08-29", "volume":"461918", "adjClosePrice":"4495", "featured":false },
+    { "date":"2018-08-30", "volume":"396613", "adjClosePrice":"4525", "featured":false },
+    { "date":"2018-08-31", "volume":"617249", "adjClosePrice":"4480", "featured":false },
+    { "date":"2018-09-03", "volume":"552351", "adjClosePrice":"4475", "featured":false },
+    { "date":"2018-09-04", "volume":"938821", "adjClosePrice":"4620", "featured":false },
+    { "date":"2018-09-05", "volume":"4323621", "adjClosePrice":"4880", "featured":true },
+    { "date":"2018-09-06", "volume":"1264105", "adjClosePrice":"4805", "featured":false },
+    { "date":"2018-09-07", "volume":"1577617", "adjClosePrice":"4925", "featured":true },
+    { "date":"2018-09-10", "volume":"1104080", "adjClosePrice":"4945", "featured":false },
+    { "date":"2018-09-11", "volume":"757296", "adjClosePrice":"4955", "featured":false }
+  ]
+}
