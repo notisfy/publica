@@ -1,0 +1,20 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"녹십자홀딩스", "id":"005250", "volumeInc":"14.83", "price":"31500", "priceInc":"3.45" },
+    { "name":"현대그린푸드", "id":"005440", "volumeInc":"4.36", "price":"14000", "priceInc":"4.09" },
+    { "name":"한진칼", "id":"180640", "volumeInc":"4.02", "price":"19950", "priceInc":"3.37" },
+    { "name":"한세실업", "id":"105630", "volumeInc":"3.56", "price":"21000", "priceInc":"5.00" },
+    { "name":"녹십자", "id":"006280", "volumeInc":"3.33", "price":"199000", "priceInc":"1.79" },
+    { "name":"맥쿼리인프라", "id":"088980", "volumeInc":"2.49", "price":"9100", "priceInc":"0.33" },
+    { "name":"SK네트웍스", "id":"001740", "volumeInc":"2.37", "price":"5100", "priceInc":"2.93" },
+    { "name":"오리온홀딩스", "id":"001800", "volumeInc":"2.34", "price":"19450", "priceInc":"2.37" },
+    { "name":"영원무역홀딩스", "id":"009970", "volumeInc":"2.14", "price":"57700", "priceInc":"0.70" },
+    { "name":"한올바이오파마", "id":"009420", "volumeInc":"1.83", "price":"32200", "priceInc":"2.38" },
+    { "name":"AK홀딩스", "id":"006840", "volumeInc":"1.75", "price":"62200", "priceInc":"0.97" },
+    { "name":"삼양사", "id":"145990", "volumeInc":"1.71", "price":"75100", "priceInc":"1.49" },
+    { "name":"JW중외제약", "id":"001060", "volumeInc":"1.70", "price":"45950", "priceInc":"1.66" },
+    { "name":"태광산업", "id":"003240", "volumeInc":"1.60", "price":"1656000", "priceInc":"4.09" },
+    { "name":"한라홀딩스", "id":"060980", "volumeInc":"1.58", "price":"41400", "priceInc":"0.36" }
+  ]
+}
