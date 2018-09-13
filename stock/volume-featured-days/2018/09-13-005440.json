@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "현대그린푸드",
+  "dailyTrading" : [
+    { "date":"2018-08-30", "volume":"230003", "adjClosePrice":"13000", "featured":false },
+    { "date":"2018-08-31", "volume":"145337", "adjClosePrice":"13050", "featured":false },
+    { "date":"2018-09-03", "volume":"291613", "adjClosePrice":"12750", "featured":false },
+    { "date":"2018-09-04", "volume":"203404", "adjClosePrice":"12850", "featured":false },
+    { "date":"2018-09-05", "volume":"235165", "adjClosePrice":"12650", "featured":false },
+    { "date":"2018-09-06", "volume":"178153", "adjClosePrice":"12800", "featured":false },
+    { "date":"2018-09-07", "volume":"182059", "adjClosePrice":"12850", "featured":false },
+    { "date":"2018-09-10", "volume":"162908", "adjClosePrice":"12700", "featured":false },
+    { "date":"2018-09-11", "volume":"572178", "adjClosePrice":"13450", "featured":true },
+    { "date":"2018-09-12", "volume":"795402", "adjClosePrice":"14000", "featured":true },
+    { "date":"2018-09-13", "volume":"535170", "adjClosePrice":"14350", "featured":false }
+  ]
+}

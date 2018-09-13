@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "한미약품",
+  "dailyTrading" : [
+    { "date":"2018-08-30", "volume":"48541", "adjClosePrice":"488500", "featured":false },
+    { "date":"2018-08-31", "volume":"77181", "adjClosePrice":"497500", "featured":true },
+    { "date":"2018-09-03", "volume":"44826", "adjClosePrice":"502000", "featured":false },
+    { "date":"2018-09-04", "volume":"100774", "adjClosePrice":"509000", "featured":true },
+    { "date":"2018-09-05", "volume":"64347", "adjClosePrice":"497000", "featured":false },
+    { "date":"2018-09-06", "volume":"75531", "adjClosePrice":"492500", "featured":false },
+    { "date":"2018-09-07", "volume":"41604", "adjClosePrice":"505000", "featured":false },
+    { "date":"2018-09-10", "volume":"57692", "adjClosePrice":"486000", "featured":false },
+    { "date":"2018-09-11", "volume":"33067", "adjClosePrice":"489000", "featured":false },
+    { "date":"2018-09-12", "volume":"38524", "adjClosePrice":"491000", "featured":false },
+    { "date":"2018-09-13", "volume":"49515", "adjClosePrice":"488000", "featured":false }
+  ]
+}

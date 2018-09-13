@@ -1,0 +1,25 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"메리츠금융지주", "id":"138040", "volumeInc":"4.16", "price":"12150", "priceInc":"0.41" },
+    { "name":"맥쿼리인프라", "id":"088980", "volumeInc":"3.95", "price":"9200", "priceInc":"1.10" },
+    { "name":"롯데지주", "id":"004990", "volumeInc":"3.60", "price":"53900", "priceInc":"6.73" },
+    { "name":"롯데쇼핑", "id":"023530", "volumeInc":"3.53", "price":"198500", "priceInc":"6.15" },
+    { "name":"GKL", "id":"114090", "volumeInc":"2.97", "price":"24300", "priceInc":"2.53" },
+    { "name":"LS", "id":"006260", "volumeInc":"2.94", "price":"70700", "priceInc":"7.61" },
+    { "name":"POSCO", "id":"005490", "volumeInc":"2.34", "price":"293000", "priceInc":"0.51" },
+    { "name":"대한항공", "id":"003490", "volumeInc":"2.32", "price":"28900", "priceInc":"3.77" },
+    { "name":"CJ", "id":"001040", "volumeInc":"2.28", "price":"134000", "priceInc":"0.37" },
+    { "name":"삼성엔지니어링", "id":"028050", "volumeInc":"2.18", "price":"17350", "priceInc":"4.20" },
+    { "name":"한국토지신탁", "id":"034830", "volumeInc":"2.17", "price":"2950", "priceInc":"2.79" },
+    { "name":"롯데칠성", "id":"005300", "volumeInc":"2.00", "price":"1409000", "priceInc":"2.18" },
+    { "name":"풍산", "id":"103140", "volumeInc":"1.99", "price":"32600", "priceInc":"3.82" },
+    { "name":"고려아연", "id":"010130", "volumeInc":"1.97", "price":"413500", "priceInc":"4.16" },
+    { "name":"한샘", "id":"009240", "volumeInc":"1.90", "price":"89100", "priceInc":"4.82" },
+    { "name":"포스코대우", "id":"047050", "volumeInc":"1.87", "price":"19950", "priceInc":"4.45" },
+    { "name":"영풍", "id":"000670", "volumeInc":"1.87", "price":"728000", "priceInc":"1.68" },
+    { "name":"한화생명", "id":"088350", "volumeInc":"1.74", "price":"4845", "priceInc":"0.10" },
+    { "name":"신한지주", "id":"055550", "volumeInc":"1.67", "price":"43200", "priceInc":"1.05" },
+    { "name":"하나금융지주", "id":"086790", "volumeInc":"1.66", "price":"43800", "priceInc":"3.06" }
+  ]
+}
