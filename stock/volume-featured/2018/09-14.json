@@ -1,0 +1,11 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한진칼", "id":"180640", "volumeInc":"3.01", "price":"21700", "priceInc":"3.09" },
+    { "name":"LIG넥스원", "id":"079550", "volumeInc":"2.25", "price":"36550", "priceInc":"7.18" },
+    { "name":"HDC", "id":"012630", "volumeInc":"2.17", "price":"27100", "priceInc":"5.65" },
+    { "name":"CJ CGV", "id":"079160", "volumeInc":"2.03", "price":"54700", "priceInc":"3.40" },
+    { "name":"삼성물산", "id":"028260", "volumeInc":"1.75", "price":"125500", "priceInc":"1.21" },
+    { "name":"영진약품", "id":"003520", "volumeInc":"1.64", "price":"8040", "priceInc":"1.13" }
+  ]
+}
