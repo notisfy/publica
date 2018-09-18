@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "기아차",
+  "dailyTrading" : [
+    { "date":"2018-09-04", "volume":"625907", "adjClosePrice":"31600", "featured":false },
+    { "date":"2018-09-05", "volume":"1228890", "adjClosePrice":"32200", "featured":true },
+    { "date":"2018-09-06", "volume":"2457457", "adjClosePrice":"33650", "featured":true },
+    { "date":"2018-09-07", "volume":"1842881", "adjClosePrice":"34250", "featured":false },
+    { "date":"2018-09-10", "volume":"1565167", "adjClosePrice":"34000", "featured":false },
+    { "date":"2018-09-11", "volume":"986467", "adjClosePrice":"34050", "featured":false },
+    { "date":"2018-09-12", "volume":"798158", "adjClosePrice":"34400", "featured":false },
+    { "date":"2018-09-13", "volume":"917512", "adjClosePrice":"34150", "featured":false },
+    { "date":"2018-09-14", "volume":"754027", "adjClosePrice":"34050", "featured":false },
+    { "date":"2018-09-17", "volume":"530219", "adjClosePrice":"34050", "featured":false },
+    { "date":"2018-09-18", "volume":"1078514", "adjClosePrice":"34500", "featured":false }
+  ]
+}

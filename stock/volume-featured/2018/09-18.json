@@ -1,0 +1,11 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"LG화학우", "id":"051915", "volumeInc":"3.00", "price":"198500", "priceInc":"2.32" },
+    { "name":"스카이라이프", "id":"053210", "volumeInc":"2.17", "price":"13650", "priceInc":"5.00" },
+    { "name":"한올바이오파마", "id":"009420", "volumeInc":"1.84", "price":"33500", "priceInc":"5.68" },
+    { "name":"일양약품", "id":"007570", "volumeInc":"1.80", "price":"34750", "priceInc":"1.02" },
+    { "name":"두산", "id":"000150", "volumeInc":"1.54", "price":"143000", "priceInc":"2.88" },
+    { "name":"삼성물산", "id":"028260", "volumeInc":"1.52", "price":"126000", "priceInc":"0.40" }
+  ]
+}
