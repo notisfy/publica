@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "오리온홀딩스",
+  "dailyTrading" : [
+    { "date":"2018-09-06", "volume":"95955", "adjClosePrice":"19700", "featured":false },
+    { "date":"2018-09-07", "volume":"258797", "adjClosePrice":"18600", "featured":false },
+    { "date":"2018-09-10", "volume":"80406", "adjClosePrice":"18500", "featured":false },
+    { "date":"2018-09-11", "volume":"101871", "adjClosePrice":"19000", "featured":false },
+    { "date":"2018-09-12", "volume":"243018", "adjClosePrice":"19450", "featured":true },
+    { "date":"2018-09-13", "volume":"100341", "adjClosePrice":"19200", "featured":false },
+    { "date":"2018-09-14", "volume":"62901", "adjClosePrice":"19250", "featured":false },
+    { "date":"2018-09-17", "volume":"89563", "adjClosePrice":"19000", "featured":false },
+    { "date":"2018-09-18", "volume":"103080", "adjClosePrice":"18600", "featured":false },
+    { "date":"2018-09-19", "volume":"125062", "adjClosePrice":"18700", "featured":false },
+    { "date":"2018-09-20", "volume":"114869", "adjClosePrice":"18900", "featured":false }
+  ]
+}

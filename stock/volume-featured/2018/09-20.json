@@ -1,0 +1,25 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"제일파마홀딩스", "id":"002620", "volumeInc":"12.17", "price":"27350", "priceInc":"3.60" },
+    { "name":"녹십자홀딩스", "id":"005250", "volumeInc":"4.91", "price":"30650", "priceInc":"0.99" },
+    { "name":"동서", "id":"026960", "volumeInc":"4.05", "price":"22000", "priceInc":"6.80" },
+    { "name":"녹십자", "id":"006280", "volumeInc":"3.78", "price":"202000", "priceInc":"1.25" },
+    { "name":"영진약품", "id":"003520", "volumeInc":"2.85", "price":"7820", "priceInc":"1.16" },
+    { "name":"한미약품", "id":"128940", "volumeInc":"2.70", "price":"515000", "priceInc":"2.18" },
+    { "name":"한올바이오파마", "id":"009420", "volumeInc":"2.56", "price":"33050", "priceInc":"0.76" },
+    { "name":"삼성물산", "id":"028260", "volumeInc":"2.52", "price":"128500", "priceInc":"4.05" },
+    { "name":"에스원", "id":"012750", "volumeInc":"2.50", "price":"89500", "priceInc":"2.05" },
+    { "name":"맥쿼리인프라", "id":"088980", "volumeInc":"2.48", "price":"9070", "priceInc":"0.55" },
+    { "name":"롯데쇼핑", "id":"023530", "volumeInc":"2.29", "price":"206500", "priceInc":"4.03" },
+    { "name":"삼성엔지니어링", "id":"028050", "volumeInc":"2.09", "price":"17950", "priceInc":"3.46" },
+    { "name":"유한양행", "id":"000100", "volumeInc":"1.89", "price":"238500", "priceInc":"0.21" },
+    { "name":"기아차", "id":"000270", "volumeInc":"1.84", "price":"34850", "priceInc":"0.87" },
+    { "name":"삼성전자우", "id":"005935", "volumeInc":"1.82", "price":"38050", "priceInc":"2.42" },
+    { "name":"KB금융", "id":"105560", "volumeInc":"1.81", "price":"51500", "priceInc":"2.18" },
+    { "name":"종근당", "id":"185750", "volumeInc":"1.68", "price":"115000", "priceInc":"1.32" },
+    { "name":"미래에셋대우", "id":"006800", "volumeInc":"1.62", "price":"8310", "priceInc":"0.48" },
+    { "name":"일양약품", "id":"007570", "volumeInc":"1.61", "price":"34800", "priceInc":"0.72" },
+    { "name":"키움증권", "id":"039490", "volumeInc":"1.52", "price":"96300", "priceInc":"3.77" }
+  ]
+}

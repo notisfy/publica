@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "메리츠금융지주",
+  "dailyTrading" : [
+    { "date":"2018-09-06", "volume":"46593", "adjClosePrice":"12200", "featured":false },
+    { "date":"2018-09-07", "volume":"31723", "adjClosePrice":"12150", "featured":false },
+    { "date":"2018-09-10", "volume":"16287", "adjClosePrice":"12200", "featured":false },
+    { "date":"2018-09-11", "volume":"40715", "adjClosePrice":"12100", "featured":false },
+    { "date":"2018-09-12", "volume":"91046", "adjClosePrice":"12100", "featured":false },
+    { "date":"2018-09-13", "volume":"221707", "adjClosePrice":"12150", "featured":true },
+    { "date":"2018-09-14", "volume":"46311", "adjClosePrice":"12100", "featured":false },
+    { "date":"2018-09-17", "volume":"58679", "adjClosePrice":"11800", "featured":false },
+    { "date":"2018-09-18", "volume":"44355", "adjClosePrice":"12000", "featured":false },
+    { "date":"2018-09-19", "volume":"51900", "adjClosePrice":"12300", "featured":false },
+    { "date":"2018-09-20", "volume":"100203", "adjClosePrice":"12300", "featured":false }
+  ]
+}
