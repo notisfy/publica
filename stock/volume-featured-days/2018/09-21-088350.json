@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "한화생명",
+  "dailyTrading" : [
+    { "date":"2018-09-07", "volume":"1195618", "adjClosePrice":"4885", "featured":false },
+    { "date":"2018-09-10", "volume":"576386", "adjClosePrice":"4880", "featured":false },
+    { "date":"2018-09-11", "volume":"529522", "adjClosePrice":"4865", "featured":false },
+    { "date":"2018-09-12", "volume":"867011", "adjClosePrice":"4840", "featured":false },
+    { "date":"2018-09-13", "volume":"1706871", "adjClosePrice":"4845", "featured":true },
+    { "date":"2018-09-14", "volume":"1132761", "adjClosePrice":"4915", "featured":false },
+    { "date":"2018-09-17", "volume":"662758", "adjClosePrice":"4900", "featured":false },
+    { "date":"2018-09-18", "volume":"789553", "adjClosePrice":"4860", "featured":false },
+    { "date":"2018-09-19", "volume":"861541", "adjClosePrice":"4920", "featured":false },
+    { "date":"2018-09-20", "volume":"1156868", "adjClosePrice":"5010", "featured":false },
+    { "date":"2018-09-21", "volume":"1679620", "adjClosePrice":"5070", "featured":true }
+  ]
+}

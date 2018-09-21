@@ -1,0 +1,25 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"제일파마홀딩스", "id":"002620", "volumeInc":"33.94", "price":"34300", "priceInc":"25.41" },
+    { "name":"삼성물산", "id":"028260", "volumeInc":"9.17", "price":"131000", "priceInc":"1.95" },
+    { "name":"한온시스템", "id":"018880", "volumeInc":"5.49", "price":"13250", "priceInc":"4.74" },
+    { "name":"LG생활건강우", "id":"051905", "volumeInc":"3.44", "price":"768000", "priceInc":"3.36" },
+    { "name":"삼성생명", "id":"032830", "volumeInc":"3.35", "price":"96000", "priceInc":"4.69" },
+    { "name":"동아쏘시오홀딩스", "id":"000640", "volumeInc":"3.31", "price":"114500", "priceInc":"6.51" },
+    { "name":"LG하우시스", "id":"108670", "volumeInc":"3.17", "price":"72000", "priceInc":"2.86" },
+    { "name":"SK네트웍스", "id":"001740", "volumeInc":"3.14", "price":"5210", "priceInc":"5.25" },
+    { "name":"한국타이어월드와이드", "id":"000240", "volumeInc":"2.80", "price":"18100", "priceInc":"1.69" },
+    { "name":"대우건설", "id":"047040", "volumeInc":"2.74", "price":"6070", "priceInc":"5.57" },
+    { "name":"코리안리", "id":"003690", "volumeInc":"2.70", "price":"10200", "priceInc":"0.49" },
+    { "name":"현대엘리베이", "id":"017800", "volumeInc":"2.60", "price":"120000", "priceInc":"11.63" },
+    { "name":"현대해상", "id":"001450", "volumeInc":"2.51", "price":"37850", "priceInc":"2.99" },
+    { "name":"기업은행", "id":"024110", "volumeInc":"2.47", "price":"14750", "priceInc":"1.72" },
+    { "name":"삼성화재", "id":"000810", "volumeInc":"2.34", "price":"265000", "priceInc":"2.71" },
+    { "name":"KB금융", "id":"105560", "volumeInc":"2.23", "price":"53200", "priceInc":"3.30" },
+    { "name":"LG화학우", "id":"051915", "volumeInc":"2.15", "price":"200500", "priceInc":"1.78" },
+    { "name":"롯데지주", "id":"004990", "volumeInc":"2.03", "price":"54700", "priceInc":"4.59" },
+    { "name":"신한지주", "id":"055550", "volumeInc":"2.00", "price":"44200", "priceInc":"2.20" },
+    { "name":"삼성전자우", "id":"005935", "volumeInc":"1.93", "price":"38500", "priceInc":"1.18" }
+  ]
+}

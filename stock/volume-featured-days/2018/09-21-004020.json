@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "현대제철",
+  "dailyTrading" : [
+    { "date":"2018-09-07", "volume":"495133", "adjClosePrice":"54300", "featured":false },
+    { "date":"2018-09-10", "volume":"830234", "adjClosePrice":"56200", "featured":true },
+    { "date":"2018-09-11", "volume":"637379", "adjClosePrice":"53800", "featured":false },
+    { "date":"2018-09-12", "volume":"338192", "adjClosePrice":"53800", "featured":false },
+    { "date":"2018-09-13", "volume":"378348", "adjClosePrice":"54300", "featured":false },
+    { "date":"2018-09-14", "volume":"209019", "adjClosePrice":"54300", "featured":false },
+    { "date":"2018-09-17", "volume":"288406", "adjClosePrice":"53700", "featured":false },
+    { "date":"2018-09-18", "volume":"280985", "adjClosePrice":"54600", "featured":false },
+    { "date":"2018-09-19", "volume":"357544", "adjClosePrice":"54800", "featured":false },
+    { "date":"2018-09-20", "volume":"352077", "adjClosePrice":"55300", "featured":false },
+    { "date":"2018-09-21", "volume":"638209", "adjClosePrice":"57300", "featured":true }
+  ]
+}

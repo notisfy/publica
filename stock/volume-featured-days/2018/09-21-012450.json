@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "한화에어로스페이스",
+  "dailyTrading" : [
+    { "date":"2018-09-07", "volume":"559983", "adjClosePrice":"26900", "featured":true },
+    { "date":"2018-09-10", "volume":"360337", "adjClosePrice":"27000", "featured":false },
+    { "date":"2018-09-11", "volume":"246634", "adjClosePrice":"27050", "featured":false },
+    { "date":"2018-09-12", "volume":"293436", "adjClosePrice":"26450", "featured":false },
+    { "date":"2018-09-13", "volume":"197957", "adjClosePrice":"26550", "featured":false },
+    { "date":"2018-09-14", "volume":"173260", "adjClosePrice":"26600", "featured":false },
+    { "date":"2018-09-17", "volume":"209449", "adjClosePrice":"26950", "featured":false },
+    { "date":"2018-09-18", "volume":"158801", "adjClosePrice":"26700", "featured":false },
+    { "date":"2018-09-19", "volume":"307434", "adjClosePrice":"25800", "featured":false },
+    { "date":"2018-09-20", "volume":"285211", "adjClosePrice":"26500", "featured":false },
+    { "date":"2018-09-21", "volume":"249826", "adjClosePrice":"26250", "featured":false }
+  ]
+}
