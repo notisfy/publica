@@ -1,0 +1,14 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "CJ",
+  "dailyTrading" : [
+    { "date":"2018-09-13", "volume":"161079", "adjClosePrice":"134000", "featured":true },
+    { "date":"2018-09-14", "volume":"155161", "adjClosePrice":"139000", "featured":false },
+    { "date":"2018-09-17", "volume":"54461", "adjClosePrice":"136000", "featured":false },
+    { "date":"2018-09-18", "volume":"31405", "adjClosePrice":"135500", "featured":false },
+    { "date":"2018-09-19", "volume":"66922", "adjClosePrice":"133000", "featured":false },
+    { "date":"2018-09-20", "volume":"43446", "adjClosePrice":"133500", "featured":false },
+    { "date":"2018-09-21", "volume":"79972", "adjClosePrice":"135500", "featured":false },
+    { "date":"2018-09-27", "volume":"95356", "adjClosePrice":"134000", "featured":false }
+  ]
+}

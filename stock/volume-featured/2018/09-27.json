@@ -1,0 +1,25 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"영진약품", "id":"003520", "volumeInc":"7.50", "price":"8450", "priceInc":"6.02" },
+    { "name":"코웨이", "id":"021240", "volumeInc":"4.61", "price":"86300", "priceInc":"0.58" },
+    { "name":"SK네트웍스", "id":"001740", "volumeInc":"4.46", "price":"5480", "priceInc":"5.18" },
+    { "name":"삼성화재", "id":"000810", "volumeInc":"4.03", "price":"272500", "priceInc":"2.83" },
+    { "name":"메리츠화재", "id":"000060", "volumeInc":"4.02", "price":"19600", "priceInc":"5.66" },
+    { "name":"현대해상", "id":"001450", "volumeInc":"3.94", "price":"40850", "priceInc":"7.93" },
+    { "name":"한국항공우주", "id":"047810", "volumeInc":"3.33", "price":"50000", "priceInc":"8.11" },
+    { "name":"한화에어로스페이스", "id":"012450", "volumeInc":"2.93", "price":"28700", "priceInc":"9.33" },
+    { "name":"고려아연", "id":"010130", "volumeInc":"2.71", "price":"439500", "priceInc":"3.29" },
+    { "name":"DB손해보험", "id":"005830", "volumeInc":"2.63", "price":"71500", "priceInc":"7.20" },
+    { "name":"SK디스커버리", "id":"006120", "volumeInc":"2.57", "price":"33250", "priceInc":"5.89" },
+    { "name":"한국타이어", "id":"161390", "volumeInc":"2.45", "price":"50300", "priceInc":"2.44" },
+    { "name":"제일기획", "id":"030000", "volumeInc":"2.26", "price":"20850", "priceInc":"4.77" },
+    { "name":"포스코대우", "id":"047050", "volumeInc":"2.17", "price":"20900", "priceInc":"4.50" },
+    { "name":"오뚜기", "id":"007310", "volumeInc":"2.13", "price":"740000", "priceInc":"1.93" },
+    { "name":"한화생명", "id":"088350", "volumeInc":"2.12", "price":"5220", "priceInc":"2.96" },
+    { "name":"한국가스공사", "id":"036460", "volumeInc":"2.10", "price":"61200", "priceInc":"4.26" },
+    { "name":"한화", "id":"000880", "volumeInc":"2.08", "price":"33250", "priceInc":"5.06" },
+    { "name":"GS", "id":"078930", "volumeInc":"2.06", "price":"54000", "priceInc":"3.85" },
+    { "name":"스카이라이프", "id":"053210", "volumeInc":"2.05", "price":"13850", "priceInc":"5.32" }
+  ]
+}
