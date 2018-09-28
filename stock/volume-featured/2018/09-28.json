@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"SK네트웍스", "id":"001740", "volumeInc":"4.54", "price":"5500", "priceInc":"0.36" },
+    { "name":"삼성엔지니어링", "id":"028050", "volumeInc":"3.79", "price":"19300", "priceInc":"5.75" },
+    { "name":"이마트", "id":"139480", "volumeInc":"3.09", "price":"207500", "priceInc":"5.33" },
+    { "name":"제일기획", "id":"030000", "volumeInc":"2.46", "price":"21650", "priceInc":"3.84" },
+    { "name":"넥센타이어", "id":"002350", "volumeInc":"2.43", "price":"9570", "priceInc":"2.79" },
+    { "name":"락앤락", "id":"115390", "volumeInc":"2.42", "price":"17100", "priceInc":"3.32" },
+    { "name":"롯데지주", "id":"004990", "volumeInc":"2.32", "price":"57100", "priceInc":"4.77" },
+    { "name":"SK이노베이션", "id":"096770", "volumeInc":"2.14", "price":"215000", "priceInc":"3.12" },
+    { "name":"영원무역홀딩스", "id":"009970", "volumeInc":"1.98", "price":"64800", "priceInc":"2.05" },
+    { "name":"종근당", "id":"185750", "volumeInc":"1.88", "price":"118000", "priceInc":"1.72" },
+    { "name":"KT", "id":"030200", "volumeInc":"1.72", "price":"30150", "priceInc":"0.67" },
+    { "name":"현대그린푸드", "id":"005440", "volumeInc":"1.54", "price":"14050", "priceInc":"2.18" }
+  ]
+}

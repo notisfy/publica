@@ -1,0 +1,14 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "한올바이오파마",
+  "dailyTrading" : [
+    { "date":"2018-09-14", "volume":"274951", "adjClosePrice":"32100", "featured":false },
+    { "date":"2018-09-17", "volume":"427284", "adjClosePrice":"31700", "featured":false },
+    { "date":"2018-09-18", "volume":"708841", "adjClosePrice":"33500", "featured":true },
+    { "date":"2018-09-19", "volume":"467644", "adjClosePrice":"32800", "featured":false },
+    { "date":"2018-09-20", "volume":"1009399", "adjClosePrice":"33050", "featured":true },
+    { "date":"2018-09-21", "volume":"352597", "adjClosePrice":"33250", "featured":false },
+    { "date":"2018-09-27", "volume":"649301", "adjClosePrice":"34350", "featured":true },
+    { "date":"2018-09-28", "volume":"611971", "adjClosePrice":"32600", "featured":false }
+  ]
+}
