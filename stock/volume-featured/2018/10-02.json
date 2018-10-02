@@ -1,0 +1,13 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"현대중공업", "id":"009540", "volumeInc":"2.28", "price":"141500", "priceInc":"3.66" },
+    { "name":"대림산업", "id":"000210", "volumeInc":"2.14", "price":"85700", "priceInc":"3.50" },
+    { "name":"삼성중공업", "id":"010140", "volumeInc":"2.11", "price":"8250", "priceInc":"1.85" },
+    { "name":"한화에어로스페이스", "id":"012450", "volumeInc":"1.76", "price":"26300", "priceInc":"4.99" },
+    { "name":"팬오션", "id":"028670", "volumeInc":"1.68", "price":"5270", "priceInc":"1.93" },
+    { "name":"대우조선해양", "id":"042660", "volumeInc":"1.56", "price":"37100", "priceInc":"5.40" },
+    { "name":"현대미포조선", "id":"010620", "volumeInc":"1.52", "price":"109000", "priceInc":"0.93" },
+    { "name":"경동나비엔", "id":"009450", "volumeInc":"1.50", "price":"54000", "priceInc":"0.19" }
+  ]
+}
