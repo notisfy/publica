@@ -1,0 +1,13 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "삼성화재",
+  "dailyTrading" : [
+    { "date":"2018-09-20", "volume":"47781", "adjClosePrice":"258000", "featured":false },
+    { "date":"2018-09-21", "volume":"139265", "adjClosePrice":"265000", "featured":true },
+    { "date":"2018-09-27", "volume":"237146", "adjClosePrice":"272500", "featured":true },
+    { "date":"2018-09-28", "volume":"218315", "adjClosePrice":"284000", "featured":false },
+    { "date":"2018-10-01", "volume":"66177", "adjClosePrice":"284500", "featured":false },
+    { "date":"2018-10-02", "volume":"93198", "adjClosePrice":"285000", "featured":true },
+    { "date":"2018-10-04", "volume":"75947", "adjClosePrice":"284500", "featured":false }
+  ]
+}

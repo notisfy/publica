@@ -1,0 +1,21 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"동서", "id":"026960", "volumeInc":"4.01", "price":"20800", "priceInc":"0.24" },
+    { "name":"대림산업", "id":"000210", "volumeInc":"2.70", "price":"87000", "priceInc":"1.52" },
+    { "name":"KB금융", "id":"105560", "volumeInc":"2.26", "price":"56100", "priceInc":"2.94" },
+    { "name":"한온시스템", "id":"018880", "volumeInc":"2.17", "price":"12650", "priceInc":"0.80" },
+    { "name":"하나금융지주", "id":"086790", "volumeInc":"2.02", "price":"46150", "priceInc":"1.21" },
+    { "name":"신한지주", "id":"055550", "volumeInc":"1.96", "price":"45900", "priceInc":"1.21" },
+    { "name":"삼성전기", "id":"009150", "volumeInc":"1.91", "price":"138500", "priceInc":"0.36" },
+    { "name":"현대엘리베이", "id":"017800", "volumeInc":"1.91", "price":"126500", "priceInc":"10.48" },
+    { "name":"LIG넥스원", "id":"079550", "volumeInc":"1.85", "price":"37900", "priceInc":"4.55" },
+    { "name":"기업은행", "id":"024110", "volumeInc":"1.85", "price":"15550", "priceInc":"2.30" },
+    { "name":"한화에어로스페이스", "id":"012450", "volumeInc":"1.80", "price":"28000", "priceInc":"6.46" },
+    { "name":"영원무역", "id":"111770", "volumeInc":"1.74", "price":"40000", "priceInc":"4.85" },
+    { "name":"DB손해보험", "id":"005830", "volumeInc":"1.58", "price":"73000", "priceInc":"1.25" },
+    { "name":"제일기획", "id":"030000", "volumeInc":"1.56", "price":"21800", "priceInc":"0.69" },
+    { "name":"대우조선해양", "id":"042660", "volumeInc":"1.53", "price":"37850", "priceInc":"2.02" },
+    { "name":"대교", "id":"019680", "volumeInc":"1.51", "price":"7300", "priceInc":"0.27" }
+  ]
+}
