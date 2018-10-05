@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한라홀딩스", "id":"060980", "volumeInc":"8.78", "price":"39000", "priceInc":"4.00" },
+    { "name":"한온시스템", "id":"018880", "volumeInc":"2.37", "price":"12800", "priceInc":"1.19" },
+    { "name":"두산인프라코어", "id":"042670", "volumeInc":"2.10", "price":"10050", "priceInc":"3.50" },
+    { "name":"SK", "id":"034730", "volumeInc":"2.04", "price":"290500", "priceInc":"2.65" },
+    { "name":"LG이노텍", "id":"011070", "volumeInc":"1.96", "price":"133000", "priceInc":"2.31" },
+    { "name":"한화에어로스페이스", "id":"012450", "volumeInc":"1.89", "price":"28950", "priceInc":"3.39" },
+    { "name":"이마트", "id":"139480", "volumeInc":"1.84", "price":"219500", "priceInc":"4.52" },
+    { "name":"삼성생명", "id":"032830", "volumeInc":"1.69", "price":"96900", "priceInc":"0.41" },
+    { "name":"한국타이어월드와이드", "id":"000240", "volumeInc":"1.61", "price":"18000", "priceInc":"0.84" },
+    { "name":"이노션", "id":"214320", "volumeInc":"1.53", "price":"59300", "priceInc":"0.34" }
+  ]
+}
