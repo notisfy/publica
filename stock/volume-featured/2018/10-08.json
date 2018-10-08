@@ -1,0 +1,7 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"롯데지주", "id":"004990", "volumeInc":"3.62", "price":"57500", "priceInc":"2.68" },
+    { "name":"롯데케미칼", "id":"011170", "volumeInc":"1.76", "price":"270500", "priceInc":"3.05" }
+  ]
+}

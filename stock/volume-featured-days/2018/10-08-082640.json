@@ -1,0 +1,13 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "동양생명",
+  "dailyTrading" : [
+    { "date":"2018-09-27", "volume":"130614", "adjClosePrice":"6420", "featured":true },
+    { "date":"2018-09-28", "volume":"59583", "adjClosePrice":"6390", "featured":false },
+    { "date":"2018-10-01", "volume":"62425", "adjClosePrice":"6440", "featured":false },
+    { "date":"2018-10-02", "volume":"75385", "adjClosePrice":"6320", "featured":false },
+    { "date":"2018-10-04", "volume":"51083", "adjClosePrice":"6210", "featured":false },
+    { "date":"2018-10-05", "volume":"71312", "adjClosePrice":"6230", "featured":false },
+    { "date":"2018-10-08", "volume":"59896", "adjClosePrice":"6340", "featured":false }
+  ]
+}
