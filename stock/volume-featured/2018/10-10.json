@@ -1,0 +1,11 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"삼성엔지니어링", "id":"028050", "volumeInc":"2.10", "price":"19550", "priceInc":"2.89" },
+    { "name":"금호석유", "id":"011780", "volumeInc":"1.76", "price":"86800", "priceInc":"3.33" },
+    { "name":"신한지주", "id":"055550", "volumeInc":"1.71", "price":"46150", "priceInc":"1.32" },
+    { "name":"동서", "id":"026960", "volumeInc":"1.59", "price":"21000", "priceInc":"2.94" },
+    { "name":"한세실업", "id":"105630", "volumeInc":"1.53", "price":"21000", "priceInc":"1.20" },
+    { "name":"제일기획", "id":"030000", "volumeInc":"1.52", "price":"22100", "priceInc":"0.45" }
+  ]
+}
