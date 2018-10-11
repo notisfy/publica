@@ -1,0 +1,6 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한진칼", "id":"180640", "volumeInc":"1.82", "price":"20650", "priceInc":"0.98" }
+  ]
+}
