@@ -1,0 +1,13 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"유한양행", "id":"000100", "volumeInc":"1.72", "price":"209000", "priceInc":"1.21" },
+    { "name":"한국항공우주", "id":"047810", "volumeInc":"1.72", "price":"31450", "priceInc":"2.78" },
+    { "name":"한라홀딩스", "id":"060980", "volumeInc":"1.66", "price":"39450", "priceInc":"0.77" },
+    { "name":"CJ대한통운", "id":"000120", "volumeInc":"1.63", "price":"147500", "priceInc":"5.36" },
+    { "name":"한섬", "id":"020000", "volumeInc":"1.63", "price":"34650", "priceInc":"1.32" },
+    { "name":"삼성SDI", "id":"006400", "volumeInc":"1.57", "price":"244000", "priceInc":"7.49" },
+    { "name":"코스맥스", "id":"192820", "volumeInc":"1.53", "price":"141000", "priceInc":"4.83" },
+    { "name":"휠라코리아", "id":"081660", "volumeInc":"1.51", "price":"43500", "priceInc":"9.99" }
+  ]
+}
