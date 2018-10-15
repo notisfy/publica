@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "아모레퍼시픽",
+  "dailyTrading" : [
+    { "date":"2018-10-01", "volume":"303866", "adjClosePrice":"269500", "featured":true },
+    { "date":"2018-10-02", "volume":"117956", "adjClosePrice":"264500", "featured":false },
+    { "date":"2018-10-04", "volume":"989835", "adjClosePrice":"227500", "featured":false },
+    { "date":"2018-10-05", "volume":"355746", "adjClosePrice":"225000", "featured":false },
+    { "date":"2018-10-08", "volume":"232645", "adjClosePrice":"223000", "featured":false },
+    { "date":"2018-10-10", "volume":"348176", "adjClosePrice":"212000", "featured":false },
+    { "date":"2018-10-11", "volume":"461197", "adjClosePrice":"197500", "featured":false },
+    { "date":"2018-10-12", "volume":"243653", "adjClosePrice":"207500", "featured":false },
+    { "date":"2018-10-15", "volume":"265498", "adjClosePrice":"198000", "featured":false }
+  ]
+}

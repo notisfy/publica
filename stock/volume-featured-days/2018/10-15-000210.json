@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "대림산업",
+  "dailyTrading" : [
+    { "date":"2018-10-01", "volume":"82872", "adjClosePrice":"82800", "featured":false },
+    { "date":"2018-10-02", "volume":"322063", "adjClosePrice":"85700", "featured":true },
+    { "date":"2018-10-04", "volume":"423194", "adjClosePrice":"87000", "featured":true },
+    { "date":"2018-10-05", "volume":"157588", "adjClosePrice":"87800", "featured":false },
+    { "date":"2018-10-08", "volume":"168735", "adjClosePrice":"87400", "featured":false },
+    { "date":"2018-10-10", "volume":"162819", "adjClosePrice":"84500", "featured":false },
+    { "date":"2018-10-11", "volume":"232372", "adjClosePrice":"79600", "featured":false },
+    { "date":"2018-10-12", "volume":"164420", "adjClosePrice":"81800", "featured":false },
+    { "date":"2018-10-15", "volume":"121483", "adjClosePrice":"81600", "featured":false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"이노션", "id":"214320", "volumeInc":"2.12", "price":"52700", "priceInc":"2.93" },
+    { "name":"한섬", "id":"020000", "volumeInc":"1.74", "price":"37200", "priceInc":"7.36" },
+    { "name":"현대상선", "id":"011200", "volumeInc":"1.71", "price":"4565", "priceInc":"2.24" },
+    { "name":"하나투어", "id":"039130", "volumeInc":"1.67", "price":"62800", "priceInc":"3.46" },
+    { "name":"제일기획", "id":"030000", "volumeInc":"1.66", "price":"22550", "priceInc":"1.35" },
+    { "name":"LG생활건강우", "id":"051905", "volumeInc":"1.64", "price":"696000", "priceInc":"0.14" }
+  ]
+}

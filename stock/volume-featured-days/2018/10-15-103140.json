@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "풍산",
+  "dailyTrading" : [
+    { "date":"2018-10-01", "volume":"243204", "adjClosePrice":"33000", "featured":true },
+    { "date":"2018-10-02", "volume":"192459", "adjClosePrice":"33450", "featured":false },
+    { "date":"2018-10-04", "volume":"157965", "adjClosePrice":"32800", "featured":false },
+    { "date":"2018-10-05", "volume":"106544", "adjClosePrice":"32650", "featured":false },
+    { "date":"2018-10-08", "volume":"181420", "adjClosePrice":"31500", "featured":false },
+    { "date":"2018-10-10", "volume":"183217", "adjClosePrice":"30750", "featured":false },
+    { "date":"2018-10-11", "volume":"250121", "adjClosePrice":"28900", "featured":false },
+    { "date":"2018-10-12", "volume":"113422", "adjClosePrice":"29350", "featured":false },
+    { "date":"2018-10-15", "volume":"126234", "adjClosePrice":"28750", "featured":false }
+  ]
+}
