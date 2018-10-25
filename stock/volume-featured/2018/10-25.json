@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한국전력", "id":"015760", "volumeInc":"2.49", "price":"28050", "priceInc":"2.37" },
+    { "name":"한국타이어월드와이드", "id":"000240", "volumeInc":"2.43", "price":"17700", "priceInc":"0.85" },
+    { "name":"LG생활건강", "id":"051900", "volumeInc":"2.11", "price":"1140000", "priceInc":"4.11" },
+    { "name":"동양생명", "id":"082640", "volumeInc":"2.10", "price":"6100", "priceInc":"4.45" },
+    { "name":"KT&G", "id":"033780", "volumeInc":"2.01", "price":"102000", "priceInc":"1.49" },
+    { "name":"SK텔레콤", "id":"017670", "volumeInc":"1.98", "price":"283500", "priceInc":"1.80" },
+    { "name":"롯데케미칼", "id":"011170", "volumeInc":"1.89", "price":"281000", "priceInc":"3.12" },
+    { "name":"LG이노텍", "id":"011070", "volumeInc":"1.84", "price":"130000", "priceInc":"7.00" },
+    { "name":"JB금융지주", "id":"175330", "volumeInc":"1.77", "price":"6050", "priceInc":"2.02" },
+    { "name":"세아베스틸", "id":"001430", "volumeInc":"1.74", "price":"17300", "priceInc":"0.58" },
+    { "name":"한국단자", "id":"025540", "volumeInc":"1.57", "price":"38950", "priceInc":"1.56" },
+    { "name":"S-Oil", "id":"010950", "volumeInc":"1.55", "price":"130500", "priceInc":"2.76" }
+  ]
+}
