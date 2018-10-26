@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "동원시스템즈",
+  "dailyTrading" : [
+    { "date":"2018-10-12", "volume":"33557", "adjClosePrice":"28850", "featured":false },
+    { "date":"2018-10-15", "volume":"16423", "adjClosePrice":"28550", "featured":false },
+    { "date":"2018-10-16", "volume":"12017", "adjClosePrice":"28950", "featured":false },
+    { "date":"2018-10-17", "volume":"17265", "adjClosePrice":"29400", "featured":false },
+    { "date":"2018-10-18", "volume":"43724", "adjClosePrice":"31450", "featured":true },
+    { "date":"2018-10-19", "volume":"42158", "adjClosePrice":"29650", "featured":false },
+    { "date":"2018-10-22", "volume":"25405", "adjClosePrice":"28700", "featured":false },
+    { "date":"2018-10-23", "volume":"43000", "adjClosePrice":"27900", "featured":false },
+    { "date":"2018-10-24", "volume":"18663", "adjClosePrice":"27850", "featured":false },
+    { "date":"2018-10-25", "volume":"20455", "adjClosePrice":"27600", "featured":false },
+    { "date":"2018-10-26", "volume":"20513", "adjClosePrice":"26900", "featured":false }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "대한유화",
+  "dailyTrading" : [
+    { "date":"2018-10-12", "volume":"77147", "adjClosePrice":"163500", "featured":false },
+    { "date":"2018-10-15", "volume":"38308", "adjClosePrice":"165000", "featured":false },
+    { "date":"2018-10-16", "volume":"75861", "adjClosePrice":"160500", "featured":false },
+    { "date":"2018-10-17", "volume":"49433", "adjClosePrice":"163000", "featured":false },
+    { "date":"2018-10-18", "volume":"34104", "adjClosePrice":"159500", "featured":false },
+    { "date":"2018-10-19", "volume":"61134", "adjClosePrice":"160000", "featured":false },
+    { "date":"2018-10-22", "volume":"49675", "adjClosePrice":"159500", "featured":false },
+    { "date":"2018-10-23", "volume":"77498", "adjClosePrice":"152000", "featured":false },
+    { "date":"2018-10-24", "volume":"218357", "adjClosePrice":"168000", "featured":true },
+    { "date":"2018-10-25", "volume":"123328", "adjClosePrice":"172000", "featured":false },
+    { "date":"2018-10-26", "volume":"91481", "adjClosePrice":"157500", "featured":false }
+  ]
+}
