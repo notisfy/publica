@@ -1,0 +1,10 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"효성", "id":"004800", "volumeInc":"9.10", "price":"45200", "priceInc":"6.98" },
+    { "name":"삼성엔지니어링", "id":"028050", "volumeInc":"2.08", "price":"17200", "priceInc":"6.17" },
+    { "name":"KT&G", "id":"033780", "volumeInc":"1.89", "price":"100000", "priceInc":"0.70" },
+    { "name":"LG화학", "id":"051910", "volumeInc":"1.86", "price":"335500", "priceInc":"3.55" },
+    { "name":"CJ제일제당", "id":"097950", "volumeInc":"1.62", "price":"335500", "priceInc":"0.75" }
+  ]
+}

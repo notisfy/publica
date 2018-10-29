@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "한국토지신탁",
+  "dailyTrading" : [
+    { "date":"2018-10-15", "volume":"331992", "adjClosePrice":"2485", "featured":false },
+    { "date":"2018-10-16", "volume":"224117", "adjClosePrice":"2480", "featured":false },
+    { "date":"2018-10-17", "volume":"160824", "adjClosePrice":"2505", "featured":false },
+    { "date":"2018-10-18", "volume":"315846", "adjClosePrice":"2530", "featured":false },
+    { "date":"2018-10-19", "volume":"991460", "adjClosePrice":"2540", "featured":true },
+    { "date":"2018-10-22", "volume":"399709", "adjClosePrice":"2500", "featured":false },
+    { "date":"2018-10-23", "volume":"512572", "adjClosePrice":"2410", "featured":false },
+    { "date":"2018-10-24", "volume":"427278", "adjClosePrice":"2375", "featured":false },
+    { "date":"2018-10-25", "volume":"532122", "adjClosePrice":"2370", "featured":false },
+    { "date":"2018-10-26", "volume":"497083", "adjClosePrice":"2300", "featured":false },
+    { "date":"2018-10-29", "volume":"576176", "adjClosePrice":"2280", "featured":false }
+  ]
+}
