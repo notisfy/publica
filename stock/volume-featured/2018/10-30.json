@@ -1,0 +1,20 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"NAVER", "id":"035420", "volumeInc":"4.37", "price":"110500", "priceInc":"0.91" },
+    { "name":"만도", "id":"204320", "volumeInc":"3.64", "price":"30850", "priceInc":"11.98" },
+    { "name":"대교", "id":"019680", "volumeInc":"3.57", "price":"6990", "priceInc":"0.29" },
+    { "name":"JW홀딩스", "id":"096760", "volumeInc":"2.69", "price":"5810", "priceInc":"5.44" },
+    { "name":"삼성전기", "id":"009150", "volumeInc":"2.51", "price":"121000", "priceInc":"7.56" },
+    { "name":"한국콜마", "id":"161890", "volumeInc":"2.42", "price":"55300", "priceInc":"0.91" },
+    { "name":"KT&G", "id":"033780", "volumeInc":"2.06", "price":"101000", "priceInc":"1.00" },
+    { "name":"NHN엔터테인먼트", "id":"181710", "volumeInc":"2.03", "price":"44700", "priceInc":"5.42" },
+    { "name":"동부하이텍", "id":"000990", "volumeInc":"2.02", "price":"11050", "priceInc":"6.76" },
+    { "name":"현대로템", "id":"064350", "volumeInc":"1.94", "price":"22900", "priceInc":"10.36" },
+    { "name":"LG생활건강", "id":"051900", "volumeInc":"1.75", "price":"1058000", "priceInc":"1.15" },
+    { "name":"대웅제약", "id":"069620", "volumeInc":"1.71", "price":"144000", "priceInc":"4.35" },
+    { "name":"이노션", "id":"214320", "volumeInc":"1.61", "price":"55900", "priceInc":"8.12" },
+    { "name":"SK하이닉스", "id":"000660", "volumeInc":"1.57", "price":"68200", "priceInc":"2.10" },
+    { "name":"동양", "id":"001520", "volumeInc":"1.54", "price":"1610", "priceInc":"4.55" }
+  ]
+}
