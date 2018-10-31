@@ -1,0 +1,18 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"제일기획", "id":"030000", "volumeInc":"2.93", "price":"22700", "priceInc":"9.13" },
+    { "name":"에스원", "id":"012750", "volumeInc":"2.34", "price":"96500", "priceInc":"4.78" },
+    { "name":"삼성전자우", "id":"005935", "volumeInc":"2.21", "price":"35750", "priceInc":"1.85" },
+    { "name":"이마트", "id":"139480", "volumeInc":"1.81", "price":"204500", "priceInc":"5.14" },
+    { "name":"영원무역", "id":"111770", "volumeInc":"1.75", "price":"35750", "priceInc":"4.69" },
+    { "name":"현대글로비스", "id":"086280", "volumeInc":"1.74", "price":"114000", "priceInc":"6.54" },
+    { "name":"현대차2우B", "id":"005387", "volumeInc":"1.70", "price":"70800", "priceInc":"2.02" },
+    { "name":"대한항공", "id":"003490", "volumeInc":"1.68", "price":"27450", "priceInc":"6.40" },
+    { "name":"삼성전자", "id":"005930", "volumeInc":"1.68", "price":"42400", "priceInc":"0.12" },
+    { "name":"삼성화재", "id":"000810", "volumeInc":"1.64", "price":"278500", "priceInc":"1.46" },
+    { "name":"이노션", "id":"214320", "volumeInc":"1.59", "price":"58000", "priceInc":"3.76" },
+    { "name":"태광산업", "id":"003240", "volumeInc":"1.57", "price":"1476000", "priceInc":"3.07" },
+    { "name":"신한지주", "id":"055550", "volumeInc":"1.52", "price":"42550", "priceInc":"0.47" }
+  ]
+}
