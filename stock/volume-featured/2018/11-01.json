@@ -1,0 +1,12 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"삼성전기", "id":"009150", "volumeInc":"3.08", "price":"131000", "priceInc":"11.02" },
+    { "name":"아모레퍼시픽", "id":"090430", "volumeInc":"2.11", "price":"165000", "priceInc":"7.84" },
+    { "name":"대한항공", "id":"003490", "volumeInc":"2.06", "price":"28050", "priceInc":"2.19" },
+    { "name":"LS산전", "id":"010120", "volumeInc":"2.04", "price":"50900", "priceInc":"3.56" },
+    { "name":"LG생활건강", "id":"051900", "volumeInc":"1.78", "price":"1135000", "priceInc":"8.72" },
+    { "name":"JB금융지주", "id":"175330", "volumeInc":"1.73", "price":"5560", "priceInc":"1.28" },
+    { "name":"호텔신라", "id":"008770", "volumeInc":"1.56", "price":"72800", "priceInc":"2.10" }
+  ]
+}
