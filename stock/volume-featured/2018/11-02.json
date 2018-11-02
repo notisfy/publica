@@ -1,0 +1,25 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"대한항공", "id":"003490", "volumeInc":"3.59", "price":"29350", "priceInc":"4.63" },
+    { "name":"아모레퍼시픽우", "id":"090435", "volumeInc":"3.19", "price":"93600", "priceInc":"4.00" },
+    { "name":"NAVER", "id":"035420", "volumeInc":"2.83", "price":"116500", "priceInc":"4.48" },
+    { "name":"NH투자증권", "id":"005940", "volumeInc":"2.49", "price":"13450", "priceInc":"9.35" },
+    { "name":"GS리테일", "id":"007070", "volumeInc":"2.39", "price":"37500", "priceInc":"6.38" },
+    { "name":"하나투어", "id":"039130", "volumeInc":"2.35", "price":"67600", "priceInc":"9.92" },
+    { "name":"LS", "id":"006260", "volumeInc":"2.32", "price":"56100", "priceInc":"10.43" },
+    { "name":"삼성증권", "id":"016360", "volumeInc":"2.32", "price":"28650", "priceInc":"8.11" },
+    { "name":"한화케미칼", "id":"009830", "volumeInc":"2.30", "price":"18000", "priceInc":"10.09" },
+    { "name":"메리츠종금증권", "id":"008560", "volumeInc":"2.27", "price":"4195", "priceInc":"4.48" },
+    { "name":"JB금융지주", "id":"175330", "volumeInc":"2.15", "price":"5690", "priceInc":"2.34" },
+    { "name":"영풍", "id":"000670", "volumeInc":"2.08", "price":"667000", "priceInc":"4.22" },
+    { "name":"제주항공", "id":"089590", "volumeInc":"2.06", "price":"33500", "priceInc":"5.85" },
+    { "name":"롯데케미칼", "id":"011170", "volumeInc":"2.05", "price":"285500", "priceInc":"7.74" },
+    { "name":"미래에셋대우", "id":"006800", "volumeInc":"2.03", "price":"6950", "priceInc":"7.75" },
+    { "name":"한진칼", "id":"180640", "volumeInc":"1.93", "price":"21300", "priceInc":"9.23" },
+    { "name":"대한유화", "id":"006650", "volumeInc":"1.88", "price":"168500", "priceInc":"7.32" },
+    { "name":"두산인프라코어", "id":"042670", "volumeInc":"1.82", "price":"8350", "priceInc":"5.70" },
+    { "name":"호텔신라", "id":"008770", "volumeInc":"1.79", "price":"79100", "priceInc":"8.65" },
+    { "name":"동부하이텍", "id":"000990", "volumeInc":"1.74", "price":"12450", "priceInc":"9.21" }
+  ]
+}
