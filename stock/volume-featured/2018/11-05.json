@@ -1,0 +1,11 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"유한양행", "id":"000100", "volumeInc":"11.80", "price":"231000", "priceInc":"29.78" },
+    { "name":"OCI", "id":"010060", "volumeInc":"2.65", "price":"104000", "priceInc":"9.94" },
+    { "name":"한미약품", "id":"128940", "volumeInc":"2.30", "price":"430000", "priceInc":"5.65" },
+    { "name":"금호석유", "id":"011780", "volumeInc":"2.07", "price":"95900", "priceInc":"2.46" },
+    { "name":"녹십자", "id":"006280", "volumeInc":"1.73", "price":"137000", "priceInc":"1.11" },
+    { "name":"영진약품", "id":"003520", "volumeInc":"1.64", "price":"5930", "priceInc":"1.89" }
+  ]
+}
