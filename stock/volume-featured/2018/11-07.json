@@ -1,0 +1,24 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한전KPS", "id":"051600", "volumeInc":"5.03", "price":"28050", "priceInc":"3.31" },
+    { "name":"미래에셋대우", "id":"006800", "volumeInc":"3.22", "price":"7160", "priceInc":"1.56" },
+    { "name":"메리츠종금증권", "id":"008560", "volumeInc":"3.14", "price":"4290", "priceInc":"2.02" },
+    { "name":"대한항공", "id":"003490", "volumeInc":"2.42", "price":"30200", "priceInc":"2.90" },
+    { "name":"한전기술", "id":"052690", "volumeInc":"2.42", "price":"19400", "priceInc":"0.78" },
+    { "name":"키움증권", "id":"039490", "volumeInc":"2.37", "price":"83600", "priceInc":"2.08" },
+    { "name":"제주항공", "id":"089590", "volumeInc":"2.17", "price":"35800", "priceInc":"2.73" },
+    { "name":"동원F&B", "id":"049770", "volumeInc":"2.15", "price":"260500", "priceInc":"0.77" },
+    { "name":"삼성증권", "id":"016360", "volumeInc":"2.08", "price":"29250", "priceInc":"2.27" },
+    { "name":"LG유플러스", "id":"032640", "volumeInc":"2.01", "price":"15550", "priceInc":"0.97" },
+    { "name":"오리온", "id":"001800", "volumeInc":"1.98", "price":"15450", "priceInc":"1.31" },
+    { "name":"코스맥스", "id":"192820", "volumeInc":"1.91", "price":"120500", "priceInc":"1.69" },
+    { "name":"한진칼", "id":"180640", "volumeInc":"1.90", "price":"22350", "priceInc":"3.47" },
+    { "name":"메리츠금융지주", "id":"138040", "volumeInc":"1.84", "price":"11300", "priceInc":"1.35" },
+    { "name":"현대차2우B", "id":"005387", "volumeInc":"1.82", "price":"69900", "priceInc":"0.29" },
+    { "name":"제일기획", "id":"030000", "volumeInc":"1.69", "price":"21800", "priceInc":"2.11" },
+    { "name":"락앤락", "id":"115390", "volumeInc":"1.67", "price":"16750", "priceInc":"4.69" },
+    { "name":"삼립식품", "id":"005610", "volumeInc":"1.66", "price":"124500", "priceInc":"1.22" },
+    { "name":"CJ제일제당", "id":"097950", "volumeInc":"1.53", "price":"335000", "priceInc":"1.52" }
+  ]
+}
