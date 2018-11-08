@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"쿠쿠전자", "id":"192400", "volumeInc":"4.78", "price":"130000", "priceInc":"7.88" },
+    { "name":"코스맥스", "id":"192820", "volumeInc":"2.13", "price":"126500", "priceInc":"4.98" },
+    { "name":"LIG넥스원", "id":"079550", "volumeInc":"2.12", "price":"36200", "priceInc":"11.38" },
+    { "name":"코오롱인더", "id":"120110", "volumeInc":"2.08", "price":"54400", "priceInc":"3.82" },
+    { "name":"SKC", "id":"011790", "volumeInc":"2.05", "price":"34000", "priceInc":"3.50" },
+    { "name":"세아베스틸", "id":"001430", "volumeInc":"1.83", "price":"16100", "priceInc":"3.54" },
+    { "name":"LS산전", "id":"010120", "volumeInc":"1.79", "price":"49050", "priceInc":"0.82" },
+    { "name":"하나금융지주", "id":"086790", "volumeInc":"1.71", "price":"38250", "priceInc":"0.26" },
+    { "name":"지역난방공사", "id":"071320", "volumeInc":"1.64", "price":"58900", "priceInc":"3.51" },
+    { "name":"SK케미칼", "id":"006120", "volumeInc":"1.63", "price":"28700", "priceInc":"4.55" },
+    { "name":"KB금융", "id":"105560", "volumeInc":"1.52", "price":"48450", "priceInc":"0.94" }
+  ]
+}

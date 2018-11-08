@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "제일약품",
+  "dailyTrading" : [
+    { "date":"2018-10-25", "volume":"62561", "adjClosePrice":"20600", "featured":false },
+    { "date":"2018-10-26", "volume":"138204", "adjClosePrice":"21300", "featured":true },
+    { "date":"2018-10-29", "volume":"24378", "adjClosePrice":"19600", "featured":false },
+    { "date":"2018-10-30", "volume":"16779", "adjClosePrice":"19800", "featured":false },
+    { "date":"2018-10-31", "volume":"11273", "adjClosePrice":"19450", "featured":false },
+    { "date":"2018-11-01", "volume":"18374", "adjClosePrice":"20200", "featured":false },
+    { "date":"2018-11-02", "volume":"16673", "adjClosePrice":"21350", "featured":false },
+    { "date":"2018-11-05", "volume":"12241", "adjClosePrice":"21900", "featured":false },
+    { "date":"2018-11-06", "volume":"10517", "adjClosePrice":"21900", "featured":false },
+    { "date":"2018-11-07", "volume":"9612", "adjClosePrice":"21700", "featured":false },
+    { "date":"2018-11-08", "volume":"3457", "adjClosePrice":"21900", "featured":false }
+  ]
+}

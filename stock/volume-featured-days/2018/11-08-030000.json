@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "제일기획",
+  "dailyTrading" : [
+    { "date":"2018-10-25", "volume":"361911", "adjClosePrice":"22050", "featured":false },
+    { "date":"2018-10-26", "volume":"484416", "adjClosePrice":"21400", "featured":false },
+    { "date":"2018-10-29", "volume":"367856", "adjClosePrice":"21600", "featured":false },
+    { "date":"2018-10-30", "volume":"532303", "adjClosePrice":"20800", "featured":false },
+    { "date":"2018-10-31", "volume":"669552", "adjClosePrice":"22700", "featured":true },
+    { "date":"2018-11-01", "volume":"409897", "adjClosePrice":"21650", "featured":false },
+    { "date":"2018-11-02", "volume":"428731", "adjClosePrice":"21550", "featured":false },
+    { "date":"2018-11-05", "volume":"290850", "adjClosePrice":"21300", "featured":false },
+    { "date":"2018-11-06", "volume":"251422", "adjClosePrice":"21350", "featured":false },
+    { "date":"2018-11-07", "volume":"418298", "adjClosePrice":"21800", "featured":true },
+    { "date":"2018-11-08", "volume":"581648", "adjClosePrice":"21800", "featured":false }
+  ]
+}
