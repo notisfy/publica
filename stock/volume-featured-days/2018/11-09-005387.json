@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "현대차2우B",
+  "dailyTrading" : [
+    { "date":"2018-10-26", "volume":"312115", "adjClosePrice":"67900", "featured":true },
+    { "date":"2018-10-29", "volume":"129291", "adjClosePrice":"67800", "featured":false },
+    { "date":"2018-10-30", "volume":"58733", "adjClosePrice":"69400", "featured":false },
+    { "date":"2018-10-31", "volume":"104743", "adjClosePrice":"70800", "featured":true },
+    { "date":"2018-11-01", "volume":"120676", "adjClosePrice":"70700", "featured":false },
+    { "date":"2018-11-02", "volume":"60069", "adjClosePrice":"70600", "featured":false },
+    { "date":"2018-11-05", "volume":"41454", "adjClosePrice":"68300", "featured":false },
+    { "date":"2018-11-06", "volume":"78334", "adjClosePrice":"69700", "featured":false },
+    { "date":"2018-11-07", "volume":"116882", "adjClosePrice":"69900", "featured":true },
+    { "date":"2018-11-08", "volume":"97304", "adjClosePrice":"69800", "featured":false },
+    { "date":"2018-11-09", "volume":"77215", "adjClosePrice":"70800", "featured":false }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"롯데쇼핑", "id":"023530", "volumeInc":"3.33", "price":"218000", "priceInc":"3.56" },
+    { "name":"CJ", "id":"001040", "volumeInc":"3.06", "price":"119000", "priceInc":"7.69" },
+    { "name":"NHN엔터테인먼트", "id":"181710", "volumeInc":"2.99", "price":"49350", "priceInc":"1.02" },
+    { "name":"GS", "id":"078930", "volumeInc":"2.31", "price":"50900", "priceInc":"2.62" },
+    { "name":"코오롱인더", "id":"120110", "volumeInc":"2.16", "price":"56300", "priceInc":"3.49" },
+    { "name":"강원랜드", "id":"035250", "volumeInc":"1.97", "price":"30100", "priceInc":"3.26" },
+    { "name":"현대글로비스", "id":"086280", "volumeInc":"1.90", "price":"120500", "priceInc":"3.88" },
+    { "name":"동양생명", "id":"082640", "volumeInc":"1.80", "price":"5980", "priceInc":"0.67" },
+    { "name":"두산중공업", "id":"034020", "volumeInc":"1.77", "price":"11450", "priceInc":"1.33" },
+    { "name":"CJ제일제당", "id":"097950", "volumeInc":"1.76", "price":"343000", "priceInc":"3.00" },
+    { "name":"LG디스플레이", "id":"034220", "volumeInc":"1.68", "price":"17950", "priceInc":"5.59" },
+    { "name":"제주항공", "id":"089590", "volumeInc":"1.55", "price":"35950", "priceInc":"1.84" },
+    { "name":"현대위아", "id":"011210", "volumeInc":"1.54", "price":"32200", "priceInc":"0.78" }
+  ]
+}
