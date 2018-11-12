@@ -1,0 +1,12 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"메리츠화재", "id":"000060", "volumeInc":"6.49", "price":"20550", "priceInc":"9.89" },
+    { "name":"한섬", "id":"020000", "volumeInc":"3.60", "price":"38450", "priceInc":"9.86" },
+    { "name":"휠라코리아", "id":"081660", "volumeInc":"2.99", "price":"52700", "priceInc":"11.42" },
+    { "name":"롯데하이마트", "id":"071840", "volumeInc":"2.66", "price":"55600", "priceInc":"1.09" },
+    { "name":"현대해상", "id":"001450", "volumeInc":"1.97", "price":"44550", "priceInc":"3.97" },
+    { "name":"한솔케미칼", "id":"014680", "volumeInc":"1.91", "price":"80700", "priceInc":"3.20" },
+    { "name":"동부화재", "id":"005830", "volumeInc":"1.64", "price":"74200", "priceInc":"5.70" }
+  ]
+}
