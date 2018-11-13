@@ -1,0 +1,9 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"고려아연", "id":"010130", "volumeInc":"2.75", "price":"426000", "priceInc":"4.03" },
+    { "name":"동양생명", "id":"082640", "volumeInc":"2.31", "price":"5970", "priceInc":"0.17" },
+    { "name":"한온시스템", "id":"018880", "volumeInc":"2.18", "price":"10800", "priceInc":"5.37" },
+    { "name":"NAVER", "id":"035420", "volumeInc":"1.54", "price":"116000", "priceInc":"0.87" }
+  ]
+}
