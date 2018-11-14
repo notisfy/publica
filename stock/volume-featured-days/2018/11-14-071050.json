@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "한국금융지주",
+  "dailyTrading" : [
+    { "date":"2018-10-31", "volume":"336977", "adjClosePrice":"59300", "featured":false },
+    { "date":"2018-11-01", "volume":"285379", "adjClosePrice":"61500", "featured":false },
+    { "date":"2018-11-02", "volume":"335090", "adjClosePrice":"66200", "featured":true },
+    { "date":"2018-11-05", "volume":"186454", "adjClosePrice":"64600", "featured":false },
+    { "date":"2018-11-06", "volume":"139556", "adjClosePrice":"65000", "featured":false },
+    { "date":"2018-11-07", "volume":"183310", "adjClosePrice":"64800", "featured":false },
+    { "date":"2018-11-08", "volume":"211061", "adjClosePrice":"66400", "featured":false },
+    { "date":"2018-11-09", "volume":"117645", "adjClosePrice":"64700", "featured":false },
+    { "date":"2018-11-12", "volume":"137697", "adjClosePrice":"65400", "featured":false },
+    { "date":"2018-11-13", "volume":"228942", "adjClosePrice":"66100", "featured":false },
+    { "date":"2018-11-14", "volume":"147249", "adjClosePrice":"65000", "featured":false }
+  ]
+}

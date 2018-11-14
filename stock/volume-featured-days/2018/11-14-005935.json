@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "삼성전자우",
+  "dailyTrading" : [
+    { "date":"2018-10-31", "volume":"2118889", "adjClosePrice":"35750", "featured":true },
+    { "date":"2018-11-01", "volume":"1397297", "adjClosePrice":"35200", "featured":false },
+    { "date":"2018-11-02", "volume":"912775", "adjClosePrice":"36400", "featured":false },
+    { "date":"2018-11-05", "volume":"822077", "adjClosePrice":"36200", "featured":false },
+    { "date":"2018-11-06", "volume":"611414", "adjClosePrice":"36000", "featured":false },
+    { "date":"2018-11-07", "volume":"1023964", "adjClosePrice":"36500", "featured":false },
+    { "date":"2018-11-08", "volume":"904160", "adjClosePrice":"36550", "featured":false },
+    { "date":"2018-11-09", "volume":"1109076", "adjClosePrice":"37150", "featured":false },
+    { "date":"2018-11-12", "volume":"851214", "adjClosePrice":"37500", "featured":false },
+    { "date":"2018-11-13", "volume":"685954", "adjClosePrice":"37350", "featured":false },
+    { "date":"2018-11-14", "volume":"640165", "adjClosePrice":"37050", "featured":false }
+  ]
+}

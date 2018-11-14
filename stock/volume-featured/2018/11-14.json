@@ -1,0 +1,14 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한진칼", "id":"180640", "volumeInc":"7.17", "price":"25500", "priceInc":"12.58" },
+    { "name":"대한항공", "id":"003490", "volumeInc":"5.67", "price":"32500", "priceInc":"9.43" },
+    { "name":"휠라코리아", "id":"081660", "volumeInc":"2.96", "price":"55300", "priceInc":"5.13" },
+    { "name":"제주항공", "id":"089590", "volumeInc":"2.89", "price":"37000", "priceInc":"5.11" },
+    { "name":"대우조선해양", "id":"042660", "volumeInc":"2.82", "price":"34350", "priceInc":"2.54" },
+    { "name":"한화테크윈", "id":"012450", "volumeInc":"2.70", "price":"34700", "priceInc":"5.79" },
+    { "name":"아시아나항공", "id":"020560", "volumeInc":"2.50", "price":"4105", "priceInc":"3.40" },
+    { "name":"한국전력", "id":"015760", "volumeInc":"2.14", "price":"28600", "priceInc":"4.57" },
+    { "name":"동원F&B", "id":"049770", "volumeInc":"1.79", "price":"300000", "priceInc":"5.63" }
+  ]
+}
