@@ -1,0 +1,18 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"호텔신라", "id":"008770", "volumeInc":"3.51", "price":"81800", "priceInc":"10.39" },
+    { "name":"아모레퍼시픽", "id":"090430", "volumeInc":"2.99", "price":"158000", "priceInc":"3.27" },
+    { "name":"한국콜마", "id":"161890", "volumeInc":"2.71", "price":"60000", "priceInc":"8.30" },
+    { "name":"잇츠스킨", "id":"226320", "volumeInc":"2.58", "price":"26200", "priceInc":"6.07" },
+    { "name":"동원산업", "id":"006040", "volumeInc":"2.48", "price":"195500", "priceInc":"0.77" },
+    { "name":"코스맥스", "id":"192820", "volumeInc":"2.35", "price":"131500", "priceInc":"13.85" },
+    { "name":"넥센타이어", "id":"002350", "volumeInc":"2.22", "price":"8560", "priceInc":"7.13" },
+    { "name":"신세계", "id":"004170", "volumeInc":"2.07", "price":"274500", "priceInc":"8.07" },
+    { "name":"아모레G", "id":"002790", "volumeInc":"1.86", "price":"60300", "priceInc":"3.61" },
+    { "name":"CJ제일제당", "id":"097950", "volumeInc":"1.85", "price":"358500", "priceInc":"4.98" },
+    { "name":"농심", "id":"004370", "volumeInc":"1.64", "price":"243000", "priceInc":"3.40" },
+    { "name":"GKL", "id":"114090", "volumeInc":"1.64", "price":"23300", "priceInc":"4.72" },
+    { "name":"아모레퍼시픽우", "id":"090435", "volumeInc":"1.59", "price":"86900", "priceInc":"1.88" }
+  ]
+}
