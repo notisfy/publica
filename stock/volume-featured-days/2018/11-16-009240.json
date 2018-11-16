@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "한샘",
+  "dailyTrading" : [
+    { "date":"2018-11-02", "volume":"264829", "adjClosePrice":"51600", "featured":false },
+    { "date":"2018-11-05", "volume":"211678", "adjClosePrice":"50300", "featured":false },
+    { "date":"2018-11-06", "volume":"450156", "adjClosePrice":"51800", "featured":true },
+    { "date":"2018-11-07", "volume":"272043", "adjClosePrice":"52700", "featured":false },
+    { "date":"2018-11-08", "volume":"255817", "adjClosePrice":"51800", "featured":false },
+    { "date":"2018-11-09", "volume":"119406", "adjClosePrice":"51700", "featured":false },
+    { "date":"2018-11-12", "volume":"168011", "adjClosePrice":"49750", "featured":false },
+    { "date":"2018-11-13", "volume":"216839", "adjClosePrice":"51400", "featured":false },
+    { "date":"2018-11-14", "volume":"235994", "adjClosePrice":"51200", "featured":false },
+    { "date":"2018-11-15", "volume":"178674", "adjClosePrice":"53500", "featured":false },
+    { "date":"2018-11-16", "volume":"210174", "adjClosePrice":"54200", "featured":false }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한진칼", "id":"180640", "volumeInc":"10.61", "price":"28400", "priceInc":"15.68" },
+    { "name":"잇츠스킨", "id":"226320", "volumeInc":"3.80", "price":"26600", "priceInc":"1.53" },
+    { "name":"하이트진로", "id":"000080", "volumeInc":"3.41", "price":"17000", "priceInc":"6.92" },
+    { "name":"대한항공", "id":"003490", "volumeInc":"3.13", "price":"33400", "priceInc":"3.25" },
+    { "name":"현대그린푸드", "id":"005440", "volumeInc":"2.69", "price":"12800", "priceInc":"5.35" },
+    { "name":"영원무역홀딩스", "id":"009970", "volumeInc":"2.39", "price":"62200", "priceInc":"5.60" },
+    { "name":"한전KPS", "id":"051600", "volumeInc":"2.23", "price":"28950", "priceInc":"3.95" },
+    { "name":"대림산업", "id":"000210", "volumeInc":"2.15", "price":"86200", "priceInc":"3.36" },
+    { "name":"현대미포조선", "id":"010620", "volumeInc":"2.08", "price":"106500", "priceInc":"8.45" },
+    { "name":"삼양사", "id":"145990", "volumeInc":"1.93", "price":"58800", "priceInc":"5.00" },
+    { "name":"아모레G", "id":"002790", "volumeInc":"1.86", "price":"60500", "priceInc":"0.33" },
+    { "name":"메리츠화재", "id":"000060", "volumeInc":"1.79", "price":"21300", "priceInc":"3.40" },
+    { "name":"아모레퍼시픽우", "id":"090435", "volumeInc":"1.76", "price":"90000", "priceInc":"3.57" },
+    { "name":"삼성중공업", "id":"010140", "volumeInc":"1.58", "price":"7600", "priceInc":"6.44" },
+    { "name":"쿠쿠전자", "id":"192400", "volumeInc":"1.54", "price":"142500", "priceInc":"8.78" },
+    { "name":"NAVER", "id":"035420", "volumeInc":"1.53", "price":"112500", "priceInc":"0.90" },
+    { "name":"오뚜기", "id":"007310", "volumeInc":"1.50", "price":"717000", "priceInc":"3.46" }
+  ]
+}

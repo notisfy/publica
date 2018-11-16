@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "제주항공",
+  "dailyTrading" : [
+    { "date":"2018-11-02", "volume":"190118", "adjClosePrice":"33500", "featured":true },
+    { "date":"2018-11-05", "volume":"65986", "adjClosePrice":"33150", "featured":false },
+    { "date":"2018-11-06", "volume":"172943", "adjClosePrice":"34850", "featured":true },
+    { "date":"2018-11-07", "volume":"202167", "adjClosePrice":"35800", "featured":true },
+    { "date":"2018-11-08", "volume":"129038", "adjClosePrice":"35300", "featured":false },
+    { "date":"2018-11-09", "volume":"146046", "adjClosePrice":"35950", "featured":true },
+    { "date":"2018-11-12", "volume":"63251", "adjClosePrice":"36100", "featured":false },
+    { "date":"2018-11-13", "volume":"53601", "adjClosePrice":"35200", "featured":false },
+    { "date":"2018-11-14", "volume":"273779", "adjClosePrice":"37000", "featured":true },
+    { "date":"2018-11-15", "volume":"112417", "adjClosePrice":"38200", "featured":false },
+    { "date":"2018-11-16", "volume":"124371", "adjClosePrice":"37350", "featured":false }
+  ]
+}
