@@ -1,0 +1,12 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"유한양행", "id":"000100", "volumeInc":"3.65", "price":"254500", "priceInc":"6.04" },
+    { "name":"락앤락", "id":"115390", "volumeInc":"2.10", "price":"18500", "priceInc":"6.63" },
+    { "name":"현대산업", "id":"012630", "volumeInc":"2.03", "price":"18200", "priceInc":"8.66" },
+    { "name":"휴켐스", "id":"069260", "volumeInc":"1.92", "price":"24350", "priceInc":"4.96" },
+    { "name":"동서", "id":"026960", "volumeInc":"1.85", "price":"17200", "priceInc":"2.38" },
+    { "name":"경동나비엔", "id":"009450", "volumeInc":"1.75", "price":"41650", "priceInc":"9.61" },
+    { "name":"롯데쇼핑", "id":"023530", "volumeInc":"1.73", "price":"227000", "priceInc":"4.13" }
+  ]
+}

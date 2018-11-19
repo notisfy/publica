@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "한전기술",
+  "dailyTrading" : [
+    { "date":"2018-11-05", "volume":"43697", "adjClosePrice":"19400", "featured":false },
+    { "date":"2018-11-06", "volume":"32785", "adjClosePrice":"19250", "featured":false },
+    { "date":"2018-11-07", "volume":"206213", "adjClosePrice":"19400", "featured":true },
+    { "date":"2018-11-08", "volume":"80374", "adjClosePrice":"19750", "featured":false },
+    { "date":"2018-11-09", "volume":"47771", "adjClosePrice":"19300", "featured":false },
+    { "date":"2018-11-12", "volume":"37257", "adjClosePrice":"19350", "featured":false },
+    { "date":"2018-11-13", "volume":"33352", "adjClosePrice":"19400", "featured":false },
+    { "date":"2018-11-14", "volume":"42591", "adjClosePrice":"19050", "featured":false },
+    { "date":"2018-11-15", "volume":"48840", "adjClosePrice":"19800", "featured":false },
+    { "date":"2018-11-16", "volume":"64513", "adjClosePrice":"20350", "featured":false },
+    { "date":"2018-11-19", "volume":"37710", "adjClosePrice":"20450", "featured":false }
+  ]
+}
