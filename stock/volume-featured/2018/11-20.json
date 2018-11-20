@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"제일약품", "id":"002620", "volumeInc":"11.34", "price":"29550", "priceInc":"19.39" },
+    { "name":"한세실업", "id":"105630", "volumeInc":"3.82", "price":"18250", "priceInc":"7.04" },
+    { "name":"아시아나항공", "id":"020560", "volumeInc":"2.37", "price":"4290", "priceInc":"2.75" },
+    { "name":"LIG넥스원", "id":"079550", "volumeInc":"2.36", "price":"39100", "priceInc":"6.11" },
+    { "name":"LG유플러스", "id":"032640", "volumeInc":"2.01", "price":"15950", "priceInc":"3.24" },
+    { "name":"동서", "id":"026960", "volumeInc":"1.98", "price":"18250", "priceInc":"6.10" },
+    { "name":"KT", "id":"030200", "volumeInc":"1.94", "price":"30350", "priceInc":"2.53" },
+    { "name":"경동나비엔", "id":"009450", "volumeInc":"1.86", "price":"42700", "priceInc":"2.52" },
+    { "name":"메리츠화재", "id":"000060", "volumeInc":"1.79", "price":"21700", "priceInc":"4.58" },
+    { "name":"두산중공업", "id":"034020", "volumeInc":"1.58", "price":"11000", "priceInc":"3.29" },
+    { "name":"롯데칠성", "id":"005300", "volumeInc":"1.50", "price":"1397000", "priceInc":"1.31" }
+  ]
+}
