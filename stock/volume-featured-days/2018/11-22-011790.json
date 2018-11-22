@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "SKC",
+  "dailyTrading" : [
+    { "date":"2018-11-08", "volume":"295712", "adjClosePrice":"34000", "featured":true },
+    { "date":"2018-11-09", "volume":"206747", "adjClosePrice":"35000", "featured":false },
+    { "date":"2018-11-12", "volume":"185099", "adjClosePrice":"35700", "featured":false },
+    { "date":"2018-11-13", "volume":"163692", "adjClosePrice":"35100", "featured":false },
+    { "date":"2018-11-14", "volume":"89019", "adjClosePrice":"35050", "featured":false },
+    { "date":"2018-11-15", "volume":"77390", "adjClosePrice":"34750", "featured":false },
+    { "date":"2018-11-16", "volume":"117276", "adjClosePrice":"35000", "featured":false },
+    { "date":"2018-11-19", "volume":"122868", "adjClosePrice":"35500", "featured":false },
+    { "date":"2018-11-20", "volume":"94642", "adjClosePrice":"35000", "featured":false },
+    { "date":"2018-11-21", "volume":"230322", "adjClosePrice":"35250", "featured":true },
+    { "date":"2018-11-22", "volume":"82129", "adjClosePrice":"34750", "featured":false }
+  ]
+}

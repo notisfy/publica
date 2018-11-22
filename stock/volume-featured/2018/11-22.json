@@ -1,0 +1,12 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"락앤락", "id":"115390", "volumeInc":"2.38", "price":"19700", "priceInc":"1.03" },
+    { "name":"아모레퍼시픽", "id":"090430", "volumeInc":"2.19", "price":"157500", "priceInc":"1.61" },
+    { "name":"한세실업", "id":"105630", "volumeInc":"2.08", "price":"19900", "priceInc":"5.01" },
+    { "name":"하이트진로", "id":"000080", "volumeInc":"1.96", "price":"17600", "priceInc":"1.73" },
+    { "name":"영원무역홀딩스", "id":"009970", "volumeInc":"1.90", "price":"64000", "priceInc":"1.59" },
+    { "name":"강원랜드", "id":"035250", "volumeInc":"1.86", "price":"30600", "priceInc":"1.83" },
+    { "name":"메리츠화재", "id":"000060", "volumeInc":"1.77", "price":"22600", "priceInc":"2.73" }
+  ]
+}
