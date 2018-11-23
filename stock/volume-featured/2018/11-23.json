@@ -1,0 +1,11 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"제일약품", "id":"002620", "volumeInc":"4.18", "price":"29400", "priceInc":"5.95" },
+    { "name":"NAVER", "id":"035420", "volumeInc":"2.03", "price":"114000", "priceInc":"4.11" },
+    { "name":"경동나비엔", "id":"009450", "volumeInc":"1.81", "price":"46750", "priceInc":"4.24" },
+    { "name":"신세계", "id":"004170", "volumeInc":"1.74", "price":"299000", "priceInc":"4.55" },
+    { "name":"현대로템", "id":"064350", "volumeInc":"1.73", "price":"26850", "priceInc":"3.27" },
+    { "name":"제주항공", "id":"089590", "volumeInc":"1.50", "price":"38150", "priceInc":"3.95" }
+  ]
+}

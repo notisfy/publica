@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "GS",
+  "dailyTrading" : [
+    { "date":"2018-11-09", "volume":"424431", "adjClosePrice":"50900", "featured":true },
+    { "date":"2018-11-12", "volume":"167905", "adjClosePrice":"50900", "featured":false },
+    { "date":"2018-11-13", "volume":"221993", "adjClosePrice":"51700", "featured":false },
+    { "date":"2018-11-14", "volume":"261654", "adjClosePrice":"49750", "featured":false },
+    { "date":"2018-11-15", "volume":"148099", "adjClosePrice":"50600", "featured":false },
+    { "date":"2018-11-16", "volume":"134371", "adjClosePrice":"51500", "featured":false },
+    { "date":"2018-11-19", "volume":"272043", "adjClosePrice":"51500", "featured":false },
+    { "date":"2018-11-20", "volume":"139266", "adjClosePrice":"52300", "featured":false },
+    { "date":"2018-11-21", "volume":"99186", "adjClosePrice":"51900", "featured":false },
+    { "date":"2018-11-22", "volume":"78855", "adjClosePrice":"51900", "featured":false },
+    { "date":"2018-11-23", "volume":"81251", "adjClosePrice":"51100", "featured":false }
+  ]
+}
