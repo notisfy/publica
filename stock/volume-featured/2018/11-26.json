@@ -1,0 +1,20 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한전기술", "id":"052690", "volumeInc":"3.30", "price":"22250", "priceInc":"6.71" },
+    { "name":"대상", "id":"001680", "volumeInc":"2.76", "price":"24500", "priceInc":"5.83" },
+    { "name":"한전KPS", "id":"051600", "volumeInc":"2.48", "price":"30700", "priceInc":"4.42" },
+    { "name":"GKL", "id":"114090", "volumeInc":"2.41", "price":"25350", "priceInc":"5.19" },
+    { "name":"두산중공업", "id":"034020", "volumeInc":"2.37", "price":"11450", "priceInc":"5.53" },
+    { "name":"NAVER", "id":"035420", "volumeInc":"2.28", "price":"124000", "priceInc":"8.77" },
+    { "name":"아시아나항공", "id":"020560", "volumeInc":"2.23", "price":"4445", "priceInc":"4.22" },
+    { "name":"영원무역홀딩스", "id":"009970", "volumeInc":"2.13", "price":"67700", "priceInc":"0.30" },
+    { "name":"오뚜기", "id":"007310", "volumeInc":"1.81", "price":"755000", "priceInc":"3.42" },
+    { "name":"한국단자", "id":"025540", "volumeInc":"1.74", "price":"42750", "priceInc":"4.52" },
+    { "name":"한국전력", "id":"015760", "volumeInc":"1.67", "price":"29300", "priceInc":"6.16" },
+    { "name":"제주항공", "id":"089590", "volumeInc":"1.67", "price":"39100", "priceInc":"2.49" },
+    { "name":"롯데칠성", "id":"005300", "volumeInc":"1.55", "price":"1450000", "priceInc":"1.61" },
+    { "name":"삼성카드", "id":"029780", "volumeInc":"1.53", "price":"32650", "priceInc":"0.15" },
+    { "name":"한국콜마", "id":"161890", "volumeInc":"1.50", "price":"67600", "priceInc":"6.12" }
+  ]
+}
