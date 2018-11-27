@@ -1,0 +1,19 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"휴켐스", "id":"069260", "volumeInc":"3.94", "price":"25550", "priceInc":"2.82" },
+    { "name":"현대차", "id":"005380", "volumeInc":"2.47", "price":"101000", "priceInc":"6.20" },
+    { "name":"아모레퍼시픽", "id":"090430", "volumeInc":"2.41", "price":"161500", "priceInc":"4.19" },
+    { "name":"잇츠스킨", "id":"226320", "volumeInc":"2.06", "price":"28050", "priceInc":"1.63" },
+    { "name":"롯데칠성", "id":"005300", "volumeInc":"1.93", "price":"1488000", "priceInc":"2.62" },
+    { "name":"현대차우", "id":"005385", "volumeInc":"1.92", "price":"61000", "priceInc":"3.04" },
+    { "name":"만도", "id":"204320", "volumeInc":"1.90", "price":"29250", "priceInc":"8.13" },
+    { "name":"현대모비스", "id":"012330", "volumeInc":"1.81", "price":"174500", "priceInc":"4.49" },
+    { "name":"아모레G", "id":"002790", "volumeInc":"1.78", "price":"63700", "priceInc":"2.25" },
+    { "name":"한국전력", "id":"015760", "volumeInc":"1.74", "price":"29850", "priceInc":"1.88" },
+    { "name":"KT&G", "id":"033780", "volumeInc":"1.66", "price":"105000", "priceInc":"2.44" },
+    { "name":"한진칼", "id":"180640", "volumeInc":"1.65", "price":"30350", "priceInc":"6.49" },
+    { "name":"이노션", "id":"214320", "volumeInc":"1.62", "price":"62900", "priceInc":"1.29" },
+    { "name":"현대위아", "id":"011210", "volumeInc":"1.61", "price":"32850", "priceInc":"6.48" }
+  ]
+}
