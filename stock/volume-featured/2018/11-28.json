@@ -1,0 +1,14 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"동원산업", "id":"006040", "volumeInc":"2.54", "price":"215000", "priceInc":"9.41" },
+    { "name":"대림산업", "id":"000210", "volumeInc":"2.41", "price":"94500", "priceInc":"4.54" },
+    { "name":"잇츠스킨", "id":"226320", "volumeInc":"2.07", "price":"28700", "priceInc":"2.32" },
+    { "name":"강원랜드", "id":"035250", "volumeInc":"1.87", "price":"30350", "priceInc":"0.50" },
+    { "name":"NAVER", "id":"035420", "volumeInc":"1.73", "price":"129000", "priceInc":"3.20" },
+    { "name":"삼성엔지니어링", "id":"028050", "volumeInc":"1.70", "price":"18950", "priceInc":"6.16" },
+    { "name":"LG유플러스", "id":"032640", "volumeInc":"1.64", "price":"17600", "priceInc":"6.02" },
+    { "name":"두산중공업", "id":"034020", "volumeInc":"1.55", "price":"11950", "priceInc":"1.27" },
+    { "name":"엔씨소프트", "id":"036570", "volumeInc":"1.52", "price":"505000", "priceInc":"4.12" }
+  ]
+}
