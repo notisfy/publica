@@ -1,0 +1,22 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"강원랜드", "id":"035250", "volumeInc":"3.34", "price":"32350", "priceInc":"6.59" },
+    { "name":"삼성증권", "id":"016360", "volumeInc":"2.91", "price":"30750", "priceInc":"3.89" },
+    { "name":"키움증권", "id":"039490", "volumeInc":"2.84", "price":"84500", "priceInc":"4.97" },
+    { "name":"효성", "id":"004800", "volumeInc":"2.57", "price":"52500", "priceInc":"6.92" },
+    { "name":"삼성에스디에스", "id":"018260", "volumeInc":"2.43", "price":"199000", "priceInc":"7.28" },
+    { "name":"삼성전자우", "id":"005935", "volumeInc":"2.13", "price":"34600", "priceInc":"0.58" },
+    { "name":"세아베스틸", "id":"001430", "volumeInc":"2.07", "price":"16350", "priceInc":"2.51" },
+    { "name":"미래에셋대우", "id":"006800", "volumeInc":"1.84", "price":"7100", "priceInc":"2.45" },
+    { "name":"한진칼", "id":"180640", "volumeInc":"1.78", "price":"32450", "priceInc":"7.10" },
+    { "name":"한화케미칼", "id":"009830", "volumeInc":"1.76", "price":"19000", "priceInc":"2.43" },
+    { "name":"DGB금융지주", "id":"139130", "volumeInc":"1.73", "price":"8900", "priceInc":"1.95" },
+    { "name":"동원시스템즈", "id":"014820", "volumeInc":"1.67", "price":"29750", "priceInc":"0.17" },
+    { "name":"엔씨소프트", "id":"036570", "volumeInc":"1.64", "price":"508000", "priceInc":"0.59" },
+    { "name":"NH투자증권", "id":"005940", "volumeInc":"1.63", "price":"13800", "priceInc":"0.73" },
+    { "name":"풍산", "id":"103140", "volumeInc":"1.57", "price":"28300", "priceInc":"5.40" },
+    { "name":"대한항공", "id":"003490", "volumeInc":"1.55", "price":"33400", "priceInc":"3.09" },
+    { "name":"POSCO", "id":"005490", "volumeInc":"1.53", "price":"244000", "priceInc":"1.46" }
+  ]
+}
