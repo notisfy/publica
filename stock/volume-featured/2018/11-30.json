@@ -1,0 +1,25 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"현대차", "id":"005380", "volumeInc":"4.27", "price":"107000", "priceInc":"7.00" },
+    { "name":"제일약품", "id":"002620", "volumeInc":"3.41", "price":"31200", "priceInc":"7.96" },
+    { "name":"현대차우", "id":"005385", "volumeInc":"3.01", "price":"65800", "priceInc":"4.94" },
+    { "name":"현대차2우B", "id":"005387", "volumeInc":"2.74", "price":"69800", "priceInc":"4.49" },
+    { "name":"쌍용양회", "id":"003410", "volumeInc":"2.54", "price":"5870", "priceInc":"0.17" },
+    { "name":"세아베스틸", "id":"001430", "volumeInc":"2.28", "price":"16700", "priceInc":"2.14" },
+    { "name":"삼성카드", "id":"029780", "volumeInc":"2.28", "price":"32300", "priceInc":"0.62" },
+    { "name":"동양생명", "id":"082640", "volumeInc":"2.06", "price":"5520", "priceInc":"0.91" },
+    { "name":"현대모비스", "id":"012330", "volumeInc":"1.93", "price":"180500", "priceInc":"4.03" },
+    { "name":"휴켐스", "id":"069260", "volumeInc":"1.92", "price":"26200", "priceInc":"4.59" },
+    { "name":"GS건설", "id":"006360", "volumeInc":"1.85", "price":"43600", "priceInc":"1.51" },
+    { "name":"S-Oil", "id":"010950", "volumeInc":"1.81", "price":"110500", "priceInc":"4.25" },
+    { "name":"아모레G", "id":"002790", "volumeInc":"1.73", "price":"64900", "priceInc":"2.37" },
+    { "name":"종근당", "id":"185750", "volumeInc":"1.69", "price":"102500", "priceInc":"1.49" },
+    { "name":"오뚜기", "id":"007310", "volumeInc":"1.62", "price":"741000", "priceInc":"1.79" },
+    { "name":"아모레퍼시픽", "id":"090430", "volumeInc":"1.57", "price":"172500", "priceInc":"3.60" },
+    { "name":"삼성엔지니어링", "id":"028050", "volumeInc":"1.57", "price":"19450", "priceInc":"2.91" },
+    { "name":"SK케미칼", "id":"006120", "volumeInc":"1.56", "price":"29800", "priceInc":"2.05" },
+    { "name":"금호석유", "id":"011780", "volumeInc":"1.55", "price":"92200", "priceInc":"3.95" },
+    { "name":"현대홈쇼핑", "id":"057050", "volumeInc":"1.55", "price":"99800", "priceInc":"1.11" }
+  ]
+}
