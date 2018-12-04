@@ -1,0 +1,9 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"동양생명", "id":"082640", "volumeInc":"2.11", "price":"5890", "priceInc":"2.97" },
+    { "name":"지역난방공사", "id":"071320", "volumeInc":"1.69", "price":"61100", "priceInc":"1.66" },
+    { "name":"한미약품", "id":"128940", "volumeInc":"1.56", "price":"472000", "priceInc":"4.19" },
+    { "name":"호텔신라", "id":"008770", "volumeInc":"1.53", "price":"86300", "priceInc":"0.23" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "한세실업",
+  "dailyTrading" : [
+    { "date":"2018-11-20", "volume":"883589", "adjClosePrice":"18250", "featured":true },
+    { "date":"2018-11-21", "volume":"409707", "adjClosePrice":"18950", "featured":false },
+    { "date":"2018-11-22", "volume":"487994", "adjClosePrice":"19900", "featured":true },
+    { "date":"2018-11-23", "volume":"204534", "adjClosePrice":"19800", "featured":false },
+    { "date":"2018-11-26", "volume":"106897", "adjClosePrice":"19900", "featured":false },
+    { "date":"2018-11-27", "volume":"132934", "adjClosePrice":"19800", "featured":false },
+    { "date":"2018-11-28", "volume":"115485", "adjClosePrice":"19750", "featured":false },
+    { "date":"2018-11-29", "volume":"112902", "adjClosePrice":"19600", "featured":false },
+    { "date":"2018-11-30", "volume":"347446", "adjClosePrice":"18600", "featured":false },
+    { "date":"2018-12-03", "volume":"176464", "adjClosePrice":"18550", "featured":false },
+    { "date":"2018-12-04", "volume":"95417", "adjClosePrice":"18450", "featured":false }
+  ]
+}
