@@ -1,0 +1,9 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"대상", "id":"001680", "volumeInc":"2.10", "price":"25100", "priceInc":"4.15" },
+    { "name":"삼성카드", "id":"029780", "volumeInc":"1.74", "price":"32250", "priceInc":"0.16" },
+    { "name":"종근당", "id":"185750", "volumeInc":"1.63", "price":"110500", "priceInc":"4.25" },
+    { "name":"동아에스티", "id":"170900", "volumeInc":"1.60", "price":"106000", "priceInc":"3.41" }
+  ]
+}

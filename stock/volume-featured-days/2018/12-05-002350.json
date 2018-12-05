@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "넥센타이어",
+  "dailyTrading" : [
+    { "date":"2018-11-21", "volume":"169152", "adjClosePrice":"9100", "featured":true },
+    { "date":"2018-11-22", "volume":"59682", "adjClosePrice":"8870", "featured":false },
+    { "date":"2018-11-23", "volume":"79975", "adjClosePrice":"8610", "featured":false },
+    { "date":"2018-11-26", "volume":"46723", "adjClosePrice":"8690", "featured":false },
+    { "date":"2018-11-27", "volume":"58872", "adjClosePrice":"8770", "featured":false },
+    { "date":"2018-11-28", "volume":"63627", "adjClosePrice":"8790", "featured":false },
+    { "date":"2018-11-29", "volume":"58572", "adjClosePrice":"8860", "featured":false },
+    { "date":"2018-11-30", "volume":"122846", "adjClosePrice":"8810", "featured":false },
+    { "date":"2018-12-03", "volume":"229808", "adjClosePrice":"9390", "featured":true },
+    { "date":"2018-12-04", "volume":"125246", "adjClosePrice":"9020", "featured":false },
+    { "date":"2018-12-05", "volume":"86974", "adjClosePrice":"8940", "featured":false }
+  ]
+}
