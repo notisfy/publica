@@ -1,0 +1,9 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한화케미칼", "id":"009830", "volumeInc":"2.92", "price":"19600", "priceInc":"4.81" },
+    { "name":"GKL", "id":"114090", "volumeInc":"2.38", "price":"25200", "priceInc":"0.40" },
+    { "name":"OCI", "id":"010060", "volumeInc":"1.74", "price":"106000", "priceInc":"1.44" },
+    { "name":"현대차우", "id":"005385", "volumeInc":"1.62", "price":"66900", "priceInc":"1.52" }
+  ]
+}
