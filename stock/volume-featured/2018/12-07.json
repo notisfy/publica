@@ -1,0 +1,8 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"부광약품", "id":"003000", "volumeInc":"2.36", "price":"27450", "priceInc":"3.78" },
+    { "name":"동원F&B", "id":"049770", "volumeInc":"1.81", "price":"270500", "priceInc":"0.37" },
+    { "name":"아모레퍼시픽우", "id":"090435", "volumeInc":"1.51", "price":"89900", "priceInc":"5.27" }
+  ]
+}
