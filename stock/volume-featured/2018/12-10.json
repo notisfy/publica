@@ -1,0 +1,8 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"GKL", "id":"114090", "volumeInc":"2.39", "price":"26550", "priceInc":"0.95" },
+    { "name":"한국전력", "id":"015760", "volumeInc":"1.85", "price":"32100", "priceInc":"2.72" },
+    { "name":"CJ제일제당", "id":"097950", "volumeInc":"1.74", "price":"349000", "priceInc":"2.50" }
+  ]
+}
