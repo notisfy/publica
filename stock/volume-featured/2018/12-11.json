@@ -1,0 +1,7 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"동원시스템즈", "id":"014820", "volumeInc":"6.27", "price":"30300", "priceInc":"5.76" },
+    { "name":"CJ CGV", "id":"079160", "volumeInc":"1.77", "price":"43050", "priceInc":"6.30" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "삼성엔지니어링",
+  "dailyTrading" : [
+    { "date":"2018-11-27", "volume":"597480", "adjClosePrice":"17850", "featured":false },
+    { "date":"2018-11-28", "volume":"2438895", "adjClosePrice":"18950", "featured":true },
+    { "date":"2018-11-29", "volume":"1365336", "adjClosePrice":"18900", "featured":false },
+    { "date":"2018-11-30", "volume":"2284319", "adjClosePrice":"19450", "featured":true },
+    { "date":"2018-12-03", "volume":"1355828", "adjClosePrice":"19450", "featured":false },
+    { "date":"2018-12-04", "volume":"872653", "adjClosePrice":"19250", "featured":false },
+    { "date":"2018-12-05", "volume":"949038", "adjClosePrice":"18950", "featured":false },
+    { "date":"2018-12-06", "volume":"1096320", "adjClosePrice":"18950", "featured":false },
+    { "date":"2018-12-07", "volume":"963033", "adjClosePrice":"19350", "featured":false },
+    { "date":"2018-12-10", "volume":"899588", "adjClosePrice":"19250", "featured":false },
+    { "date":"2018-12-11", "volume":"1051931", "adjClosePrice":"18900", "featured":false }
+  ]
+}
