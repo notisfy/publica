@@ -1,0 +1,22 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"현대위아", "id":"011210", "volumeInc":"2.85", "price":"35250", "priceInc":"7.96" },
+    { "name":"현대글로비스", "id":"086280", "volumeInc":"2.54", "price":"131000", "priceInc":"9.62" },
+    { "name":"영원무역홀딩스", "id":"009970", "volumeInc":"2.41", "price":"62600", "priceInc":"10.41" },
+    { "name":"현대차우", "id":"005385", "volumeInc":"2.30", "price":"67300", "priceInc":"3.38" },
+    { "name":"현대차", "id":"005380", "volumeInc":"2.24", "price":"118500", "priceInc":"6.28" },
+    { "name":"쿠쿠전자", "id":"192400", "volumeInc":"2.01", "price":"125000", "priceInc":"7.76" },
+    { "name":"현대모비스", "id":"012330", "volumeInc":"1.93", "price":"193500", "priceInc":"9.01" },
+    { "name":"아모레퍼시픽", "id":"090430", "volumeInc":"1.88", "price":"188500", "priceInc":"8.02" },
+    { "name":"금호타이어", "id":"073240", "volumeInc":"1.88", "price":"5350", "priceInc":"5.11" },
+    { "name":"현대차2우B", "id":"005387", "volumeInc":"1.85", "price":"74100", "priceInc":"5.11" },
+    { "name":"아모레G", "id":"002790", "volumeInc":"1.65", "price":"67900", "priceInc":"5.43" },
+    { "name":"현대미포조선", "id":"010620", "volumeInc":"1.64", "price":"61200", "priceInc":"4.08" },
+    { "name":"현대홈쇼핑", "id":"057050", "volumeInc":"1.62", "price":"100500", "priceInc":"0.50" },
+    { "name":"효성", "id":"004800", "volumeInc":"1.61", "price":"53300", "priceInc":"4.72" },
+    { "name":"DGB금융지주", "id":"139130", "volumeInc":"1.60", "price":"8510", "priceInc":"0.35" },
+    { "name":"기아차", "id":"000270", "volumeInc":"1.58", "price":"32350", "priceInc":"3.03" },
+    { "name":"CJ대한통운", "id":"000120", "volumeInc":"1.55", "price":"162500", "priceInc":"1.88" }
+  ]
+}
