@@ -1,0 +1,25 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"삼성중공업", "id":"010140", "volumeInc":"3.60", "price":"8110", "priceInc":"7.70" },
+    { "name":"롯데하이마트", "id":"071840", "volumeInc":"3.44", "price":"48550", "priceInc":"0.21" },
+    { "name":"영원무역홀딩스", "id":"009970", "volumeInc":"3.23", "price":"68800", "priceInc":"9.90" },
+    { "name":"현대미포조선", "id":"010620", "volumeInc":"2.67", "price":"64700", "priceInc":"5.72" },
+    { "name":"현대모비스", "id":"012330", "volumeInc":"2.52", "price":"201000", "priceInc":"3.88" },
+    { "name":"LG", "id":"003550", "volumeInc":"2.52", "price":"73700", "priceInc":"3.37" },
+    { "name":"BNK금융지주", "id":"138930", "volumeInc":"2.43", "price":"7460", "priceInc":"1.08" },
+    { "name":"삼성화재", "id":"000810", "volumeInc":"2.34", "price":"273500", "priceInc":"0.74" },
+    { "name":"삼성카드", "id":"029780", "volumeInc":"2.25", "price":"33750", "priceInc":"1.35" },
+    { "name":"삼성물산", "id":"028260", "volumeInc":"2.20", "price":"110000", "priceInc":"1.85" },
+    { "name":"넥센타이어", "id":"002350", "volumeInc":"2.19", "price":"9030", "priceInc":"3.20" },
+    { "name":"DGB금융지주", "id":"139130", "volumeInc":"2.15", "price":"8650", "priceInc":"1.65" },
+    { "name":"부광약품", "id":"003000", "volumeInc":"2.04", "price":"27750", "priceInc":"3.16" },
+    { "name":"대림산업", "id":"000210", "volumeInc":"2.04", "price":"104000", "priceInc":"4.52" },
+    { "name":"우리은행", "id":"000030", "volumeInc":"2.00", "price":"15600", "priceInc":"0.32" },
+    { "name":"LG디스플레이", "id":"034220", "volumeInc":"1.99", "price":"18250", "priceInc":"5.19" },
+    { "name":"금호타이어", "id":"073240", "volumeInc":"1.97", "price":"5490", "priceInc":"2.62" },
+    { "name":"녹십자홀딩스", "id":"005250", "volumeInc":"1.96", "price":"23450", "priceInc":"1.30" },
+    { "name":"강원랜드", "id":"035250", "volumeInc":"1.95", "price":"34250", "priceInc":"3.95" },
+    { "name":"KB금융", "id":"105560", "volumeInc":"1.95", "price":"47300", "priceInc":"1.07" }
+  ]
+}
