@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "휴켐스",
+  "dailyTrading" : [
+    { "date":"2018-11-30", "volume":"165675", "adjClosePrice":"26200", "featured":true },
+    { "date":"2018-12-03", "volume":"170784", "adjClosePrice":"25350", "featured":false },
+    { "date":"2018-12-04", "volume":"107242", "adjClosePrice":"24850", "featured":false },
+    { "date":"2018-12-05", "volume":"115714", "adjClosePrice":"25150", "featured":false },
+    { "date":"2018-12-06", "volume":"78825", "adjClosePrice":"25200", "featured":false },
+    { "date":"2018-12-07", "volume":"91589", "adjClosePrice":"25250", "featured":false },
+    { "date":"2018-12-10", "volume":"167672", "adjClosePrice":"25100", "featured":false },
+    { "date":"2018-12-11", "volume":"63710", "adjClosePrice":"25100", "featured":false },
+    { "date":"2018-12-12", "volume":"105323", "adjClosePrice":"25350", "featured":false },
+    { "date":"2018-12-13", "volume":"215132", "adjClosePrice":"25300", "featured":false },
+    { "date":"2018-12-14", "volume":"157704", "adjClosePrice":"25700", "featured":false }
+  ]
+}

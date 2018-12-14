@@ -1,0 +1,10 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"동양", "id":"001520", "volumeInc":"2.85", "price":"2030", "priceInc":"5.73" },
+    { "name":"세아베스틸", "id":"001430", "volumeInc":"2.38", "price":"17400", "priceInc":"8.07" },
+    { "name":"한국토지신탁", "id":"034830", "volumeInc":"2.19", "price":"2645", "priceInc":"4.55" },
+    { "name":"대우건설", "id":"047040", "volumeInc":"2.08", "price":"5430", "priceInc":"5.23" },
+    { "name":"한화케미칼", "id":"009830", "volumeInc":"1.51", "price":"20500", "priceInc":"1.49" }
+  ]
+}
