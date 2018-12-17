@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "롯데케미칼",
+  "dailyTrading" : [
+    { "date":"2018-12-03", "volume":"367074", "adjClosePrice":"288500", "featured":true },
+    { "date":"2018-12-04", "volume":"117992", "adjClosePrice":"285500", "featured":false },
+    { "date":"2018-12-05", "volume":"125596", "adjClosePrice":"279500", "featured":false },
+    { "date":"2018-12-06", "volume":"129096", "adjClosePrice":"279500", "featured":false },
+    { "date":"2018-12-07", "volume":"63139", "adjClosePrice":"278500", "featured":false },
+    { "date":"2018-12-10", "volume":"188446", "adjClosePrice":"266000", "featured":false },
+    { "date":"2018-12-11", "volume":"86326", "adjClosePrice":"265500", "featured":false },
+    { "date":"2018-12-12", "volume":"108051", "adjClosePrice":"267000", "featured":false },
+    { "date":"2018-12-13", "volume":"156022", "adjClosePrice":"273500", "featured":false },
+    { "date":"2018-12-14", "volume":"76888", "adjClosePrice":"272000", "featured":false },
+    { "date":"2018-12-17", "volume":"56581", "adjClosePrice":"274500", "featured":false }
+  ]
+}

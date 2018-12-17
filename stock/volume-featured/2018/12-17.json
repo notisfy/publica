@@ -1,0 +1,12 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한국토지신탁", "id":"034830", "volumeInc":"3.34", "price":"2725", "priceInc":"3.02" },
+    { "name":"세아베스틸", "id":"001430", "volumeInc":"3.02", "price":"18000", "priceInc":"3.45" },
+    { "name":"현대그린푸드", "id":"005440", "volumeInc":"2.74", "price":"14250", "priceInc":"1.06" },
+    { "name":"현대홈쇼핑", "id":"057050", "volumeInc":"1.77", "price":"102000", "priceInc":"2.00" },
+    { "name":"한섬", "id":"020000", "volumeInc":"1.73", "price":"36950", "priceInc":"0.54" },
+    { "name":"동서", "id":"026960", "volumeInc":"1.58", "price":"18700", "priceInc":"3.60" },
+    { "name":"한진칼", "id":"180640", "volumeInc":"1.55", "price":"31400", "priceInc":"2.78" }
+  ]
+}
