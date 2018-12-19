@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "현대홈쇼핑",
+  "dailyTrading" : [
+    { "date":"2018-12-05", "volume":"35388", "adjClosePrice":"99300", "featured":false },
+    { "date":"2018-12-06", "volume":"29167", "adjClosePrice":"99400", "featured":false },
+    { "date":"2018-12-07", "volume":"24013", "adjClosePrice":"99000", "featured":false },
+    { "date":"2018-12-10", "volume":"19102", "adjClosePrice":"98200", "featured":false },
+    { "date":"2018-12-11", "volume":"33088", "adjClosePrice":"100000", "featured":false },
+    { "date":"2018-12-12", "volume":"42417", "adjClosePrice":"100500", "featured":true },
+    { "date":"2018-12-13", "volume":"51352", "adjClosePrice":"99400", "featured":false },
+    { "date":"2018-12-14", "volume":"27119", "adjClosePrice":"100000", "featured":false },
+    { "date":"2018-12-17", "volume":"48758", "adjClosePrice":"102000", "featured":true },
+    { "date":"2018-12-18", "volume":"23479", "adjClosePrice":"102500", "featured":false },
+    { "date":"2018-12-19", "volume":"39026", "adjClosePrice":"103500", "featured":false }
+  ]
+}
