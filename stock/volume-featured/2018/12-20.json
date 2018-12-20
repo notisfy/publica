@@ -1,0 +1,14 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한진칼", "id":"180640", "volumeInc":"2.38", "price":"32400", "priceInc":"6.40" },
+    { "name":"SK가스", "id":"018670", "volumeInc":"2.10", "price":"72700", "priceInc":"1.96" },
+    { "name":"현대홈쇼핑", "id":"057050", "volumeInc":"1.83", "price":"105500", "priceInc":"1.93" },
+    { "name":"LG하우시스", "id":"108670", "volumeInc":"1.83", "price":"57400", "priceInc":"2.87" },
+    { "name":"삼성카드", "id":"029780", "volumeInc":"1.81", "price":"35500", "priceInc":"0.42" },
+    { "name":"동원F&B", "id":"049770", "volumeInc":"1.66", "price":"279000", "priceInc":"5.28" },
+    { "name":"부광약품", "id":"003000", "volumeInc":"1.64", "price":"28800", "priceInc":"1.77" },
+    { "name":"KCC", "id":"002380", "volumeInc":"1.60", "price":"312500", "priceInc":"3.48" },
+    { "name":"한화", "id":"000880", "volumeInc":"1.60", "price":"32850", "priceInc":"1.55" }
+  ]
+}
