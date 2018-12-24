@@ -1,0 +1,10 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"부광약품", "id":"003000", "volumeInc":"2.10", "price":"29450", "priceInc":"2.26" },
+    { "name":"맥쿼리인프라", "id":"088980", "volumeInc":"1.95", "price":"9470", "priceInc":"0.85" },
+    { "name":"CJ", "id":"001040", "volumeInc":"1.85", "price":"134000", "priceInc":"3.47" },
+    { "name":"동양생명", "id":"082640", "volumeInc":"1.77", "price":"4945", "priceInc":"2.06" },
+    { "name":"롯데하이마트", "id":"071840", "volumeInc":"1.67", "price":"48550", "priceInc":"0.31" }
+  ]
+}

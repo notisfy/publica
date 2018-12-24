@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "삼성카드",
+  "dailyTrading" : [
+    { "date":"2018-12-10", "volume":"112033", "adjClosePrice":"33150", "featured":false },
+    { "date":"2018-12-11", "volume":"99149", "adjClosePrice":"33200", "featured":false },
+    { "date":"2018-12-12", "volume":"82429", "adjClosePrice":"33300", "featured":false },
+    { "date":"2018-12-13", "volume":"222073", "adjClosePrice":"33750", "featured":true },
+    { "date":"2018-12-14", "volume":"149608", "adjClosePrice":"34300", "featured":false },
+    { "date":"2018-12-17", "volume":"171066", "adjClosePrice":"33550", "featured":false },
+    { "date":"2018-12-18", "volume":"218177", "adjClosePrice":"34750", "featured":true },
+    { "date":"2018-12-19", "volume":"145174", "adjClosePrice":"35350", "featured":false },
+    { "date":"2018-12-20", "volume":"197733", "adjClosePrice":"35500", "featured":true },
+    { "date":"2018-12-24", "volume":"187852", "adjClosePrice":"36900", "featured":false }
+  ]
+}
