@@ -1,0 +1,7 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"메리츠금융지주", "id":"138040", "volumeInc":"2.38", "price":"12150", "priceInc":"2.10" },
+    { "name":"휴켐스", "id":"069260", "volumeInc":"2.26", "price":"26600", "priceInc":"1.14" }
+  ]
+}
