@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "한국타이어",
+  "dailyTrading" : [
+    { "date":"2018-12-13", "volume":"435477", "adjClosePrice":"42200", "featured":true },
+    { "date":"2018-12-14", "volume":"289172", "adjClosePrice":"41550", "featured":false },
+    { "date":"2018-12-17", "volume":"179096", "adjClosePrice":"42650", "featured":false },
+    { "date":"2018-12-18", "volume":"186258", "adjClosePrice":"42450", "featured":false },
+    { "date":"2018-12-19", "volume":"237361", "adjClosePrice":"43450", "featured":false },
+    { "date":"2018-12-20", "volume":"224455", "adjClosePrice":"42600", "featured":false },
+    { "date":"2018-12-24", "volume":"174722", "adjClosePrice":"40850", "featured":false },
+    { "date":"2018-12-26", "volume":"230494", "adjClosePrice":"39600", "featured":false },
+    { "date":"2018-12-27", "volume":"276336", "adjClosePrice":"39900", "featured":false }
+  ]
+}
