@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "대교",
+  "dailyTrading" : [
+    { "date":"2018-12-14", "volume":"198003", "adjClosePrice":"6560", "featured":false },
+    { "date":"2018-12-17", "volume":"68948", "adjClosePrice":"6580", "featured":false },
+    { "date":"2018-12-18", "volume":"165142", "adjClosePrice":"6620", "featured":true },
+    { "date":"2018-12-19", "volume":"34956", "adjClosePrice":"6670", "featured":false },
+    { "date":"2018-12-20", "volume":"49616", "adjClosePrice":"6690", "featured":false },
+    { "date":"2018-12-24", "volume":"36544", "adjClosePrice":"6640", "featured":false },
+    { "date":"2018-12-26", "volume":"73574", "adjClosePrice":"6620", "featured":false },
+    { "date":"2018-12-27", "volume":"60186", "adjClosePrice":"6580", "featured":false },
+    { "date":"2018-12-28", "volume":"42207", "adjClosePrice":"6700", "featured":false }
+  ]
+}

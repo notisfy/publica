@@ -1,0 +1,9 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"LIG넥스원", "id":"079550", "volumeInc":"2.56", "price":"36950", "priceInc":"9.64" },
+    { "name":"동원F&B", "id":"049770", "volumeInc":"1.76", "price":"287500", "priceInc":"1.95" },
+    { "name":"코오롱인더", "id":"120110", "volumeInc":"1.71", "price":"57300", "priceInc":"5.52" },
+    { "name":"하나투어", "id":"039130", "volumeInc":"1.56", "price":"68800", "priceInc":"4.88" }
+  ]
+}
