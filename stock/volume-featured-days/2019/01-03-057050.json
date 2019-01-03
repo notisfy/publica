@@ -1,0 +1,13 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "현대홈쇼핑",
+  "dailyTrading" : [
+    { "date":"2018-12-20", "volume":"52616", "adjClosePrice":"105500", "featured":true },
+    { "date":"2018-12-24", "volume":"22632", "adjClosePrice":"103500", "featured":false },
+    { "date":"2018-12-26", "volume":"24086", "adjClosePrice":"101000", "featured":false },
+    { "date":"2018-12-27", "volume":"17146", "adjClosePrice":"98900", "featured":false },
+    { "date":"2018-12-28", "volume":"10588", "adjClosePrice":"99000", "featured":false },
+    { "date":"2019-01-02", "volume":"25148", "adjClosePrice":"99900", "featured":false },
+    { "date":"2019-01-03", "volume":"26169", "adjClosePrice":"98900", "featured":false }
+  ]
+}
