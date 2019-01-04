@@ -1,0 +1,19 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"제일약품", "id":"002620", "volumeInc":"3.50", "price":"26900", "priceInc":"9.35" },
+    { "name":"농심", "id":"004370", "volumeInc":"3.17", "price":"276500", "priceInc":"3.17" },
+    { "name":"현대차우", "id":"005385", "volumeInc":"2.82", "price":"70400", "priceInc":"0.86" },
+    { "name":"현대글로비스", "id":"086280", "volumeInc":"2.21", "price":"138000", "priceInc":"3.76" },
+    { "name":"GKL", "id":"114090", "volumeInc":"2.21", "price":"25250", "priceInc":"4.34" },
+    { "name":"오뚜기", "id":"007310", "volumeInc":"2.14", "price":"768000", "priceInc":"5.79" },
+    { "name":"쌍용차", "id":"003620", "volumeInc":"1.99", "price":"4285", "priceInc":"2.88" },
+    { "name":"현대차", "id":"005380", "volumeInc":"1.86", "price":"119500", "priceInc":"2.58" },
+    { "name":"고려아연", "id":"010130", "volumeInc":"1.82", "price":"453500", "priceInc":"2.72" },
+    { "name":"롯데푸드", "id":"002270", "volumeInc":"1.80", "price":"705000", "priceInc":"5.22" },
+    { "name":"이마트", "id":"139480", "volumeInc":"1.66", "price":"194000", "priceInc":"4.02" },
+    { "name":"기아차", "id":"000270", "volumeInc":"1.57", "price":"34850", "priceInc":"6.09" },
+    { "name":"대상", "id":"001680", "volumeInc":"1.56", "price":"26500", "priceInc":"7.29" },
+    { "name":"강원랜드", "id":"035250", "volumeInc":"1.54", "price":"32850", "priceInc":"3.63" }
+  ]
+}
