@@ -1,0 +1,12 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"우리은행", "id":"000030", "volumeInc":"4.54", "price":"14800", "priceInc":"1.72" },
+    { "name":"한섬", "id":"020000", "volumeInc":"3.30", "price":"38550", "priceInc":"7.53" },
+    { "name":"한세실업", "id":"105630", "volumeInc":"1.92", "price":"21750", "priceInc":"5.33" },
+    { "name":"대웅제약", "id":"069620", "volumeInc":"1.79", "price":"191500", "priceInc":"4.36" },
+    { "name":"농심", "id":"004370", "volumeInc":"1.58", "price":"276000", "priceInc":"2.03" },
+    { "name":"LIG넥스원", "id":"079550", "volumeInc":"1.55", "price":"41350", "priceInc":"4.42" },
+    { "name":"LG디스플레이", "id":"034220", "volumeInc":"1.52", "price":"18900", "priceInc":"2.72" }
+  ]
+}

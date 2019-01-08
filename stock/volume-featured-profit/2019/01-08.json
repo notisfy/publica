@@ -1,0 +1,33 @@
+{
+  "version" : "volume-featured-profit-v1",
+  "stocks" : [
+    { "name":"LIG넥스원", "id":"079550", "profit":"14.42", "featuredDate":"2018-12-28", "featuredVolumeInc":"2.57" },
+    { "name":"SK네트웍스", "id":"001740", "profit":"13.50", "featuredDate":"2018-12-27", "featuredVolumeInc":"1.68" },
+    { "name":"현대엘리베이", "id":"017800", "profit":"10.00", "featuredDate":"2019-01-03", "featuredVolumeInc":"1.78" },
+    { "name":"동원F&B", "id":"049770", "profit":"9.57", "featuredDate":"2018-12-28", "featuredVolumeInc":"1.76" },
+    { "name":"키움증권", "id":"039490", "profit":"9.36", "featuredDate":"2018-12-27", "featuredVolumeInc":"1.62" },
+    { "name":"코오롱인더", "id":"120110", "profit":"8.41", "featuredDate":"2018-12-28", "featuredVolumeInc":"1.71" },
+    { "name":"현대상선", "id":"011200", "profit":"8.01", "featuredDate":"2019-01-02", "featuredVolumeInc":"2.19" },
+    { "name":"메리츠금융지주", "id":"138040", "profit":"7.34", "featuredDate":"2018-12-26", "featuredVolumeInc":"2.38" },
+    { "name":"현대미포조선", "id":"010620", "profit":"6.98", "featuredDate":"2019-01-03", "featuredVolumeInc":"2.27" },
+    { "name":"하나투어", "id":"039130", "profit":"6.69", "featuredDate":"2018-12-28", "featuredVolumeInc":"1.56" },
+    { "name":"이마트", "id":"139480", "profit":"5.85", "featuredDate":"2019-01-04", "featuredVolumeInc":"1.66" },
+    { "name":"농심", "id":"004370", "profit":"5.83", "featuredDate":"2019-01-03", "featuredVolumeInc":"2.30" },
+    { "name":"롯데푸드", "id":"002270", "profit":"5.37", "featuredDate":"2019-01-04", "featuredVolumeInc":"1.80" },
+    { "name":"효성", "id":"004800", "profit":"5.01", "featuredDate":"2019-01-03", "featuredVolumeInc":"1.95" },
+    { "name":"한국항공우주", "id":"047810", "profit":"4.50", "featuredDate":"2019-01-03", "featuredVolumeInc":"2.04" },
+    { "name":"한화테크윈", "id":"012450", "profit":"4.48", "featuredDate":"2019-01-03", "featuredVolumeInc":"1.67" },
+    { "name":"오뚜기", "id":"007310", "profit":"3.85", "featuredDate":"2019-01-04", "featuredVolumeInc":"2.14" },
+    { "name":"현대차", "id":"005380", "profit":"3.35", "featuredDate":"2019-01-04", "featuredVolumeInc":"1.86" },
+    { "name":"휴켐스", "id":"069260", "profit":"3.17", "featuredDate":"2018-12-26", "featuredVolumeInc":"2.26" },
+    { "name":"대상", "id":"001680", "profit":"3.09", "featuredDate":"2019-01-04", "featuredVolumeInc":"1.56" },
+    { "name":"현대글로비스", "id":"086280", "profit":"2.99", "featuredDate":"2019-01-04", "featuredVolumeInc":"2.21" },
+    { "name":"고려아연", "id":"010130", "profit":"2.97", "featuredDate":"2019-01-04", "featuredVolumeInc":"1.82" },
+    { "name":"쌍용차", "id":"003620", "profit":"2.73", "featuredDate":"2019-01-04", "featuredVolumeInc":"1.99" },
+    { "name":"SK텔레콤", "id":"017670", "profit":"2.37", "featuredDate":"2019-01-03", "featuredVolumeInc":"1.64" },
+    { "name":"기아차", "id":"000270", "profit":"2.05", "featuredDate":"2019-01-04", "featuredVolumeInc":"1.57" },
+    { "name":"현대차우", "id":"005385", "profit":"2.01", "featuredDate":"2019-01-04", "featuredVolumeInc":"2.82" },
+    { "name":"강원랜드", "id":"035250", "profit":"1.56", "featuredDate":"2019-01-04", "featuredVolumeInc":"1.54" },
+    { "name":"제일약품", "id":"002620", "profit":"1.55", "featuredDate":"2019-01-04", "featuredVolumeInc":"3.50" }
+  ]
+}
