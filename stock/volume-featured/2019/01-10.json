@@ -1,0 +1,9 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"이노션", "id":"214320", "volumeInc":"1.80", "price":"67800", "priceInc":"3.04" },
+    { "name":"LG디스플레이", "id":"034220", "volumeInc":"1.68", "price":"19800", "priceInc":"4.21" },
+    { "name":"SK하이닉스", "id":"000660", "volumeInc":"1.61", "price":"65300", "priceInc":"2.67" },
+    { "name":"LG전자", "id":"066570", "volumeInc":"1.54", "price":"65600", "priceInc":"3.80" }
+  ]
+}
