@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"롯데하이마트", "id":"071840", "volumeInc":"2.60", "price":"51100", "priceInc":"7.69" },
+    { "name":"SK케미칼", "id":"006120", "volumeInc":"2.31", "price":"26550", "priceInc":"6.20" },
+    { "name":"농심", "id":"004370", "volumeInc":"2.03", "price":"283000", "priceInc":"2.91" },
+    { "name":"한화케미칼", "id":"009830", "volumeInc":"2.02", "price":"21400", "priceInc":"5.94" },
+    { "name":"한온시스템", "id":"018880", "volumeInc":"1.88", "price":"11100", "priceInc":"2.78" },
+    { "name":"LG디스플레이", "id":"034220", "volumeInc":"1.72", "price":"19950", "priceInc":"0.76" },
+    { "name":"에스원", "id":"012750", "volumeInc":"1.67", "price":"102000", "priceInc":"1.49" },
+    { "name":"쿠쿠전자", "id":"192400", "volumeInc":"1.66", "price":"130000", "priceInc":"5.26" },
+    { "name":"삼성에스디에스", "id":"018260", "volumeInc":"1.64", "price":"213500", "priceInc":"4.15" },
+    { "name":"LG상사", "id":"001120", "volumeInc":"1.60", "price":"15900", "priceInc":"2.25" }
+  ]
+}
