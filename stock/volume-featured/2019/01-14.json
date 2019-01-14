@@ -1,0 +1,9 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한전기술", "id":"052690", "volumeInc":"6.68", "price":"23500", "priceInc":"12.98" },
+    { "name":"호텔신라", "id":"008770", "volumeInc":"2.50", "price":"75100", "priceInc":"6.68" },
+    { "name":"맥쿼리인프라", "id":"088980", "volumeInc":"2.10", "price":"9440", "priceInc":"0.96" },
+    { "name":"신세계", "id":"004170", "volumeInc":"1.55", "price":"253500", "priceInc":"3.47" }
+  ]
+}
