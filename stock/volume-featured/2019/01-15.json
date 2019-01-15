@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"맥쿼리인프라", "id":"088980", "volumeInc":"2.35", "price":"9490", "priceInc":"0.53" },
+    { "name":"만도", "id":"204320", "volumeInc":"2.10", "price":"31550", "priceInc":"5.70" },
+    { "name":"미래에셋대우", "id":"006800", "volumeInc":"1.96", "price":"7040", "priceInc":"4.61" },
+    { "name":"한국금융지주", "id":"071050", "volumeInc":"1.80", "price":"62300", "priceInc":"6.86" },
+    { "name":"한온시스템", "id":"018880", "volumeInc":"1.74", "price":"11850", "priceInc":"4.87" },
+    { "name":"키움증권", "id":"039490", "volumeInc":"1.71", "price":"79800", "priceInc":"5.84" },
+    { "name":"부광약품", "id":"003000", "volumeInc":"1.70", "price":"23350", "priceInc":"0.65" },
+    { "name":"NH투자증권", "id":"005940", "volumeInc":"1.62", "price":"13350", "priceInc":"5.53" },
+    { "name":"한국타이어", "id":"161390", "volumeInc":"1.58", "price":"38050", "priceInc":"1.74" },
+    { "name":"한화", "id":"000880", "volumeInc":"1.58", "price":"32300", "priceInc":"2.22" },
+    { "name":"코리안리", "id":"003690", "volumeInc":"1.57", "price":"8700", "priceInc":"1.75" },
+    { "name":"대교", "id":"019680", "volumeInc":"1.51", "price":"6390", "priceInc":"0.16" }
+  ]
+}
