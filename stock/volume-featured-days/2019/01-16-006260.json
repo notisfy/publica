@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "LS",
+  "dailyTrading" : [
+    { "date":"2019-01-02", "volume":"56058", "adjClosePrice":"48600", "featured":false },
+    { "date":"2019-01-03", "volume":"129471", "adjClosePrice":"46900", "featured":false },
+    { "date":"2019-01-04", "volume":"102090", "adjClosePrice":"47200", "featured":false },
+    { "date":"2019-01-07", "volume":"116800", "adjClosePrice":"48550", "featured":false },
+    { "date":"2019-01-08", "volume":"47372", "adjClosePrice":"48450", "featured":false },
+    { "date":"2019-01-09", "volume":"214492", "adjClosePrice":"52300", "featured":true },
+    { "date":"2019-01-10", "volume":"89070", "adjClosePrice":"52100", "featured":false },
+    { "date":"2019-01-11", "volume":"81665", "adjClosePrice":"52700", "featured":false },
+    { "date":"2019-01-14", "volume":"88486", "adjClosePrice":"51800", "featured":false },
+    { "date":"2019-01-15", "volume":"110554", "adjClosePrice":"54000", "featured":false },
+    { "date":"2019-01-16", "volume":"137151", "adjClosePrice":"54300", "featured":false }
+  ]
+}
