@@ -1,0 +1,18 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한화", "id":"000880", "volumeInc":"2.62", "price":"33550", "priceInc":"3.07" },
+    { "name":"대한항공", "id":"003490", "volumeInc":"2.01", "price":"36500", "priceInc":"3.69" },
+    { "name":"한국타이어", "id":"161390", "volumeInc":"1.95", "price":"40200", "priceInc":"4.42" },
+    { "name":"한화생명", "id":"088350", "volumeInc":"1.84", "price":"4255", "priceInc":"1.55" },
+    { "name":"한국타이어월드와이드", "id":"000240", "volumeInc":"1.80", "price":"16000", "priceInc":"2.24" },
+    { "name":"한세실업", "id":"105630", "volumeInc":"1.77", "price":"21000", "priceInc":"5.79" },
+    { "name":"삼성생명", "id":"032830", "volumeInc":"1.76", "price":"85400", "priceInc":"3.02" },
+    { "name":"BNK금융지주", "id":"138930", "volumeInc":"1.75", "price":"6940", "priceInc":"1.61" },
+    { "name":"삼성전자우", "id":"005935", "volumeInc":"1.74", "price":"35000", "priceInc":"1.89" },
+    { "name":"NHN엔터테인먼트", "id":"181710", "volumeInc":"1.68", "price":"62000", "priceInc":"3.33" },
+    { "name":"코리안리", "id":"003690", "volumeInc":"1.67", "price":"8820", "priceInc":"2.44" },
+    { "name":"현대모비스", "id":"012330", "volumeInc":"1.58", "price":"207000", "priceInc":"3.50" },
+    { "name":"LG생활건강우", "id":"051905", "volumeInc":"1.57", "price":"730000", "priceInc":"0.14" }
+  ]
+}
