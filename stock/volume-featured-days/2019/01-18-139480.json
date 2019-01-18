@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "이마트",
+  "dailyTrading" : [
+    { "date":"2019-01-04", "volume":"137939", "adjClosePrice":"194000", "featured":true },
+    { "date":"2019-01-07", "volume":"87642", "adjClosePrice":"191500", "featured":false },
+    { "date":"2019-01-08", "volume":"101172", "adjClosePrice":"196000", "featured":false },
+    { "date":"2019-01-09", "volume":"70378", "adjClosePrice":"199500", "featured":false },
+    { "date":"2019-01-10", "volume":"70260", "adjClosePrice":"193500", "featured":false },
+    { "date":"2019-01-11", "volume":"68926", "adjClosePrice":"191500", "featured":false },
+    { "date":"2019-01-14", "volume":"68522", "adjClosePrice":"193000", "featured":false },
+    { "date":"2019-01-15", "volume":"119607", "adjClosePrice":"197500", "featured":false },
+    { "date":"2019-01-16", "volume":"63170", "adjClosePrice":"198000", "featured":false },
+    { "date":"2019-01-17", "volume":"107928", "adjClosePrice":"193000", "featured":false },
+    { "date":"2019-01-18", "volume":"83144", "adjClosePrice":"192500", "featured":false }
+  ]
+}

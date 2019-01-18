@@ -1,0 +1,13 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"두산", "id":"000150", "volumeInc":"3.48", "price":"118000", "priceInc":"7.27" },
+    { "name":"SK가스", "id":"018670", "volumeInc":"3.35", "price":"80000", "priceInc":"5.26" },
+    { "name":"한온시스템", "id":"018880", "volumeInc":"2.80", "price":"12700", "priceInc":"6.28" },
+    { "name":"롯데칠성", "id":"005300", "volumeInc":"2.45", "price":"1447000", "priceInc":"4.86" },
+    { "name":"만도", "id":"204320", "volumeInc":"2.05", "price":"32950", "priceInc":"6.29" },
+    { "name":"효성", "id":"004800", "volumeInc":"1.80", "price":"54500", "priceInc":"8.13" },
+    { "name":"코리안리", "id":"003690", "volumeInc":"1.76", "price":"8960", "priceInc":"1.59" },
+    { "name":"키움증권", "id":"039490", "volumeInc":"1.72", "price":"83700", "priceInc":"3.59" }
+  ]
+}
