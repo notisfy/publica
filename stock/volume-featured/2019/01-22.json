@@ -1,0 +1,9 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"삼성생명", "id":"032830", "volumeInc":"2.82", "price":"88500", "priceInc":"3.63" },
+    { "name":"한전기술", "id":"052690", "volumeInc":"2.47", "price":"23800", "priceInc":"3.70" },
+    { "name":"KCC", "id":"002380", "volumeInc":"1.73", "price":"317000", "priceInc":"2.92" },
+    { "name":"현대위아", "id":"011210", "volumeInc":"1.56", "price":"40900", "priceInc":"2.00" }
+  ]
+}
