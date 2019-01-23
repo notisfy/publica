@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "코리안리",
+  "dailyTrading" : [
+    { "date":"2019-01-09", "volume":"319351", "adjClosePrice":"8700", "featured":false },
+    { "date":"2019-01-10", "volume":"180726", "adjClosePrice":"8660", "featured":false },
+    { "date":"2019-01-11", "volume":"256517", "adjClosePrice":"8700", "featured":false },
+    { "date":"2019-01-14", "volume":"257216", "adjClosePrice":"8550", "featured":false },
+    { "date":"2019-01-15", "volume":"400714", "adjClosePrice":"8700", "featured":true },
+    { "date":"2019-01-16", "volume":"301197", "adjClosePrice":"8610", "featured":false },
+    { "date":"2019-01-17", "volume":"439397", "adjClosePrice":"8820", "featured":true },
+    { "date":"2019-01-18", "volume":"471650", "adjClosePrice":"8960", "featured":true },
+    { "date":"2019-01-21", "volume":"256050", "adjClosePrice":"8980", "featured":false },
+    { "date":"2019-01-22", "volume":"393783", "adjClosePrice":"9030", "featured":false },
+    { "date":"2019-01-23", "volume":"357832", "adjClosePrice":"9050", "featured":false }
+  ]
+}

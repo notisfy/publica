@@ -1,0 +1,21 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"잇츠스킨", "id":"226320", "volumeInc":"2.84", "price":"26400", "priceInc":"4.76" },
+    { "name":"신세계", "id":"004170", "volumeInc":"2.83", "price":"265000", "priceInc":"5.16" },
+    { "name":"맥쿼리인프라", "id":"088980", "volumeInc":"2.37", "price":"9790", "priceInc":"0.93" },
+    { "name":"넥센타이어", "id":"002350", "volumeInc":"2.33", "price":"10000", "priceInc":"6.16" },
+    { "name":"하나투어", "id":"039130", "volumeInc":"2.12", "price":"73100", "priceInc":"6.10" },
+    { "name":"코웨이", "id":"021240", "volumeInc":"2.04", "price":"82100", "priceInc":"3.14" },
+    { "name":"한국콜마", "id":"161890", "volumeInc":"1.97", "price":"68000", "priceInc":"5.26" },
+    { "name":"효성", "id":"004800", "volumeInc":"1.92", "price":"59000", "priceInc":"6.69" },
+    { "name":"KCC", "id":"002380", "volumeInc":"1.88", "price":"324000", "priceInc":"2.21" },
+    { "name":"영풍", "id":"000670", "volumeInc":"1.85", "price":"756000", "priceInc":"3.28" },
+    { "name":"대우건설", "id":"047040", "volumeInc":"1.85", "price":"6010", "priceInc":"6.56" },
+    { "name":"LG하우시스", "id":"108670", "volumeInc":"1.82", "price":"63600", "priceInc":"5.12" },
+    { "name":"한화", "id":"000880", "volumeInc":"1.76", "price":"34250", "priceInc":"3.01" },
+    { "name":"롯데푸드", "id":"002270", "volumeInc":"1.57", "price":"662000", "priceInc":"4.09" },
+    { "name":"호텔신라", "id":"008770", "volumeInc":"1.56", "price":"78800", "priceInc":"3.96" },
+    { "name":"BNK금융지주", "id":"138930", "volumeInc":"1.55", "price":"7040", "priceInc":"1.88" }
+  ]
+}
