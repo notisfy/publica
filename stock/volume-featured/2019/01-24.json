@@ -1,0 +1,14 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"다우기술", "id":"023590", "volumeInc":"9.80", "price":"21450", "priceInc":"10.28" },
+    { "name":"키움증권", "id":"039490", "volumeInc":"2.81", "price":"87200", "priceInc":"6.60" },
+    { "name":"메리츠금융지주", "id":"138040", "volumeInc":"2.40", "price":"12150", "priceInc":"0.41" },
+    { "name":"미래에셋대우", "id":"006800", "volumeInc":"2.34", "price":"7490", "priceInc":"4.76" },
+    { "name":"삼성증권", "id":"016360", "volumeInc":"2.14", "price":"34500", "priceInc":"4.55" },
+    { "name":"SK하이닉스", "id":"000660", "volumeInc":"2.11", "price":"70500", "priceInc":"5.54" },
+    { "name":"동원산업", "id":"006040", "volumeInc":"1.90", "price":"222500", "priceInc":"5.70" },
+    { "name":"SK네트웍스", "id":"001740", "volumeInc":"1.59", "price":"6020", "priceInc":"1.86" },
+    { "name":"신한지주", "id":"055550", "volumeInc":"1.50", "price":"41950", "priceInc":"3.33" }
+  ]
+}
