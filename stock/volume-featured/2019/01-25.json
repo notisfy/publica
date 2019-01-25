@@ -1,0 +1,21 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"롯데정밀화학", "id":"004000", "volumeInc":"3.62", "price":"45750", "priceInc":"7.65" },
+    { "name":"동원산업", "id":"006040", "volumeInc":"3.40", "price":"235000", "priceInc":"5.62" },
+    { "name":"동부하이텍", "id":"000990", "volumeInc":"3.08", "price":"12100", "priceInc":"10.50" },
+    { "name":"LG전자", "id":"066570", "volumeInc":"2.49", "price":"69500", "priceInc":"6.60" },
+    { "name":"삼성전기", "id":"009150", "volumeInc":"2.39", "price":"109500", "priceInc":"10.61" },
+    { "name":"한국단자", "id":"025540", "volumeInc":"2.20", "price":"41100", "priceInc":"6.89" },
+    { "name":"SK하이닉스", "id":"000660", "volumeInc":"2.14", "price":"74600", "priceInc":"5.82" },
+    { "name":"LG생활건강", "id":"051900", "volumeInc":"2.14", "price":"1203000", "priceInc":"5.53" },
+    { "name":"CJ CGV", "id":"079160", "volumeInc":"2.04", "price":"42700", "priceInc":"5.17" },
+    { "name":"삼성생명", "id":"032830", "volumeInc":"1.99", "price":"92500", "priceInc":"1.09" },
+    { "name":"삼성전자", "id":"005930", "volumeInc":"1.94", "price":"44750", "priceInc":"3.95" },
+    { "name":"영풍", "id":"000670", "volumeInc":"1.86", "price":"754000", "priceInc":"2.59" },
+    { "name":"대한유화", "id":"006650", "volumeInc":"1.55", "price":"169500", "priceInc":"4.95" },
+    { "name":"신세계", "id":"004170", "volumeInc":"1.54", "price":"273500", "priceInc":"3.01" },
+    { "name":"LG", "id":"003550", "volumeInc":"1.53", "price":"77100", "priceInc":"2.39" },
+    { "name":"호텔신라", "id":"008770", "volumeInc":"1.52", "price":"81100", "priceInc":"4.11" }
+  ]
+}
