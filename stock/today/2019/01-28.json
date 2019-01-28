@@ -1,0 +1,49 @@
+{
+  "version" : "today-summary-v1",
+  "kospi_today" : "2177.30",
+  "kospi_diff" : "-0.43",
+  "featured_today" : [
+    { "name":"삼성중공업", "id":"010140", "volumeInc":"3.42", "price":"8390", "priceInc":"5.01" },
+    { "name":"현대모비스", "id":"012330", "volumeInc":"2.00", "price":"217500", "priceInc":"4.32" },
+    { "name":"한솔케미칼", "id":"014680", "volumeInc":"1.89", "price":"85700", "priceInc":"5.67" },
+    { "name":"롯데하이마트", "id":"071840", "volumeInc":"1.66", "price":"51700", "priceInc":"4.44" },
+    { "name":"대우조선해양", "id":"042660", "volumeInc":"1.63", "price":"35950", "priceInc":"4.05" }
+  ],
+  "holdings_today" : [
+    { "name":"한국쉘석유", "id":"002960", "holdings":"5955507" },
+    { "name":"코리안리", "id":"003690", "holdings":"725982" },
+    { "name":"효성", "id":"004800", "holdings":"944317" },
+    { "name":"삼성전자", "id":"005930", "holdings":"326740" },
+    { "name":"미래에셋대우우", "id":"006805", "holdings":"414160" },
+    { "name":"미래에셋대우2우B", "id":"00680K", "holdings":"137550" },
+    { "name":"대덕전자", "id":"008060", "holdings":"1676999" },
+    { "name":"한샘", "id":"009240", "holdings":"1065300" },
+    { "name":"S-Oil", "id":"010950", "holdings":"782827" },
+    { "name":"S-Oil우", "id":"010955", "holdings":"2744158" },
+    { "name":"롯데케미칼", "id":"011170", "holdings":"1509390" },
+    { "name":"대교", "id":"019680", "holdings":"1379704" },
+    { "name":"대교우B", "id":"019685", "holdings":"462995" },
+    { "name":"코웨이", "id":"021240", "holdings":"445752" },
+    { "name":"기업은행", "id":"024110", "holdings":"41550" },
+    { "name":"셀트리온", "id":"068270", "holdings":"195500" },
+    { "name":"지역난방공사", "id":"071320", "holdings":"595600" },
+    { "name":"휴비스", "id":"079980", "holdings":"383000" },
+    { "name":"제이스텍", "id":"090470", "holdings":"334728" },
+    { "name":"웅진씽크빅", "id":"095720", "holdings":"121855" },
+    { "name":"TIGER 200", "id":"102110", "holdings":"535425" },
+    { "name":"TIGER 레버리지", "id":"123320", "holdings":"3787125" },
+    { "name":"TIGER 200 금융", "id":"139270", "holdings":"273685" },
+    { "name":"JB금융지주", "id":"175330", "holdings":"82763" },
+    { "name":"TIGER 코스피고배당", "id":"210780", "holdings":"92960" },
+    { "name":"TIGER 코스닥150", "id":"232080", "holdings":"23327" },
+    { "name":"KODEX 코스닥150 레버리지", "id":"233740", "holdings":"632140" },
+    { "name":"효성티앤씨", "id":"298020", "holdings":"0" },
+    { "name":"효성중공업", "id":"298040", "holdings":"0" },
+    { "name":"효성첨단소재", "id":"298050", "holdings":"0" }
+  ],
+  "holdings_diff" : [
+    { "name":"대덕전자", "id":"008060", "diff":"-47910" },
+    { "name":"대교우B", "id":"019685", "diff":"9015" },
+    { "name":"제이스텍", "id":"090470", "diff":"-33472" }
+  ]
+}
