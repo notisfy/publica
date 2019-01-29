@@ -1,0 +1,14 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"동부하이텍", "id":"000990", "volumeInc":"2.44", "price":"12600", "priceInc":"5.00" },
+    { "name":"삼성전기", "id":"009150", "volumeInc":"2.10", "price":"113500", "priceInc":"7.08" },
+    { "name":"현대상선", "id":"011200", "volumeInc":"1.89", "price":"4030", "priceInc":"2.03" },
+    { "name":"S-Oil", "id":"010950", "volumeInc":"1.80", "price":"103000", "priceInc":"4.04" },
+    { "name":"현대산업", "id":"012630", "volumeInc":"1.77", "price":"17900", "priceInc":"3.17" },
+    { "name":"현대중공업", "id":"009540", "volumeInc":"1.72", "price":"143500", "priceInc":"0.70" },
+    { "name":"쌍용차", "id":"003620", "volumeInc":"1.67", "price":"4815", "priceInc":"2.77" },
+    { "name":"현대글로비스", "id":"086280", "volumeInc":"1.57", "price":"142000", "priceInc":"2.90" },
+    { "name":"현대위아", "id":"011210", "volumeInc":"1.52", "price":"41800", "priceInc":"2.70" }
+  ]
+}
