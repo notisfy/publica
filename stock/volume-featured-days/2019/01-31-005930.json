@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "삼성전자",
+  "dailyTrading" : [
+    { "date":"2019-01-17", "volume":"11557873", "adjClosePrice":"41950", "featured":false },
+    { "date":"2019-01-18", "volume":"9726056", "adjClosePrice":"42300", "featured":false },
+    { "date":"2019-01-21", "volume":"11335009", "adjClosePrice":"42750", "featured":false },
+    { "date":"2019-01-22", "volume":"9899155", "adjClosePrice":"42150", "featured":false },
+    { "date":"2019-01-23", "volume":"10369892", "adjClosePrice":"42000", "featured":false },
+    { "date":"2019-01-24", "volume":"14153974", "adjClosePrice":"43050", "featured":false },
+    { "date":"2019-01-25", "volume":"21923395", "adjClosePrice":"44750", "featured":true },
+    { "date":"2019-01-28", "volume":"17572063", "adjClosePrice":"45050", "featured":false },
+    { "date":"2019-01-29", "volume":"15028143", "adjClosePrice":"45500", "featured":false },
+    { "date":"2019-01-30", "volume":"17048901", "adjClosePrice":"46400", "featured":false },
+    { "date":"2019-01-31", "volume":"21444952", "adjClosePrice":"46150", "featured":false }
+  ]
+}

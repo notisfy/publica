@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "한국단자",
+  "dailyTrading" : [
+    { "date":"2019-01-17", "volume":"10907", "adjClosePrice":"37500", "featured":false },
+    { "date":"2019-01-18", "volume":"12872", "adjClosePrice":"38850", "featured":false },
+    { "date":"2019-01-21", "volume":"7033", "adjClosePrice":"38450", "featured":false },
+    { "date":"2019-01-22", "volume":"7396", "adjClosePrice":"38150", "featured":false },
+    { "date":"2019-01-23", "volume":"12723", "adjClosePrice":"39200", "featured":false },
+    { "date":"2019-01-24", "volume":"14261", "adjClosePrice":"38450", "featured":false },
+    { "date":"2019-01-25", "volume":"31517", "adjClosePrice":"41100", "featured":true },
+    { "date":"2019-01-28", "volume":"16170", "adjClosePrice":"41550", "featured":false },
+    { "date":"2019-01-29", "volume":"12895", "adjClosePrice":"40550", "featured":false },
+    { "date":"2019-01-30", "volume":"14276", "adjClosePrice":"41500", "featured":false },
+    { "date":"2019-01-31", "volume":"15994", "adjClosePrice":"42200", "featured":false }
+  ]
+}

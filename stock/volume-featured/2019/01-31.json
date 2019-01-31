@@ -1,0 +1,25 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"영진약품", "id":"003520", "volumeInc":"10.72", "price":"6480", "priceInc":"7.82" },
+    { "name":"대우조선해양", "id":"042660", "volumeInc":"10.39", "price":"37000", "priceInc":"2.49" },
+    { "name":"삼성중공업", "id":"010140", "volumeInc":"5.84", "price":"9100", "priceInc":"4.60" },
+    { "name":"대웅제약", "id":"069620", "volumeInc":"2.72", "price":"193500", "priceInc":"4.59" },
+    { "name":"CJ제일제당", "id":"097950", "volumeInc":"2.20", "price":"342500", "priceInc":"2.70" },
+    { "name":"메리츠금융지주", "id":"138040", "volumeInc":"2.17", "price":"12350", "priceInc":"2.49" },
+    { "name":"하나금융지주", "id":"086790", "volumeInc":"2.16", "price":"39950", "priceInc":"3.77" },
+    { "name":"한전기술", "id":"052690", "volumeInc":"2.08", "price":"26150", "priceInc":"3.16" },
+    { "name":"KB금융", "id":"105560", "volumeInc":"2.05", "price":"48050", "priceInc":"3.00" },
+    { "name":"삼성전자우", "id":"005935", "volumeInc":"1.94", "price":"37500", "priceInc":"0.67" },
+    { "name":"NH투자증권", "id":"005940", "volumeInc":"1.93", "price":"13950", "priceInc":"0.72" },
+    { "name":"DGB금융지주", "id":"139130", "volumeInc":"1.92", "price":"8680", "priceInc":"2.24" },
+    { "name":"다우기술", "id":"023590", "volumeInc":"1.84", "price":"21150", "priceInc":"3.17" },
+    { "name":"두산", "id":"000150", "volumeInc":"1.79", "price":"117500", "priceInc":"2.62" },
+    { "name":"BNK금융지주", "id":"138930", "volumeInc":"1.75", "price":"7350", "priceInc":"2.08" },
+    { "name":"녹십자", "id":"006280", "volumeInc":"1.74", "price":"137000", "priceInc":"3.79" },
+    { "name":"기업은행", "id":"024110", "volumeInc":"1.72", "price":"14250", "priceInc":"0.71" },
+    { "name":"한화", "id":"000880", "volumeInc":"1.70", "price":"35150", "priceInc":"2.93" },
+    { "name":"메리츠종금증권", "id":"008560", "volumeInc":"1.64", "price":"4585", "priceInc":"1.66" },
+    { "name":"LS", "id":"006260", "volumeInc":"1.64", "price":"57300", "priceInc":"2.50" }
+  ]
+}
