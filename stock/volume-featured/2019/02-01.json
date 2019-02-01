@@ -1,0 +1,18 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"NHN엔터테인먼트", "id":"181710", "volumeInc":"10.19", "price":"67500", "priceInc":"14.41" },
+    { "name":"대한전선", "id":"001440", "volumeInc":"3.35", "price":"1180", "priceInc":"5.36" },
+    { "name":"SK네트웍스", "id":"001740", "volumeInc":"2.68", "price":"6190", "priceInc":"4.38" },
+    { "name":"현대상선", "id":"011200", "volumeInc":"2.61", "price":"4235", "priceInc":"5.74" },
+    { "name":"하나금융지주", "id":"086790", "volumeInc":"2.50", "price":"40100", "priceInc":"0.38" },
+    { "name":"현대로템", "id":"064350", "volumeInc":"1.99", "price":"28400", "priceInc":"7.37" },
+    { "name":"쌍용양회", "id":"003410", "volumeInc":"1.98", "price":"6830", "priceInc":"3.48" },
+    { "name":"삼성화재", "id":"000810", "volumeInc":"1.91", "price":"284000", "priceInc":"4.03" },
+    { "name":"쌍용차", "id":"003620", "volumeInc":"1.82", "price":"4985", "priceInc":"0.50" },
+    { "name":"롯데정밀화학", "id":"004000", "volumeInc":"1.75", "price":"46750", "priceInc":"3.20" },
+    { "name":"KCC", "id":"002380", "volumeInc":"1.74", "price":"337500", "priceInc":"3.21" },
+    { "name":"잇츠스킨", "id":"226320", "volumeInc":"1.60", "price":"27750", "priceInc":"3.35" },
+    { "name":"SK텔레콤", "id":"017670", "volumeInc":"1.54", "price":"260000", "priceInc":"0.78" }
+  ]
+}
