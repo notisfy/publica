@@ -1,0 +1,14 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"대웅제약", "id":"069620", "volumeInc":"8.05", "price":"204000", "priceInc":"5.70" },
+    { "name":"현대상선", "id":"011200", "volumeInc":"4.83", "price":"4445", "priceInc":"4.96" },
+    { "name":"쌍용차", "id":"003620", "volumeInc":"2.57", "price":"5190", "priceInc":"4.11" },
+    { "name":"메리츠종금증권", "id":"008560", "volumeInc":"2.18", "price":"4765", "priceInc":"4.04" },
+    { "name":"AK홀딩스", "id":"006840", "volumeInc":"2.02", "price":"52900", "priceInc":"3.32" },
+    { "name":"삼성SDI", "id":"006400", "volumeInc":"1.90", "price":"240000", "priceInc":"5.73" },
+    { "name":"한전기술", "id":"052690", "volumeInc":"1.86", "price":"26800", "priceInc":"2.88" },
+    { "name":"LG생활건강우", "id":"051905", "volumeInc":"1.78", "price":"758000", "priceInc":"1.07" },
+    { "name":"맥쿼리인프라", "id":"088980", "volumeInc":"1.68", "price":"9910", "priceInc":"0.41" }
+  ]
+}
