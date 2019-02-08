@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"대상", "id":"001680", "volumeInc":"4.44", "price":"26750", "priceInc":"6.79" },
+    { "name":"CJ대한통운", "id":"000120", "volumeInc":"2.92", "price":"174000", "priceInc":"6.10" },
+    { "name":"영진약품", "id":"003520", "volumeInc":"2.85", "price":"6480", "priceInc":"2.21" },
+    { "name":"녹십자", "id":"006280", "volumeInc":"2.55", "price":"141000", "priceInc":"3.68" },
+    { "name":"맥쿼리인프라", "id":"088980", "volumeInc":"2.39", "price":"9930", "priceInc":"0.20" },
+    { "name":"LG유플러스", "id":"032640", "volumeInc":"2.34", "price":"15600", "priceInc":"6.12" },
+    { "name":"제일기획", "id":"030000", "volumeInc":"2.15", "price":"24850", "priceInc":"2.90" },
+    { "name":"하이트진로", "id":"000080", "volumeInc":"1.96", "price":"17550", "priceInc":"1.74" },
+    { "name":"한미약품", "id":"128940", "volumeInc":"1.79", "price":"449000", "priceInc":"3.46" },
+    { "name":"JW중외제약", "id":"001060", "volumeInc":"1.77", "price":"41250", "priceInc":"3.77" }
+  ]
+}

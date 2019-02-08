@@ -1,0 +1,14 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "현대로템",
+  "dailyTrading" : [
+    { "date":"2019-01-25", "volume":"1707601", "adjClosePrice":"27950", "featured":false },
+    { "date":"2019-01-28", "volume":"825966", "adjClosePrice":"27450", "featured":false },
+    { "date":"2019-01-29", "volume":"1745409", "adjClosePrice":"26150", "featured":false },
+    { "date":"2019-01-30", "volume":"1081784", "adjClosePrice":"26500", "featured":false },
+    { "date":"2019-01-31", "volume":"660590", "adjClosePrice":"26450", "featured":false },
+    { "date":"2019-02-01", "volume":"3329268", "adjClosePrice":"28400", "featured":true },
+    { "date":"2019-02-07", "volume":"2290951", "adjClosePrice":"29400", "featured":false },
+    { "date":"2019-02-08", "volume":"1285446", "adjClosePrice":"29550", "featured":false }
+  ]
+}
