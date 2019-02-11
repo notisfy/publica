@@ -1,0 +1,14 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "롯데정밀화학",
+  "dailyTrading" : [
+    { "date":"2019-01-28", "volume":"127152", "adjClosePrice":"44600", "featured":false },
+    { "date":"2019-01-29", "volume":"145754", "adjClosePrice":"44100", "featured":false },
+    { "date":"2019-01-30", "volume":"216364", "adjClosePrice":"45900", "featured":true },
+    { "date":"2019-01-31", "volume":"137067", "adjClosePrice":"45300", "featured":false },
+    { "date":"2019-02-01", "volume":"208387", "adjClosePrice":"46750", "featured":true },
+    { "date":"2019-02-07", "volume":"124401", "adjClosePrice":"46250", "featured":false },
+    { "date":"2019-02-08", "volume":"120129", "adjClosePrice":"44850", "featured":false },
+    { "date":"2019-02-11", "volume":"77162", "adjClosePrice":"45000", "featured":false }
+  ]
+}
