@@ -1,0 +1,14 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한국단자", "id":"025540", "volumeInc":"6.95", "price":"47050", "priceInc":"7.18" },
+    { "name":"LG전자", "id":"066570", "volumeInc":"3.31", "price":"71900", "priceInc":"3.75" },
+    { "name":"만도", "id":"204320", "volumeInc":"1.98", "price":"32000", "priceInc":"4.07" },
+    { "name":"삼성전기", "id":"009150", "volumeInc":"1.66", "price":"113000", "priceInc":"5.61" },
+    { "name":"고려아연", "id":"010130", "volumeInc":"1.66", "price":"435500", "priceInc":"0.58" },
+    { "name":"삼양홀딩스", "id":"000070", "volumeInc":"1.65", "price":"84700", "priceInc":"2.05" },
+    { "name":"LG이노텍", "id":"011070", "volumeInc":"1.60", "price":"107000", "priceInc":"2.39" },
+    { "name":"한국타이어월드와이드", "id":"000240", "volumeInc":"1.59", "price":"15900", "priceInc":"1.60" },
+    { "name":"삼성중공업", "id":"010140", "volumeInc":"1.58", "price":"8810", "priceInc":"2.92" }
+  ]
+}
