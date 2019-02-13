@@ -1,0 +1,14 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "녹십자홀딩스",
+  "dailyTrading" : [
+    { "date":"2019-01-30", "volume":"30045", "adjClosePrice":"23850", "featured":false },
+    { "date":"2019-01-31", "volume":"58105", "adjClosePrice":"23900", "featured":false },
+    { "date":"2019-02-01", "volume":"40537", "adjClosePrice":"24200", "featured":false },
+    { "date":"2019-02-07", "volume":"52834", "adjClosePrice":"23750", "featured":false },
+    { "date":"2019-02-08", "volume":"52723", "adjClosePrice":"24000", "featured":false },
+    { "date":"2019-02-11", "volume":"174306", "adjClosePrice":"25450", "featured":true },
+    { "date":"2019-02-12", "volume":"67112", "adjClosePrice":"25050", "featured":false },
+    { "date":"2019-02-13", "volume":"111535", "adjClosePrice":"26100", "featured":true }
+  ]
+}
