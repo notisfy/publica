@@ -1,0 +1,14 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"잇츠스킨", "id":"226320", "volumeInc":"6.92", "price":"30050", "priceInc":"10.28" },
+    { "name":"코스맥스", "id":"192820", "volumeInc":"3.60", "price":"142000", "priceInc":"8.81" },
+    { "name":"SK", "id":"034730", "volumeInc":"2.78", "price":"280000", "priceInc":"0.90" },
+    { "name":"아시아나항공", "id":"020560", "volumeInc":"2.41", "price":"4410", "priceInc":"1.50" },
+    { "name":"아이에스동서", "id":"010780", "volumeInc":"2.23", "price":"33050", "priceInc":"2.32" },
+    { "name":"오리온", "id":"001800", "volumeInc":"2.05", "price":"19300", "priceInc":"0.78" },
+    { "name":"BGF리테일", "id":"027410", "volumeInc":"1.92", "price":"8180", "priceInc":"3.41" },
+    { "name":"코웨이", "id":"021240", "volumeInc":"1.73", "price":"88600", "priceInc":"2.43" },
+    { "name":"영원무역홀딩스", "id":"009970", "volumeInc":"1.50", "price":"62500", "priceInc":"0.81" }
+  ]
+}
