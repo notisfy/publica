@@ -1,0 +1,24 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"지역난방공사", "id":"071320", "volumeInc":"2.73", "price":"58300", "priceInc":"1.39" },
+    { "name":"NHN엔터테인먼트", "id":"181710", "volumeInc":"2.35", "price":"74500", "priceInc":"3.19" },
+    { "name":"한전KPS", "id":"051600", "volumeInc":"2.32", "price":"35650", "priceInc":"6.26" },
+    { "name":"S-Oil", "id":"010950", "volumeInc":"2.20", "price":"109000", "priceInc":"3.32" },
+    { "name":"한세실업", "id":"105630", "volumeInc":"2.11", "price":"24500", "priceInc":"3.81" },
+    { "name":"한솔케미칼", "id":"014680", "volumeInc":"2.11", "price":"89800", "priceInc":"1.13" },
+    { "name":"SKC", "id":"011790", "volumeInc":"2.08", "price":"42100", "priceInc":"2.06" },
+    { "name":"롯데케미칼", "id":"011170", "volumeInc":"2.05", "price":"312500", "priceInc":"5.40" },
+    { "name":"삼양사", "id":"145990", "volumeInc":"1.99", "price":"64700", "priceInc":"3.03" },
+    { "name":"LG화학", "id":"051910", "volumeInc":"1.97", "price":"391000", "priceInc":"2.89" },
+    { "name":"CJ CGV", "id":"079160", "volumeInc":"1.78", "price":"42000", "priceInc":"4.61" },
+    { "name":"롯데정밀화학", "id":"004000", "volumeInc":"1.74", "price":"49950", "priceInc":"4.06" },
+    { "name":"LG상사", "id":"001120", "volumeInc":"1.65", "price":"17600", "priceInc":"2.92" },
+    { "name":"동양생명", "id":"082640", "volumeInc":"1.63", "price":"5130", "priceInc":"1.99" },
+    { "name":"LIG넥스원", "id":"079550", "volumeInc":"1.58", "price":"38400", "priceInc":"4.07" },
+    { "name":"금호석유", "id":"011780", "volumeInc":"1.55", "price":"87700", "priceInc":"2.45" },
+    { "name":"코오롱인더", "id":"120110", "volumeInc":"1.53", "price":"61300", "priceInc":"2.85" },
+    { "name":"한샘", "id":"009240", "volumeInc":"1.52", "price":"88000", "priceInc":"6.15" },
+    { "name":"대한유화", "id":"006650", "volumeInc":"1.52", "price":"178000", "priceInc":"5.01" }
+  ]
+}

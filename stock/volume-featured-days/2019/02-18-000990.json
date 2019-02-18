@@ -1,0 +1,14 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "동부하이텍",
+  "dailyTrading" : [
+    { "date":"2019-02-07", "volume":"482059", "adjClosePrice":"12750", "featured":false },
+    { "date":"2019-02-08", "volume":"305822", "adjClosePrice":"12550", "featured":false },
+    { "date":"2019-02-11", "volume":"437778", "adjClosePrice":"12450", "featured":false },
+    { "date":"2019-02-12", "volume":"365899", "adjClosePrice":"12600", "featured":false },
+    { "date":"2019-02-13", "volume":"304004", "adjClosePrice":"12650", "featured":false },
+    { "date":"2019-02-14", "volume":"1186009", "adjClosePrice":"13400", "featured":true },
+    { "date":"2019-02-15", "volume":"416159", "adjClosePrice":"12800", "featured":false },
+    { "date":"2019-02-18", "volume":"386832", "adjClosePrice":"13000", "featured":false }
+  ]
+}
