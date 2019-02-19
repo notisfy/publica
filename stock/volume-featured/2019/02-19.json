@@ -1,0 +1,20 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"CJ CGV", "id":"079160", "volumeInc":"6.56", "price":"45650", "priceInc":"8.69" },
+    { "name":"제주항공", "id":"089590", "volumeInc":"3.28", "price":"35600", "priceInc":"5.33" },
+    { "name":"지역난방공사", "id":"071320", "volumeInc":"3.10", "price":"59400", "priceInc":"1.89" },
+    { "name":"스카이라이프", "id":"053210", "volumeInc":"2.96", "price":"11450", "priceInc":"0.88" },
+    { "name":"한미약품", "id":"128940", "volumeInc":"2.58", "price":"485500", "priceInc":"4.63" },
+    { "name":"롯데케미칼", "id":"011170", "volumeInc":"2.03", "price":"321500", "priceInc":"2.88" },
+    { "name":"한미사이언스", "id":"008930", "volumeInc":"1.97", "price":"79200", "priceInc":"2.46" },
+    { "name":"현대상선", "id":"011200", "volumeInc":"1.96", "price":"4515", "priceInc":"1.92" },
+    { "name":"두산인프라코어", "id":"042670", "volumeInc":"1.94", "price":"7800", "priceInc":"3.04" },
+    { "name":"금호석유", "id":"011780", "volumeInc":"1.88", "price":"89900", "priceInc":"2.51" },
+    { "name":"현대글로비스", "id":"086280", "volumeInc":"1.85", "price":"143500", "priceInc":"3.61" },
+    { "name":"대한유화", "id":"006650", "volumeInc":"1.84", "price":"184000", "priceInc":"3.37" },
+    { "name":"녹십자", "id":"006280", "volumeInc":"1.76", "price":"152000", "priceInc":"3.05" },
+    { "name":"롯데하이마트", "id":"071840", "volumeInc":"1.64", "price":"49250", "priceInc":"3.03" },
+    { "name":"BGF리테일", "id":"027410", "volumeInc":"1.51", "price":"8410", "priceInc":"2.06" }
+  ]
+}
