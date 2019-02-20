@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "쿠쿠전자",
+  "dailyTrading" : [
+    { "date":"2019-02-07", "volume":"7033", "adjClosePrice":"123000", "featured":false },
+    { "date":"2019-02-08", "volume":"6066", "adjClosePrice":"123000", "featured":false },
+    { "date":"2019-02-11", "volume":"6015", "adjClosePrice":"124000", "featured":false },
+    { "date":"2019-02-12", "volume":"3370", "adjClosePrice":"125000", "featured":false },
+    { "date":"2019-02-13", "volume":"17048", "adjClosePrice":"136000", "featured":true },
+    { "date":"2019-02-14", "volume":"6620", "adjClosePrice":"137500", "featured":false },
+    { "date":"2019-02-15", "volume":"4117", "adjClosePrice":"138500", "featured":false },
+    { "date":"2019-02-18", "volume":"3590", "adjClosePrice":"136500", "featured":false },
+    { "date":"2019-02-19", "volume":"5057", "adjClosePrice":"138500", "featured":false },
+    { "date":"2019-02-20", "volume":"3753", "adjClosePrice":"139000", "featured":false }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"풍산", "id":"103140", "volumeInc":"7.11", "price":"31800", "priceInc":"8.90" },
+    { "name":"잇츠스킨", "id":"226320", "volumeInc":"5.13", "price":"32300", "priceInc":"7.31" },
+    { "name":"금호석유", "id":"011780", "volumeInc":"3.92", "price":"97000", "priceInc":"7.90" },
+    { "name":"LS", "id":"006260", "volumeInc":"3.68", "price":"59100", "priceInc":"5.54" },
+    { "name":"아모레G", "id":"002790", "volumeInc":"3.63", "price":"73400", "priceInc":"10.71" },
+    { "name":"한화케미칼", "id":"009830", "volumeInc":"3.54", "price":"23200", "priceInc":"6.42" },
+    { "name":"LS산전", "id":"010120", "volumeInc":"2.78", "price":"54900", "priceInc":"4.77" },
+    { "name":"아모레퍼시픽", "id":"090430", "volumeInc":"2.45", "price":"202000", "priceInc":"8.60" },
+    { "name":"롯데칠성", "id":"005300", "volumeInc":"2.30", "price":"1523000", "priceInc":"2.42" },
+    { "name":"하나투어", "id":"039130", "volumeInc":"2.11", "price":"69900", "priceInc":"3.56" },
+    { "name":"현대백화점", "id":"069960", "volumeInc":"2.09", "price":"96400", "priceInc":"0.94" },
+    { "name":"호텔신라", "id":"008770", "volumeInc":"2.07", "price":"82200", "priceInc":"4.45" },
+    { "name":"신세계", "id":"004170", "volumeInc":"2.05", "price":"284000", "priceInc":"4.80" },
+    { "name":"LG생활건강우", "id":"051905", "volumeInc":"1.97", "price":"737000", "priceInc":"4.39" },
+    { "name":"고려아연", "id":"010130", "volumeInc":"1.95", "price":"446000", "priceInc":"2.41" },
+    { "name":"CJ대한통운", "id":"000120", "volumeInc":"1.95", "price":"181000", "priceInc":"1.97" },
+    { "name":"삼성에스디에스", "id":"018260", "volumeInc":"1.94", "price":"235500", "priceInc":"3.97" },
+    { "name":"롯데정밀화학", "id":"004000", "volumeInc":"1.88", "price":"51500", "priceInc":"1.38" },
+    { "name":"동국제강", "id":"001230", "volumeInc":"1.88", "price":"8680", "priceInc":"4.70" },
+    { "name":"아모레퍼시픽우", "id":"090435", "volumeInc":"1.83", "price":"113500", "priceInc":"10.73" }
+  ]
+}

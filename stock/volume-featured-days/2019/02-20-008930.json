@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "한미사이언스",
+  "dailyTrading" : [
+    { "date":"2019-02-07", "volume":"41040", "adjClosePrice":"73600", "featured":false },
+    { "date":"2019-02-08", "volume":"50958", "adjClosePrice":"74500", "featured":false },
+    { "date":"2019-02-11", "volume":"92961", "adjClosePrice":"77300", "featured":true },
+    { "date":"2019-02-12", "volume":"48488", "adjClosePrice":"76100", "featured":false },
+    { "date":"2019-02-13", "volume":"49049", "adjClosePrice":"77300", "featured":false },
+    { "date":"2019-02-14", "volume":"61769", "adjClosePrice":"78500", "featured":false },
+    { "date":"2019-02-15", "volume":"37806", "adjClosePrice":"77000", "featured":false },
+    { "date":"2019-02-18", "volume":"40246", "adjClosePrice":"77300", "featured":false },
+    { "date":"2019-02-19", "volume":"103914", "adjClosePrice":"79200", "featured":true },
+    { "date":"2019-02-20", "volume":"93774", "adjClosePrice":"80300", "featured":false }
+  ]
+}
