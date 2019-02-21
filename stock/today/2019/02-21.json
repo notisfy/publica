@@ -1,0 +1,53 @@
+{
+  "version" : "today-summary-v1",
+  "kospi_today" : "2228.66",
+  "kospi_diff" : "-1.10",
+  "featured_today" : [
+    { "name":"JW중외제약", "id":"001060", "volumeInc":"5.27", "price":"42250", "priceInc":"0.96" },
+    { "name":"롯데제과", "id":"004990", "volumeInc":"2.89", "price":"53000", "priceInc":"1.53" },
+    { "name":"하나투어", "id":"039130", "volumeInc":"2.88", "price":"70700", "priceInc":"1.14" },
+    { "name":"LG디스플레이", "id":"034220", "volumeInc":"2.54", "price":"20550", "priceInc":"4.85" },
+    { "name":"코리안리", "id":"003690", "volumeInc":"2.47", "price":"9410", "priceInc":"3.41" },
+    { "name":"롯데쇼핑", "id":"023530", "volumeInc":"2.41", "price":"192500", "priceInc":"0.79" },
+    { "name":"삼성중공업", "id":"010140", "volumeInc":"2.27", "price":"9310", "priceInc":"3.56" },
+    { "name":"BGF리테일", "id":"027410", "volumeInc":"2.04", "price":"8650", "priceInc":"2.61" },
+    { "name":"한화테크윈", "id":"012450", "volumeInc":"2.00", "price":"33300", "priceInc":"1.99" },
+    { "name":"SK네트웍스", "id":"001740", "volumeInc":"1.73", "price":"6250", "priceInc":"2.97" },
+    { "name":"KT&G", "id":"033780", "volumeInc":"1.54", "price":"101000", "priceInc":"1.51" }
+  ],
+  "holdings_today" : [
+    { "name":"한국쉘석유", "id":"002960", "holdings":"6282007" },
+    { "name":"코리안리", "id":"003690", "holdings":"804732" },
+    { "name":"효성", "id":"004800", "holdings":"708238" },
+    { "name":"POSCO", "id":"005490", "holdings":"803000" },
+    { "name":"삼성전자", "id":"005930", "holdings":"40843" },
+    { "name":"미래에셋대우우", "id":"006805", "holdings":"414160" },
+    { "name":"미래에셋대우2우B", "id":"00680K", "holdings":"148595" },
+    { "name":"대덕전자", "id":"008060", "holdings":"1245783" },
+    { "name":"한샘", "id":"009240", "holdings":"1065300" },
+    { "name":"S-Oil", "id":"010950", "holdings":"195708" },
+    { "name":"S-Oil우", "id":"010955", "holdings":"2883058" },
+    { "name":"롯데케미칼", "id":"011170", "holdings":"905634" },
+    { "name":"SK텔레콤", "id":"017670", "holdings":"259000" },
+    { "name":"대교", "id":"019680", "holdings":"1418504" },
+    { "name":"대교우B", "id":"019685", "holdings":"516575" },
+    { "name":"코웨이", "id":"021240", "holdings":"356602" },
+    { "name":"기업은행", "id":"024110", "holdings":"41550" },
+    { "name":"KB오토시스", "id":"024120", "holdings":"10740" },
+    { "name":"KT&G", "id":"033780", "holdings":"198000" },
+    { "name":"지역난방공사", "id":"071320", "holdings":"709900" },
+    { "name":"휴비스", "id":"079980", "holdings":"279272" },
+    { "name":"웅진씽크빅", "id":"095720", "holdings":"85900" },
+    { "name":"TIGER 200", "id":"102110", "holdings":"535425" },
+    { "name":"TIGER 레버리지", "id":"123320", "holdings":"3787125" },
+    { "name":"TIGER 200 금융", "id":"139270", "holdings":"273685" },
+    { "name":"KODEX 코스닥150 레버리지", "id":"233740", "holdings":"632140" },
+    { "name":"TIGER 코스닥150선물인버스", "id":"250780", "holdings":"14070" },
+    { "name":"TIGER 200선물인버스2X", "id":"252710", "holdings":"6940" },
+    { "name":"효성티앤씨", "id":"298020", "holdings":"0" },
+    { "name":"효성중공업", "id":"298040", "holdings":"0" }
+  ],
+  "holdings_diff" : [
+    { "name":"코웨이", "id":"021240", "diff":"-89150" }
+  ]
+}

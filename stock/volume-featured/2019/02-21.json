@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"JW중외제약", "id":"001060", "volumeInc":"5.27", "price":"42250", "priceInc":"0.96" },
+    { "name":"롯데제과", "id":"004990", "volumeInc":"2.89", "price":"53000", "priceInc":"1.53" },
+    { "name":"하나투어", "id":"039130", "volumeInc":"2.88", "price":"70700", "priceInc":"1.14" },
+    { "name":"LG디스플레이", "id":"034220", "volumeInc":"2.54", "price":"20550", "priceInc":"4.85" },
+    { "name":"코리안리", "id":"003690", "volumeInc":"2.47", "price":"9410", "priceInc":"3.41" },
+    { "name":"롯데쇼핑", "id":"023530", "volumeInc":"2.41", "price":"192500", "priceInc":"0.79" },
+    { "name":"삼성중공업", "id":"010140", "volumeInc":"2.27", "price":"9310", "priceInc":"3.56" },
+    { "name":"BGF리테일", "id":"027410", "volumeInc":"2.04", "price":"8650", "priceInc":"2.61" },
+    { "name":"한화테크윈", "id":"012450", "volumeInc":"2.00", "price":"33300", "priceInc":"1.99" },
+    { "name":"SK네트웍스", "id":"001740", "volumeInc":"1.73", "price":"6250", "priceInc":"2.97" },
+    { "name":"KT&G", "id":"033780", "volumeInc":"1.54", "price":"101000", "priceInc":"1.51" }
+  ]
+}
