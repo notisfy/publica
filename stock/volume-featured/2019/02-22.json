@@ -1,0 +1,14 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"태광산업", "id":"003240", "volumeInc":"2.79", "price":"1545000", "priceInc":"3.97" },
+    { "name":"BGF리테일", "id":"027410", "volumeInc":"2.54", "price":"8930", "priceInc":"3.24" },
+    { "name":"하이트진로", "id":"000080", "volumeInc":"2.27", "price":"17300", "priceInc":"1.17" },
+    { "name":"롯데칠성", "id":"005300", "volumeInc":"2.22", "price":"1590000", "priceInc":"2.71" },
+    { "name":"영풍", "id":"000670", "volumeInc":"2.07", "price":"799000", "priceInc":"2.44" },
+    { "name":"롯데푸드", "id":"002270", "volumeInc":"1.99", "price":"663000", "priceInc":"1.07" },
+    { "name":"한전기술", "id":"052690", "volumeInc":"1.92", "price":"28100", "priceInc":"5.44" },
+    { "name":"영진약품", "id":"003520", "volumeInc":"1.69", "price":"6760", "priceInc":"2.42" },
+    { "name":"롯데하이마트", "id":"071840", "volumeInc":"1.65", "price":"50600", "priceInc":"2.64" }
+  ]
+}
