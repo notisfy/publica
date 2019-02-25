@@ -1,0 +1,13 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"현대위아", "id":"011210", "volumeInc":"4.87", "price":"44050", "priceInc":"7.97" },
+    { "name":"한국단자", "id":"025540", "volumeInc":"4.41", "price":"54100", "priceInc":"7.34" },
+    { "name":"OCI", "id":"010060", "volumeInc":"2.42", "price":"106500", "priceInc":"4.93" },
+    { "name":"CJ대한통운", "id":"000120", "volumeInc":"1.98", "price":"189000", "priceInc":"2.44" },
+    { "name":"금호석유", "id":"011780", "volumeInc":"1.88", "price":"99500", "priceInc":"4.08" },
+    { "name":"풍산", "id":"103140", "volumeInc":"1.74", "price":"31950", "priceInc":"0.79" },
+    { "name":"팬오션", "id":"028670", "volumeInc":"1.55", "price":"4430", "priceInc":"2.19" },
+    { "name":"쿠쿠전자", "id":"192400", "volumeInc":"1.53", "price":"141500", "priceInc":"3.28" }
+  ]
+}
