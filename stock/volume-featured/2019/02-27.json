@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"스카이라이프", "id":"053210", "volumeInc":"4.41", "price":"11800", "priceInc":"2.61" },
+    { "name":"동서", "id":"026960", "volumeInc":"3.47", "price":"21000", "priceInc":"11.70" },
+    { "name":"LIG넥스원", "id":"079550", "volumeInc":"2.56", "price":"40600", "priceInc":"6.70" },
+    { "name":"현대모비스", "id":"012330", "volumeInc":"2.48", "price":"221000", "priceInc":"3.76" },
+    { "name":"현대차2우B", "id":"005387", "volumeInc":"2.44", "price":"81700", "priceInc":"4.61" },
+    { "name":"한국항공우주", "id":"047810", "volumeInc":"2.19", "price":"37650", "priceInc":"2.31" },
+    { "name":"영원무역홀딩스", "id":"009970", "volumeInc":"2.13", "price":"62500", "priceInc":"0.32" },
+    { "name":"현대차", "id":"005380", "volumeInc":"1.94", "price":"129000", "priceInc":"5.31" },
+    { "name":"휠라코리아", "id":"081660", "volumeInc":"1.56", "price":"56600", "priceInc":"3.10" },
+    { "name":"한국타이어월드와이드", "id":"000240", "volumeInc":"1.54", "price":"16500", "priceInc":"2.17" }
+  ]
+}
