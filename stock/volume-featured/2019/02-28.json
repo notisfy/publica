@@ -1,0 +1,22 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"영진약품", "id":"003520", "volumeInc":"3.42", "price":"6630", "priceInc":"0.30" },
+    { "name":"유한양행", "id":"000100", "volumeInc":"2.79", "price":"260500", "priceInc":"3.78" },
+    { "name":"쿠쿠전자", "id":"192400", "volumeInc":"2.71", "price":"141500", "priceInc":"2.54" },
+    { "name":"팬오션", "id":"028670", "volumeInc":"2.44", "price":"4325", "priceInc":"0.12" },
+    { "name":"종근당", "id":"185750", "volumeInc":"2.25", "price":"105000", "priceInc":"0.96" },
+    { "name":"LS", "id":"006260", "volumeInc":"2.10", "price":"60500", "priceInc":"0.33" },
+    { "name":"대상", "id":"001680", "volumeInc":"2.06", "price":"27650", "priceInc":"1.28" },
+    { "name":"부광약품", "id":"003000", "volumeInc":"2.04", "price":"22750", "priceInc":"0.89" },
+    { "name":"LG디스플레이", "id":"034220", "volumeInc":"1.88", "price":"21250", "priceInc":"0.71" },
+    { "name":"KT&G", "id":"033780", "volumeInc":"1.82", "price":"105500", "priceInc":"1.44" },
+    { "name":"한미사이언스", "id":"008930", "volumeInc":"1.79", "price":"81300", "priceInc":"0.37" },
+    { "name":"엔씨소프트", "id":"036570", "volumeInc":"1.71", "price":"461000", "priceInc":"2.56" },
+    { "name":"코웨이", "id":"021240", "volumeInc":"1.70", "price":"94600", "priceInc":"1.39" },
+    { "name":"삼성화재", "id":"000810", "volumeInc":"1.68", "price":"301500", "priceInc":"0.33" },
+    { "name":"이노션", "id":"214320", "volumeInc":"1.66", "price":"69900", "priceInc":"1.75" },
+    { "name":"OCI", "id":"010060", "volumeInc":"1.66", "price":"108000", "priceInc":"0.93" },
+    { "name":"LG화학우", "id":"051915", "volumeInc":"1.54", "price":"220000", "priceInc":"1.85" }
+  ]
+}

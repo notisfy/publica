@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "엔씨소프트",
+  "dailyTrading" : [
+    { "date":"2019-02-14", "volume":"217345", "adjClosePrice":"448000", "featured":true },
+    { "date":"2019-02-15", "volume":"127702", "adjClosePrice":"445500", "featured":false },
+    { "date":"2019-02-18", "volume":"84505", "adjClosePrice":"447000", "featured":false },
+    { "date":"2019-02-19", "volume":"64124", "adjClosePrice":"446500", "featured":false },
+    { "date":"2019-02-20", "volume":"82561", "adjClosePrice":"441500", "featured":false },
+    { "date":"2019-02-21", "volume":"74191", "adjClosePrice":"444000", "featured":false },
+    { "date":"2019-02-22", "volume":"124510", "adjClosePrice":"430500", "featured":false },
+    { "date":"2019-02-25", "volume":"91828", "adjClosePrice":"432500", "featured":false },
+    { "date":"2019-02-26", "volume":"77534", "adjClosePrice":"443000", "featured":false },
+    { "date":"2019-02-27", "volume":"104138", "adjClosePrice":"449500", "featured":false },
+    { "date":"2019-02-28", "volume":"187255", "adjClosePrice":"461000", "featured":true }
+  ]
+}

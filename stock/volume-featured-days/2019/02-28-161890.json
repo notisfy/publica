@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "한국콜마",
+  "dailyTrading" : [
+    { "date":"2019-02-14", "volume":"766435", "adjClosePrice":"72600", "featured":true },
+    { "date":"2019-02-15", "volume":"485424", "adjClosePrice":"76700", "featured":false },
+    { "date":"2019-02-18", "volume":"185465", "adjClosePrice":"75900", "featured":false },
+    { "date":"2019-02-19", "volume":"113701", "adjClosePrice":"77000", "featured":false },
+    { "date":"2019-02-20", "volume":"149999", "adjClosePrice":"78600", "featured":false },
+    { "date":"2019-02-21", "volume":"144916", "adjClosePrice":"78600", "featured":false },
+    { "date":"2019-02-22", "volume":"107603", "adjClosePrice":"79400", "featured":false },
+    { "date":"2019-02-25", "volume":"77955", "adjClosePrice":"80200", "featured":false },
+    { "date":"2019-02-26", "volume":"67871", "adjClosePrice":"79600", "featured":false },
+    { "date":"2019-02-27", "volume":"83726", "adjClosePrice":"80300", "featured":false },
+    { "date":"2019-02-28", "volume":"95463", "adjClosePrice":"79200", "featured":false }
+  ]
+}
