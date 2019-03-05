@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "고려아연",
+  "dailyTrading" : [
+    { "date":"2019-02-19", "volume":"35584", "adjClosePrice":"435500", "featured":false },
+    { "date":"2019-02-20", "volume":"71625", "adjClosePrice":"446000", "featured":true },
+    { "date":"2019-02-21", "volume":"29181", "adjClosePrice":"451000", "featured":false },
+    { "date":"2019-02-22", "volume":"39834", "adjClosePrice":"454000", "featured":false },
+    { "date":"2019-02-25", "volume":"36412", "adjClosePrice":"460000", "featured":false },
+    { "date":"2019-02-26", "volume":"35704", "adjClosePrice":"467000", "featured":false },
+    { "date":"2019-02-27", "volume":"28673", "adjClosePrice":"464500", "featured":false },
+    { "date":"2019-02-28", "volume":"40446", "adjClosePrice":"456500", "featured":false },
+    { "date":"2019-03-04", "volume":"35687", "adjClosePrice":"458500", "featured":false },
+    { "date":"2019-03-05", "volume":"23364", "adjClosePrice":"451500", "featured":false }
+  ]
+}

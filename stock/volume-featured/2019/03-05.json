@@ -1,0 +1,12 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"AK홀딩스", "id":"006840", "volumeInc":"2.50", "price":"57700", "priceInc":"1.94" },
+    { "name":"한전기술", "id":"052690", "volumeInc":"2.38", "price":"29050", "priceInc":"4.87" },
+    { "name":"영풍", "id":"000670", "volumeInc":"2.15", "price":"822000", "priceInc":"1.86" },
+    { "name":"CJ CGV", "id":"079160", "volumeInc":"1.90", "price":"46950", "priceInc":"2.40" },
+    { "name":"제일약품", "id":"002620", "volumeInc":"1.88", "price":"26800", "priceInc":"2.49" },
+    { "name":"하나투어", "id":"039130", "volumeInc":"1.74", "price":"72100", "priceInc":"0.28" },
+    { "name":"동서", "id":"026960", "volumeInc":"1.71", "price":"20600", "priceInc":"1.98" }
+  ]
+}
