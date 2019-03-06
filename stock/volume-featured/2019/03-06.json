@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"롯데하이마트", "id":"071840", "volumeInc":"6.40", "price":"52900", "priceInc":"5.38" },
+    { "name":"NHN엔터테인먼트", "id":"181710", "volumeInc":"3.52", "price":"80100", "priceInc":"3.49" },
+    { "name":"한국단자", "id":"025540", "volumeInc":"2.22", "price":"58500", "priceInc":"4.65" },
+    { "name":"휠라코리아", "id":"081660", "volumeInc":"2.12", "price":"60300", "priceInc":"4.33" },
+    { "name":"LG전자", "id":"066570", "volumeInc":"1.99", "price":"74400", "priceInc":"4.35" },
+    { "name":"두산인프라코어", "id":"042670", "volumeInc":"1.89", "price":"7850", "priceInc":"2.08" },
+    { "name":"한섬", "id":"020000", "volumeInc":"1.83", "price":"38350", "priceInc":"0.79" },
+    { "name":"S-Oil", "id":"010950", "volumeInc":"1.80", "price":"105000", "priceInc":"2.94" },
+    { "name":"LG상사", "id":"001120", "volumeInc":"1.79", "price":"17750", "priceInc":"3.20" },
+    { "name":"세아베스틸", "id":"001430", "volumeInc":"1.68", "price":"20300", "priceInc":"1.00" }
+  ]
+}
