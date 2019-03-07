@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"경동나비엔", "id":"009450", "volumeInc":"6.58", "price":"51200", "priceInc":"6.11" },
+    { "name":"롯데칠성", "id":"005300", "volumeInc":"3.57", "price":"1622000", "priceInc":"1.38" },
+    { "name":"쿠쿠전자", "id":"192400", "volumeInc":"2.87", "price":"151500", "priceInc":"7.83" },
+    { "name":"두산인프라코어", "id":"042670", "volumeInc":"2.35", "price":"7910", "priceInc":"0.76" },
+    { "name":"영원무역홀딩스", "id":"009970", "volumeInc":"2.28", "price":"67500", "priceInc":"3.53" },
+    { "name":"LG전자", "id":"066570", "volumeInc":"2.24", "price":"75100", "priceInc":"0.94" },
+    { "name":"동아에스티", "id":"170900", "volumeInc":"1.71", "price":"106500", "priceInc":"0.47" },
+    { "name":"호텔신라", "id":"008770", "volumeInc":"1.62", "price":"84800", "priceInc":"5.21" },
+    { "name":"아모레퍼시픽우", "id":"090435", "volumeInc":"1.57", "price":"109000", "priceInc":"3.81" },
+    { "name":"동서", "id":"026960", "volumeInc":"1.53", "price":"21250", "priceInc":"1.19" }
+  ]
+}
