@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"삼립식품", "id":"005610", "volumeInc":"4.23", "price":"121500", "priceInc":"6.58" },
+    { "name":"지역난방공사", "id":"071320", "volumeInc":"4.12", "price":"62700", "priceInc":"3.64" },
+    { "name":"NHN엔터테인먼트", "id":"181710", "volumeInc":"3.52", "price":"85600", "priceInc":"5.81" },
+    { "name":"대한전선", "id":"001440", "volumeInc":"3.40", "price":"1135", "priceInc":"1.34" },
+    { "name":"농심", "id":"004370", "volumeInc":"3.29", "price":"295500", "priceInc":"5.91" },
+    { "name":"롯데하이마트", "id":"071840", "volumeInc":"3.16", "price":"55600", "priceInc":"8.81" },
+    { "name":"롯데칠성", "id":"005300", "volumeInc":"3.16", "price":"1628000", "priceInc":"1.75" },
+    { "name":"대상", "id":"001680", "volumeInc":"2.62", "price":"29200", "priceInc":"3.91" },
+    { "name":"현대홈쇼핑", "id":"057050", "volumeInc":"1.77", "price":"113500", "priceInc":"4.13" },
+    { "name":"금호석유", "id":"011780", "volumeInc":"1.71", "price":"95400", "priceInc":"1.92" },
+    { "name":"오뚜기", "id":"007310", "volumeInc":"1.57", "price":"765000", "priceInc":"0.53" }
+  ]
+}
