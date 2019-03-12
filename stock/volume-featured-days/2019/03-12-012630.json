@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "현대산업",
+  "dailyTrading" : [
+    { "date":"2019-02-26", "volume":"1247924", "adjClosePrice":"20350", "featured":true },
+    { "date":"2019-02-27", "volume":"545522", "adjClosePrice":"20750", "featured":false },
+    { "date":"2019-02-28", "volume":"972738", "adjClosePrice":"19950", "featured":false },
+    { "date":"2019-03-04", "volume":"819745", "adjClosePrice":"20650", "featured":false },
+    { "date":"2019-03-05", "volume":"683503", "adjClosePrice":"20450", "featured":false },
+    { "date":"2019-03-06", "volume":"485135", "adjClosePrice":"20000", "featured":false },
+    { "date":"2019-03-07", "volume":"535525", "adjClosePrice":"19700", "featured":false },
+    { "date":"2019-03-08", "volume":"504816", "adjClosePrice":"19400", "featured":false },
+    { "date":"2019-03-11", "volume":"468290", "adjClosePrice":"18950", "featured":false },
+    { "date":"2019-03-12", "volume":"352577", "adjClosePrice":"19050", "featured":false }
+  ]
+}

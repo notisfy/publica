@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "키움증권",
+  "dailyTrading" : [
+    { "date":"2019-02-26", "volume":"168053", "adjClosePrice":"83800", "featured":true },
+    { "date":"2019-02-27", "volume":"83792", "adjClosePrice":"84300", "featured":false },
+    { "date":"2019-02-28", "volume":"93391", "adjClosePrice":"81000", "featured":false },
+    { "date":"2019-03-04", "volume":"131611", "adjClosePrice":"81100", "featured":false },
+    { "date":"2019-03-05", "volume":"99262", "adjClosePrice":"81400", "featured":false },
+    { "date":"2019-03-06", "volume":"60647", "adjClosePrice":"81800", "featured":false },
+    { "date":"2019-03-07", "volume":"75969", "adjClosePrice":"80600", "featured":false },
+    { "date":"2019-03-08", "volume":"88992", "adjClosePrice":"78200", "featured":false },
+    { "date":"2019-03-11", "volume":"49571", "adjClosePrice":"78700", "featured":false },
+    { "date":"2019-03-12", "volume":"59618", "adjClosePrice":"79100", "featured":false }
+  ]
+}

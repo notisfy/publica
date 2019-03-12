@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "현대차",
+  "dailyTrading" : [
+    { "date":"2019-02-26", "volume":"777390", "adjClosePrice":"122500", "featured":false },
+    { "date":"2019-02-27", "volume":"1226237", "adjClosePrice":"129000", "featured":true },
+    { "date":"2019-02-28", "volume":"946738", "adjClosePrice":"126500", "featured":false },
+    { "date":"2019-03-04", "volume":"915883", "adjClosePrice":"122000", "featured":false },
+    { "date":"2019-03-05", "volume":"428519", "adjClosePrice":"121500", "featured":false },
+    { "date":"2019-03-06", "volume":"598918", "adjClosePrice":"124500", "featured":false },
+    { "date":"2019-03-07", "volume":"791200", "adjClosePrice":"125500", "featured":false },
+    { "date":"2019-03-08", "volume":"466091", "adjClosePrice":"120000", "featured":false },
+    { "date":"2019-03-11", "volume":"280821", "adjClosePrice":"121000", "featured":false },
+    { "date":"2019-03-12", "volume":"616160", "adjClosePrice":"125500", "featured":false }
+  ]
+}
