@@ -1,0 +1,14 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"SK가스", "id":"018670", "volumeInc":"11.14", "price":"94100", "priceInc":"7.05" },
+    { "name":"삼립식품", "id":"005610", "volumeInc":"3.79", "price":"125500", "priceInc":"2.45" },
+    { "name":"경동나비엔", "id":"009450", "volumeInc":"3.28", "price":"58400", "priceInc":"0.69" },
+    { "name":"종근당", "id":"185750", "volumeInc":"2.45", "price":"109000", "priceInc":"3.81" },
+    { "name":"오리온", "id":"001800", "volumeInc":"2.26", "price":"19950", "priceInc":"2.57" },
+    { "name":"영풍", "id":"000670", "volumeInc":"2.11", "price":"841000", "priceInc":"2.44" },
+    { "name":"동원산업", "id":"006040", "volumeInc":"1.98", "price":"236000", "priceInc":"2.61" },
+    { "name":"지역난방공사", "id":"071320", "volumeInc":"1.90", "price":"63300", "priceInc":"0.96" },
+    { "name":"태광산업", "id":"003240", "volumeInc":"1.71", "price":"1614000", "priceInc":"4.40" }
+  ]
+}

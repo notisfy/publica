@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "하나투어",
+  "dailyTrading" : [
+    { "date":"2019-02-27", "volume":"166562", "adjClosePrice":"72000", "featured":false },
+    { "date":"2019-02-28", "volume":"192120", "adjClosePrice":"69800", "featured":false },
+    { "date":"2019-03-04", "volume":"184374", "adjClosePrice":"71900", "featured":false },
+    { "date":"2019-03-05", "volume":"215288", "adjClosePrice":"72100", "featured":true },
+    { "date":"2019-03-06", "volume":"140320", "adjClosePrice":"71800", "featured":false },
+    { "date":"2019-03-07", "volume":"133721", "adjClosePrice":"71400", "featured":false },
+    { "date":"2019-03-08", "volume":"118874", "adjClosePrice":"70400", "featured":false },
+    { "date":"2019-03-11", "volume":"129306", "adjClosePrice":"71200", "featured":false },
+    { "date":"2019-03-12", "volume":"224766", "adjClosePrice":"73200", "featured":true },
+    { "date":"2019-03-13", "volume":"201427", "adjClosePrice":"74100", "featured":false }
+  ]
+}
