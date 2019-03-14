@@ -1,0 +1,25 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"제일약품", "id":"002620", "volumeInc":"3.25", "price":"29150", "priceInc":"8.16" },
+    { "name":"동서", "id":"026960", "volumeInc":"3.10", "price":"21900", "priceInc":"5.54" },
+    { "name":"GS", "id":"078930", "volumeInc":"2.56", "price":"53600", "priceInc":"4.28" },
+    { "name":"한국단자", "id":"025540", "volumeInc":"2.45", "price":"60300", "priceInc":"1.34" },
+    { "name":"삼양홀딩스", "id":"000070", "volumeInc":"2.29", "price":"93000", "priceInc":"4.38" },
+    { "name":"현대홈쇼핑", "id":"057050", "volumeInc":"2.13", "price":"116500", "priceInc":"4.48" },
+    { "name":"일양약품", "id":"007570", "volumeInc":"2.11", "price":"32750", "priceInc":"2.99" },
+    { "name":"KB금융", "id":"105560", "volumeInc":"2.11", "price":"42650", "priceInc":"1.07" },
+    { "name":"동원시스템즈", "id":"014820", "volumeInc":"2.01", "price":"29850", "priceInc":"3.47" },
+    { "name":"동양", "id":"001520", "volumeInc":"1.82", "price":"2020", "priceInc":"2.28" },
+    { "name":"KT", "id":"030200", "volumeInc":"1.77", "price":"27700", "priceInc":"0.18" },
+    { "name":"한국타이어월드와이드", "id":"000240", "volumeInc":"1.75", "price":"16550", "priceInc":"1.22" },
+    { "name":"한화생명", "id":"088350", "volumeInc":"1.74", "price":"4020", "priceInc":"0.12" },
+    { "name":"넥센타이어", "id":"002350", "volumeInc":"1.71", "price":"9400", "priceInc":"0.75" },
+    { "name":"메리츠금융지주", "id":"138040", "volumeInc":"1.66", "price":"13900", "priceInc":"2.21" },
+    { "name":"아이에스동서", "id":"010780", "volumeInc":"1.64", "price":"33300", "priceInc":"1.37" },
+    { "name":"포스코대우", "id":"047050", "volumeInc":"1.63", "price":"18650", "priceInc":"1.91" },
+    { "name":"녹십자", "id":"006280", "volumeInc":"1.62", "price":"158500", "priceInc":"3.59" },
+    { "name":"LG생활건강우", "id":"051905", "volumeInc":"1.60", "price":"774000", "priceInc":"0.13" },
+    { "name":"삼성화재", "id":"000810", "volumeInc":"1.60", "price":"296000", "priceInc":"0.51" }
+  ]
+}
