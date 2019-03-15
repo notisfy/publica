@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "스카이라이프",
+  "dailyTrading" : [
+    { "date":"2019-03-04", "volume":"135366", "adjClosePrice":"12250", "featured":true },
+    { "date":"2019-03-05", "volume":"77480", "adjClosePrice":"12250", "featured":false },
+    { "date":"2019-03-06", "volume":"37598", "adjClosePrice":"12200", "featured":false },
+    { "date":"2019-03-07", "volume":"32079", "adjClosePrice":"12200", "featured":false },
+    { "date":"2019-03-08", "volume":"138732", "adjClosePrice":"12050", "featured":false },
+    { "date":"2019-03-11", "volume":"52019", "adjClosePrice":"12200", "featured":false },
+    { "date":"2019-03-12", "volume":"49653", "adjClosePrice":"12150", "featured":false },
+    { "date":"2019-03-13", "volume":"82462", "adjClosePrice":"12400", "featured":false },
+    { "date":"2019-03-14", "volume":"88838", "adjClosePrice":"12700", "featured":true },
+    { "date":"2019-03-15", "volume":"41600", "adjClosePrice":"12450", "featured":false }
+  ]
+}

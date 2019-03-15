@@ -1,0 +1,25 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"넥센타이어", "id":"002350", "volumeInc":"6.44", "price":"10250", "priceInc":"9.04" },
+    { "name":"한화생명", "id":"088350", "volumeInc":"3.77", "price":"4205", "priceInc":"4.60" },
+    { "name":"태광산업", "id":"003240", "volumeInc":"3.65", "price":"1749000", "priceInc":"10.21" },
+    { "name":"영풍", "id":"000670", "volumeInc":"3.30", "price":"871000", "priceInc":"3.32" },
+    { "name":"한국단자", "id":"025540", "volumeInc":"2.98", "price":"64000", "priceInc":"6.14" },
+    { "name":"DGB금융지주", "id":"139130", "volumeInc":"2.89", "price":"8660", "priceInc":"1.52" },
+    { "name":"경동나비엔", "id":"009450", "volumeInc":"2.83", "price":"60300", "priceInc":"2.73" },
+    { "name":"BNK금융지주", "id":"138930", "volumeInc":"2.56", "price":"7350", "priceInc":"5.60" },
+    { "name":"삼양홀딩스", "id":"000070", "volumeInc":"2.50", "price":"93300", "priceInc":"0.32" },
+    { "name":"KB금융", "id":"105560", "volumeInc":"2.49", "price":"43950", "priceInc":"3.05" },
+    { "name":"한섬", "id":"020000", "volumeInc":"2.37", "price":"42600", "priceInc":"6.77" },
+    { "name":"동양", "id":"001520", "volumeInc":"2.34", "price":"2060", "priceInc":"1.98" },
+    { "name":"오리온", "id":"001800", "volumeInc":"2.29", "price":"19950", "priceInc":"1.53" },
+    { "name":"동국제강", "id":"001230", "volumeInc":"2.27", "price":"8510", "priceInc":"4.03" },
+    { "name":"대상", "id":"001680", "volumeInc":"2.20", "price":"29900", "priceInc":"2.05" },
+    { "name":"코리안리", "id":"003690", "volumeInc":"2.08", "price":"9750", "priceInc":"4.06" },
+    { "name":"현대건설", "id":"000720", "volumeInc":"2.08", "price":"50700", "priceInc":"0.60" },
+    { "name":"SK네트웍스", "id":"001740", "volumeInc":"2.07", "price":"6100", "priceInc":"2.35" },
+    { "name":"GS건설", "id":"006360", "volumeInc":"2.04", "price":"43600", "priceInc":"5.31" },
+    { "name":"LG상사", "id":"001120", "volumeInc":"2.03", "price":"17650", "priceInc":"1.44" }
+  ]
+}
