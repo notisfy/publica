@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "AK홀딩스",
+  "dailyTrading" : [
+    { "date":"2019-03-04", "volume":"16757", "adjClosePrice":"56600", "featured":false },
+    { "date":"2019-03-05", "volume":"47448", "adjClosePrice":"57700", "featured":true },
+    { "date":"2019-03-06", "volume":"30530", "adjClosePrice":"58600", "featured":false },
+    { "date":"2019-03-07", "volume":"18353", "adjClosePrice":"56700", "featured":false },
+    { "date":"2019-03-08", "volume":"19497", "adjClosePrice":"56200", "featured":false },
+    { "date":"2019-03-11", "volume":"14284", "adjClosePrice":"56100", "featured":false },
+    { "date":"2019-03-12", "volume":"10838", "adjClosePrice":"57100", "featured":false },
+    { "date":"2019-03-13", "volume":"11710", "adjClosePrice":"56800", "featured":false },
+    { "date":"2019-03-14", "volume":"22475", "adjClosePrice":"58900", "featured":false },
+    { "date":"2019-03-15", "volume":"19574", "adjClosePrice":"58500", "featured":false },
+    { "date":"2019-03-18", "volume":"12565", "adjClosePrice":"58000", "featured":false }
+  ]
+}

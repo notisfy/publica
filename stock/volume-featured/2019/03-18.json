@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"제주항공", "id":"089590", "volumeInc":"2.69", "price":"39400", "priceInc":"2.87" },
+    { "name":"호텔신라", "id":"008770", "volumeInc":"2.33", "price":"93700", "priceInc":"7.33" },
+    { "name":"한화테크윈", "id":"012450", "volumeInc":"2.32", "price":"35100", "priceInc":"4.00" },
+    { "name":"하나투어", "id":"039130", "volumeInc":"2.24", "price":"77000", "priceInc":"3.77" },
+    { "name":"신세계", "id":"004170", "volumeInc":"1.97", "price":"323000", "priceInc":"7.67" },
+    { "name":"한국콜마", "id":"161890", "volumeInc":"1.75", "price":"82300", "priceInc":"4.97" },
+    { "name":"CJ CGV", "id":"079160", "volumeInc":"1.67", "price":"48100", "priceInc":"3.11" },
+    { "name":"오뚜기", "id":"007310", "volumeInc":"1.67", "price":"782000", "priceInc":"0.90" },
+    { "name":"맥쿼리인프라", "id":"088980", "volumeInc":"1.65", "price":"10100", "priceInc":"1.00" },
+    { "name":"NHN엔터테인먼트", "id":"181710", "volumeInc":"1.52", "price":"89500", "priceInc":"4.07" }
+  ]
+}

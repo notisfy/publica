@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "CJ CGV",
+  "dailyTrading" : [
+    { "date":"2019-03-04", "volume":"239295", "adjClosePrice":"45850", "featured":false },
+    { "date":"2019-03-05", "volume":"355258", "adjClosePrice":"46950", "featured":true },
+    { "date":"2019-03-06", "volume":"146767", "adjClosePrice":"46650", "featured":false },
+    { "date":"2019-03-07", "volume":"138149", "adjClosePrice":"46000", "featured":false },
+    { "date":"2019-03-08", "volume":"123274", "adjClosePrice":"45900", "featured":false },
+    { "date":"2019-03-11", "volume":"155847", "adjClosePrice":"45550", "featured":false },
+    { "date":"2019-03-12", "volume":"218025", "adjClosePrice":"46950", "featured":false },
+    { "date":"2019-03-13", "volume":"114009", "adjClosePrice":"46100", "featured":false },
+    { "date":"2019-03-14", "volume":"147914", "adjClosePrice":"45850", "featured":false },
+    { "date":"2019-03-15", "volume":"117516", "adjClosePrice":"46650", "featured":false },
+    { "date":"2019-03-18", "volume":"316714", "adjClosePrice":"48100", "featured":true }
+  ]
+}
