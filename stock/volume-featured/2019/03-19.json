@@ -1,0 +1,11 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"넥센타이어", "id":"002350", "volumeInc":"2.19", "price":"10600", "priceInc":"0.95" },
+    { "name":"동아쏘시오홀딩스", "id":"000640", "volumeInc":"2.00", "price":"112000", "priceInc":"0.90" },
+    { "name":"쌍용차", "id":"003620", "volumeInc":"1.67", "price":"5330", "priceInc":"2.50" },
+    { "name":"동원시스템즈", "id":"014820", "volumeInc":"1.63", "price":"30450", "priceInc":"1.50" },
+    { "name":"잇츠스킨", "id":"226320", "volumeInc":"1.62", "price":"33600", "priceInc":"0.90" },
+    { "name":"메리츠화재", "id":"000060", "volumeInc":"1.55", "price":"23800", "priceInc":"0.21" }
+  ]
+}
