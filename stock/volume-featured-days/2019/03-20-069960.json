@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "현대백화점",
+  "dailyTrading" : [
+    { "date":"2019-03-06", "volume":"61130", "adjClosePrice":"98000", "featured":false },
+    { "date":"2019-03-07", "volume":"77458", "adjClosePrice":"98400", "featured":false },
+    { "date":"2019-03-08", "volume":"53189", "adjClosePrice":"96800", "featured":false },
+    { "date":"2019-03-11", "volume":"61996", "adjClosePrice":"97400", "featured":false },
+    { "date":"2019-03-12", "volume":"117768", "adjClosePrice":"100000", "featured":true },
+    { "date":"2019-03-13", "volume":"69586", "adjClosePrice":"101500", "featured":false },
+    { "date":"2019-03-14", "volume":"98188", "adjClosePrice":"100000", "featured":false },
+    { "date":"2019-03-15", "volume":"103596", "adjClosePrice":"103500", "featured":false },
+    { "date":"2019-03-18", "volume":"67320", "adjClosePrice":"104500", "featured":false },
+    { "date":"2019-03-19", "volume":"61276", "adjClosePrice":"104000", "featured":false },
+    { "date":"2019-03-20", "volume":"96442", "adjClosePrice":"106000", "featured":false }
+  ]
+}
