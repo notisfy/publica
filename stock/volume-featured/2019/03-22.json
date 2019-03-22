@@ -1,0 +1,8 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"동원시스템즈", "id":"014820", "volumeInc":"20.83", "price":"33350", "priceInc":"9.70" },
+    { "name":"LIG넥스원", "id":"079550", "volumeInc":"2.26", "price":"38650", "priceInc":"7.36" },
+    { "name":"엔씨소프트", "id":"036570", "volumeInc":"1.64", "price":"478000", "priceInc":"3.24" }
+  ]
+}
