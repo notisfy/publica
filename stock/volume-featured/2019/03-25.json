@@ -1,0 +1,9 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한섬", "id":"020000", "volumeInc":"2.08", "price":"42300", "priceInc":"3.55" },
+    { "name":"두산중공업", "id":"034020", "volumeInc":"1.87", "price":"7940", "priceInc":"0.89" },
+    { "name":"LG유플러스", "id":"032640", "volumeInc":"1.84", "price":"15500", "priceInc":"2.99" },
+    { "name":"SK텔레콤", "id":"017670", "volumeInc":"1.55", "price":"253000", "priceInc":"0.40" }
+  ]
+}
