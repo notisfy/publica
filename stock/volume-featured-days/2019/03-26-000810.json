@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "삼성화재",
+  "dailyTrading" : [
+    { "date":"2019-03-12", "volume":"72051", "adjClosePrice":"293500", "featured":false },
+    { "date":"2019-03-13", "volume":"61389", "adjClosePrice":"294500", "featured":false },
+    { "date":"2019-03-14", "volume":"116890", "adjClosePrice":"296000", "featured":true },
+    { "date":"2019-03-15", "volume":"117256", "adjClosePrice":"303500", "featured":true },
+    { "date":"2019-03-18", "volume":"50615", "adjClosePrice":"308000", "featured":false },
+    { "date":"2019-03-19", "volume":"50621", "adjClosePrice":"308500", "featured":false },
+    { "date":"2019-03-20", "volume":"71833", "adjClosePrice":"308500", "featured":false },
+    { "date":"2019-03-21", "volume":"102058", "adjClosePrice":"297000", "featured":false },
+    { "date":"2019-03-22", "volume":"63763", "adjClosePrice":"300500", "featured":false },
+    { "date":"2019-03-25", "volume":"60769", "adjClosePrice":"302000", "featured":false },
+    { "date":"2019-03-26", "volume":"71048", "adjClosePrice":"307000", "featured":false }
+  ]
+}

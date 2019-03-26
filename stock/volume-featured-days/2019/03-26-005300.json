@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "롯데칠성",
+  "dailyTrading" : [
+    { "date":"2019-03-12", "volume":"6495", "adjClosePrice":"1699000", "featured":true },
+    { "date":"2019-03-13", "volume":"5674", "adjClosePrice":"1751000", "featured":false },
+    { "date":"2019-03-14", "volume":"4834", "adjClosePrice":"1770000", "featured":false },
+    { "date":"2019-03-15", "volume":"4302", "adjClosePrice":"1819000", "featured":false },
+    { "date":"2019-03-18", "volume":"3697", "adjClosePrice":"1830000", "featured":false },
+    { "date":"2019-03-19", "volume":"2309", "adjClosePrice":"1820000", "featured":false },
+    { "date":"2019-03-20", "volume":"2781", "adjClosePrice":"1843000", "featured":true },
+    { "date":"2019-03-21", "volume":"2951", "adjClosePrice":"1821000", "featured":false },
+    { "date":"2019-03-22", "volume":"1590", "adjClosePrice":"1805000", "featured":false },
+    { "date":"2019-03-25", "volume":"1440", "adjClosePrice":"1788000", "featured":false },
+    { "date":"2019-03-26", "volume":"3221", "adjClosePrice":"1824000", "featured":true }
+  ]
+}
