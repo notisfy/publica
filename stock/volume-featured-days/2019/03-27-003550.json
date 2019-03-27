@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "LG",
+  "dailyTrading" : [
+    { "date":"2019-03-13", "volume":"191691", "adjClosePrice":"76400", "featured":false },
+    { "date":"2019-03-14", "volume":"274801", "adjClosePrice":"75700", "featured":false },
+    { "date":"2019-03-15", "volume":"359206", "adjClosePrice":"78500", "featured":true },
+    { "date":"2019-03-18", "volume":"135911", "adjClosePrice":"79300", "featured":false },
+    { "date":"2019-03-19", "volume":"121303", "adjClosePrice":"78200", "featured":false },
+    { "date":"2019-03-20", "volume":"174436", "adjClosePrice":"77700", "featured":false },
+    { "date":"2019-03-21", "volume":"174875", "adjClosePrice":"77500", "featured":false },
+    { "date":"2019-03-22", "volume":"186989", "adjClosePrice":"78300", "featured":false },
+    { "date":"2019-03-25", "volume":"150048", "adjClosePrice":"74700", "featured":false },
+    { "date":"2019-03-26", "volume":"207106", "adjClosePrice":"76800", "featured":false },
+    { "date":"2019-03-27", "volume":"197519", "adjClosePrice":"78200", "featured":false }
+  ]
+}

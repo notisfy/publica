@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"대한항공", "id":"003490", "volumeInc":"3.61", "price":"33200", "priceInc":"2.47" },
+    { "name":"일양약품", "id":"007570", "volumeInc":"2.74", "price":"29900", "priceInc":"1.18" },
+    { "name":"JW홀딩스", "id":"096760", "volumeInc":"2.73", "price":"7090", "priceInc":"3.20" },
+    { "name":"한세실업", "id":"105630", "volumeInc":"2.71", "price":"28400", "priceInc":"7.37" },
+    { "name":"동원시스템즈", "id":"014820", "volumeInc":"2.45", "price":"33400", "priceInc":"1.67" },
+    { "name":"한진칼", "id":"180640", "volumeInc":"2.38", "price":"25700", "priceInc":"0.39" },
+    { "name":"휴켐스", "id":"069260", "volumeInc":"1.87", "price":"21350", "priceInc":"2.64" },
+    { "name":"한솔케미칼", "id":"014680", "volumeInc":"1.82", "price":"84900", "priceInc":"2.66" },
+    { "name":"지역난방공사", "id":"071320", "volumeInc":"1.63", "price":"62300", "priceInc":"4.18" },
+    { "name":"코웨이", "id":"021240", "volumeInc":"1.55", "price":"96000", "priceInc":"0.73" }
+  ]
+}

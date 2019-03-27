@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "두산중공업",
+  "dailyTrading" : [
+    { "date":"2019-03-13", "volume":"708578", "adjClosePrice":"7800", "featured":false },
+    { "date":"2019-03-14", "volume":"1058118", "adjClosePrice":"7950", "featured":false },
+    { "date":"2019-03-15", "volume":"1550307", "adjClosePrice":"8110", "featured":true },
+    { "date":"2019-03-18", "volume":"1242208", "adjClosePrice":"8040", "featured":false },
+    { "date":"2019-03-19", "volume":"922147", "adjClosePrice":"8050", "featured":false },
+    { "date":"2019-03-20", "volume":"987575", "adjClosePrice":"8040", "featured":false },
+    { "date":"2019-03-21", "volume":"3418001", "adjClosePrice":"7920", "featured":false },
+    { "date":"2019-03-22", "volume":"1084845", "adjClosePrice":"7870", "featured":false },
+    { "date":"2019-03-25", "volume":"2105079", "adjClosePrice":"7940", "featured":true },
+    { "date":"2019-03-26", "volume":"2130611", "adjClosePrice":"8240", "featured":true },
+    { "date":"2019-03-27", "volume":"2719839", "adjClosePrice":"6810", "featured":false }
+  ]
+}
