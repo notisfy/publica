@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "일양약품",
+  "dailyTrading" : [
+    { "date":"2019-03-14", "volume":"98491", "adjClosePrice":"32750", "featured":true },
+    { "date":"2019-03-15", "volume":"54524", "adjClosePrice":"32300", "featured":false },
+    { "date":"2019-03-18", "volume":"35268", "adjClosePrice":"32550", "featured":false },
+    { "date":"2019-03-19", "volume":"39386", "adjClosePrice":"31600", "featured":false },
+    { "date":"2019-03-20", "volume":"36002", "adjClosePrice":"31450", "featured":false },
+    { "date":"2019-03-21", "volume":"66410", "adjClosePrice":"30400", "featured":false },
+    { "date":"2019-03-22", "volume":"55452", "adjClosePrice":"29900", "featured":false },
+    { "date":"2019-03-25", "volume":"30863", "adjClosePrice":"29300", "featured":false },
+    { "date":"2019-03-26", "volume":"21953", "adjClosePrice":"29550", "featured":false },
+    { "date":"2019-03-27", "volume":"126986", "adjClosePrice":"29900", "featured":true },
+    { "date":"2019-03-28", "volume":"77993", "adjClosePrice":"28550", "featured":false }
+  ]
+}
