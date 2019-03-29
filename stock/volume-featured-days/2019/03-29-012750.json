@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "에스원",
+  "dailyTrading" : [
+    { "date":"2019-03-15", "volume":"93352", "adjClosePrice":"101500", "featured":true },
+    { "date":"2019-03-18", "volume":"32286", "adjClosePrice":"101500", "featured":false },
+    { "date":"2019-03-19", "volume":"21882", "adjClosePrice":"100500", "featured":false },
+    { "date":"2019-03-20", "volume":"32117", "adjClosePrice":"99700", "featured":false },
+    { "date":"2019-03-21", "volume":"38709", "adjClosePrice":"98200", "featured":false },
+    { "date":"2019-03-22", "volume":"44253", "adjClosePrice":"97800", "featured":false },
+    { "date":"2019-03-25", "volume":"43617", "adjClosePrice":"98800", "featured":false },
+    { "date":"2019-03-26", "volume":"52207", "adjClosePrice":"96100", "featured":false },
+    { "date":"2019-03-27", "volume":"43623", "adjClosePrice":"96700", "featured":false },
+    { "date":"2019-03-28", "volume":"47373", "adjClosePrice":"99200", "featured":false },
+    { "date":"2019-03-29", "volume":"52451", "adjClosePrice":"100500", "featured":false }
+  ]
+}

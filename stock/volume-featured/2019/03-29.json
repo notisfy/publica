@@ -1,0 +1,13 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"삼립식품", "id":"005610", "volumeInc":"3.74", "price":"142500", "priceInc":"4.01" },
+    { "name":"현대엘리베이", "id":"017800", "volumeInc":"2.37", "price":"89400", "priceInc":"10.51" },
+    { "name":"AK홀딩스", "id":"006840", "volumeInc":"2.19", "price":"50900", "priceInc":"1.19" },
+    { "name":"현대건설", "id":"000720", "volumeInc":"1.83", "price":"53400", "priceInc":"5.95" },
+    { "name":"LG이노텍", "id":"011070", "volumeInc":"1.82", "price":"117500", "priceInc":"4.44" },
+    { "name":"롯데케미칼", "id":"011170", "volumeInc":"1.63", "price":"290500", "priceInc":"3.20" },
+    { "name":"메리츠종금증권", "id":"008560", "volumeInc":"1.57", "price":"4885", "priceInc":"2.84" },
+    { "name":"기아차", "id":"000270", "volumeInc":"1.53", "price":"35350", "priceInc":"2.61" }
+  ]
+}
