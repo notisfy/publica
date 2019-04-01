@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "맥쿼리인프라",
+  "dailyTrading" : [
+    { "date":"2019-03-18", "volume":"1079812", "adjClosePrice":"10100", "featured":true },
+    { "date":"2019-03-19", "volume":"330637", "adjClosePrice":"10050", "featured":false },
+    { "date":"2019-03-20", "volume":"1129723", "adjClosePrice":"10150", "featured":true },
+    { "date":"2019-03-21", "volume":"852895", "adjClosePrice":"10250", "featured":false },
+    { "date":"2019-03-22", "volume":"416292", "adjClosePrice":"10250", "featured":false },
+    { "date":"2019-03-25", "volume":"647789", "adjClosePrice":"10350", "featured":false },
+    { "date":"2019-03-26", "volume":"1563072", "adjClosePrice":"10550", "featured":true },
+    { "date":"2019-03-27", "volume":"980210", "adjClosePrice":"10700", "featured":false },
+    { "date":"2019-03-28", "volume":"879152", "adjClosePrice":"10700", "featured":false },
+    { "date":"2019-03-29", "volume":"472460", "adjClosePrice":"10650", "featured":false },
+    { "date":"2019-04-01", "volume":"852241", "adjClosePrice":"10650", "featured":false }
+  ]
+}

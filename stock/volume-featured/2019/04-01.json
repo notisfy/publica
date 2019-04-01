@@ -1,0 +1,18 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"메리츠종금증권", "id":"008560", "volumeInc":"3.74", "price":"5190", "priceInc":"6.24" },
+    { "name":"메리츠화재", "id":"000060", "volumeInc":"3.40", "price":"25400", "priceInc":"4.53" },
+    { "name":"한샘", "id":"009240", "volumeInc":"2.30", "price":"100500", "priceInc":"9.48" },
+    { "name":"메리츠금융지주", "id":"138040", "volumeInc":"2.21", "price":"14250", "priceInc":"0.35" },
+    { "name":"NH투자증권", "id":"005940", "volumeInc":"2.20", "price":"13650", "priceInc":"1.49" },
+    { "name":"롯데케미칼", "id":"011170", "volumeInc":"1.91", "price":"301000", "priceInc":"3.61" },
+    { "name":"한국가스공사", "id":"036460", "volumeInc":"1.85", "price":"47150", "priceInc":"4.55" },
+    { "name":"풍산", "id":"103140", "volumeInc":"1.79", "price":"30650", "priceInc":"6.06" },
+    { "name":"KB금융", "id":"105560", "volumeInc":"1.76", "price":"44000", "priceInc":"5.14" },
+    { "name":"금호석유", "id":"011780", "volumeInc":"1.73", "price":"98500", "priceInc":"3.47" },
+    { "name":"아모레퍼시픽우", "id":"090435", "volumeInc":"1.60", "price":"111000", "priceInc":"3.74" },
+    { "name":"대한유화", "id":"006650", "volumeInc":"1.54", "price":"162500", "priceInc":"3.50" },
+    { "name":"POSCO", "id":"005490", "volumeInc":"1.54", "price":"266500", "priceInc":"5.34" }
+  ]
+}
