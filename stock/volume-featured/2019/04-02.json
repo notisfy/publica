@@ -1,0 +1,10 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"아시아나항공", "id":"020560", "volumeInc":"2.10", "price":"3565", "priceInc":"1.57" },
+    { "name":"키움증권", "id":"039490", "volumeInc":"1.99", "price":"88700", "priceInc":"3.26" },
+    { "name":"KB금융", "id":"105560", "volumeInc":"1.93", "price":"45000", "priceInc":"2.27" },
+    { "name":"하나금융지주", "id":"086790", "volumeInc":"1.85", "price":"39000", "priceInc":"3.86" },
+    { "name":"고려아연", "id":"010130", "volumeInc":"1.74", "price":"473500", "priceInc":"0.85" }
+  ]
+}
