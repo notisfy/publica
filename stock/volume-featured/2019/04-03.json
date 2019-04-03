@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"NH투자증권", "id":"005940", "volumeInc":"3.06", "price":"14500", "priceInc":"4.69" },
+    { "name":"한국가스공사", "id":"036460", "volumeInc":"3.05", "price":"48950", "priceInc":"4.71" },
+    { "name":"동부하이텍", "id":"000990", "volumeInc":"2.80", "price":"13950", "priceInc":"8.14" },
+    { "name":"대한전선", "id":"001440", "volumeInc":"2.27", "price":"1110", "priceInc":"1.37" },
+    { "name":"NHN엔터테인먼트", "id":"181710", "volumeInc":"2.22", "price":"91000", "priceInc":"3.41" },
+    { "name":"키움증권", "id":"039490", "volumeInc":"2.22", "price":"94000", "priceInc":"5.98" },
+    { "name":"넥센타이어", "id":"002350", "volumeInc":"1.92", "price":"10400", "priceInc":"0.48" },
+    { "name":"한국금융지주", "id":"071050", "volumeInc":"1.83", "price":"67400", "priceInc":"4.98" },
+    { "name":"기아차", "id":"000270", "volumeInc":"1.74", "price":"36400", "priceInc":"3.70" },
+    { "name":"LG이노텍", "id":"011070", "volumeInc":"1.73", "price":"121500", "priceInc":"5.65" },
+    { "name":"대한유화", "id":"006650", "volumeInc":"1.55", "price":"166000", "priceInc":"3.43" },
+    { "name":"삼성증권", "id":"016360", "volumeInc":"1.51", "price":"35450", "priceInc":"2.16" }
+  ]
+}
