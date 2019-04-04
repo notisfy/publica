@@ -1,0 +1,13 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"세아베스틸", "id":"001430", "volumeInc":"3.36", "price":"21550", "priceInc":"8.02" },
+    { "name":"아시아나항공", "id":"020560", "volumeInc":"2.37", "price":"3650", "priceInc":"2.82" },
+    { "name":"한국금융지주", "id":"071050", "volumeInc":"2.20", "price":"68000", "priceInc":"0.89" },
+    { "name":"다우기술", "id":"023590", "volumeInc":"2.11", "price":"23600", "priceInc":"5.59" },
+    { "name":"삼성전기", "id":"009150", "volumeInc":"1.98", "price":"113500", "priceInc":"2.25" },
+    { "name":"기아차", "id":"000270", "volumeInc":"1.83", "price":"37400", "priceInc":"2.75" },
+    { "name":"영원무역", "id":"111770", "volumeInc":"1.65", "price":"34500", "priceInc":"4.39" },
+    { "name":"롯데정밀화학", "id":"004000", "volumeInc":"1.65", "price":"51300", "priceInc":"1.99" }
+  ]
+}
