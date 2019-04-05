@@ -1,0 +1,12 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"영원무역", "id":"111770", "volumeInc":"2.18", "price":"36150", "priceInc":"4.78" },
+    { "name":"영풍", "id":"000670", "volumeInc":"2.06", "price":"848000", "priceInc":"4.43" },
+    { "name":"넥센타이어", "id":"002350", "volumeInc":"1.98", "price":"10900", "priceInc":"3.81" },
+    { "name":"현대위아", "id":"011210", "volumeInc":"1.95", "price":"45700", "priceInc":"5.91" },
+    { "name":"현대차우", "id":"005385", "volumeInc":"1.93", "price":"71400", "priceInc":"0.71" },
+    { "name":"동원산업", "id":"006040", "volumeInc":"1.84", "price":"257000", "priceInc":"3.21" },
+    { "name":"삼성증권", "id":"016360", "volumeInc":"1.54", "price":"36350", "priceInc":"1.82" }
+  ]
+}
