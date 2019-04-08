@@ -1,0 +1,13 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한진칼", "id":"180640", "volumeInc":"13.80", "price":"30400", "priceInc":"20.63" },
+    { "name":"대한항공", "id":"003490", "volumeInc":"4.88", "price":"32500", "priceInc":"1.88" },
+    { "name":"현대위아", "id":"011210", "volumeInc":"3.22", "price":"48450", "priceInc":"6.02" },
+    { "name":"이마트", "id":"139480", "volumeInc":"3.02", "price":"180500", "priceInc":"5.25" },
+    { "name":"GKL", "id":"114090", "volumeInc":"2.07", "price":"23050", "priceInc":"2.22" },
+    { "name":"휴켐스", "id":"069260", "volumeInc":"1.73", "price":"23100", "priceInc":"1.09" },
+    { "name":"기아차", "id":"000270", "volumeInc":"1.61", "price":"39000", "priceInc":"3.45" },
+    { "name":"맥쿼리인프라", "id":"088980", "volumeInc":"1.55", "price":"10800", "priceInc":"0.93" }
+  ]
+}
