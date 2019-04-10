@@ -1,0 +1,13 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"KCC", "id":"002380", "volumeInc":"3.53", "price":"334000", "priceInc":"6.88" },
+    { "name":"아시아나항공", "id":"020560", "volumeInc":"2.09", "price":"3830", "priceInc":"3.65" },
+    { "name":"기아차", "id":"000270", "volumeInc":"2.00", "price":"40100", "priceInc":"2.95" },
+    { "name":"두산", "id":"000150", "volumeInc":"1.95", "price":"99400", "priceInc":"2.26" },
+    { "name":"삼성화재", "id":"000810", "volumeInc":"1.76", "price":"293500", "priceInc":"0.51" },
+    { "name":"만도", "id":"204320", "volumeInc":"1.70", "price":"33750", "priceInc":"3.69" },
+    { "name":"한국전력", "id":"015760", "volumeInc":"1.62", "price":"29650", "priceInc":"3.13" },
+    { "name":"오리온", "id":"001800", "volumeInc":"1.58", "price":"19600", "priceInc":"1.55" }
+  ]
+}
