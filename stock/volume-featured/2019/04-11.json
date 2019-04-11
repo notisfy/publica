@@ -1,0 +1,16 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"아시아나항공", "id":"020560", "volumeInc":"15.77", "price":"4330", "priceInc":"13.05" },
+    { "name":"만도", "id":"204320", "volumeInc":"2.49", "price":"35150", "priceInc":"4.15" },
+    { "name":"부광약품", "id":"003000", "volumeInc":"2.41", "price":"18300", "priceInc":"1.10" },
+    { "name":"한샘", "id":"009240", "volumeInc":"2.33", "price":"100000", "priceInc":"6.50" },
+    { "name":"영원무역", "id":"111770", "volumeInc":"2.14", "price":"38400", "priceInc":"5.06" },
+    { "name":"한국단자", "id":"025540", "volumeInc":"2.13", "price":"66300", "priceInc":"4.41" },
+    { "name":"아이에스동서", "id":"010780", "volumeInc":"2.06", "price":"35700", "priceInc":"2.73" },
+    { "name":"한국금융지주", "id":"071050", "volumeInc":"2.05", "price":"72200", "priceInc":"1.40" },
+    { "name":"쿠쿠전자", "id":"192400", "volumeInc":"1.73", "price":"154000", "priceInc":"4.05" },
+    { "name":"스카이라이프", "id":"053210", "volumeInc":"1.60", "price":"12250", "priceInc":"2.51" },
+    { "name":"농심", "id":"004370", "volumeInc":"1.56", "price":"291500", "priceInc":"1.39" }
+  ]
+}
