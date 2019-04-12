@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "아모레퍼시픽우",
+  "dailyTrading" : [
+    { "date":"2019-03-29", "volume":"7373", "adjClosePrice":"107000", "featured":false },
+    { "date":"2019-04-01", "volume":"14196", "adjClosePrice":"111000", "featured":true },
+    { "date":"2019-04-02", "volume":"7067", "adjClosePrice":"112000", "featured":false },
+    { "date":"2019-04-03", "volume":"7313", "adjClosePrice":"111500", "featured":false },
+    { "date":"2019-04-04", "volume":"4530", "adjClosePrice":"112500", "featured":false },
+    { "date":"2019-04-05", "volume":"1509", "adjClosePrice":"112500", "featured":false },
+    { "date":"2019-04-08", "volume":"8221", "adjClosePrice":"113000", "featured":false },
+    { "date":"2019-04-09", "volume":"9366", "adjClosePrice":"115500", "featured":false },
+    { "date":"2019-04-10", "volume":"4185", "adjClosePrice":"115000", "featured":false },
+    { "date":"2019-04-11", "volume":"6302", "adjClosePrice":"111500", "featured":false },
+    { "date":"2019-04-12", "volume":"8722", "adjClosePrice":"121000", "featured":false }
+  ]
+}
