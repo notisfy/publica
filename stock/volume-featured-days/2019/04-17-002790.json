@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "아모레G",
+  "dailyTrading" : [
+    { "date":"2019-04-03", "volume":"108025", "adjClosePrice":"70800", "featured":false },
+    { "date":"2019-04-04", "volume":"86805", "adjClosePrice":"71400", "featured":false },
+    { "date":"2019-04-05", "volume":"62201", "adjClosePrice":"71000", "featured":false },
+    { "date":"2019-04-08", "volume":"99978", "adjClosePrice":"70900", "featured":false },
+    { "date":"2019-04-09", "volume":"135001", "adjClosePrice":"72000", "featured":false },
+    { "date":"2019-04-10", "volume":"138515", "adjClosePrice":"71500", "featured":false },
+    { "date":"2019-04-11", "volume":"128372", "adjClosePrice":"71200", "featured":false },
+    { "date":"2019-04-12", "volume":"466942", "adjClosePrice":"76600", "featured":true },
+    { "date":"2019-04-15", "volume":"408700", "adjClosePrice":"81900", "featured":false },
+    { "date":"2019-04-16", "volume":"155164", "adjClosePrice":"79400", "featured":false },
+    { "date":"2019-04-17", "volume":"175455", "adjClosePrice":"81700", "featured":false }
+  ]
+}

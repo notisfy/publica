@@ -1,0 +1,12 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"SK케미칼", "id":"006120", "volumeInc":"5.77", "price":"31500", "priceInc":"8.62" },
+    { "name":"아모레퍼시픽우", "id":"090435", "volumeInc":"2.52", "price":"129000", "priceInc":"4.88" },
+    { "name":"LG이노텍", "id":"011070", "volumeInc":"2.33", "price":"129500", "priceInc":"6.58" },
+    { "name":"메리츠종금증권", "id":"008560", "volumeInc":"1.76", "price":"5120", "priceInc":"0.59" },
+    { "name":"삼성전기", "id":"009150", "volumeInc":"1.73", "price":"117500", "priceInc":"4.91" },
+    { "name":"만도", "id":"204320", "volumeInc":"1.67", "price":"37100", "priceInc":"6.46" },
+    { "name":"현대차우", "id":"005385", "volumeInc":"1.65", "price":"75500", "priceInc":"1.62" }
+  ]
+}
