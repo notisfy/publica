@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"동원시스템즈", "id":"014820", "volumeInc":"27.80", "price":"39250", "priceInc":"18.22" },
+    { "name":"현대차", "id":"005380", "volumeInc":"2.68", "price":"134000", "priceInc":"2.29" },
+    { "name":"한온시스템", "id":"018880", "volumeInc":"2.66", "price":"12800", "priceInc":"2.81" },
+    { "name":"LG하우시스", "id":"108670", "volumeInc":"2.36", "price":"67700", "priceInc":"4.48" },
+    { "name":"팬오션", "id":"028670", "volumeInc":"2.11", "price":"4515", "priceInc":"3.08" },
+    { "name":"현대제철", "id":"004020", "volumeInc":"1.88", "price":"48950", "priceInc":"1.14" },
+    { "name":"기아차", "id":"000270", "volumeInc":"1.87", "price":"42550", "priceInc":"0.59" },
+    { "name":"현대글로비스", "id":"086280", "volumeInc":"1.79", "price":"146500", "priceInc":"3.17" },
+    { "name":"현대차2우B", "id":"005387", "volumeInc":"1.70", "price":"85900", "priceInc":"2.63" },
+    { "name":"현대모비스", "id":"012330", "volumeInc":"1.51", "price":"233000", "priceInc":"1.53" }
+  ]
+}
