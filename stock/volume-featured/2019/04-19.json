@@ -1,0 +1,13 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"대한전선", "id":"001440", "volumeInc":"9.01", "price":"1050", "priceInc":"2.94" },
+    { "name":"동부하이텍", "id":"000990", "volumeInc":"5.30", "price":"14800", "priceInc":"9.23" },
+    { "name":"대우건설", "id":"047040", "volumeInc":"4.25", "price":"5180", "priceInc":"3.19" },
+    { "name":"아모레퍼시픽우", "id":"090435", "volumeInc":"3.89", "price":"131000", "priceInc":"1.95" },
+    { "name":"SK케미칼", "id":"006120", "volumeInc":"3.39", "price":"32150", "priceInc":"4.38" },
+    { "name":"팬오션", "id":"028670", "volumeInc":"2.63", "price":"4685", "priceInc":"3.77" },
+    { "name":"한국타이어월드와이드", "id":"000240", "volumeInc":"1.89", "price":"16950", "priceInc":"2.73" },
+    { "name":"한국가스공사", "id":"036460", "volumeInc":"1.87", "price":"47200", "priceInc":"3.06" }
+  ]
+}
