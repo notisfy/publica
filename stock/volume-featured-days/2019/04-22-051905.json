@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "LG생활건강우",
+  "dailyTrading" : [
+    { "date":"2019-04-08", "volume":"1966", "adjClosePrice":"814000", "featured":false },
+    { "date":"2019-04-09", "volume":"3630", "adjClosePrice":"826000", "featured":true },
+    { "date":"2019-04-10", "volume":"1502", "adjClosePrice":"829000", "featured":false },
+    { "date":"2019-04-11", "volume":"1455", "adjClosePrice":"825000", "featured":false },
+    { "date":"2019-04-12", "volume":"1104", "adjClosePrice":"826000", "featured":false },
+    { "date":"2019-04-15", "volume":"1502", "adjClosePrice":"834000", "featured":false },
+    { "date":"2019-04-16", "volume":"2822", "adjClosePrice":"832000", "featured":false },
+    { "date":"2019-04-17", "volume":"709", "adjClosePrice":"837000", "featured":false },
+    { "date":"2019-04-18", "volume":"1315", "adjClosePrice":"820000", "featured":false },
+    { "date":"2019-04-19", "volume":"1510", "adjClosePrice":"830000", "featured":false },
+    { "date":"2019-04-22", "volume":"648", "adjClosePrice":"823000", "featured":false }
+  ]
+}

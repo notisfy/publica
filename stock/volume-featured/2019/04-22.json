@@ -1,0 +1,11 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"현대상선", "id":"011200", "volumeInc":"6.69", "price":"4140", "priceInc":"10.99" },
+    { "name":"SK케미칼", "id":"006120", "volumeInc":"4.50", "price":"33300", "priceInc":"3.58" },
+    { "name":"아시아나항공", "id":"020560", "volumeInc":"4.02", "price":"8210", "priceInc":"0.74" },
+    { "name":"한화", "id":"000880", "volumeInc":"3.41", "price":"31350", "priceInc":"0.64" },
+    { "name":"한진칼", "id":"180640", "volumeInc":"2.24", "price":"39550", "priceInc":"4.08" },
+    { "name":"하이트진로", "id":"000080", "volumeInc":"1.97", "price":"18250", "priceInc":"2.53" }
+  ]
+}
