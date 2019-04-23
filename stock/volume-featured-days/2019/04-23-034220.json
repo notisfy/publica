@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "LG디스플레이",
+  "dailyTrading" : [
+    { "date":"2019-04-09", "volume":"3621238", "adjClosePrice":"21750", "featured":true },
+    { "date":"2019-04-10", "volume":"2156363", "adjClosePrice":"21950", "featured":false },
+    { "date":"2019-04-11", "volume":"2294395", "adjClosePrice":"22100", "featured":false },
+    { "date":"2019-04-12", "volume":"1406199", "adjClosePrice":"21850", "featured":false },
+    { "date":"2019-04-15", "volume":"1185644", "adjClosePrice":"21950", "featured":false },
+    { "date":"2019-04-16", "volume":"1725534", "adjClosePrice":"21850", "featured":false },
+    { "date":"2019-04-17", "volume":"1220387", "adjClosePrice":"21700", "featured":false },
+    { "date":"2019-04-18", "volume":"1170776", "adjClosePrice":"21750", "featured":false },
+    { "date":"2019-04-19", "volume":"651650", "adjClosePrice":"21500", "featured":false },
+    { "date":"2019-04-22", "volume":"759914", "adjClosePrice":"21250", "featured":false },
+    { "date":"2019-04-23", "volume":"889778", "adjClosePrice":"21250", "featured":false }
+  ]
+}

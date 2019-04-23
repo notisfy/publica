@@ -1,0 +1,12 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"삼성중공업", "id":"010140", "volumeInc":"2.89", "price":"8330", "priceInc":"0.12" },
+    { "name":"동부하이텍", "id":"000990", "volumeInc":"2.76", "price":"15350", "priceInc":"3.02" },
+    { "name":"한국가스공사", "id":"036460", "volumeInc":"2.10", "price":"48450", "priceInc":"3.42" },
+    { "name":"현대중공업", "id":"009540", "volumeInc":"2.05", "price":"127000", "priceInc":"5.83" },
+    { "name":"포스코대우", "id":"047050", "volumeInc":"2.04", "price":"18550", "priceInc":"3.06" },
+    { "name":"NAVER", "id":"035420", "volumeInc":"1.99", "price":"120500", "priceInc":"2.12" },
+    { "name":"지역난방공사", "id":"071320", "volumeInc":"1.67", "price":"58400", "priceInc":"1.57" }
+  ]
+}
