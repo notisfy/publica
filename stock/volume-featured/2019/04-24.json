@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"하이트진로", "id":"000080", "volumeInc":"7.23", "price":"19600", "priceInc":"5.38" },
+    { "name":"롯데칠성", "id":"005300", "volumeInc":"2.71", "price":"1762000", "priceInc":"5.57" },
+    { "name":"S-Oil", "id":"010950", "volumeInc":"2.63", "price":"96000", "priceInc":"1.37" },
+    { "name":"현대차", "id":"005380", "volumeInc":"2.41", "price":"138500", "priceInc":"1.84" },
+    { "name":"삼성카드", "id":"029780", "volumeInc":"2.40", "price":"37350", "priceInc":"2.89" },
+    { "name":"현대차2우B", "id":"005387", "volumeInc":"2.16", "price":"88000", "priceInc":"0.80" },
+    { "name":"NAVER", "id":"035420", "volumeInc":"2.14", "price":"121000", "priceInc":"0.41" },
+    { "name":"KCC", "id":"002380", "volumeInc":"2.14", "price":"350500", "priceInc":"0.43" },
+    { "name":"기아차", "id":"000270", "volumeInc":"2.13", "price":"43900", "priceInc":"1.74" },
+    { "name":"한샘", "id":"009240", "volumeInc":"1.87", "price":"106500", "priceInc":"3.40" },
+    { "name":"동원산업", "id":"006040", "volumeInc":"1.69", "price":"253000", "priceInc":"2.43" },
+    { "name":"한국토지신탁", "id":"034830", "volumeInc":"1.51", "price":"2670", "priceInc":"0.19" }
+  ]
+}
