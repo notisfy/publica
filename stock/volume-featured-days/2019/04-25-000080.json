@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "하이트진로",
+  "dailyTrading" : [
+    { "date":"2019-04-11", "volume":"181134", "adjClosePrice":"18150", "featured":false },
+    { "date":"2019-04-12", "volume":"169908", "adjClosePrice":"18250", "featured":false },
+    { "date":"2019-04-15", "volume":"201737", "adjClosePrice":"18150", "featured":false },
+    { "date":"2019-04-16", "volume":"244349", "adjClosePrice":"17850", "featured":false },
+    { "date":"2019-04-17", "volume":"214523", "adjClosePrice":"17700", "featured":false },
+    { "date":"2019-04-18", "volume":"281865", "adjClosePrice":"17400", "featured":false },
+    { "date":"2019-04-19", "volume":"256459", "adjClosePrice":"17800", "featured":false },
+    { "date":"2019-04-22", "volume":"383862", "adjClosePrice":"18250", "featured":true },
+    { "date":"2019-04-23", "volume":"379740", "adjClosePrice":"18600", "featured":false },
+    { "date":"2019-04-24", "volume":"1607080", "adjClosePrice":"19600", "featured":true },
+    { "date":"2019-04-25", "volume":"427760", "adjClosePrice":"19600", "featured":false }
+  ]
+}
