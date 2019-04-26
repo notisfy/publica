@@ -1,0 +1,9 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"하이트진로", "id":"000080", "volumeInc":"3.98", "price":"20100", "priceInc":"2.55" },
+    { "name":"두산중공업", "id":"034020", "volumeInc":"2.67", "price":"7030", "priceInc":"2.33" },
+    { "name":"SKC", "id":"011790", "volumeInc":"1.76", "price":"36200", "priceInc":"0.84" },
+    { "name":"한국전력", "id":"015760", "volumeInc":"1.54", "price":"27900", "priceInc":"0.18" }
+  ]
+}

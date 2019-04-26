@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "미래에셋대우",
+  "dailyTrading" : [
+    { "date":"2019-04-12", "volume":"1108364", "adjClosePrice":"7800", "featured":false },
+    { "date":"2019-04-15", "volume":"2697264", "adjClosePrice":"8090", "featured":true },
+    { "date":"2019-04-16", "volume":"1506925", "adjClosePrice":"7990", "featured":false },
+    { "date":"2019-04-17", "volume":"2075205", "adjClosePrice":"8040", "featured":false },
+    { "date":"2019-04-18", "volume":"2128554", "adjClosePrice":"7850", "featured":false },
+    { "date":"2019-04-19", "volume":"1058180", "adjClosePrice":"7870", "featured":false },
+    { "date":"2019-04-22", "volume":"1287312", "adjClosePrice":"7940", "featured":false },
+    { "date":"2019-04-23", "volume":"1231187", "adjClosePrice":"7850", "featured":false },
+    { "date":"2019-04-24", "volume":"1600372", "adjClosePrice":"7750", "featured":false },
+    { "date":"2019-04-25", "volume":"793443", "adjClosePrice":"7750", "featured":false },
+    { "date":"2019-04-26", "volume":"1624283", "adjClosePrice":"7740", "featured":false }
+  ]
+}
