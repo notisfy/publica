@@ -1,0 +1,12 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"현대글로비스", "id":"086280", "volumeInc":"2.98", "price":"157500", "priceInc":"7.14" },
+    { "name":"기아차", "id":"000270", "volumeInc":"2.47", "price":"45250", "priceInc":"5.36" },
+    { "name":"맥쿼리인프라", "id":"088980", "volumeInc":"2.16", "price":"11150", "priceInc":"2.29" },
+    { "name":"한전KPS", "id":"051600", "volumeInc":"1.96", "price":"37400", "priceInc":"5.95" },
+    { "name":"한전기술", "id":"052690", "volumeInc":"1.72", "price":"23150", "priceInc":"5.71" },
+    { "name":"GS건설", "id":"006360", "volumeInc":"1.67", "price":"40500", "priceInc":"2.40" },
+    { "name":"한솔케미칼", "id":"014680", "volumeInc":"1.53", "price":"85600", "priceInc":"2.51" }
+  ]
+}
