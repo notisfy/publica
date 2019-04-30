@@ -1,0 +1,13 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"현대글로비스", "id":"086280", "volumeInc":"2.96", "price":"159500", "priceInc":"1.27" },
+    { "name":"삼성엔지니어링", "id":"028050", "volumeInc":"2.27", "price":"17050", "priceInc":"2.71" },
+    { "name":"아시아나항공", "id":"020560", "volumeInc":"2.25", "price":"6610", "priceInc":"6.44" },
+    { "name":"현대백화점", "id":"069960", "volumeInc":"1.95", "price":"101500", "priceInc":"1.50" },
+    { "name":"동부하이텍", "id":"000990", "volumeInc":"1.93", "price":"16000", "priceInc":"4.58" },
+    { "name":"에스원", "id":"012750", "volumeInc":"1.69", "price":"98000", "priceInc":"0.10" },
+    { "name":"신세계", "id":"004170", "volumeInc":"1.61", "price":"340000", "priceInc":"3.19" },
+    { "name":"JB금융지주", "id":"175330", "volumeInc":"1.52", "price":"5690", "priceInc":"2.15" }
+  ]
+}

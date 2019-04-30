@@ -1,0 +1,17 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "현대모비스",
+  "dailyTrading" : [
+    { "date":"2019-04-16", "volume":"313103", "adjClosePrice":"225000", "featured":false },
+    { "date":"2019-04-17", "volume":"185013", "adjClosePrice":"229500", "featured":false },
+    { "date":"2019-04-18", "volume":"352142", "adjClosePrice":"233000", "featured":true },
+    { "date":"2019-04-19", "volume":"86059", "adjClosePrice":"229000", "featured":false },
+    { "date":"2019-04-22", "volume":"101206", "adjClosePrice":"229000", "featured":false },
+    { "date":"2019-04-23", "volume":"182784", "adjClosePrice":"234000", "featured":false },
+    { "date":"2019-04-24", "volume":"305713", "adjClosePrice":"232500", "featured":false },
+    { "date":"2019-04-25", "volume":"192545", "adjClosePrice":"228000", "featured":false },
+    { "date":"2019-04-26", "volume":"198958", "adjClosePrice":"226000", "featured":false },
+    { "date":"2019-04-29", "volume":"260405", "adjClosePrice":"234500", "featured":false },
+    { "date":"2019-04-30", "volume":"196619", "adjClosePrice":"232500", "featured":false }
+  ]
+}
