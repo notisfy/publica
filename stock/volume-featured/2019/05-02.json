@@ -1,0 +1,19 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"두산중공업", "id":"034020", "volumeInc":"3.19", "price":"7440", "priceInc":"6.44" },
+    { "name":"맥쿼리인프라", "id":"088980", "volumeInc":"2.47", "price":"11500", "priceInc":"2.22" },
+    { "name":"효성", "id":"004800", "volumeInc":"2.42", "price":"79900", "priceInc":"6.39" },
+    { "name":"동부하이텍", "id":"000990", "volumeInc":"2.36", "price":"16400", "priceInc":"2.50" },
+    { "name":"금호석유", "id":"011780", "volumeInc":"2.30", "price":"97500", "priceInc":"6.21" },
+    { "name":"삼성엔지니어링", "id":"028050", "volumeInc":"2.28", "price":"17600", "priceInc":"3.23" },
+    { "name":"삼성중공업", "id":"010140", "volumeInc":"2.03", "price":"8520", "priceInc":"3.65" },
+    { "name":"DGB금융지주", "id":"139130", "volumeInc":"2.01", "price":"8460", "priceInc":"0.48" },
+    { "name":"LG유플러스", "id":"032640", "volumeInc":"1.91", "price":"14850", "priceInc":"3.85" },
+    { "name":"한미약품", "id":"128940", "volumeInc":"1.66", "price":"441000", "priceInc":"1.50" },
+    { "name":"LG이노텍", "id":"011070", "volumeInc":"1.64", "price":"126000", "priceInc":"2.86" },
+    { "name":"NAVER", "id":"035420", "volumeInc":"1.62", "price":"122000", "priceInc":"2.09" },
+    { "name":"팬오션", "id":"028670", "volumeInc":"1.58", "price":"4895", "priceInc":"2.73" },
+    { "name":"현대차우", "id":"005385", "volumeInc":"1.52", "price":"81900", "priceInc":"1.11" }
+  ]
+}
