@@ -1,0 +1,12 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"DGB금융지주", "id":"139130", "volumeInc":"2.68", "price":"8690", "priceInc":"2.72" },
+    { "name":"CJ대한통운", "id":"000120", "volumeInc":"2.19", "price":"168000", "priceInc":"3.07" },
+    { "name":"한국타이어", "id":"161390", "volumeInc":"2.10", "price":"39850", "priceInc":"0.25" },
+    { "name":"동아에스티", "id":"170900", "volumeInc":"1.75", "price":"106000", "priceInc":"6.00" },
+    { "name":"SK텔레콤", "id":"017670", "volumeInc":"1.71", "price":"256000", "priceInc":"1.79" },
+    { "name":"하나투어", "id":"039130", "volumeInc":"1.64", "price":"68700", "priceInc":"2.69" },
+    { "name":"동원F&B", "id":"049770", "volumeInc":"1.60", "price":"253000", "priceInc":"2.85" }
+  ]
+}

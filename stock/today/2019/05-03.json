@@ -1,0 +1,44 @@
+{
+  "version" : "today-summary-v1",
+  "kospi_today" : "2196.32",
+  "kospi_diff" : "-16.43",
+  "featured_today" : [
+    { "name":"DGB금융지주", "id":"139130", "volumeInc":"2.68", "price":"8690", "priceInc":"2.72" },
+    { "name":"CJ대한통운", "id":"000120", "volumeInc":"2.19", "price":"168000", "priceInc":"3.07" },
+    { "name":"한국타이어", "id":"161390", "volumeInc":"2.10", "price":"39850", "priceInc":"0.25" },
+    { "name":"동아에스티", "id":"170900", "volumeInc":"1.75", "price":"106000", "priceInc":"6.00" },
+    { "name":"SK텔레콤", "id":"017670", "volumeInc":"1.71", "price":"256000", "priceInc":"1.79" },
+    { "name":"하나투어", "id":"039130", "volumeInc":"1.64", "price":"68700", "priceInc":"2.69" },
+    { "name":"동원F&B", "id":"049770", "volumeInc":"1.60", "price":"253000", "priceInc":"2.85" }
+  ],
+  "holdings_today" : [
+    { "name":"한국쉘석유", "id":"002960", "holdings":"6603507" },
+    { "name":"코리안리", "id":"003690", "holdings":"886582" },
+    { "name":"효성", "id":"004800", "holdings":"708238" },
+    { "name":"POSCO", "id":"005490", "holdings":"1048400" },
+    { "name":"미래에셋대우우", "id":"006805", "holdings":"426625" },
+    { "name":"미래에셋대우2우B", "id":"00680K", "holdings":"163565" },
+    { "name":"대덕전자", "id":"008060", "holdings":"814555" },
+    { "name":"한샘", "id":"009240", "holdings":"852240" },
+    { "name":"S-Oil", "id":"010950", "holdings":"668808" },
+    { "name":"S-Oil우", "id":"010955", "holdings":"3077358" },
+    { "name":"롯데케미칼", "id":"011170", "holdings":"1457634" },
+    { "name":"SK텔레콤", "id":"017670", "holdings":"758500" },
+    { "name":"대교", "id":"019680", "holdings":"1499454" },
+    { "name":"대교우B", "id":"019685", "holdings":"538675" },
+    { "name":"기업은행", "id":"024110", "holdings":"13850" },
+    { "name":"지역난방공사", "id":"071320", "holdings":"591584" },
+    { "name":"휴비스", "id":"079980", "holdings":"119149" },
+    { "name":"TIGER 200", "id":"102110", "holdings":"507245" },
+    { "name":"TIGER 레버리지", "id":"123320", "holdings":"3787125" },
+    { "name":"TIGER 200 금융", "id":"139270", "holdings":"288460" },
+    { "name":"KODEX 코스닥150 레버리지", "id":"233740", "holdings":"632140" },
+    { "name":"TIGER 코스닥150선물인버스", "id":"250780", "holdings":"14070" },
+    { "name":"효성티앤씨", "id":"298020", "holdings":"0" },
+    { "name":"효성중공업", "id":"298040", "holdings":"0" },
+    { "name":"효성첨단소재", "id":"298050", "holdings":"0" }
+  ],
+  "holdings_diff" : [
+    { "name":"미래에셋대우2우B", "id":"00680K", "diff":"3955" }
+  ]
+}
