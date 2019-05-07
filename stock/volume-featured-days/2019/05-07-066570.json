@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "LG전자",
+  "dailyTrading" : [
+    { "date":"2019-04-23", "volume":"454727", "adjClosePrice":"74200", "featured":false },
+    { "date":"2019-04-24", "volume":"605361", "adjClosePrice":"73700", "featured":false },
+    { "date":"2019-04-25", "volume":"1373056", "adjClosePrice":"77000", "featured":true },
+    { "date":"2019-04-26", "volume":"663577", "adjClosePrice":"74800", "featured":false },
+    { "date":"2019-04-29", "volume":"410201", "adjClosePrice":"75900", "featured":false },
+    { "date":"2019-04-30", "volume":"476330", "adjClosePrice":"75800", "featured":false },
+    { "date":"2019-05-02", "volume":"571074", "adjClosePrice":"76800", "featured":false },
+    { "date":"2019-05-03", "volume":"409579", "adjClosePrice":"76600", "featured":false },
+    { "date":"2019-05-07", "volume":"682804", "adjClosePrice":"77000", "featured":false }
+  ]
+}

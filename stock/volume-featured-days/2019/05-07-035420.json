@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "NAVER",
+  "dailyTrading" : [
+    { "date":"2019-04-23", "volume":"813669", "adjClosePrice":"120500", "featured":true },
+    { "date":"2019-04-24", "volume":"900150", "adjClosePrice":"121000", "featured":true },
+    { "date":"2019-04-25", "volume":"545835", "adjClosePrice":"120500", "featured":false },
+    { "date":"2019-04-26", "volume":"517443", "adjClosePrice":"118000", "featured":false },
+    { "date":"2019-04-29", "volume":"428875", "adjClosePrice":"120000", "featured":false },
+    { "date":"2019-04-30", "volume":"569162", "adjClosePrice":"119500", "featured":false },
+    { "date":"2019-05-02", "volume":"691501", "adjClosePrice":"122000", "featured":true },
+    { "date":"2019-05-03", "volume":"705503", "adjClosePrice":"124000", "featured":true },
+    { "date":"2019-05-07", "volume":"678372", "adjClosePrice":"124000", "featured":false }
+  ]
+}

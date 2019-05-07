@@ -1,0 +1,13 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"쌍용양회", "id":"003410", "volumeInc":"4.33", "price":"5970", "priceInc":"2.23" },
+    { "name":"동원산업", "id":"006040", "volumeInc":"2.47", "price":"275000", "priceInc":"2.42" },
+    { "name":"스카이라이프", "id":"053210", "volumeInc":"2.39", "price":"11950", "priceInc":"0.84" },
+    { "name":"동원F&B", "id":"049770", "volumeInc":"2.26", "price":"260000", "priceInc":"2.77" },
+    { "name":"KT", "id":"030200", "volumeInc":"1.90", "price":"27900", "priceInc":"0.90" },
+    { "name":"기아차", "id":"000270", "volumeInc":"1.77", "price":"44300", "priceInc":"2.31" },
+    { "name":"메리츠금융지주", "id":"138040", "volumeInc":"1.74", "price":"13850", "priceInc":"2.21" },
+    { "name":"LG유플러스", "id":"032640", "volumeInc":"1.72", "price":"15250", "priceInc":"0.99" }
+  ]
+}
