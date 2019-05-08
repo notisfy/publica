@@ -1,0 +1,14 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"대한전선", "id":"001440", "volumeInc":"4.47", "price":"1000", "priceInc":"2.25" },
+    { "name":"KT", "id":"030200", "volumeInc":"3.45", "price":"28450", "priceInc":"1.97" },
+    { "name":"SK텔레콤", "id":"017670", "volumeInc":"2.91", "price":"262500", "priceInc":"2.34" },
+    { "name":"LG유플러스", "id":"032640", "volumeInc":"2.16", "price":"15750", "priceInc":"3.28" },
+    { "name":"맥쿼리인프라", "id":"088980", "volumeInc":"1.68", "price":"11800", "priceInc":"1.29" },
+    { "name":"메리츠종금증권", "id":"008560", "volumeInc":"1.68", "price":"5190", "priceInc":"1.96" },
+    { "name":"영원무역", "id":"111770", "volumeInc":"1.63", "price":"39300", "priceInc":"4.11" },
+    { "name":"한화", "id":"000880", "volumeInc":"1.61", "price":"28750", "priceInc":"0.52" },
+    { "name":"한화케미칼", "id":"009830", "volumeInc":"1.51", "price":"20800", "priceInc":"2.72" }
+  ]
+}

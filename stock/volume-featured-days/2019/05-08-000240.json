@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "한국타이어월드와이드",
+  "dailyTrading" : [
+    { "date":"2019-04-24", "volume":"49592", "adjClosePrice":"16550", "featured":false },
+    { "date":"2019-04-25", "volume":"89990", "adjClosePrice":"17150", "featured":true },
+    { "date":"2019-04-26", "volume":"59878", "adjClosePrice":"16650", "featured":false },
+    { "date":"2019-04-29", "volume":"46470", "adjClosePrice":"17250", "featured":false },
+    { "date":"2019-04-30", "volume":"46475", "adjClosePrice":"17050", "featured":false },
+    { "date":"2019-05-02", "volume":"65443", "adjClosePrice":"17150", "featured":false },
+    { "date":"2019-05-03", "volume":"38312", "adjClosePrice":"17050", "featured":false },
+    { "date":"2019-05-07", "volume":"62095", "adjClosePrice":"16950", "featured":false },
+    { "date":"2019-05-08", "volume":"68198", "adjClosePrice":"17150", "featured":false }
+  ]
+}
