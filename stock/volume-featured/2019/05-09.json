@@ -1,0 +1,8 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"JW홀딩스", "id":"096760", "volumeInc":"7.70", "price":"6720", "priceInc":"0.60" },
+    { "name":"한진칼", "id":"180640", "volumeInc":"3.39", "price":"38600", "priceInc":"2.39" },
+    { "name":"한화케미칼", "id":"009830", "volumeInc":"2.95", "price":"20950", "priceInc":"0.72" }
+  ]
+}
