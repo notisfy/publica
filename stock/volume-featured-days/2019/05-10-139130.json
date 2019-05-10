@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "DGB금융지주",
+  "dailyTrading" : [
+    { "date":"2019-04-26", "volume":"546782", "adjClosePrice":"8340", "featured":false },
+    { "date":"2019-04-29", "volume":"437881", "adjClosePrice":"8370", "featured":false },
+    { "date":"2019-04-30", "volume":"851444", "adjClosePrice":"8420", "featured":false },
+    { "date":"2019-05-02", "volume":"1237864", "adjClosePrice":"8460", "featured":true },
+    { "date":"2019-05-03", "volume":"1701824", "adjClosePrice":"8690", "featured":true },
+    { "date":"2019-05-07", "volume":"1552455", "adjClosePrice":"8690", "featured":false },
+    { "date":"2019-05-08", "volume":"1175064", "adjClosePrice":"8690", "featured":false },
+    { "date":"2019-05-09", "volume":"1853408", "adjClosePrice":"8690", "featured":false },
+    { "date":"2019-05-10", "volume":"1508469", "adjClosePrice":"8530", "featured":false }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "version" : "volume-featured-v1",
+  "stocks" : [
+    { "name":"한섬", "id":"020000", "volumeInc":"2.68", "price":"44300", "priceInc":"6.75" },
+    { "name":"휴켐스", "id":"069260", "volumeInc":"2.41", "price":"21600", "priceInc":"6.14" },
+    { "name":"엔씨소프트", "id":"036570", "volumeInc":"1.99", "price":"502000", "priceInc":"2.45" },
+    { "name":"메리츠종금증권", "id":"008560", "volumeInc":"1.51", "price":"5210", "priceInc":"1.96" }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "version" : "volume-featured-days-v1",
+  "name" : "KT",
+  "dailyTrading" : [
+    { "date":"2019-04-26", "volume":"471419", "adjClosePrice":"27450", "featured":false },
+    { "date":"2019-04-29", "volume":"344957", "adjClosePrice":"27500", "featured":false },
+    { "date":"2019-04-30", "volume":"611298", "adjClosePrice":"27350", "featured":false },
+    { "date":"2019-05-02", "volume":"429973", "adjClosePrice":"27500", "featured":false },
+    { "date":"2019-05-03", "volume":"748158", "adjClosePrice":"27650", "featured":false },
+    { "date":"2019-05-07", "volume":"1105271", "adjClosePrice":"27900", "featured":true },
+    { "date":"2019-05-08", "volume":"2097652", "adjClosePrice":"28450", "featured":true },
+    { "date":"2019-05-09", "volume":"1332677", "adjClosePrice":"28000", "featured":false },
+    { "date":"2019-05-10", "volume":"828839", "adjClosePrice":"28150", "featured":false }
+  ]
+}
